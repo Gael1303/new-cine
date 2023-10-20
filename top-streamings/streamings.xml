@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<setview>501</setview>
+
 <channels>
-	
+	<setview>501</setview>
     <channel>
         <name>Netflix</name>
         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png</thumbnail>
