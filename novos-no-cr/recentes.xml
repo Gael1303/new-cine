@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<setviewmode>500</setviewmode>
+
 <items>
   
-
+<SetViewMode>500</SetViewMode>
   <item>
         <title>Jogos Mortais X (2023)</title>
         <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:e2644e954d1c4d53341908db57dfb625d41c75c0</link>
