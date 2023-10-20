@@ -34,7 +34,7 @@
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Filmes e Séries mais vistos em cada streaming</info>
-		<externallink>https://bit.ly/3xZ2T9O</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/streamings.xml</externallink>
    </channel>
    
    <channel>
