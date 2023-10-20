@@ -34,5 +34,68 @@
         <date>13.07.2023</date> 
         <studio>APPLE TV+</studio>		
     </item>	
+
+    	<item>
+        <title>A Chamada (2023)</title>
+        <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:a6f9e700bd0ca5202f56c710343efa6d16502a1c</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cvWrqNrCeoaqBm2ST5hAP2igngA.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/tUlUdP04nDWsy372myIHuA2qdNv.jpg</fanart>
+        <genre>Suspense, Ação</genre>
+        <date>24.08.2023</date> 
+	<duration>5460</duration>
+        <studio>AMAZON</studio>
+        <info>Com seus filhos presos no banco de trás e uma bomba que explodirá se eles saírem do carro, um trajeto normal se torna um jogo distorcido de vida ou morte enquanto Matt Turner segue as instruções cada vez mais perigosas de um estranho em uma corrida contra o tempo para salvar sua família.</info>		
+    </item>
+	
+    <item>
+        <title>Os Mercenários 4 (2023) (Leg)</title>
+        <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg</thumbnail>  
+	<fanart>https://www.themoviedb.org/t/p/original/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg</fanart>
+        <genre>Ação, Aventura, Thriller</genre>  
+	<rate>5.2</rate> 
+	<date>21.09.2023</date>  
+	<duration>6180</duration>
+        <studio>LIONSGATE</studio>
+        <info>Os Mercenários enfrentam um traficante de armas que comanda o poder de um enorme exército privado.</info>		
+    </item>		
+	
+    <item>  
+	 <title>Conferência Mortal (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5406cd831df0dd5b5a1075de1cc82f7ed81f300c</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ESDSTXeAopTa6U9MHrnr7FzO4D.jpg</thumbnail>  
+	<fanart>https://www.themoviedb.org/t/p/original/mQYig9irVVvQ9Tru3566iK1yhiI.jpg</fanart>
+	<genre>Terror, Comédia, Thriller</genre> 
+	<rate>7.7</rate> 
+	<aired>13.10.2023</aired>
+	<duration>6000</duration>
+	<studio>NETFLIX</studio>
+	<info>Durante um evento que aparentava ser inofensivo, um grupo inusitado de funcionários precisa enfrentar não apenas suas diferenças como também um misterioso assassino.</info>
+    </item>
+	
+     <item>  
+	<title>Colheita Sombria (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5554219fae6ccde225bb982162206a4428c4c90d</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg</thumbnail>  
+	<fanart>https://www.themoviedb.org/t/p/original/2fAnbhiwqPiu0XHA98nZrPckPgv.jpg</fanart>
+	<genre>Terror, Mistério, Thriller, Fantasia, Drama</genre>
+	<rate>6.0</rate>
+	<aired>12.10.2023</aired>
+	<duration>5760</duration>
+	<studio>AMAZON</studio>
+	<info>Em uma cidadezinha rural, um ritual mortal acontece todos os anos quando um pesadelo chamado Jack Dentes de Serra se ergue do milharal e desafia os jovens locais a luta sangrenta por sobrevivência.</info>
+    </item>
+
+    <item>  
+        <title>O Porteiro</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a3c89f2db1c7f58a14ecf4a630700811b72b78b</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8UIXPu4LRu6Zho8ruWhIjpeY439.jpg</thumbnail> 
+	<fanart>https://www.themoviedb.org/t/p/original/lTrjfAoMWwpDvNrWC0J8kzC3hSK.jpg</fanart>
+	<genre>Comédia</genre> 
+	<rate>7.0</rate> 
+	<aired>31.08.2023</aired> 
+	<duration>4980</duration>
+	<info>Confusão é o que não falta no prédio onde Waldisney trabalha como porteiro. Todo dia é um bafafá entre os vizinhos, mas ao lado da zeladora Rosivalda, ele é craque em manter essa bagunça organizada. Tudo isso muda quando o prédio é assaltado e Waldisney agora precisa provar para o delegado que ele pode até ser meio atrapalhado, mas ladrão ele não é, não!</info>
+     </item>	
 	
 </items>
