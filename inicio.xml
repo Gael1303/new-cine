@@ -53,4 +53,12 @@
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
    </channel>
 
+   <channel>
+        <name>Todos</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Todos os conteudos em um só lugar</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+   </channel>
+
 </channels>	
