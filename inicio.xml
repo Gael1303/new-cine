@@ -44,6 +44,14 @@
 		<info>Melhores coletaneas</info>
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
    </channel>
+    
+   <channel>
+        <name>Generos</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Filmes Separados por genero</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+   </channel>
    
    <channel>
         <name>Melhor Avaliação</name>
