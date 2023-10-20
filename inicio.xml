@@ -18,7 +18,7 @@
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Conteudos Recem-lançados no mundo</info>
-		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/recentes.xml</externallink>
     </channel>
 	
 	<channel>
