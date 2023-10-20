@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<setview>501</setview>
+<channels>
+	
+    <channel>
+        <name>Netflix</name>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png</thumbnail>
+        <fanart>https://www.tixtelecom.com.br/wp-content/uploads/2021/02/Netflix-ok.jpg</fanart>
+		<info>Filmes e Séries disponiveis</info>
+		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+    </channel>
+	
+	<channel>
+        <name>HBO</name>
+        <thumbnail>https://crossscreen.media/wp-content/uploads/2020/08/HBO-MAX-CSM-Header-Icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Filmes e Séries disponiveis</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+    </channel>
+	
+   <channel>
+        <name>Prime Video</name>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41mpv9rBhmL.png</thumbnail>
+        <fanart>https://vejasp.abril.com.br/wp-content/uploads/2022/05/amazon.jpeg</fanart>
+		<info>Filmes e Séries disponiveis</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+   </channel>
+   
+   <channel>
+        <name>GloboPlay</name>
+        <thumbnail>https://play-lh.googleusercontent.com/FGkwAiCMsdzHLpWnhk_rG-LpcIoCNgJDMrMCKxf_LTaXiWEboFAyeMQCf9eDI4MzjOg</thumbnail>
+        <fanart>https://www.minhaoperadora.com.br/wp-content/uploads/2020/12/como-contratar-o-globoplay-passo-a-passo.jpg</fanart>
+		<info>Filmes e Séries disponiveis</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+   </channel>
+   
+   <channel>
+        <name>Disney+</name>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41Wi5MOPDbL.jpg</thumbnail>
+        <fanart>https://www.oficinadanet.com.br/imagens/post/33643/capa-disneyplus.png</fanart>
+		<info>Filmes e Séries disponiveis</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+   </channel>
+   
+   <channel>
+        <name>Star+</name>
+        <thumbnail>https://pbs.twimg.com/profile_images/1393234224124207106/g9IKiOQQ_400x400.jpg</thumbnail>
+        <fanart>https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png</fanart>
+		<info>Filmes e Séries disponiveis</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+   </channel>
+   
+   <channel>
+        <name>Apple Tv+</name>
+        <thumbnail>https://www.macpricesaustralia.com.au/wp-content/uploads/2019/10/Apple-TV-app-icon-1024x1024.png</thumbnail>
+        <fanart>https://mixdeseries.com.br/wp-content/uploads/2019/03/Apple-TV-2-e1568730986332.jpg</fanart>
+		<info>Filmes e Séries disponiveis</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+   </channel>
+   
+   <channel>
+        <name>Paramount+</name>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/31T6d13zC6L.png</thumbnail>
+        <fanart>https://t2.tudocdn.net/562644</fanart>
+		<info>Filmes e Séries disponiveis</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+   </channel>
+   
+   <channel>
+        <name>Hulu</name>
+        <thumbnail>https://play-lh.googleusercontent.com/4whGAVjZGrrlNxzheKAfBXrxggtyAb4euWLeQI8fDfVfdnFEZjE0DZTJ8DKoh64pqcIa</thumbnail>
+        <fanart>https://cdn.mos.cms.futurecdn.net/hBKETPUQvfojMyGz72SXrD.jpg</fanart>
+		<info>Filmes e Séries disponiveis</info>
+		<externallink>https://bit.ly/3xZ2T9O</externallink>
+   </channel>
+
+</channels>	
