@@ -75,7 +75,7 @@
    </channel>
 
 	<channel>
-        <name>Example Channel</name>
+        <name>Teste</name>
         <fanart>http://example.com/channel-fanart.jpg</fanart>
         <items>
             <item>
@@ -98,7 +98,7 @@
                 <date>2022-10-20</date>
                 <duration>4600</duration>
                 <aired>2022-01-05</aired>
-                <externallink>http://example.com/movie1.mp4</externallink>
+                <externallink>https://github.com/Gael1303/new-cine/raw/main/novos-no-cr/recentes.xml</externallink>
             </item>
         </items>
     </channel>
