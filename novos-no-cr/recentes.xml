@@ -4,7 +4,7 @@
   
 <SetViewMode>500</SetViewMode>
   <item>
-        <title>Jogos Mortais X (2023)</title>
+        <title>Jogos Mortais X (2023) (Leg)</title>
         <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:e2644e954d1c4d53341908db57dfb625d41c75c0</link>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg</thumbnail>
 	<fanart>https://www.themoviedb.org/t/p/original/dZbLqRjjiiNCpTYzhzL2NMvz4J0.jpg</fanart>
@@ -97,5 +97,240 @@
 	<duration>4980</duration>
 	<info>Confusão é o que não falta no prédio onde Waldisney trabalha como porteiro. Todo dia é um bafafá entre os vizinhos, mas ao lado da zeladora Rosivalda, ele é craque em manter essa bagunça organizada. Tudo isso muda quando o prédio é assaltado e Waldisney agora precisa provar para o delegado que ele pode até ser meio atrapalhado, mas ladrão ele não é, não!</info>
      </item>	
+
+     <item>  
+        <title>O Próprio Enterro (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43e07b591c5b8132cc2ff1326d3ddd8500c2b46d</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Fxb4goCtkHluDwymYvHW1xoC6P.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/aOI3o06xhCgLmA6Bcpm4KRDeMXF.jpg</fanart>
+		<genre>Drama, Comédia</genre> 
+		<rate>7.3</rate> 
+		<aired>06.10.2023</aired> 
+		<duration>7560</duration>
+		<studio>AMAZON</studio>
+		<info>Inspirado em eventos reais, quando um acordo dá errado, o dono da funerária Jeremiah O’Keefe (vencedor do Oscar® Tommy Lee Jones) contrata o advogado Willie E. Gary (vencedor do Oscar® Jamie Foxx) para salvar o negócio de sua família. Os ânimos explodem e o riso surge quando o vínculo dos dois expõe a corrupção corporativa e a injustiça racial nessa história inspiradora e triunfante.</info>
+     </item>
+
+     <item>  
+        <title>A Era de Ouro (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:362d2bc70b73c7b81d42048abdf32d3f01ae3f03</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p7HiwisHEP9l1bF3LMnoF3R63nn.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/iByv5K0Msg8iiBlVeR1RqCa04Pj.jpg</fanart>
+		<genre>Música, Drama</genre> 
+		<rate>5.0</rate> 
+		<aired>10.08.2023</aired> 
+		<duration>8400</duration>
+		<studio>AMAZON</studio>
+		<info>Neil Bogart funda a gravadora Casablanca Records na década de 1970 e assina com grandes artistas como Donna Summer, Parliament, Gladys Knight, Isley Brothers, Village People, Bill Withers e Kiss. Com uma equipe de jovens e entusiasmados amantes da música, a Casablanca reescreve a história e muda a indústria fonográfica para sempre.</info>
+     </item>
+
+      <item>  
+        <title>Asteroid City (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37c9c35a8d325e9e8f5f6c2d0f68957c1041909f</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xFxIwTaXdWtvx03PzXUxqP6bUnm.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/gcbZ2ZdVzfBsGmfjTy8g7UaZS16.jpg</fanart>
+		<genre>Comédia, Drama</genre> 
+		<rate>6.6</rate>  
+		<aired>10.08.2023</aired>
+		<duration>6300</duration>
+		<studio>APPLE TV+</studio>
+		<info>Decorre numa cidade ficcional em pleno deserto americano, por volta de 1955. O itinerário de uma convenção de Observadores Cósmicos Jr./Cadetes Espaciais (organizada com o objetivo de juntar estudantes e pais de todo o país para uma competição escolar com oferta de bolsas escolares) é espetacularmente perturbado por eventos que mudarão o mundo.</info>
+      </item>
+
+      <item>  
+        <title>Era Uma Vez Uma Estrela (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb814d34d01a0670cb48376a7c468ca7da9c035c</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9CELDhMAq2rbQsSqJYotWGCkeRO.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/274rI63BUZU0EtPsevLd9EBxjrN.jpg</fanart>
+		<genre>Drama</genre> 
+		<rate>7.1</rate>  
+		<aired>09.10.2023</aired> 
+		<duration>8400</duration>
+		<studio>NETFLIX</studio>
+		<info>Em 1970, uma trupe de cinema itinerante encara obstáculos em suas viagens pela Tailândia para entreter plateias sedentas por filmes com dublagem ao vivo.</info>
+      </item>
+	
+	
+	<item>  
+	    <title>Dezesseis Facadas (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3736937b0c9cfed5885396a4cb7a438f7ec3fd8</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/qjMDwBWbG5hAP43q3meplZFreFQ.jpg</fanart>
+        <info>Trinta e cinco anos após o chocante assassinato de três adolescentes, o infame "Sweet Sixteen Killer" retorna na noite de Halloween para fazer uma quarta vítima. Jamie, de dezessete anos, ignora o aviso de sua mãe superprotetora e fica cara a cara com o maníaco mascarado e, fugindo para salvar sua vida, acidentalmente viaja no tempo de volta para 1987, o ano do assassinatos originais. Forçada a navegar na cultura desconhecida e ultrajante dos anos 1980, Jamie se une a sua mãe adolescente para derrubar o assassino de uma vez por todas, antes que ela fique presa no passado para sempre.</info>
+		<genre>Terror, Comédia</genre> 
+		<rate>6.7</rate>  
+		<aired>05.10.2023</aired> 
+		<duration>6360</duration> 
+		<studio>NETFLIX</studio>
+     </item>
+
+     <item>  
+        <title>O Rei dos Assassinos (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9c14e5f7bf85df172a87e505c283ddbeb94c704</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tHA2wltMBWuaTzOzSf7P2bzhmIy.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/cOF7XiobQU4TC2tKDPXJ8d2nULP.jpg</fanart>
+        <info>Os maiores assassinos do mundo são contratados simultaneamente para matar Jorge Drakos, auto-declarado como Rei dos Assassinos, porém eles descobrem estão presos em uma competição para ver quem é o verdadeiro Rei dos Assassinos.</info>
+		<genre>Ação, Thriller</genre> / 
+		<rate>4.7</rate> / 
+		<aired>01.09.2023</aired> / 
+		<duration>5520</duration> 
+		<studio>AMAZON</studio>
+     </item>
+
+     <item>  
+        <title>Angela (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c43646428aca5cba8c985f96c95d601fed29a229</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rrtvniUR4OSpGqypScj3ebQ2kI1.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/TO0F2pIiMsb9r27aU3Wj9CT84n.jpg</fanart>
+        <info>Após uma tumultuada separação e ter que ceder a guarda dos seus três filhos, a famosa socialite Angela Diniz conhece Raul, e acredita ter encontrado alguém que ama seu espírito livre tanto quanto ela. A atração avassaladora fez o casal largar tudo e viver o sonho de reconstruir suas vidas na casa de praia. Mas a vida tranquila rapidamente se transforma quando Raul começa a se mostrar um homem agressivo, violento e controlador. A relação declina para o abuso e a violência, dando origem a um dos casos de assassinato mais famosos de todos os tempos no Brasil.</info>
+		<genre>Drama</genre> / 
+		<rate>5.0</rate> / 
+		<aired>07.09.2023</aired> / 
+		<duration>6240</duration> 
+		<studio>AMAZON</studio>
+     </item>
+
+     <item>  
+        <title>Cemitério Maldito: A Origem (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e17b4d2dee6afc74d3fd476085eda05a40c6226</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/FYIdCS39yn0NGFDFlRUXUmRxRk.jpg</fanart>
+        <info>Em 1969, o jovem Jud Crandall sonha em deixar para trás sua cidade natal, Ludlow, mas logo descobre segredos sinistros no local. Ele é forçado a enfrentar a sombria história de sua família, que o manterá para sempre conectado à cidadezinha.</info>
+		<genre>Terror</genre> / 
+		<rate></rate> / 
+		<aired>06.10.2023</aired> / 
+		<duration>5220</duration> 
+	    <studio>PARAMOUNT+</studio>
+    </item>
+
+     <item>  
+        <title>Jogo Justo (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1116d96f02c55f946b76b8bb3c723694ce4e3bd</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AteINDGu2VqyI1M8mBZXYMA7Yhs.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/50Wq7fY21obXVRICuljdlSigWvH.jpg</fanart>
+        <info>Uma promoção inesperada em um fundo de investimentos competitivo leva o relacionamento de um jovem casal ao limite, ameaçando muito mais do que o recente noivado deles.</info>
+		<genre>Drama, Thriller</genre> / 
+		<rate>7.1</rate> /
+		<aired>06.10.2023</aired> / 
+		<duration>6780</duration> 
+		<studio>NETFLIX</studio>
+     </item>
+
+     <item>  
+        <title>A Bailarina (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7555f570fdbceaba492edb661c87ea4cfcb0f25a</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2uOy9N8ZqlFNitrolq6RBKPiNT.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/dAXSflkUKRfpzK74kRaovfK09Kx.jpg</fanart>
+        <info>Sofrendo com a morte da melhor amiga após não conseguir protegê-la, uma antiga guarda-costas vai fazer de tudo para realizar seu último pedido: vingança.</info>
+		<genre>Ação, Crime, Thriller</genre> / 
+		<rate>8.1</rate> / 
+		<aired>06.10.2023</aired> / 
+		<duration>5580</duration> 
+		<studio>NETFLIX</studio>
+     </item>
+
+     <item> 
+        <title>Mate-me, se Puder (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8868b2675a9cda606e214f043e98e59c210c59f1</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e2ghk75hCIu7N2Xk7baIJtvwMPP.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/5quyXeEA6RaoTjaiypECXOKXT2o.jpg</fanart>
+        <info>A excêntrica milionária Olivia envia à meia-irmã Agatha e a um grupo de velhos conhecidos um misterioso convite para um fim de semana em seu iate, onde descobrirão o verdadeiro motivo da comemoração: um... assassinato? Pega de surpresa por uma morte inesperada, e com ajuda da polícia, Agatha tentará descobrir se foi apenas um acidente ou um elaborado plano de vingança.</info>
+		<genre>Comédia, Mistério</genre> / 
+		<rate>7.0</rate> /
+		<aired>06.10.2023</aired> / 
+		<duration>5580</duration> 
+		<studio>NETFLIX</studio>
+    </item>
+
+    <item>  
+        <title>A Arte da Sobrevivência (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bfbcf615dd244a07b2ef3306f8262b57951b64e</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AkBQQicJtMdWFOFaIVkH02c5McZ.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/e2YqMwUzAadYRKtlU49fEraT2Ds.jpg</fanart>
+        <info>Durante a Segunda Guerra Mundial, Antonio é um clarinetista italiano, que se apaixona por Martina, uma violinista tcheca.</info>
+		<genre>Drama</genre> / 
+		<rate>5.4</rate> / 
+		<aired>26.01.2023</aired> / 
+		<duration>6600</duration> 
+		<studio>AMAZON</studio>
+     </item>
+
+     <item>  
+        <title>Loucas em Apuros (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a8fe1a0879fe54ea5e1d73c6b4dd0179c336302</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rpKJ9a86zCemFaWEkM0djEiW0Nm.jpg</thumbnail> 
+	<fanart>https://www.themoviedb.org/t/p/original/fIQfdZ6fqf9mIbqBaexbgIEIk5K.jpg</fanart>
+        <info>Esta comédia acompanha quatro amigas asiáticas e seus processos de descoberta interior e da vida. Enquanto viajam para a Ásia a procura da mãe biológica de umas delas, elas enfrentam situações inusitadas e fortalecem ainda mais o laço entre elas.</info>
+	<genre>Comedia</genre> / 
+	<rate>6.6</rate> / 
+	<aired>03.08.2023</aired> / 
+	<duration>5700</duration> 
+	<studio>AMAZON</studio>
+     </item>
+
+     <item>  
+        <title>Boogeyman: Seu Medo é Real (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:714287959ed77d06ce2b3a7882e3f86c47f60c6f</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg</thumbnail>  
+	<fanart>https://www.themoviedb.org/t/p/original/AvSeU3ji59QLN2tfWXzVqI6hg8x.jpg</fanart>
+        <info>Uma jovem de 16 anos e sua irmã mais nova ainda em luto pela morte da mãe, são alvo de uma criatura sobrenatural depois que o pai de ambas atende um paciente desesperado em casa.</info>
+	<genre>Terror, Thriller, Mistério</genre> / 
+	<rate>5.8</rate> / 
+	<aired>01.06.2023</aired> / 
+	<duration>6000</duration> 
+	<studio>STAR+</studio>
+      </item>
+----------------------------------------------------------------------------
+     <item>  
+        <title>Raiva (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74df1962ea46d9672f605e9feafc4cefdbd62801</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xIvYJ6HcmD5lcXlaOhChPxLLcY.jpg</thumbnail>  
+	<fanart>https://www.themoviedb.org/t/p/original/dAOfBYStTns0yECO1CWyXuk7RF5.jpg</fanart>
+        <info>Alan e seu pai fogem da dolorosa perda de sua mãe. Enquanto se escondem em um alojamento isolado, Alan descobre mensagens escondidas de seu tio que o levam a acreditar que seu pai é um lobisomem. Sua vida e as vidas de seus vizinhos estão em perigo. Alan decide fazer algo de uma vez por todas. Destruir a besta não parece um plano exagerado na realidade violenta em que ele vive todos os dias.</info>
+	<genre>Terror, Drama, Thriller</genre> / 
+	<rate>6.7</rate> / 
+	<aired>03.06.2023</aired> / 
+	<duration>5520</duration> 
+	<studio>NETFLIX</studio>
+     </item>
+ 
+    <item>  
+        <title>Fale Comigo (2023)</title> 
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24bcce4cf3d6c0fd3199cff3eb1c2853ca2ce5d4</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqTYmtZKv4RGJiIQy6P6KyMNJ3h.jpg</thumbnail>  
+	<fanart>https://www.themoviedb.org/t/p/original/dVdjbRLvL4qan6APcpnl5BIXJGU.jpg</fanart>
+        <genre>Terror, Suspense</genre> / 
+        <rate>7.1</rate> / 
+        <aired>17.08.2023</aired> / 
+        <duration>5700</duration> 
+        <studio>APPLE TV+</studio>
+        <info>Quando um grupo de amigos descobre como conjurar espíritos usando uma antiga mão embalsamada, eles ficam viciados na nova emoção. Até que um deles vai longe demais e abre a porta para o mundo espiritual.</info> 
+    </item>
+         
+    <item>  
+        <title>Mansão Mal-Assombrada (2023)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cb39dd193315039f5e255ca15e6e708dac0ce4e</link> 
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3puybXuYPlZPRplIVSrExZnWibb.jpg</thumbnail>  
+	<fanart>https://www.themoviedb.org/t/p/original/mzlZAMjE2yk2sW3f9HTeBM3B3jw.jpg</fanart>
+        <genre>Fantasia, Comédia</genre> / 
+	<rate>6.8</rate> /
+	<aired>28.07.2023</aired> / 
+	<duration>7380</duration> 
+	<studio>DISNEY+</studio>
+        <info>Uma mãe solteira chamada Gabbie contrata um guia turístico, um médium, um padre e um historiador para ajudar a exorcizar sua mansão recém-comprada; depois de descobrir que é habitado por fantasmas.</info> 
+    </item>
+
+    <item>  
+        <title>O Monstro Que Vive Em Mim (2023)</title>  
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc431d5f428a7ec20cca7622f925e6145d825460</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fDBAZRH4YiqtOrcTwmwbjz4KsXe.jpg</thumbnail>  
+	<fanart>https://www.themoviedb.org/t/p/original/8BNA9L3JEJeMN7S21fzo9SeYUtU.jpg</fanart>
+        <genre>Terror, Mistério, Thriller, Comédia, Drama</genre> / 
+	<rate>6.8</rate> / 
+	<aired>02.10.2023</aired> / 
+	<duration>5700</duration> 
+	<studio>STAR+</studio>
+        <info>[I]Abrace seus demônios interiores.[/I]\nApós atingir seu limite, os pensamentos obscuros de Hannah se materializam como uma criatura monstruosa que ameaça destruir sua vida.</info> 
+    </item>
 	
 </items>
