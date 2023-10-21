@@ -27,7 +27,7 @@
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Filmes e series Populares</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/lancamentos/populares</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/populares/abas</externallink>
     </channel>
 	
    <channel>
@@ -63,7 +63,7 @@
    </channel>
 
 	<channel>
-        <name>4k, Imax & 3D</name>
+        <name>Melhor Qualidade</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Quando a qualidade é PRIORIDADE.</info>
