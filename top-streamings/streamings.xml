@@ -74,4 +74,33 @@
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
    </channel>
 
+	<channel>
+        <name>Example Channel</name>
+        <fanart>http://example.com/channel-fanart.jpg</fanart>
+        <items>
+            <item>
+                <title>Series</title>
+                <thumbnail>http://example.com/thumbnail1.jpg</thumbnail>
+                <fanart>http://example.com/fanart1.jpg</fanart>
+                <genre>Action</genre>
+                <description>An example movie description 1.</description>
+                <date>2022-10-19</date>
+                <duration>7200</duration>
+                <aired>2022-01-01</aired>
+                <externallink>http://example.com/movie1.mp4</externallink>
+            </item>
+            <item>
+                <title>Filmes</title>
+                <thumbnail>http://example.com/thumbnail2.jpg</thumbnail>
+                <fanart>http://example.com/fanart2.jpg</fanart>
+                <genre>Drama</genre>
+                <description>An example movie description 2.</description>
+                <date>2022-10-20</date>
+                <duration>4600</duration>
+                <aired>2022-01-05</aired>
+                <externallink>http://example.com/movie1.mp4</externallink>
+            </item>
+        </items>
+    </channel>
+
 </channels>	
