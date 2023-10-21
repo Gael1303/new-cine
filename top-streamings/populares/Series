@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 	<SetViewMode>508</SetViewMode>
-	<channels>
+	
 		<channel>
 			<name>Lupin</name>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yUSpKDhibrxnY3EXAcNkaPrUOI0.jpg</thumbnail>
@@ -12,9 +12,9 @@
 			<studio>NETFLIX</studio>
 			<info>Na adolescência, a vida de Assane Diop dá uma guinada radical quando seu pai morre após ser acusado de um crime que não cometeu. Vinte e cinco anos depois, Assane se inspira em "Arsène Lupin, o Ladrão de Casaca" para vingá-lo.</info>
 		</channel>
-	</channels>
 	
-	<channels>
+	
+	
 		<channel>
 			<name>Loki</name>
 			<thumbnail>https://www.themoviedb.org/t/p/original/voHUmluYmKyleFkTu3lOXQG702u.jpg</thumbnail>
@@ -27,7 +27,7 @@
 
 Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.</info>
 		</channel>
-	</channels>
+	
 	
 	<channel>
 		<name>The Walking Dead: Daryl Dixon</name>
@@ -63,7 +63,7 @@ Daryl Dixon chega à costa da França e luta para entender como chegou lá e por
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20virgin%20river</externallink>
 		<info>Uma enfermeira se muda de Los Angeles para uma cidadezinha no norte da Califórnia em busca de um recomeço. Mas a nova vida vai ser bem diferente do que ela imagina.</info>
 	</channel>
-	<channels>
+	
 		<channel>
 			<name>The Changeling: Sombras de Nova York</name>
 ---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/sombras-de-nova-york?token=GHSAT0AAAAAACFNGAWSQNJJME3WPCBCDR4GZH3FHPA</externallink>
@@ -74,9 +74,9 @@ Daryl Dixon chega à costa da França e luta para entender como chegou lá e por
 			<studio>APPLE TV+</studio>
 			<info>A história de amor de Apollo e Emma é um conto de fadas — até que Emma some misteriosamente. Desolado, Apollo se vê em uma odisseia que desafia a morte por uma Nova York que ele não sabia que existia.</info>
 		</channel>
-	</channels>
+	
 
-<channels>
+
 		<channel>
 			<name>Impuros</name>
 			<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/leHugSOjrC26eZJmOLu9mUnAlai.jpg</thumbnail>
@@ -86,8 +86,8 @@ Daryl Dixon chega à costa da França e luta para entender como chegou lá e por
 			<studio>DISNEY+</studio>
 			<info>No Rio dos anos 90, Evandro é um jovem da favela que tenta ganhar a vida honestamente. Porém, após a morte do irmão pela polícia, ele entra no mundo do tráfico buscando vingança.</info>
 		</channel>
-	</channels>
-	<channels>
+	
+	
 		<channel>
 			<name>ONE PIECE: A Série</name>
 ---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/one-piece</externallink>
@@ -100,7 +100,7 @@ Daryl Dixon chega à costa da França e luta para entender como chegou lá e por
 
 O jovem pirata Monkey D. Luffy veste o chapéu de palha e, com sua tripulação atrapalhada, zarpa em uma jornada épica nesta adaptação em live-action do popular mangá.</info>
 		</channel>
-	</channels>
+	
 
 <channel>
 		<name>Ragnarok</name>
@@ -1040,4 +1040,5 @@ INVENCÍVEL é uma animação de super-heróis para adultos e conta a história 
 Os adolescentes Charlie e Nick descobrem que são mais que apenas amigos e precisam lidar com as dificuldades da vida escolar e amorosa.
 </info>
 	</channel>
+
 </channels>
