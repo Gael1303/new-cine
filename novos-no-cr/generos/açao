@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-	<SetViewMode>500</SetViewMode>
+	<SetViewMode>501</SetViewMode>
 	<item>
 		<title>O Rei dos Assassinos</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9c14e5f7bf85df172a87e505c283ddbeb94c704</link>
