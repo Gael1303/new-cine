@@ -4,7 +4,7 @@
 	<SetViewMode>502</SetViewMode>
     
 	<channel>
-        <name>Ação & Aventura</name>
+        <name>[COLOR green]•[/COLOR]Ação & Aventura</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -13,7 +13,7 @@
     </channel>
 	
 	<channel>
-        <name>Animação</name>
+        <name>[COLOR green]•[/COLOR]Animação</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -22,7 +22,7 @@
     </channel>
 	
 	<channel>
-        <name>Comédia</name>
+        <name>[COLOR green]•[/COLOR]Comédia</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -31,7 +31,7 @@
     </channel>
 	
 	<channel>
-        <name>Documentário</name>
+        <name>[COLOR red]•[/COLOR]Documentário</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -40,7 +40,7 @@
     </channel>
 	
 	<channel>
-        <name>Drama</name>
+        <name>[COLOR green]•[/COLOR]Drama</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -49,7 +49,7 @@
     </channel>
 	
 	<channel>
-        <name>Faroeste</name>
+        <name>[COLOR red]•[/COLOR]Faroeste</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -58,7 +58,7 @@
     </channel>
 	
 	<channel>
-        <name>Fantasia</name>
+        <name>[COLOR red]•[/COLOR]Fantasia</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -67,7 +67,7 @@
     </channel>
 	
 	<channel>
-        <name>Ficção científica</name>
+        <name>[COLOR red]•[/COLOR]Ficção científica</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -76,7 +76,7 @@
     </channel>
 	
 	<channel>
-        <name>Guerra</name>
+        <name>[COLOR red]•[/COLOR]Guerra</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -85,7 +85,7 @@
     </channel>
 	
 	<channel>
-        <name>Romance</name>
+        <name>[COLOR red]•[/COLOR]Romance</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -94,7 +94,7 @@
     </channel>
 	
 	<channel>
-        <name>Suspense</name>
+        <name>[COLOR red]•[/COLOR]Suspense</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -103,7 +103,7 @@
     </channel>
 	
 	<channel>
-        <name>Terror</name>
+        <name>[COLOR red]•[/COLOR]Terror</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -112,7 +112,7 @@
     </channel>
 	
 	<channel>
-        <name>Lgbt</name>
+        <name>[COLOR red]•[/COLOR]Lgbt</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
@@ -121,7 +121,7 @@
     </channel>
 	
 	<channel>
-        <name>Crime</name>
+        <name>[COLOR red]•[/COLOR]Crime</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
