@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-<SetViewMode>501</SetViewMode>
+<SetViewMode>500</SetViewMode>
 
 <item> <title>Avatar - 3D</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc489b01eab48e85bbfe6031abcd702015c0d8ee</link>
