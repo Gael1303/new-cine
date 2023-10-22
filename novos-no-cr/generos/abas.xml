@@ -29,7 +29,17 @@
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
 		<date>20.10.2023</date>
-		<externallink>https://</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/biografia</externallink>
+    </channel>
+
+
+   <channel>
+        <name>[COLOR green]•[/COLOR]Classicos</name>
+        <thumbnail>https://</thumbnail>
+        <fanart>https://</fanart>
+		<info>ATUALIZADO EM: </info>
+		<date>20.10.2023</date>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/classicos</externallink>
     </channel>
 	
 	<channel>
@@ -60,12 +70,12 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR red]•[/COLOR]Faroeste</name>
+        <name>[COLOR green]•[/COLOR]Faroeste</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
 		<date>20.10.2023</date>
-		<externallink>http://</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/faroeste</externallink>
     </channel>
 	
 	<channel>
@@ -96,21 +106,21 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR red]•[/COLOR]Romance</name>
+        <name>[COLOR green]•[/COLOR]Romance</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
 		<date>20.10.2023</date>
-		<externallink>http://</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/romance</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR red]•[/COLOR]Suspense</name>
+        <name>[COLOR green]•[/COLOR]Suspense</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info>ATUALIZADO EM: </info>
 		<date>20.10.2023</date>
-		<externallink>http://</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/suspense</externallink>
     </channel>
 	
 	<channel>
