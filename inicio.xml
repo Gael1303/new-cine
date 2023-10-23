@@ -15,7 +15,7 @@
 	<!-- opicional -->
     
     <channel>
-        <name>Novo No Cine Room</name>
+        <name>[COLOR green]•[/COLOR]Novo No Cine Room</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Conteudos Recem-lançados no mundo</info>
@@ -23,7 +23,7 @@
     </channel>
 	
 	<channel>
-        <name>Populares</name>
+        <name>[COLOR green]•[/COLOR]Populares</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Filmes e series Populares</info>
@@ -31,7 +31,7 @@
     </channel>
 	
    <channel>
-        <name>Top Streaming</name>
+        <name>[COLOR yellow]•[/COLOR]Top Streaming</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Filmes e Séries mais vistos em cada streaming</info>
@@ -39,7 +39,7 @@
    </channel>
    
    <channel>
-        <name>Sagas</name>
+        <name>[COLOR red]•[/COLOR]Sagas</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Melhores coletaneas</info>
@@ -47,7 +47,7 @@
    </channel>
     
    <channel>
-        <name>Generos</name>
+        <name>[COLOR yellow]•[/COLOR]Generos</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Filmes Separados por genero</info>
@@ -55,7 +55,7 @@
    </channel>
    
    <channel>
-        <name>Melhor Avaliação</name>
+        <name[COLOR red]•[/COLOR]>Melhor Avaliação</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Filmes e Séries mais bem avaliados</info>
@@ -63,7 +63,7 @@
    </channel>
 
 	<channel>
-        <name>Melhor Qualidade</name>
+        <name>[COLOR green]•[/COLOR]Melhor Qualidade</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Quando a qualidade é PRIORIDADE.</info>
@@ -71,7 +71,7 @@
    </channel>
 
    <channel>
-        <name>Todos</name>
+        <name>[COLOR red]•[/COLOR]Todos</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Todos os conteudos em um só lugar</info>
