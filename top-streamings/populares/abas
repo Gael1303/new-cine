@@ -3,7 +3,7 @@
 <channels>
 	<SetViewMode>500</SetViewMode>
     <channel>
-        <name>Filmes</name>
+        <name>[COLOR green]•[/COLOR]Filmes</name>
         <thumbnail>https://catracalivre.com.br/wp-content/uploads/2018/05/31945562_2186800151356984_3834350131021348864_n-450x488.jpg</thumbnail>
         <fanart>https://blog.videoperola.com.br/wp-content/uploads/2022/04/top10-scaled.jpg</fanart>
 		<info>Filmes Populares</info>
@@ -11,7 +11,7 @@
     </channel>
 	
 	<channel>
-        <name>Séries</name>
+        <name>[COLOR green]•[/COLOR]Séries</name>
         <thumbnail>https://www.apptuts.net/wp-content/uploads/2019/08/melhores-series-netflix-2019-capa.jpg</thumbnail>
         <fanart>https://149356117.v2.pressablecdn.com/wp-content/uploads/2019/09/series-muito-longas.jpg</fanart>
 		<info>Séries Populares</info>
@@ -19,7 +19,7 @@
     </channel>
 	
    <channel>
-        <name>Animes</name>
+        <name>[COLOR red]•[/COLOR]Animes</name>
         <thumbnail>https://p2.trrsf.com/image/fget/cf/600/600/images.terra.com/2023/02/27/737073448-montagem-animes-famososeasy-resizecom.jpg</thumbnail>
         <fanart>https://t.ctcdn.com.br/kdHUJ1yriNF7dqSdX2sXb4OTav4=/340x265:1654x1005/1314x739/smart/i521747.jpeg</fanart>
 		<info>Animes Populares</info>
@@ -27,7 +27,7 @@
    </channel>
    
    <channel>
-        <name>Novos Episódios (Todos)</name>
+        <name>[COLOR red]•[/COLOR]Novos Episódios (Todos)</name>
         <thumbnail>https://static.vecteezy.com/ti/vetor-gratis/p3/5458218-calendario-schedule-date-solid-icon-vector-illustration-logo-template-suitable-for-many-purposes-gratis-vetor.jpg</thumbnail>
         <fanart>https://</fanart>
 		<info>Novos Episodios</info>
