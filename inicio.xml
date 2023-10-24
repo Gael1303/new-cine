@@ -39,11 +39,11 @@
    </channel>
    
    <channel>
-        <name>[COLOR red]•[/COLOR]Sagas</name>
+        <name>[COLOR yellow]•[/COLOR]Sagas</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Melhores coletaneas</info>
-		<externallink>https://bit.ly/3xZ2T9O</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/sagas</externallink>
    </channel>
     
    <channel>
