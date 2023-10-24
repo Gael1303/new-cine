@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-	<SetViewMode>500</SetViewMode>
+	
 	<!-- opicional -->
     <channels_info> <!-- this is opitonal -->
       <title>Para Amantes de Cinema</title> <!-- if channels_info, a title is required, other elements are optional -->
