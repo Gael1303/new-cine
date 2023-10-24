@@ -27,11 +27,11 @@
    </channel>
    
    <channel>
-        <name>[COLOR red]•[/COLOR]Dolby Vision</name>
+        <name>[COLOR green]•[/COLOR]Dolby Vision</name>
         <thumbnail>https://s2.glbimg.com/JQZBK_9lTDws5skmjwwyKke2TFc=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/S/t/xVHiQsQ1AbHYXoieqovQ/apps.44555.13925855090824389.09f473d9-ce97-499c-9d53-c21e8f64ee62.png</thumbnail>
         <fanart>https://img.olhardigital.com.br/wp-content/uploads/2023/07/dolby-vision-porovnani.jpg</fanart>
 		<info>Novos Episodios</info>
-		<externallink>https://bit.ly/3xZ2T9O</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/dolby-vision</externallink>
    </channel>
    
    </channels>
