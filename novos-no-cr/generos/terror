@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <channels>
-    <SetViewMode>502</SetViewMode>
-    <channel>
-        <name>O Silencio dos Inocentes</name>
+    <SetViewMode>500</SetViewMode>
+    <channel> 
+	    <name>O Silencio dos Inocentes</name>
         <thumbnail>https://1.bp.blogspot.com/-3o110XLYmhM/XZJQWuNwcAI/AAAAAAAAZOQ/x5w9HcB6BXc8AKZb13tbZxLcXHGTkfO8QCNcBGAsYHQ/s1600/O%2BSil%25C3%25AAncio%2Bdos%2BInocentes.jpg</thumbnail>
-        <date>17.05.1991</date>
+        <date>17.05.1991</date> <genre>Terror / Suspense / Drama</genre>
         <info>A agente do FBI, Clarice Starling (Jodie Foster) é ordenada a encontrar um assassino que arranca a pele de suas vítimas. Para entender como ele pensa, ela procura o periogoso psicopata, Hannibal Lecter (Anthony Hopkins), encarcerado sob a acusação de canibalismo.</info>
         <items>
+		
             <item>
-                <title>O Silencio dos Inocentes (1991)(Dublado)</title>
+                <title>O Silencio dos Inocentes (1991) (Dublado)</title>
                 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c9619c4fe189e819fd2cc34bb503ef3c7868450</link>
                 <thumbnail>https://1.bp.blogspot.com/-3o110XLYmhM/XZJQWuNwcAI/AAAAAAAAZOQ/x5w9HcB6BXc8AKZb13tbZxLcXHGTkfO8QCNcBGAsYHQ/s1600/O%2BSil%25C3%25AAncio%2Bdos%2BInocentes.jpg</thumbnail>
                 <genre>Terror / Suspense / Drama</genre>
             </item>
             <item>
-                <title>O Silencio dos Inocentes (1991)(Legendado)</title>
+                <title>O Silencio dos Inocentes (1991) (Legendado)</title>
                 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6ec2a4507b13ade6bc4a1fac5b39ca25888b326</link>
                 <thumbnail>https://1.bp.blogspot.com/-3o110XLYmhM/XZJQWuNwcAI/AAAAAAAAZOQ/x5w9HcB6BXc8AKZb13tbZxLcXHGTkfO8QCNcBGAsYHQ/s1600/O%2BSil%25C3%25AAncio%2Bdos%2BInocentes.jpg</thumbnail>
                 <genre>Terror / Suspense / Drama</genre>
@@ -23,12 +25,14 @@
     </channel>
 
 
-<channel>
+----	
+    
+	<channel>
         <name>Psicose</name>
         <thumbnail>https://image.tmdb.org/t/p/w342/ppgFbH4laZu2kYoFLGlU3ZbgzpX.jpg</thumbnail>
         <date>15.01.1999</date> <genre>Terror / Misterio</genre>
         <info>Marion rouba uma grande quantia de seu patrao e foge da cidade, eventualmente parando em um motel remoto. La, ela e servida por Norman Bates, uma pessoa muito estranha, mas docil, que ela sempre escuta discutindo com sua mae controladora. Marion e brutalmente assassinada apos aquela noite; Norman encontra e esconde o corpo. Quando um detetive e a irma de Marion visitam o motel para investigar, eles descobrem a terrivel verdade.</info>
-        <items> <SetViewMode>500</SetViewMode>
+        <items> 
             <item>
                 <title>Psicose (1998) (Dublado)</title>
                 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1215bb8e7f490885c13bd231f08663a1f0cb3222</link>
@@ -166,8 +170,373 @@
 			<item>
                 <title>Sobrenatural: A Porta Vermelha (2023) (Dublado)</title>
                 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d26e49e3e9a46b6ace6f949ac7f5c38cfaf9cdc</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3RYZGwImjBUF18RV57J5QuOa31.jpg</thumbnail>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg</thumbnail>
                 <genre>Terror, Suspense, Mistério</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>*Pânico: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glmWNyOkoXMqltWJJhQelAvIVxk.jpg</thumbnail>
+        <date>31.01.1997</date> <genre>Terror, Suspense, Crime, Mistério</genre>
+        <info>Os filmes da série "Pânico" seguem Sidney Prescott e sua guerra contra uma sucessão de assassinos que adotam o disfarce de Ghostface para perseguir e atormentar as suas vítimas. Sidney recebe apoio do deputado municipal e posteriormente xerife Dewey Riley, do repórter e escritor da revista cor de rosa Gale Weathers e do geek Randy Meeks, junto com vários amigos, parceiros românticos e outros conhecidos que mudam conforme a série avança.</info>
+        <items>
+            <item>
+                <title>Pânico (1996) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5293c765929fdf7301d23be43faa5cca65ab054b</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/29We1MLNidfXrwkZe390frjnOns.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime, Mistério</genre>
+            </item>
+            <item>
+                <title>Pânico 2 (1997) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f2bcbaae7582cd51534bb4d2578a18e7044e007</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/eVRtAUUefZ7YmDxlre7Oew3s8gs.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime, Mistério</genre>
+            </item>
+			<item>
+                <title>Pânico 3 (2000) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d480725206d9de9a7bfd42b94ed45a8f342068f</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/dCp1c7hf16kJtVJ0BLoyDhLqRVG.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime, Mistério</genre>
+            </item>
+            <item>
+                <title>Pânico 4 (2011) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4b4711e1be20b157ec5635e1ca56353a30e2ba7</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/qqqE8jR2bzZldtW5lJwKhHMxkx0.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime, Mistério</genre>
+            </item>
+			<item>
+                <title>Pânico V (2022) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d40ee8e9c947ae804289ca1b81d51f425bdacd2</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oadFpqhJ26yxqIlYcGioZ2W3EHN.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime, Mistério</genre>
+            </item>
+            <item>
+                <title>Pânico VI (2023) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb7b5f4f18023bf37978ed030476b2afc81fd892</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime, Mistério</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>*Invocação do Mal: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg</thumbnail>
+        <date>13.09.2013</date> <genre>Terror, Suspense, Misterio</genre>
+        <info>Invocação do Mal é uma coletânea com dois de filmes de horror, estrelada por Vera Farmiga e Patrick Wilson, no papel dos investigadores paranormais Lorraine e Ed Warren. Esta franquia é de grande sucesso, com vários personagens marcantes que chegaram até a ter seus próprios filmes. Estas histórias são a base para criação de universo fantástico do paranormal.</info>
+        <items>
+            <item>
+                <title>Invocação do Mal (2013) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0032160ab449f818890de403d61f29fa495e27d4</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg</thumbnail>
+                <genre>Terror, Thriller</genre>
+            </item>
+            <item>
+                <title>Invocação do Mal 2 (2016) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c09482bc85b6615b3c8bc3ec3d8fd56fa5360392</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o94LZsIKt0priAca7hoN4yz7a1d.jpg</thumbnail>
+                <genre>Terror, Thriller</genre>
+            </item>
+			<item>
+                <title>Invocação do Mal 3: A Ordem do Demônio (2021) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7757081feb5f801552d2048fcb1f81b83d5d08a4</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg</thumbnail>
+                <genre>Terror, Thriller</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>*Um Lugar Silencioso: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gRj1xzwDLRnSWDeqTQZFOg0y1VB.jpg</thumbnail>
+        <date>05.04.2018</date> <genre>Drama, Terror, Suspense, Ficção Científica</genre>
+        <info>Uma série de filmes que giram em torno de pessoas lutando para sobreviver em um mundo pós-apocalíptico habitado por criaturas extraterrestres cegas com um senso agudo de audição.</info>
+        <items>
+            <item>
+                <title>Um Lugar Silencioso (2018) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3248a7c86c4f501dc8ac12126ceee8249dd4240b</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tH0YRWQciL1pkwnLR7cZ7xSh7oA.jpg</thumbnail>
+                <genre>Terror, Drama, Ficção científica</genre>
+            </item>
+            <item>
+                <title>Um Lugar Silencioso - Parte II (2021) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55bed34cd84e9f6b6a14ad3964fa0744dbfbb79a</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wYqmuxd9jNFLf3gtQY5vbAUgiGk.jpg</thumbnail>
+                <genre>Terror, Drama, Ficção científica</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>*Jogos Mortais: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dIqFwkyd38C9dYUhlibpYSp9IoT.jpg</thumbnail>
+        <date>02.04.2005</date> <genre>Terror, Suspense, Crime, Misterio</genre>
+        <info>Jigsaw é um assassino que possui uma marca registrada: ele deixa em suas vítimas uma cicatriz em forma de quebra-cabeças, que faz com que elas cometam atos igonizantes para se salvar. O detetive David Tapp (Danny Glover) é designado para investigar os assassinatos, bem como a capturar seu autor. Porém o caminho evasivo seguido por Jigsaw leva o detetive a desenvolver uma obsessão por capturá-lo. A coletânea é composta de sete filmes, Jogos Mortais I, Jogos Mortais II, Jogos Mortais III, Jogos Mortais IV, Jogos Mortais V, Jogos Mortais VI e Jogos Mortais VII: O Final, lançados sequencialmente nos anos 2004 a 2010.</info>
+        <items>
+            <item>
+                <title>Jogos Mortais (2004) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:146459d816a158ed09a227fc4a650e6fdb8f1361</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/7EPDYnjcy4cP4Ldy3qFApySOdNh.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime</genre>
+            </item>
+            <item>
+                <title>Jogos Mortais 2 (2005) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38b463f89156a539aab42d7ea9865d637eaadebc</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/kkQWU1hjgkqbWqFo6Vfu2V4Qm9f.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime</genre>
+            </item>
+			<item>
+                <title>Jogos Mortais III (2006) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:664be3625e7a82abae23186129355b9c623e34dd</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/xRTqYZ9X3NaziNFZhFB5GLK5van.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime</genre>
+            </item>
+            <item>
+                <title>Jogos Mortais IV (2007) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d8278ed2a595f42eba6d91c34f777baed6c3fff</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/tTkGTdQlXDYcavpdlaG3SqFcWJv.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime</genre>
+            </item>
+			<item>
+                <title>Jogos Mortais 5 (2009) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d99dc195c7183378baeaf6e3bc9ac2591ba9cd4b</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/8gm3biZ9S1VYN87nyfVzJinnMyG.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime</genre>
+            </item>
+            <item>
+                <title>Jogos Mortais 6 (2009) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32acbc1285854684336ce30cc1c51a87fff9a92b</link>
+                <thumbnail>https://brutotorrent.com/capas/jogos-mortais-6-download-torrent-2009-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime</genre>
+            </item>
+			<item>
+                <title>Jogos Mortais - O Final (2010) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:928f2e5937f39159c2dbc8d15f605c3ef6974838</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/xCdUTCowPiVmBrX4ygh3tbNtpGB.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime</genre>
+            </item>
+            <item>
+                <title>Jogos Mortais Jigsaw (2017) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33685fd371a1d99d750fc35a348dd0011888dd09</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/vVgUwFPKHlNpChH0mOruuohuifr.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime</genre>
+            </item>
+			<item>
+                <title>Espiral: O Legado de Jogos Mortais (2021) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=dfd8b3b3e10e89adc7fa89046c51e01295440330</link>
+                <thumbnail>https://brutotorrent.com/imagens/espiral-o-legado-de-jogos-mortais-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime</genre>
+            </item>
+            <item>
+                <title>Jogos Mortais X (2023) (Legendado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2644e954d1c4d53341908db57dfb625d41c75c0</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg</thumbnail>
+                <genre>Terror, Suspense, Crime</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>Conferência Mortal</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ESDSTXeAopTa6U9MHrnr7FzO4D.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/mQYig9irVVvQ9Tru3566iK1yhiI.jpg</fanart>
+        <date>13.10.2023</date> <genre>Terror, Comédia, Thriller</genre>
+        <info>Durante um evento que aparentava ser inofensivo, um grupo inusitado de funcionários precisa enfrentar não apenas suas diferenças como também um misterioso assassino.</info>
+        <items>
+		<item>
+            <title>Conferência Mortal (2023) (Dublado)</title>  
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5406cd831df0dd5b5a1075de1cc82f7ed81f300c</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ESDSTXeAopTa6U9MHrnr7FzO4D.jpg</thumbnail>
+                <genre>Terror, Comédia, Thriller</genre>
+            </item>
+			<item>
+            <title>Conferência Mortal (2023) (Legendado)</title>  
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64b57a0e8396be18e7fb506c7c19a595a682de91</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ESDSTXeAopTa6U9MHrnr7FzO4D.jpg</thumbnail>
+                <genre>Terror, Comédia, Thriller</genre>
+			</item>	
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>Ursinho Pooh: Sangue e Mel</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg</thumbnail>  
+		<fanart>https://www.themoviedb.org/t/p/original/wD2kUCX1Bb6oeIb2uz7kbdfLP6k.jpg</fanart>
+        <date>08.10.2023</date> <genre>Terror, Thriller</genre>
+        <info>Depois de serem abandonados por Christopher Robin, que foi para a faculdade, Pooh e Leitão matam qualquer um que se atreva a se aventurar na Floresta dos Sonhos Azuis.</info>
+        <items>
+            <item>  <title>Ursinho Pooh: Sangue e Mel (2023) (Dublado)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1aec53b3c41b0fd9504336c01a7b8d5209155b37</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg</thumbnail>  
+		<genre>Terror, Thriller</genre>
+        </item>
+            <item>
+                <title>Ursinho Pooh: Sangue e Mel (2023) (Legendado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99680907320b87651d681d3548478d6d615c132b</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg</thumbnail>  
+                <genre>Terror, Thriller</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>Colheita Sombria</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/2fAnbhiwqPiu0XHA98nZrPckPgv.jpg</fanart>
+        <date>12.10.2023</date> <genre>Terror, Mistério, Thriller, Fantasia, Drama</genre>
+        <info>Em uma cidadezinha rural, um ritual mortal acontece todos os anos quando um pesadelo chamado Jack Dentes de Serra se ergue do milharal e desafia os jovens locais a luta sangrenta por sobrevivência.</info>
+        <items>
+            <item> 
+			<title>Colheita Sombria (2023) (Dublado)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5554219fae6ccde225bb982162206a4428c4c90d</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg</thumbnail>
+        <info>Em uma cidadezinha rural, um ritual mortal acontece todos os anos quando um pesadelo chamado Jack Dentes de Serra se ergue do milharal e desafia os jovens locais a luta sangrenta por sobrevivência.</info>
+		<genre>Terror, Mistério, Thriller, Fantasia, Drama</genre> 
+        </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>Dezesseis Facadas</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/qjMDwBWbG5hAP43q3meplZFreFQ.jpg</fanart>
+        <date>05.10.2023</date> <genre>Terror, Comédia</genre> 
+        <info>Trinta e cinco anos após o chocante assassinato de três adolescentes, o infame "Sweet Sixteen Killer" retorna na noite de Halloween para fazer uma quarta vítima. Jamie, de dezessete anos, ignora o aviso de sua mãe superprotetora e fica cara a cara com o maníaco mascarado e, fugindo para salvar sua vida, acidentalmente viaja no tempo de volta para 1987, o ano do assassinatos originais. Forçada a navegar na cultura desconhecida e ultrajante dos anos 1980, Jamie se une a sua mãe adolescente para derrubar o assassino de uma vez por todas, antes que ela fique presa no passado para sempre.</info>
+        <items>
+            <item>  <title>Dezesseis Facadas (2023) (Dublado)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3736937b0c9cfed5885396a4cb7a438f7ec3fd8</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg</thumbnail>  
+		<genre>Terror, Comédia</genre> 
+        </item>
+            <item>
+                <title>Dezesseis Facadas (2023) (Legendado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de144038bb339d45b9a8c1d5c225ca9bca267147</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg</thumbnail>  
+                <genre>Terror, Comédia</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>*Cemitério Maldito: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/FYIdCS39yn0NGFDFlRUXUmRxRk.jpg</fanart>
+        <date>06.10.2023</date> <genre>Terror</genre>
+        <info>Em 1969, o jovem Jud Crandall sonha em deixar para trás sua cidade natal, Ludlow, mas logo descobre segredos sinistros no local. Ele é forçado a enfrentar a sombria história de sua família, que o manterá para sempre conectado à cidadezinha.</info>
+        <items>
+		<item>
+                <title>Cemitério Maldito (2019) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:765351abe3664f7baa2fafcc030d0ae74157fcac</link>
+                <thumbnail>https://3.bp.blogspot.com/-t4IiUI50SaU/XNMUhotO77I/AAAAAAAAXGA/BHheD_yE_vEKNw0CC-K31AM6CJxaUi0tgCLcBGAs/s1600/Cemiterio%2BMaldito%2B2019.jpg</thumbnail>
+                <genre>Terror</genre>
+            </item>
+            <item>  
+			<title>Cemitério Maldito: A Origem (2023) (Dublado)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e17b4d2dee6afc74d3fd476085eda05a40c6226</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg</thumbnail>  
+		<genre>Terror</genre> 
+        </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>Boogeyman: Seu Medo é Real</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/AvSeU3ji59QLN2tfWXzVqI6hg8x.jpg</fanart>
+        <date>01.06.2023</date> <genre>Terror, Thriller, Mistério</genre>
+        <info>Uma jovem de 16 anos e sua irmã mais nova ainda em luto pela morte da mãe, são alvo de uma criatura sobrenatural depois que o pai de ambas atende um paciente desesperado em casa.</info>
+        <items>
+            <item>  <title>Boogeyman: Seu Medo é Real (2023) (Dublado)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:714287959ed77d06ce2b3a7882e3f86c47f60c6f</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg</thumbnail>  
+		<genre>Terror, Thriller, Mistério</genre>
+        </item>
+            <item>
+                <title>Boogeyman: Seu Medo é Real (2023) (Legendado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bb2f1a3f8d2951b1f07f147f9ff598f541b826a</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg</thumbnail>  
+                <genre>Terror, Thriller, Mistério</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>Raiva</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xIvYJ6HcmD5lcXlaOhChPxLLcY.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/dAOfBYStTns0yECO1CWyXuk7RF5.jpg</fanart>
+        <date>03.06.2023</date> <genre>Terror, Drama, Thriller</genre>
+        <info>Alan e seu pai fogem da dolorosa perda de sua mãe. Enquanto se escondem em um alojamento isolado, Alan descobre mensagens escondidas de seu tio que o levam a acreditar que seu pai é um lobisomem. Sua vida e as vidas de seus vizinhos estão em perigo. Alan decide fazer algo de uma vez por todas. Destruir a besta não parece um plano exagerado na realidade violenta em que ele vive todos os dias.</info>
+        <items>
+            <item>  <title>Raiva (2023) (Dublado)</title>  
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74df1962ea46d9672f605e9feafc4cefdbd62801</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xIvYJ6HcmD5lcXlaOhChPxLLcY.jpg</thumbnail> 
+		<genre>Terror, Drama, Thriller</genre> 
+        </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>Fale Comigo</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqTYmtZKv4RGJiIQy6P6KyMNJ3h.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/dVdjbRLvL4qan6APcpnl5BIXJGU.jpg</fanart>
+        <date>17.08.2023</date> <genre>Terror, Suspense</genre>
+        <info>Quando um grupo de amigos descobre como conjurar espíritos usando uma antiga mão embalsamada, eles ficam viciados na nova emoção. Até que um deles vai longe demais e abre a porta para o mundo espiritual.</info>
+        <items>
+            <item>  <title>Fale Comigo (2023) (Dublado)</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24bcce4cf3d6c0fd3199cff3eb1c2853ca2ce5d4</link>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqTYmtZKv4RGJiIQy6P6KyMNJ3h.jpg</thumbnail>  
+        <genre>Terror, Suspense</genre>
+    </item>
+            <item>
+                <title>Talk To Me (2023) (Legendado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:830132df2c737cb496becd067ab817fbee33ffcd</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqTYmtZKv4RGJiIQy6P6KyMNJ3h.jpg</thumbnail>
+                <genre>Terror, Suspense</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>Drácula: A Última Viagem do Deméter</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail> 
+        <date>24.08.2023</date> <genre>Suspense, Terror</genre>
+        <info>inspirado na icônica lenda do vampiro Drácula, acompanhamos a terrível história do navio Deméter, que foi fretado para transportar cargas particulares. Estranhos eventos acontecem à tripulação, que tenta sobreviver à viagem oceânica, perseguidos todas as noites por uma presença impiedosa a bordo do navio. Quando o Deméter finalmente chega à costa, é apenas um navio carbonizado e abandonado. Não há vestígios da tripulação. A trama se baseia em um único capítulo do livro clássico de Bram Stoker.</info> 		
+        <items>
+            <item>
+                <title>Drácula: A Última Viagem do Deméter (2023) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb9680316e37c25041e168a74deb98f431d3c77e</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail> 
+                <genre>Suspense, Terror</genre>
+            </item>
+            <item>
+                <title>Drácula: A Última Viagem do Deméter (2023) (Legendado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f08000ff308ea9020444b0c72b34602bf8aa19b</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail> 
+                <genre>Suspense, Terror</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>Ninguém Vai Te Salvar</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/zYlgqIpqJ1VAbvFhRhktAzIybVs.jpg</fanart>
+        <date>22.09.2023</date> <genre>Terror, Ficção Cientifica</genre>
+        <info>Brynn é uma jovem talentosa que vive isolada pela sua comunidade. Solitária, mas cheia de esperança, ela se refugia na casa onde cresceu, até o dia em que é despertada por barulhos estranhos que só podem ser oriundos de invasores alienígenas. O que se desenrola a partir daí é um duelo incessante entre Brynn e os seres extraterrestres que ameaçam seu futuro enquanto a obrigam a encarar seu passado.</info>  
+        <items>
+            <item>
+                <title>Ninguém Vai Te Salvar (2023) (Legendado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91d6bc9a5956bc50d0fa91d3b1d1d6322db884a6</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg</thumbnail>
+                <genre>Terror, Ficção Cientifica</genre>
             </item>
         </items>
     </channel>
