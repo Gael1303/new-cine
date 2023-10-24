@@ -1,555 +1,1793 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<channels>
-    <SetViewMode>500</SetViewMode>
-    <channel> 
-	    <name>O Silencio dos Inocentes</name>
-        <thumbnail>https://1.bp.blogspot.com/-3o110XLYmhM/XZJQWuNwcAI/AAAAAAAAZOQ/x5w9HcB6BXc8AKZb13tbZxLcXHGTkfO8QCNcBGAsYHQ/s1600/O%2BSil%25C3%25AAncio%2Bdos%2BInocentes.jpg</thumbnail>
-        <date>17.05.1991</date> <genre>Terror / Suspense / Drama</genre>
-        <info>A agente do FBI, Clarice Starling (Jodie Foster) é ordenada a encontrar um assassino que arranca a pele de suas vítimas. Para entender como ele pensa, ela procura o periogoso psicopata, Hannibal Lecter (Anthony Hopkins), encarcerado sob a acusação de canibalismo.</info>
-        <items>
-		
-            <item>
-                <title>O Silencio dos Inocentes (1991) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c9619c4fe189e819fd2cc34bb503ef3c7868450</link>
-                <thumbnail>https://1.bp.blogspot.com/-3o110XLYmhM/XZJQWuNwcAI/AAAAAAAAZOQ/x5w9HcB6BXc8AKZb13tbZxLcXHGTkfO8QCNcBGAsYHQ/s1600/O%2BSil%25C3%25AAncio%2Bdos%2BInocentes.jpg</thumbnail>
-                <genre>Terror / Suspense / Drama</genre>
-            </item>
-            <item>
-                <title>O Silencio dos Inocentes (1991) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6ec2a4507b13ade6bc4a1fac5b39ca25888b326</link>
-                <thumbnail>https://1.bp.blogspot.com/-3o110XLYmhM/XZJQWuNwcAI/AAAAAAAAZOQ/x5w9HcB6BXc8AKZb13tbZxLcXHGTkfO8QCNcBGAsYHQ/s1600/O%2BSil%25C3%25AAncio%2Bdos%2BInocentes.jpg</thumbnail>
-                <genre>Terror / Suspense / Drama</genre>
-            </item>
-        </items>
-    </channel>
-
-
-----	
-    
-	<channel>
-        <name>Psicose</name>
-        <thumbnail>https://image.tmdb.org/t/p/w342/ppgFbH4laZu2kYoFLGlU3ZbgzpX.jpg</thumbnail>
-        <date>15.01.1999</date> <genre>Terror / Misterio</genre>
-        <info>Marion rouba uma grande quantia de seu patrao e foge da cidade, eventualmente parando em um motel remoto. La, ela e servida por Norman Bates, uma pessoa muito estranha, mas docil, que ela sempre escuta discutindo com sua mae controladora. Marion e brutalmente assassinada apos aquela noite; Norman encontra e esconde o corpo. Quando um detetive e a irma de Marion visitam o motel para investigar, eles descobrem a terrivel verdade.</info>
-        <items> 
-            <item>
-                <title>Psicose (1998) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1215bb8e7f490885c13bd231f08663a1f0cb3222</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/ppgFbH4laZu2kYoFLGlU3ZbgzpX.jpg</thumbnail>
-                <genre>Terror / Misterio</genre>
-            </item>
-            <item>
-                <title>Psicose (1998) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff7a9ee6efdd4d6f0fc50362b77e277adeb4e17f</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/ppgFbH4laZu2kYoFLGlU3ZbgzpX.jpg</thumbnail>
-                <genre>Terror / Misterio</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>Se7en: Os 7 Crimes Capitais</name>
-        <thumbnail>https://image.tmdb.org/t/p/w342/69Sns8WoET6CfaYlIkHbla4l7nC.jpg</thumbnail>
-        <date>15.12.1995</date> <genre>Suspense / terror / Drama</genre>
-        <info>Quando, a ponto de se aposentar, o detetive William Somerset aborda o ultimo caso com a ajuda do recem-transferido David Mills, eles descobrem uma serie de assassinatos. Logo percebem que estao lidando com um assassino que tem como alvo pessoas que ele acredita representar os sete pecados capitais. Somerset tambem faz amizade com a esposa de Mills, Tracy, que esta gravida e com medo de ter a criança em uma cidade cheia de crimes.</info>
-        <items>
-            <item>
-                <title>Se7en: Os 7 Crimes Capitais (1995) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29d0ea8e79a1d48bb7cc6c445ce603f60ee0538c</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/69Sns8WoET6CfaYlIkHbla4l7nC.jpg</thumbnail>
-                <genre>Suspense / terror / Drama</genre>
-            </item>
-            <item>
-                <title>Se7en: Os 7 Crimes Capitais (1995) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c62db96f2940fffc47a76c82c88857a68e27a235</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/69Sns8WoET6CfaYlIkHbla4l7nC.jpg</thumbnail>
-                <genre>Suspense / terror / Drama</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>O Iluminado</name>
-        <thumbnail>https://image.tmdb.org/t/p/w342/xazWoLealQwEgqZ89MLZklLZD3k.jpg</thumbnail>
-        <date>25.12.1980</date> <genre> Drama / Terror</genre>
-        <info>Jack Torrance se torna caseiro de inverno do isolado Hotel Overlook, nas montanhas do Colorado, na esperança de curar seu bloqueio de escritor. Ele se instala com a esposa Wendy e o filho Danny, que e atormentando por premoniçoes. Jack nao consegue escrever e as visoes de Danny se tornam mais perturbadoras. O escritor descobre os segredos sombrios do hotel e começa a se transformar em um maniaco homicida, aterrorizando sua familia.</info>
-        <items>
-            <item>
-                <title>O Iluminado (1980) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b62a4d710c00f9e4f6263ccec5894eb0c805cf4</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/xazWoLealQwEgqZ89MLZklLZD3k.jpg</thumbnail>
-                <genre>Drama/Terror</genre>
-            </item>
-            <item>
-                <title>O Iluminado (1980) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c58874899b2ba718a1741266ab9fb198934d941</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/xazWoLealQwEgqZ89MLZklLZD3k.jpg</thumbnail>
-                <genre> Drama/Terror</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>O Sexto Sentido</name>
-        <thumbnail>https://image.tmdb.org/t/p/w342/vaghZWWBamw5vcyUyzFScWlIr1J.jpg</thumbnail>
-        <date></date> <genre>Terror / Suspense</genre>
-        <info></info>
-        <items>
-            <item>
-                <title>O Sexto Sentido (1999) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ca352e23688c20cf0b3ad0647eb4ac72b6d3334</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/vaghZWWBamw5vcyUyzFScWlIr1J.jpg</thumbnail>
-                <genre>Terror / Suspense</genre>
-            </item>
-            <item>
-                <title>O Sexto Sentido (1999) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/vaghZWWBamw5vcyUyzFScWlIr1J.jpg</thumbnail>
-                <genre>Terror / Suspense</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>*A Freira: Coleção</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d998jmbM0AQ9Ad138Mz0N9CdnOU.jpg</thumbnail>
-        <date>07.09.2023</date> <genre>Terror, Mistério, Thriller</genre>
-        <info>Uma série de filmes de terror sobrenatural que faz parte do universo de Invocação do Mal.</info>
-        <items>
-            <item>
-                <title>A Freira</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0500fbcb24d1ba01838d3f54815f4b4d6286998</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d998jmbM0AQ9Ad138Mz0N9CdnOU.jpg</thumbnail>
-                <genre>Terror, Mistério, Thriller</genre>
-            </item>
-            <item>
-                <title>A Freira 2</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39db6bb3bada15e9958228a6f6a8fd924a6d2856</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg</thumbnail>
-                <genre>Terror, Mistério, Thriller</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>*Sobrenatural: Coleção</name>
-        <thumbnail>https://www.themoviedb.org/t/p/original/7qXeocgg1EFVyW65LinabYh02uf.jpg</thumbnail>
-        <date>22.04.2011</date> <genre>Terror, Suspense, Mistério</genre>
-        <info>Uma série de filmes de terror americanos onde as tramas são retratadas como arquivos de casos de demonologistas. Os dois primeiros filmes giram em torno de um casal que, depois que seu filho entra misteriosamente em estado comatoso e se torna um vaso para fantasmas em um plano astral, são continuamente assombrados por demônios de um reino infernal conhecido como o Mais Distante até que eles tirem da família o que eles mais querem: vida. O terceiro filme, uma prequela, foca no mesmo médium que ajudou a família desta vez a socorrer uma jovem que clama pelos mortos, e o quarto a acompanha quando sua própria família se torna assombrada. Todas as tramas são retratadas como arquivos de casos de demonologistas.</info>
-        <items>
-            <item>
-                <title>Sobrenatural (2011) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed27821ba0d3929ce67f8ff2a6ae2e6e22c1b981</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2L8fErMpGD4s81VtWwspeyHYdiI.jpg</thumbnail>
-                <genre>Terror, Suspense, Mistério</genre>
-            </item>
-            <item>
-                <title>Sobrenatural: Capítulo 2 (2013) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e07e512572fc912984a6d8039c4c08b2c090ef1d</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9L8Ar7ayazSXPNLNxiaVWOCjzrf.jpg</thumbnail>
-                <genre>Terror, Suspense, Mistério</genre>
-            </item>
-			<item>
-                <title>Sobrenatural: A Origem (2015) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab9ade1d7df6a0aa670ef89071b3a4c9444e7ba1</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yZXbaDPmc8qT4vLQSnf4LAPv1J.jpg</thumbnail>
-                <genre>Terror, Suspense, Mistério</genre>
-            </item>
-            <item>
-                <title>Sobrenatural: A Última Chave (2018) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64532d503a58d6d871fd8f5792daf6d722349284</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3RYZGwImjBUF18RV57J5QuOa31.jpg</thumbnail>
-                <genre>Terror, Suspense, Mistério</genre>
-            </item>
-			<item>
-                <title>Sobrenatural: A Porta Vermelha (2023) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d26e49e3e9a46b6ace6f949ac7f5c38cfaf9cdc</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg</thumbnail>
-                <genre>Terror, Suspense, Mistério</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>*Pânico: Coleção</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glmWNyOkoXMqltWJJhQelAvIVxk.jpg</thumbnail>
-        <date>31.01.1997</date> <genre>Terror, Suspense, Crime, Mistério</genre>
-        <info>Os filmes da série "Pânico" seguem Sidney Prescott e sua guerra contra uma sucessão de assassinos que adotam o disfarce de Ghostface para perseguir e atormentar as suas vítimas. Sidney recebe apoio do deputado municipal e posteriormente xerife Dewey Riley, do repórter e escritor da revista cor de rosa Gale Weathers e do geek Randy Meeks, junto com vários amigos, parceiros românticos e outros conhecidos que mudam conforme a série avança.</info>
-        <items>
-            <item>
-                <title>Pânico (1996) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5293c765929fdf7301d23be43faa5cca65ab054b</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/29We1MLNidfXrwkZe390frjnOns.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime, Mistério</genre>
-            </item>
-            <item>
-                <title>Pânico 2 (1997) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f2bcbaae7582cd51534bb4d2578a18e7044e007</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/eVRtAUUefZ7YmDxlre7Oew3s8gs.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime, Mistério</genre>
-            </item>
-			<item>
-                <title>Pânico 3 (2000) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d480725206d9de9a7bfd42b94ed45a8f342068f</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/dCp1c7hf16kJtVJ0BLoyDhLqRVG.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime, Mistério</genre>
-            </item>
-            <item>
-                <title>Pânico 4 (2011) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4b4711e1be20b157ec5635e1ca56353a30e2ba7</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/qqqE8jR2bzZldtW5lJwKhHMxkx0.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime, Mistério</genre>
-            </item>
-			<item>
-                <title>Pânico V (2022) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d40ee8e9c947ae804289ca1b81d51f425bdacd2</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oadFpqhJ26yxqIlYcGioZ2W3EHN.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime, Mistério</genre>
-            </item>
-            <item>
-                <title>Pânico VI (2023) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb7b5f4f18023bf37978ed030476b2afc81fd892</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime, Mistério</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>*Invocação do Mal: Coleção</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg</thumbnail>
-        <date>13.09.2013</date> <genre>Terror, Suspense, Misterio</genre>
-        <info>Invocação do Mal é uma coletânea com dois de filmes de horror, estrelada por Vera Farmiga e Patrick Wilson, no papel dos investigadores paranormais Lorraine e Ed Warren. Esta franquia é de grande sucesso, com vários personagens marcantes que chegaram até a ter seus próprios filmes. Estas histórias são a base para criação de universo fantástico do paranormal.</info>
-        <items>
-            <item>
-                <title>Invocação do Mal (2013) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0032160ab449f818890de403d61f29fa495e27d4</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg</thumbnail>
-                <genre>Terror, Thriller</genre>
-            </item>
-            <item>
-                <title>Invocação do Mal 2 (2016) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c09482bc85b6615b3c8bc3ec3d8fd56fa5360392</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o94LZsIKt0priAca7hoN4yz7a1d.jpg</thumbnail>
-                <genre>Terror, Thriller</genre>
-            </item>
-			<item>
-                <title>Invocação do Mal 3: A Ordem do Demônio (2021) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7757081feb5f801552d2048fcb1f81b83d5d08a4</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg</thumbnail>
-                <genre>Terror, Thriller</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>*Um Lugar Silencioso: Coleção</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gRj1xzwDLRnSWDeqTQZFOg0y1VB.jpg</thumbnail>
-        <date>05.04.2018</date> <genre>Drama, Terror, Suspense, Ficção Científica</genre>
-        <info>Uma série de filmes que giram em torno de pessoas lutando para sobreviver em um mundo pós-apocalíptico habitado por criaturas extraterrestres cegas com um senso agudo de audição.</info>
-        <items>
-            <item>
-                <title>Um Lugar Silencioso (2018) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3248a7c86c4f501dc8ac12126ceee8249dd4240b</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tH0YRWQciL1pkwnLR7cZ7xSh7oA.jpg</thumbnail>
-                <genre>Terror, Drama, Ficção científica</genre>
-            </item>
-            <item>
-                <title>Um Lugar Silencioso - Parte II (2021) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55bed34cd84e9f6b6a14ad3964fa0744dbfbb79a</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wYqmuxd9jNFLf3gtQY5vbAUgiGk.jpg</thumbnail>
-                <genre>Terror, Drama, Ficção científica</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>*Jogos Mortais: Coleção</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dIqFwkyd38C9dYUhlibpYSp9IoT.jpg</thumbnail>
-        <date>02.04.2005</date> <genre>Terror, Suspense, Crime, Misterio</genre>
-        <info>Jigsaw é um assassino que possui uma marca registrada: ele deixa em suas vítimas uma cicatriz em forma de quebra-cabeças, que faz com que elas cometam atos igonizantes para se salvar. O detetive David Tapp (Danny Glover) é designado para investigar os assassinatos, bem como a capturar seu autor. Porém o caminho evasivo seguido por Jigsaw leva o detetive a desenvolver uma obsessão por capturá-lo. A coletânea é composta de sete filmes, Jogos Mortais I, Jogos Mortais II, Jogos Mortais III, Jogos Mortais IV, Jogos Mortais V, Jogos Mortais VI e Jogos Mortais VII: O Final, lançados sequencialmente nos anos 2004 a 2010.</info>
-        <items>
-            <item>
-                <title>Jogos Mortais (2004) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:146459d816a158ed09a227fc4a650e6fdb8f1361</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/7EPDYnjcy4cP4Ldy3qFApySOdNh.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime</genre>
-            </item>
-            <item>
-                <title>Jogos Mortais 2 (2005) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38b463f89156a539aab42d7ea9865d637eaadebc</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/kkQWU1hjgkqbWqFo6Vfu2V4Qm9f.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime</genre>
-            </item>
-			<item>
-                <title>Jogos Mortais III (2006) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:664be3625e7a82abae23186129355b9c623e34dd</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/xRTqYZ9X3NaziNFZhFB5GLK5van.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime</genre>
-            </item>
-            <item>
-                <title>Jogos Mortais IV (2007) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d8278ed2a595f42eba6d91c34f777baed6c3fff</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/tTkGTdQlXDYcavpdlaG3SqFcWJv.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime</genre>
-            </item>
-			<item>
-                <title>Jogos Mortais 5 (2009) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d99dc195c7183378baeaf6e3bc9ac2591ba9cd4b</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/8gm3biZ9S1VYN87nyfVzJinnMyG.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime</genre>
-            </item>
-            <item>
-                <title>Jogos Mortais 6 (2009) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32acbc1285854684336ce30cc1c51a87fff9a92b</link>
-                <thumbnail>https://brutotorrent.com/capas/jogos-mortais-6-download-torrent-2009-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime</genre>
-            </item>
-			<item>
-                <title>Jogos Mortais - O Final (2010) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:928f2e5937f39159c2dbc8d15f605c3ef6974838</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/xCdUTCowPiVmBrX4ygh3tbNtpGB.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime</genre>
-            </item>
-            <item>
-                <title>Jogos Mortais Jigsaw (2017) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33685fd371a1d99d750fc35a348dd0011888dd09</link>
-                <thumbnail>https://image.tmdb.org/t/p/w342/vVgUwFPKHlNpChH0mOruuohuifr.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime</genre>
-            </item>
-			<item>
-                <title>Espiral: O Legado de Jogos Mortais (2021) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=dfd8b3b3e10e89adc7fa89046c51e01295440330</link>
-                <thumbnail>https://brutotorrent.com/imagens/espiral-o-legado-de-jogos-mortais-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime</genre>
-            </item>
-            <item>
-                <title>Jogos Mortais X (2023) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2644e954d1c4d53341908db57dfb625d41c75c0</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg</thumbnail>
-                <genre>Terror, Suspense, Crime</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>Conferência Mortal</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ESDSTXeAopTa6U9MHrnr7FzO4D.jpg</thumbnail>
+<items>
+	<SetViewMode>502</SetViewMode>
+	<item>
+		<title>Conferência Mortal</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5406cd831df0dd5b5a1075de1cc82f7ed81f300c</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ESDSTXeAopTa6U9MHrnr7FzO4D.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/mQYig9irVVvQ9Tru3566iK1yhiI.jpg</fanart>
-        <date>13.10.2023</date> <genre>Terror, Comédia, Thriller</genre>
-        <info>Durante um evento que aparentava ser inofensivo, um grupo inusitado de funcionários precisa enfrentar não apenas suas diferenças como também um misterioso assassino.</info>
-        <items>
-		<item>
-            <title>Conferência Mortal (2023) (Dublado)</title>  
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5406cd831df0dd5b5a1075de1cc82f7ed81f300c</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ESDSTXeAopTa6U9MHrnr7FzO4D.jpg</thumbnail>
-                <genre>Terror, Comédia, Thriller</genre>
-            </item>
+		<info>Durante um evento que aparentava ser inofensivo, um grupo inusitado de funcionários precisa enfrentar não apenas suas diferenças como também um misterioso assassino.</info>
+		<genre>Terror, Comédia, Thriller</genre> / <rate>7.7</rate> / <date>2023/10/13</date> / <duration>6000</duration>
+</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Ursinho Pooh: Sangue e Mel</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1aec53b3c41b0fd9504336c01a7b8d5209155b37</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/wD2kUCX1Bb6oeIb2uz7kbdfLP6k.jpg</fanart>
+				<info>Depois de serem abandonados por Christopher Robin, que foi para a faculdade, Pooh e Leitão matam qualquer um que se atreva a se aventurar na Floresta dos Sonhos Azuis.</info>
+				<genre>Terror, Thriller</genre> / <rate>5.5</rate> / <date>2023/08/10</date> / <duration>5040</duration>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Colheita Sombria</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5554219fae6ccde225bb982162206a4428c4c90d</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/2fAnbhiwqPiu0XHA98nZrPckPgv.jpg</fanart>
+				<info>Em uma cidadezinha rural, um ritual mortal acontece todos os anos quando um pesadelo chamado Jack Dentes de Serra se ergue do milharal e desafia os jovens locais a luta sangrenta por sobrevivência.</info>
+				<genre>Terror, Mistério, Thriller, Fantasia, Drama</genre> / <rate>6.0</rate> / <date>2023/10/12</date> / <duration>5760</duration>
+			</item>
+---------------------------------------------------------------------------- 
+<item>
+				<title>Cemitério Maldito: A Origem</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e17b4d2dee6afc74d3fd476085eda05a40c6226</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/FYIdCS39yn0NGFDFlRUXUmRxRk.jpg</fanart>
+				<info>Em 1969, o jovem Jud Crandall sonha em deixar para trás sua cidade natal, Ludlow, mas logo descobre segredos sinistros no local. Ele é forçado a enfrentar a sombria história de sua família, que o manterá para sempre conectado à cidadezinha.</info>
+				<genre>Terror</genre> / <rate/> / <date>2023/10/06</date> / <duration>5220</duration>
+			</item>
+---------------------------------------------------------------------------- 
+<item>
+				<title>Dezesseis Facadas</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3736937b0c9cfed5885396a4cb7a438f7ec3fd8</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/qjMDwBWbG5hAP43q3meplZFreFQ.jpg</fanart>
+				<info>Trinta e cinco anos após o chocante assassinato de três adolescentes, o infame "Sweet Sixteen Killer" retorna na noite de Halloween para fazer uma quarta vítima. Jamie, de dezessete anos, ignora o aviso de sua mãe superprotetora e fica cara a cara com o maníaco mascarado e, fugindo para salvar sua vida, acidentalmente viaja no tempo de volta para 1987, o ano do assassinatos originais. Forçada a navegar na cultura desconhecida e ultrajante dos anos 1980, Jamie se une a sua mãe adolescente para derrubar o assassino de uma vez por todas, antes que ela fique presa no passado para sempre.</info>
+				<genre>Terror, Comédia</genre> / <rate>6.7</rate> / <date>2023/10/05</date> / <duration>6360</duration>
+			</item>
+---------------------------------------------------------------------------- 
+<item>
+				<title>Boogeyman: Seu Medo é Real</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:714287959ed77d06ce2b3a7882e3f86c47f60c6f</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/AvSeU3ji59QLN2tfWXzVqI6hg8x.jpg</fanart>
+				<info>Uma jovem de 16 anos e sua irmã mais nova ainda em luto pela morte da mãe, são alvo de uma criatura sobrenatural depois que o pai de ambas atende um paciente desesperado em casa.</info>
+				<genre>Terror, Thriller, Mistério</genre> / <rate>5.8</rate> / <date>2023/06/01</date> / <duration>6000</duration>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Raiva</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74df1962ea46d9672f605e9feafc4cefdbd62801</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xIvYJ6HcmD5lcXlaOhChPxLLcY.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/dAOfBYStTns0yECO1CWyXuk7RF5.jpg</fanart>
+				<info>Alan e seu pai fogem da dolorosa perda de sua mãe. Enquanto se escondem em um alojamento isolado, Alan descobre mensagens escondidas de seu tio que o levam a acreditar que seu pai é um lobisomem. Sua vida e as vidas de seus vizinhos estão em perigo. Alan decide fazer algo de uma vez por todas. Destruir a besta não parece um plano exagerado na realidade violenta em que ele vive todos os dias.</info>
+				<genre>Terror, Drama, Thriller</genre> / <rate>6.7</rate> / <date>2023/06/03</date> / <duration>5520</duration>
+			</item>
+---------------------------------------------------------------------------- 
+<item>
+				<title>Drácula de Bram Stoker</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e5fdc68374f97f0bdf5d5c9179965b2490901e9$nome=Drácula de Bram Stoker 1080P - DUBLADO</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:697c8db0a6e7f60e336ef3bad6122e3195810e1e$nome=Drácula de Bram Stoker 1080P - DUBLADO 2</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ecuP4ZaIHawKmmIaXD5mS55UlhL.jpg</thumbnail>
+				<info>"[I]O vampiro Conde Drácula vem à Inglaterra atrás de quem ele acredita ser sua antiga paixão, de quando ainda era um mortal.[/I]"
+
+O vampiro Conde Drácula vem à Inglaterra atrás de quem ele acredita ser sua antiga paixão, de quando ainda era um mortal.</info>
+				<genre>Romance, Terror</genre>
+				<date>1992/11/13</date>
+				<duration>7680</duration>
+			</item>
+--------------------------------------------------------------------------------------- 
+<item>
+				<title>O Convento</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:989cc1682fe368edb9357fa6bf25c0fbe985e004</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGNVrW2TWMz4pWHayrRinZyCZ01.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/ly4vC69g78oVRogaSyBFDRu52kG.jpg</fanart>
+				<genre>Terror, Suspense</genre> / <rate>5.5</rate> / <date>2023/02/10</date> / <duration>5400</duration>
+				<info>"[I]Abençoada seja a maldição[/I]"
+
+Após o suposto suicídio de seu irmão padre, Grace viaja para o remoto convento escocês onde ele morreu. Desconfiando do relato da Igreja, ela descobre assassinato, sacrilégio e uma verdade perturbadora sobre si mesma.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>O Conde</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:219cbebcfdd0be01f88af9221ff84253e813d80f</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2j8QZBSw22JRCfVgZrteu7BaYsE.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/f0oDdvbzZ1qjfggotV1aniJmd6b.jpg</fanart>
+				<genre>Terror, Comédia</genre> / <rate>6.3</rate> / <date>2023/09/08</date> / <duration>6660</duration>
+				<info>O Conde combina terror e humor ácido em um universo paralelo inspirado na história recente do Chile. O filme retrata Augusto Pinochet, um símbolo do fascismo mundial, como um vampiro recluso em uma mansão em ruínas no gelado extremo sul do continente. Ele se alimenta do mal para sobreviver, mas aos 250 anos decide parar de beber sangue e renunciar ao privilégio da vida eterna. Pinochet não aguenta mais ser lembrado como um ladrão.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Inquietação</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ee339e8a4524971d9445ba9d3ac764e921d063c</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8FuUkC5doaNfmFq21HIhp0u3eJ.jpg</thumbnail>
+				<info>Sam sofre um acidente de carro e acorda num hospital. Ele busca uma saída ao perceber que o lugar está abandonado, mas descobre que forças do mal o prendem lá.</info>
+				<genre>Suspense, Terror</genre>
+				<date>2023/01/10</date>
+				<duration>5100</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Hipnose</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a943434191e0e72479f3837fb579f090e742fd1d</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/doNw8DOOIatMR7voYWIOO2R15zC.jpg</thumbnail>
+				<info>Do-hyun e outros jovens perderam suas memórias de infância. Eles decidem tentar um tratamento com hipnose, mas, após a experiência, eventos estranhos começam a acontecer e trazem à tona um terrível segredo.</info>
+				<genre>Terror, Suspense</genre>
+				<date>2021/03/24</date>
+				<duration>5100</duration>
+			</item>
+--------------------------------------------------------------------------------------- 
+<item>
+				<title>O Clube de Leitores Assassinos</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b21abb1a0c63e201db3a10793c7b7532cbaa1b4b</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rn7PFMpdUUEPxaf6AYMVF91DUfJ.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/lEMO9pVODhiWLgJzuCaYlfJkdNz.jpg</fanart>
+				<genre>Terror</genre> / <rate>6.0</rate> / <date>2023/08/23</date> / <duration>5400</duration>
+				<info>Oito amigos fãs de terror lutam para sobreviver à perseguição de um palhaço assassino que conhece o maior segredo deles.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>O Estranho Caso do Fantasma Claustrofóbico</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3d65e969dfa4a41958f6937e5f8a7868f8236dd</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxl2XF0Qnmig21w4btbQjxxcIq.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/uytxil0xW5wj1mOa9Abw4TlxOsM.jpg</fanart>
+				<genre>Fantasia, Família, Terror</genre> / <rate>7.0</rate> / <date>2023/07/21</date> / <duration>7080</duration>
+				<info>Os irmãos Nikolaj (12) e Emil (8) descobrem o fantasma de um menino que habita o quarto de sua nova casa. Com a ajuda da amiga Ximena (12), eles vão tentar ajudar o fantasma a resolver sua pendência: entregar uma carta de amor a uma garota que ele deixou de ver há mais de 30 anos.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>JACK: A Caixa Maldita 2 - O Despertar </title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b5740d3a88e0f6e30790c7e06273e1c6422898b</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uRzhyPrwsfHxSKIvywkKw0Noy6D.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/x2wccfagyR0WlL77ptkyRvPuWt8.jpg</fanart>
+				<genre>Terror</genre> / <rate>5.4</rate> / <date>2022/01/03</date> / <duration>5400</duration>
+				<info>Quando uma mulher moribunda abre uma antiga caixa misteriosa, ela entra em um acordo com o demônio dentro dela que curaria sua doença em troca de ajudá-lo a reclamar seis vítimas inocentes.</info>
+			</item>
+---------------------------------------------------------------------------- 
+<item>
+				<title>A Medium</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3584256e4d8b408929ea5d8ce366d525171ee1dd</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/oCPAJFtmdjlMuye8hVI7LAjymgO.jpg</thumbnail>
+				<info>O filme conta a aterrorizante historia de um xamã em Loei na região de Isan, na Tailândia. A vila tailandesa e guiada por antigas crenças xamânicas, o guia religioso Nim (Sawanee Utoomma) carrega todas as manifestações espirituais de seu povo e sua terra.</info>
+				<genre>Horror</genre>
+				<year>2022</year>
+				<date>2022/05/19</date>
+				<duration>7400</duration>
+			</item>
 			<item>
-            <title>Conferência Mortal (2023) (Legendado)</title>  
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64b57a0e8396be18e7fb506c7c19a595a682de91</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ESDSTXeAopTa6U9MHrnr7FzO4D.jpg</thumbnail>
-                <genre>Terror, Comédia, Thriller</genre>
-			</item>	
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>Ursinho Pooh: Sangue e Mel</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg</thumbnail>  
-		<fanart>https://www.themoviedb.org/t/p/original/wD2kUCX1Bb6oeIb2uz7kbdfLP6k.jpg</fanart>
-        <date>08.10.2023</date> <genre>Terror, Thriller</genre>
-        <info>Depois de serem abandonados por Christopher Robin, que foi para a faculdade, Pooh e Leitão matam qualquer um que se atreva a se aventurar na Floresta dos Sonhos Azuis.</info>
-        <items>
-            <item>  <title>Ursinho Pooh: Sangue e Mel (2023) (Dublado)</title>  
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1aec53b3c41b0fd9504336c01a7b8d5209155b37</link>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg</thumbnail>  
-		<genre>Terror, Thriller</genre>
-        </item>
-            <item>
-                <title>Ursinho Pooh: Sangue e Mel (2023) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99680907320b87651d681d3548478d6d615c132b</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fXGOLOxV0KLnzueWJPFF5tUP3Lq.jpg</thumbnail>  
-                <genre>Terror, Thriller</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>Colheita Sombria</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/2fAnbhiwqPiu0XHA98nZrPckPgv.jpg</fanart>
-        <date>12.10.2023</date> <genre>Terror, Mistério, Thriller, Fantasia, Drama</genre>
-        <info>Em uma cidadezinha rural, um ritual mortal acontece todos os anos quando um pesadelo chamado Jack Dentes de Serra se ergue do milharal e desafia os jovens locais a luta sangrenta por sobrevivência.</info>
-        <items>
-            <item> 
-			<title>Colheita Sombria (2023) (Dublado)</title>  
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5554219fae6ccde225bb982162206a4428c4c90d</link>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg</thumbnail>
-        <info>Em uma cidadezinha rural, um ritual mortal acontece todos os anos quando um pesadelo chamado Jack Dentes de Serra se ergue do milharal e desafia os jovens locais a luta sangrenta por sobrevivência.</info>
-		<genre>Terror, Mistério, Thriller, Fantasia, Drama</genre> 
-        </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>Dezesseis Facadas</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/qjMDwBWbG5hAP43q3meplZFreFQ.jpg</fanart>
-        <date>05.10.2023</date> <genre>Terror, Comédia</genre> 
-        <info>Trinta e cinco anos após o chocante assassinato de três adolescentes, o infame "Sweet Sixteen Killer" retorna na noite de Halloween para fazer uma quarta vítima. Jamie, de dezessete anos, ignora o aviso de sua mãe superprotetora e fica cara a cara com o maníaco mascarado e, fugindo para salvar sua vida, acidentalmente viaja no tempo de volta para 1987, o ano do assassinatos originais. Forçada a navegar na cultura desconhecida e ultrajante dos anos 1980, Jamie se une a sua mãe adolescente para derrubar o assassino de uma vez por todas, antes que ela fique presa no passado para sempre.</info>
-        <items>
-            <item>  <title>Dezesseis Facadas (2023) (Dublado)</title>  
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3736937b0c9cfed5885396a4cb7a438f7ec3fd8</link>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg</thumbnail>  
-		<genre>Terror, Comédia</genre> 
-        </item>
-            <item>
-                <title>Dezesseis Facadas (2023) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de144038bb339d45b9a8c1d5c225ca9bca267147</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o5tWAiHfxEvu2z1qkJKU4gW1uPY.jpg</thumbnail>  
-                <genre>Terror, Comédia</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>*Cemitério Maldito: Coleção</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/FYIdCS39yn0NGFDFlRUXUmRxRk.jpg</fanart>
-        <date>06.10.2023</date> <genre>Terror</genre>
-        <info>Em 1969, o jovem Jud Crandall sonha em deixar para trás sua cidade natal, Ludlow, mas logo descobre segredos sinistros no local. Ele é forçado a enfrentar a sombria história de sua família, que o manterá para sempre conectado à cidadezinha.</info>
-        <items>
-		<item>
-                <title>Cemitério Maldito (2019) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:765351abe3664f7baa2fafcc030d0ae74157fcac</link>
-                <thumbnail>https://3.bp.blogspot.com/-t4IiUI50SaU/XNMUhotO77I/AAAAAAAAXGA/BHheD_yE_vEKNw0CC-K31AM6CJxaUi0tgCLcBGAs/s1600/Cemiterio%2BMaldito%2B2019.jpg</thumbnail>
-                <genre>Terror</genre>
-            </item>
-            <item>  
-			<title>Cemitério Maldito: A Origem (2023) (Dublado)</title>  
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e17b4d2dee6afc74d3fd476085eda05a40c6226</link>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg</thumbnail>  
-		<genre>Terror</genre> 
-        </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>Boogeyman: Seu Medo é Real</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/AvSeU3ji59QLN2tfWXzVqI6hg8x.jpg</fanart>
-        <date>01.06.2023</date> <genre>Terror, Thriller, Mistério</genre>
-        <info>Uma jovem de 16 anos e sua irmã mais nova ainda em luto pela morte da mãe, são alvo de uma criatura sobrenatural depois que o pai de ambas atende um paciente desesperado em casa.</info>
-        <items>
-            <item>  <title>Boogeyman: Seu Medo é Real (2023) (Dublado)</title>  
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:714287959ed77d06ce2b3a7882e3f86c47f60c6f</link>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg</thumbnail>  
-		<genre>Terror, Thriller, Mistério</genre>
-        </item>
-            <item>
-                <title>Boogeyman: Seu Medo é Real (2023) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bb2f1a3f8d2951b1f07f147f9ff598f541b826a</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg</thumbnail>  
-                <genre>Terror, Thriller, Mistério</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>Raiva</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xIvYJ6HcmD5lcXlaOhChPxLLcY.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/dAOfBYStTns0yECO1CWyXuk7RF5.jpg</fanart>
-        <date>03.06.2023</date> <genre>Terror, Drama, Thriller</genre>
-        <info>Alan e seu pai fogem da dolorosa perda de sua mãe. Enquanto se escondem em um alojamento isolado, Alan descobre mensagens escondidas de seu tio que o levam a acreditar que seu pai é um lobisomem. Sua vida e as vidas de seus vizinhos estão em perigo. Alan decide fazer algo de uma vez por todas. Destruir a besta não parece um plano exagerado na realidade violenta em que ele vive todos os dias.</info>
-        <items>
-            <item>  <title>Raiva (2023) (Dublado)</title>  
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74df1962ea46d9672f605e9feafc4cefdbd62801</link>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1xIvYJ6HcmD5lcXlaOhChPxLLcY.jpg</thumbnail> 
-		<genre>Terror, Drama, Thriller</genre> 
-        </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>Fale Comigo</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqTYmtZKv4RGJiIQy6P6KyMNJ3h.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/dVdjbRLvL4qan6APcpnl5BIXJGU.jpg</fanart>
-        <date>17.08.2023</date> <genre>Terror, Suspense</genre>
-        <info>Quando um grupo de amigos descobre como conjurar espíritos usando uma antiga mão embalsamada, eles ficam viciados na nova emoção. Até que um deles vai longe demais e abre a porta para o mundo espiritual.</info>
-        <items>
-            <item>  <title>Fale Comigo (2023) (Dublado)</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24bcce4cf3d6c0fd3199cff3eb1c2853ca2ce5d4</link>
-            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqTYmtZKv4RGJiIQy6P6KyMNJ3h.jpg</thumbnail>  
-        <genre>Terror, Suspense</genre>
-    </item>
-            <item>
-                <title>Talk To Me (2023) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:830132df2c737cb496becd067ab817fbee33ffcd</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqTYmtZKv4RGJiIQy6P6KyMNJ3h.jpg</thumbnail>
-                <genre>Terror, Suspense</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>Drácula: A Última Viagem do Deméter</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail> 
-        <date>24.08.2023</date> <genre>Suspense, Terror</genre>
-        <info>inspirado na icônica lenda do vampiro Drácula, acompanhamos a terrível história do navio Deméter, que foi fretado para transportar cargas particulares. Estranhos eventos acontecem à tripulação, que tenta sobreviver à viagem oceânica, perseguidos todas as noites por uma presença impiedosa a bordo do navio. Quando o Deméter finalmente chega à costa, é apenas um navio carbonizado e abandonado. Não há vestígios da tripulação. A trama se baseia em um único capítulo do livro clássico de Bram Stoker.</info> 		
-        <items>
-            <item>
-                <title>Drácula: A Última Viagem do Deméter (2023) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb9680316e37c25041e168a74deb98f431d3c77e</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail> 
-                <genre>Suspense, Terror</genre>
-            </item>
-            <item>
-                <title>Drácula: A Última Viagem do Deméter (2023) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f08000ff308ea9020444b0c72b34602bf8aa19b</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail> 
-                <genre>Suspense, Terror</genre>
-            </item>
-        </items>
-    </channel>
-----	
-    
-	<channel>
-        <name>Ninguém Vai Te Salvar</name>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/zYlgqIpqJ1VAbvFhRhktAzIybVs.jpg</fanart>
-        <date>22.09.2023</date> <genre>Terror, Ficção Cientifica</genre>
-        <info>Brynn é uma jovem talentosa que vive isolada pela sua comunidade. Solitária, mas cheia de esperança, ela se refugia na casa onde cresceu, até o dia em que é despertada por barulhos estranhos que só podem ser oriundos de invasores alienígenas. O que se desenrola a partir daí é um duelo incessante entre Brynn e os seres extraterrestres que ameaçam seu futuro enquanto a obrigam a encarar seu passado.</info>  
-        <items>
-            <item>
-                <title>Ninguém Vai Te Salvar (2023) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91d6bc9a5956bc50d0fa91d3b1d1d6322db884a6</link>
-                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg</thumbnail>
-                <genre>Terror, Ficção Cientifica</genre>
-            </item>
-        </items>
-    </channel>
+				<title>Horror em Amityville </title>
+				<date>2005/04/15</date>
+				<duration>5400</duration>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53fb8f7d01fba8eab38d331cb4bcb518525a16f6$nome=Horror em Amityville 1080P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd2c7ba54c371e881404c5e54c2ccf3c80da80c0$nome=Horror em Amityville 720P</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/lP8A3Myc0JzfeHAZFcflALiF6Ru.jpg</thumbnail>
+				<info>George e Kathy se mudam com os filhos para uma casa que no passado foi palco de um brutal assassinato. Nao demora muito para que estranhos eventos comecem a acontecer, afetando a vida da familia e indicando que uma presença maligna esta oculta ali.</info>
+			</item>
+			<item>
+				<title>Sobrenatural: A Porta Vermelha</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RR6ZQQNQCRQ37JPFG4IKP436K3G5EIDM&dn=Insidious.The.Red.Door.2023.1080p.WEB.h264-ETHEL%5BTGx%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A2XloB9BYZtMzWOR78uguOoCfH5.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/i2GVEvltEu3BXn5crBSxgKuTaca.jpg</fanart>
+				<genre>Terror, Mistério, Thriller</genre> / <rate>6.0</rate> / <date>2023/06/07</date> / <duration>6420</duration>
+				<info>"[I]Termina onde tudo começou.[/I]"
+
+Josh Lambert segue para o leste para deixar seu filho, Dalton, na faculdade. Mas demônios reprimidos do passado voltam repentinamente para assombrar os dois.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>A Anfitriã</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JUW5G3A26UYEA6KM2HZPY64BWGNARMWP&dn=A%20Anfitri%C3%A3%202021%20BluRay%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nYf6MDUJCeeS73biahFNK3vcoOI.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/kYS5oHeMjmgwHZQ1voxMbsqXpqd.jpg</fanart>
+				<genre>Terror, Suspense</genre> / <rate>5.5</rate> / <date>2021/08/14</date> / <duration>4980</duration>
+				<info>Com a contagem de seguidores diminuindo, os vloggers de viagens Teddy e Claire criam conteúdo viral em torno de seu "superhost" mais recente, Rebecca, que quer mais da dupla do que uma ótima crítica.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Meu Coração Só Irá Bater Se Você Pedir </title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a54faecacc04747bea2aaad8db260f2e25d5407</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUJQxmZxM7GL8kmDRE6OMigzDn0.jpg</thumbnail>
+				<info>Dois irmãos misteriosos se desentendem sobre o cuidado de seu irmão mais novo, frágil e doentio.</info>
+				<genre>Drama, Terror</genre>
+				<date>2020/04/15</date>
+				<duration>5340</duration>
+			</item>
+--------------------------------------------------------------------------------------- 
+<item>
+				<title>O Chamado 4: Samara Ressurge</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BZ5KQDOZZDAFJGGN7EFID4RDZOT2J3JB&dn=O%20Chamado%204%20-%20Samara%20Ressurge%202023%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7IlDfL40rIe1bVERCxXUJJfx2en.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/pMj9d6jITjjo0fLHZX91E6GcdH2.jpg</fanart>
+				<genre>Terror, Mistério</genre> / <rate>3.9</rate> / <date>2023/04/27</date> / <duration>6000</duration>
+				<info>"[I]O mal retorna.[/I]"
+
+Pessoas que assistem a um vídeo amaldiçoado subitamente morrem. Essas mortes ocorrem em todo o Japão. Ayaka Ichijo é uma estudante de pós-graduação extremamente inteligente e com um QI acima de 200. Sua irmã mais nova assiste à um vídeo amaldiçoado por diversão. Ayaka Ichijo tenta revelar o mistério que envolve o tal vídeo.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Minha Casa </title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZWIYXY6AA5WEM7FHBF4YOYHHFPP63C5J&dn=Minha%20Casa%202023%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dKP2cphhHAsw0ftInIbipWfgB1l.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/xk7wPfd1zTrnAhkI2JuwFbCfDK6.jpg</fanart>
+				<genre>Drama, Mistério, Thriller, Terror</genre> / <rate>4.6</rate> / <date>2023/04/26</date> / <duration>5400</duration>
+				<info>"[I]Desvende o segredo mais sombrio de Carla.[/I]"
+
+Carla vive se escondendo com seu pai. Quando um estranho misterioso aparece, ela começa a questionar a razão do isolamento de sua família.</info>
+			</item>
+---------------------------------------------------------------------------- 
+<item>
+				<title>Piscina Infinita</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PK2EP2O5YA4SYENTTZE4GZVM4JINRROK&dn=Piscina%20Infinita%202023%20BluRay%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d0RDZqvyziOZB0esOt9rFYR2uG3.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/1xhcEecvRJXQ2OAVO7l9btlrN6D.jpg</fanart>
+				<genre>Terror, Ficção científica, Thriller</genre> / <rate>6.1</rate> / <date>2023/01/27</date> / <duration>7200</duration>
+				<info>"[I]Descubra que tipo de criatura você realmente é...[/I]"
+
+Enquanto ficam em um resort isolado na ilha, James e Em estão desfrutando de umas férias perfeitas de praias intocadas, funcionários excepcionais e tomando sol. Mas guiados pela sedutora e misteriosa Gabi, eles se aventuram fora dos terrenos do resort e se encontram em uma cultura cheia de violência, hedonismo e horror incalculável.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>O Homem da Cabana</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2GBNMB5RUFGAUPYZUIX5O6UQIU4ZVUOE&dn=O%20Homem%20da%20Cabana%202022%20BluRay%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/njTeSfX4j6ahuijngzq9PnrC5UQ.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/9zof8PxuojWwlOZL12F4EDZHGLi.jpg</fanart>
+				<genre>Thriller, Terror</genre> / <rate/> / <date>2022/10/14</date> / <duration>5820</duration>
+				<info>"[I]Cuidado com o inimigo interno.[/I]"
+
+Nas profundezas da floresta, um caminhante perdido tropeça na cabana de um velho errático e recluso. O que começa como uma conversa cordial logo se torna perigoso quando fica claro que um ou ambos podem estar escondendo um segredo aterrorizante.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Bird Box Barcelona</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DZJ6FWVAZE2E6J2VA427AKNQDKNEEA3&dn=Bird%20Box%20Barcelona%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/aQ05QNSEersEdOzaqdjnrkqxZXE.jpg</fanart>
+				<genre>Thriller, Drama, Ficção científica, Terror</genre> / <rate>6.6</rate> / <date>2023/07/14</date> / <duration>7440</duration>
+				<info>"[I]Temam os que veem.[/I]"
+
+Depois que uma força misteriosa dizima a população do mundo, Sebastian precisa enfrentar uma jornada de sobrevivência pelas ruas desoladas de Barcelona. Mas, ao se aliar a outros sobreviventes em busca de um lugar seguro, eles descobrem uma ameaça ainda mais sinistra que não para de crescer.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>O Demônio dos Mares</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SOIIJJPCE3HEBXXDFBBF3DDZMXN2VO6V&dn=O%20Dem%C3%B4nio%20dos%20Mares%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w6urr1Bo8R4XEOBJDW0j1fNYWH0.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/9t0tJXcOdWwwxmGTk112HGDaT0Q.jpg</fanart>
+				<genre>Terror, Suspense</genre> / <rate>3.7</rate> / <date>2023/06/08</date> / <duration>6000</duration>
+				<info>"[I]A natureza vai se vingar.[/I]"
+
+O petroleiro Paul Sturges leva sua família de férias para a Bahia Azul. Lá, ele percebe que a cidade costeira desmoronou misteriosamente. Paul começa o dia com uma visita de rotina, com sua família, para inspecionar uma plataforma de petróleo nas proximidades. A situação se torna um pesadelo quando, das profundezas do oceano, um tubarão gigante surge: o demônio negro. Sob a ameaça constante do tubarão primitivo, Paul terá que encontrar um jeito de levar sua família de volta para a costa de forma segura.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Tubarão: Mar de Sangue</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OSKXVDJQNKIPJLHQUANICXIO4RGQNOTW&dn=Tubar%C3%A3o%20-%20Mar%20de%20Sangue%202022%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qUBOPVsMT9OgsUVqZWUBLkgYrb6.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/dvHKdXijoN1OEzGcPhd0eRvkfMd.jpg</fanart>
+				<genre>Terror, Suspense, Ação, Aventura</genre> / <rate>4.4</rate> / <date>2022/12/01</date> / <duration>5220</duration>
+				<info>Um grupo de jovens que está passando as férias no México. Depois de uma noite de muita curtição, os amigos furtam dois jetskis e os levam para o alto-mar, mas eles acabam batendo em um acidente terrível. Depois que um dos jetskis afunda, o grupo se encontra a mais de três quilômetros da costa, com um jetski quebrado e um amigo gravemente ferido. Sem poder nada de volta para terra firme e com predadores circulando nas agitadas águas abaixo, o verdadeiro terror começa.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Nocebo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63SFHCLL3LNLYPAE7Z3O5URZZBT2NO6M&dn=Nocebo%202022%20BluRay%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3FPnDTlX0LsaU4VD5mc82BMbchA.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/mIrNZQw4u9fpGyllxoYEmQrdYR5.jpg</fanart>
+				<genre>Suspense, Terror</genre> / <rate>6.1</rate> / <date>2022/12/09</date> / <duration>5760</duration>
+				<info>"[I]A sanidade está por um fio.[/I]"
+
+Uma designer de moda sofre de uma doença misteriosa que intriga seus médicos e frustra seu marido. Até que a ajuda chega na forma de uma cuidadora filipina, que usa a cura popular tradicional para revelar uma verdade terrível.</info>
+			</item>
+---------------------------------------------------------------------------- 
+ <item>
+				<title>Ninho do Mal</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a0fce512a0f31e5dfeebdcf44be052615877037</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6cFqrHZKsMMEpa8PS2iURGSHOrg.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/bnXGwFBomUseQIc9Xqiymy9p8qP.jpg</fanart>
+				<genre>Terror, Fantasia</genre> / <rate>6.1</rate> / <date>2022/03/04</date> / <duration>5460</duration>
+				<info>Tinja, de 12 anos, e ginasta, está desesperada para agradar a mãe, uma mulher obcecada em apresentar a imagem de uma família perfeita. Uma noite, Tinja encontra um ovo estranho e leva para seu quarto, sem contar para ninguém da família. Mas estranhos acontecimentos fazem com que Tinja mude para algo animalesco. Porém quando o ovo choca, o que sai de dentro é inacreditável.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>A Primeira Comunhão</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72d92dbdcf71126f3d371e8eb7efeb093c43d733</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AdI2MkMriHeay5AKUytfnW8oGct.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/54IXMMEQKlkPXHqPExWy98UBmtE.jpg</fanart>
+				<genre>Terror</genre> / <rate>5.1</rate> / <date>2023/03/30</date> / <duration>6180</duration>
+				<info>Espanha, final dos anos 1980. A recém-chegada Sara tenta se encaixar com os outros adolescentes nesta pequena cidade unida na província de Tarrgona. Se ao menos ela fosse mais parecida com seu melhor amigo extrovertido, Rebe. Eles saem uma noite em uma boate, a caminho de casa, eles se deparam com uma menina segurando uma boneca, vestida para sua primeira comunhão. E é aí que o pesadelo começa.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>O Exorcista do Papa</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ee71897ad59951dd64a3b3254f90a53b03b1020</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rBDAkmDdRv1bG996JPPNq0cMOVG.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/4n6pKjKlrDApwlw7k36MkcQHgc9.jpg</fanart>
+				<genre>Terror, Mistério</genre> / <rate>6.1</rate> / <date>2023/04/05</date> / <duration>6240</duration>
+				<info>Inspirado nos arquivos reais do Padre Gabriele Amorth, Chefe Exorcista do Vaticano, o padre que realizou mais de 100.000 exorcismos em sua vida, faleceu em 2016 aos 91 anos. Amorth escreveu duas memórias – An Exorcist Tells His Story e An Exorcist: More Stories – e detalhou suas experiências lutando contra Satanás e demônios que agarraram as pessoas em seu mal. O filme, sendo o retrato da figura da vida real, acompanha Amorth (Russell Crowe) enquanto ele investiga a terrível possessão de um menino e acaba descobrindo uma conspiração secular que o Vaticano tentou desesperadamente manter no esquecimento.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Sick</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WJW6YGOWXJLSD5EPGMM23XMHIGHM2MKX&dn=Sick%202022%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bshCGAHZRldAfdxXDX3637PW9cR.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/ecr4YHriCgIdMSQcdtuPo8NJeGi.jpg</fanart>
+				<genre>Terror, Thriller</genre> / <rate>6.0</rate> / <date>2023/05/27</date> / <duration>5100</duration>
+				<info>Durante a pandemia do Covid-19, as amigas Parker e Miri se isolam na casa do lago da família de uma delas e aparentemente tudo parecia tranquilo. Quando uma batida violenta na porta começa a assustá-las, a estadia das amigas acaba se tornando uma sequência de horror e luta pela sobrevivência</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Verão Fantasma</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7W2ATCRPP4IO2OX3AAVB2XVQJQ2M5FKU&dn=Ver%C3%A3o%20Fantasma%202022%20WEB-DL%201080p%20x264%20NACIONAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vwjzdQhY8JbHXHPcnkSWZWfggkK.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/kbaRHbxuR9ezwGjbNCeASNnaq3H.jpg</fanart>
+				<genre>Terror, Música, Romance, Fantasi</genre> / <rate>7.4</rate> / <date>2022/04/29</date> / <duration>6360</duration>
+				<info>Em algum lugar do litoral paulista, os adolescentes Lucas e Martin se apaixonam enquanto investigam o desaparecimento de um garoto local, mas seu romance é ameaçado por forças sinistras que se escondem por trás daquela paisagem idílica e veranil.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Tic-Tac: A Maternidade do Mal</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7B5VOAXHMK4ZF72MZLSJD5PNITMRAR4C&dn=Tic-Tac%20-%20A%20Maternidade%20do%20Mal%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/KXtF6aPrQFQSg2bo9CyoiN6IgG.jpg</fanart>
+				<genre>Terror, Mistério, Thriller</genre> / <rate>7.6</rate> / <date>2023/04/28</date> / <duration>5520</duration>
+				<info>Ella é uma estrela em ascensão no Design de Interiores, mora em uma casa digna de revista e é casada com um marido amoroso. Mas Ella se sente excluída porque... Ella não quer filhos. Quando Ella fica sabendo de um ensaio clínico em que seu problema está sendo considerado uma questão de fertilidade, ela decide se inscrever. Para sua surpresa, o tratamento funciona, mas a que custo?</info>
+			</item>
+---------------------------------------------------------------------------- 
+<item>
+				<title>Assombrosas</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:980ea1a635e660415dfad392e932a923449fcadc</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kwdK2tzASFRaL2lFPU6Pd4Nqno4.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/8KfFlxtewZTulj6oklTVZQMaPGV.jpg</fanart>
+				<genre>Terror, Mistério</genre> / <rate/> / <date>2023/04/14</date> / <duration>5700</duration>
+				<info>A habilidade de três mulheres que investigam eventos paranormais é colocada à prova após o desaparecimento do líder de sua organização. Inspirado no Grupo Hepta</info>
+			</item>
+---------------------------------------------------------------------------- 
+<item>
+				<title>Huesera</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:693105f0418bbac0d606e0d5ce60bc1abdce5908</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7NhG3NClQ1xrc3kEwTiwFht5Y3L.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/vCgroegqhnZXlhj98AvbGyKzEhG.jpg</fanart>
+				<genre>Drama, Terror, Mistério</genre> / <rate>6.2</rate> / <date>2023/02/10</date> / <duration>5580</duration>
+				<info>Valéria há muito sonha em ser mãe. Após saber que está grávida, ela espera se sentir feliz, mas algo está errado.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Olhos Famintos 4: Renascimento</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c4630018bcbceb733452cc9d383e5e5c61dbc83</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/37xwMszfSsl1PVjaFXvKeB0nETa.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/gGgGMvWg6qO6Rv4Vf1r5YUiRkHr.jpg</fanart>
+				<genre>Terror, Thriller, Mistério</genre> / <rate>2.5</rate> / <date>2022/09/19</date> / <duration>5400</duration>
+				<info>Forçada a embarcar numa viagem até um festival de horror na Louisana com seu namorado, Laine começa a experienciar visões perturbadores associadas ao passado da cidade, em particular a uma lenda urbana local conhecida como o Creeper. Com a chegada do festival e o entretenimento sangrento se tornando um frenesi, Laine acredita que algo de outro mundo foi invocado... e ela está no centro de tudo.</info>
+			</item>
+---------------------------------------------------------------------------- 
+ <item>
+				<title>A Profecia do Mal</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c32f39db73cb25d5e3c1e5f33e6d2440cb13496f</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/lInYIBIrx1DxX1Gngy0Ln3SDVYk.jpg</fanart>
+				<genre>Terror, Thriller</genre> / <rate>4.4</rate> / <date>2023/01/26</date> / <duration>6660</duration>
+				<info>Uma poderosa empresa de biotecnologia faz uma descoberta de ponta, permitindo a clonagem de a partir de meros fragmentos de DNA, inclusive figuras históricas. Por trás dessa empresa, está um grupo de satanistas que rouba o Santo Sudário, ficando em posse do DNA de Jesus Cristo. O clone será a última oferenda ao Diabo. O Arcanjo Miguel vem à Terra e fará de tudo para acabar com esta profecia do mal.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Aterrorizante 2</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa9aa0eb08ba91623fdeeb23d6d3ca4335ab6313</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNdlzMaWQXDr85G3usSwwg6wYmJ.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/2Ft4xmWa1Edgj2P1OYmoSAoYRqz.jpg</fanart>
+				<genre>Terror</genre> / <rate>6.2</rate> / <date>2022/12/29</date> / <duration>8400</duration>
+				<info>Terrifier 2 se passa um ano depois do primeiro filme. Acordando no necrotério após seu massacre na noite de Halloween do ano passado, Art the Clown (David Howard Thornton) está de volta no tempo para o Dia da Reforma! Desta vez, ele está de olho na jovem Sienna (Lauren LaVera) e seu irmão mais novo, Jonathan (Elliott Fullam). Porque é Halloween mais uma vez e a sede de assassinato do sinistro malabarista deve ser satisfeita. A fantasia caseira de Halloween de Sienna e sua trágica história familiar têm uma conexão misteriosa com os assassinatos que o homem de pesadelo com a fantasia de palhaço cometerá novamente naquela noite.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Descida ao Inferno</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e89190fb0f7e5881ae628aac153846d77ee333d8</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o9oIqWFKcZirEDzjj6Ie92G60j0.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/tp4vvb89whDfazQPnRBOtlOINuc.jpg</fanart>
+				<genre>Terror, Mistério</genre> / <rate>5.3</rate> / <date>2022/08/11</date> / <duration>5640</duration>
+				<info>Keira (Elisha Cuthbert) e Brian Woods (Eoin Macken) recentemente compraram uma mansão isolada em um leilão. Agora eles estão ansiosos para começar uma nova vida lá com seus filhos, a adolescente Ellie (Abby Fitz) e o pequeno Steve (Dylan Fitzmaurice Brady). Ellie não está feliz com a mudança, tendo que deixar seus amigos e tudo o que sabe para trás. Além disso, na primeira noite na nova casa, os pais extrovertidos confiam a ela o cuidado do irmãozinho. Quando a energia acaba naquela noite, Ellie vai até a caixa de fusíveis no porão, um lugar misterioso e escuro do qual ela tem muito medo. Quando a mãe e o pai voltam para casa, a menina desaparece sem deixar vestígios. Assolada pela culpa, Keira encontra símbolos e números misteriosos no porão e acima de cada porta de sua nova casa. Com a ajuda do professor de matemática Remy (Aaron Monaghan), ela começa a desvendar o segredo diabólico da casa na esperança de salvar sua filha.</info>
+			</item>
+---------------------------------------------------------------------------- 
+<item>
+				<title>Inferno Sangrento</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eddf6317510e7a491cec57b1d0ec0396a790e4f</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tdMHEe8Prs2Z52npnyXkld6zNi8.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/frcBe3CNFQklu3qFm1uN5r4szeb.jpg</fanart>
+				<genre>Terror/Comédia</genre> / <rate>6.6</rate> / <date>2021/01/14</date> / <duration>5580</duration>
+				<info>Ao tentar impedir um assalto, Rex Coen, um ex-militar acidentalmente mata uma mulher e vai para a prisão. Após a libertação, e agora infame em sua cidade natal, Rex decide sair do país em busca de uma vida melhor. Mas ele cai em um novo inferno quando é sequestrado por uma família esquisita que esconde um segredo obscuro.</info>
+			</item>
+---------------------------------------------------------------------------- 
+<item>
+				<title>Re/Member</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa815265f2d3b8dac9b31315490ccd6ac8cf8572</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cCTmZ93aBZ1FwHntiDpa2Lj92zs.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/uhAU3MI8YsUue7qqjFrpRQDpgvd.jpg</fanart>
+				<genre>Terror/Thriller/Fantasia</genre> / <rate>5.8</rate> / <date>2023/02/14</date> / <duration>6180</duration>
+				<info>Seis estudantes japoneses do ensino médio têm que vivenciar o mesmo dia repetidamente: o espírito de uma vítima de assassinato os amaldiçoou e os jovens aparentemente só escaparão da dobra do tempo cada vez mais sangrenta se se envolverem em atividades criminosas. Para fazer isso, eles devem encontrar as partes decepadas dos mortos que foram despejadas em vários locais da área, enquanto figuras horríveis estão atrás deles.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Teen Wolf: O Filme</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94b75cbffebf66c113a87b1a970e824dd49bd119</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e4M1YCKc07PeBoUs7ST2QgCiZFB.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/bXnsgHH3WTRCPYCpOGPRxD0snqd.jpg</fanart>
+				<genre>Terror/Mistério/Drama</genre> / <rate>8.6</rate> / <date>2023/01/18</date> / <duration>8400</duration>
+				<info>Um terrível mal surgiu na cidade de Beacon Hills. Os lobos estão uivando mais uma vez pedindo o retorno de Banshees, Werecoyotes, Hellhounds, Kitsunes e todos os outros metamorfos da noite. Mas apenas um lobisomem como Scott McCall, que agora não é mais um adolescente, e sim um Alfa, pode reunir novos aliados e reunir amigos de confiança para lutar contra o que poderia ser o inimigo mais poderoso e mortal que eles já enfrentaram.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>The Night</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:882f6ca7defbeea025390b7b23fc6dd4fd5341fa</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vHoeIopknC6fCUTJfagDGwr6qmf.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/8ngU7WVjQbzWwxQktii0TlIndB6.jpg</fanart>
+				<genre>Terror/Mistério</genre> / <rate>5.4</rate> / <date>2021/04/29</date> / <duration>6300</duration>
+				<info>Um casal iraniano e sua filha de um ano estão presos em um antigo hotel onde fenômenos estranhos acontecem. Durante uma noite aparentemente interminável, eles devem enfrentar os segredos que os separam.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Tubarão: Mar de Sangue</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aab527f6bf38c085bfa92e5649277ba9cb6297f</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qUBOPVsMT9OgsUVqZWUBLkgYrb6.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/dvHKdXijoN1OEzGcPhd0eRvkfMd.jpg</fanart>
+				<genre>Terror/Thriller/Ação/Aventura</genre> / <rate>4.4</rate> / <date>2022/05/13</date> / <duration>5400</duration>
+				<info>Um grupo de jovens que está passando as férias no México. Depois de uma noite de muita curtição, os amigos furtam dois jetskis e os levam para o alto-mar, mas eles acabam batendo em um acidente terrível. Depois que um dos jetskis afunda, o grupo se encontra a mais de três quilômetros da costa, com um jetski quebrado e um amigo gravemente ferido. Sem poder nada de volta para terra firme e com predadores circulando nas agitadas águas abaixo, o verdadeiro terror começa.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Vila do Medo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da01e079835027e614b455742316776658b3f421</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2MWZy92O30GX0HwKyVvQ8rddqGU.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/v5647AfhXyuJ6nVvLyfjJV89yss.jpg</fanart>
+				<genre>Terror</genre> / <rate>4.7</rate> / <date>2022/02/18</date> / <duration>6900</duration>
+				<info>Em um vídeo que supostamente contém espíritos, Kanon fica chocada ao ver uma aluna que se parece exatamente com ela.</info>
+			</item>
+---------------------------------------------------------------------------- 
+<item>
+				<title>A Luz do Demônio</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4add78d286995bb5c7dd89c2745a9dbb334ea5b</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/t2mK9akzwmnGYIXHH9qShBP55QX.jpg</fanart>
+				<genre>Terror, Thriller</genre> / <year>2022</year> / <rate/> / <date>2022/10/23</date> / <duration>5580</duration>
+				<info>Irmã Ann é uma inquieta de 25 anos que acredita devotamente que realizar exorcismos é sua vocação. Mas ela está em desacordo com as tradições da instituição: freiras não podem realizar exorcismos, apenas padres. Com o apoio de um mentor, um professor que percebe seu dom especial, ela pode observar sessões de treinamento reais. Seu desejo de provar a si mesma toma um rumo pessoal quando ela conhece um dos pacientes mais perturbados da escola. Durante seus encontros angustiantes, a Irmã Ann fica cara a cara com uma força demoníaca que infesta a escola e tem laços misteriosos com seu próprio passado. É então que o poder do mal e suas próprias habilidades surpreendentes são plenamente realizadas.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>A Casa da Morte</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3e53781620b18be0619208335be662f796c17f9</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/cbeRY8ItWaU9ShHezg3cys1mAJk.jpg</fanart>
+				<genre>Terror</genre> / <year>2022</year> / <rate/> / <date>2022/07/05</date> / <duration>4320</duration>
+				<info>Rachel, seu marido Dylan, seu irmão Marcus e sua amiga Hannah são uma equipe de limpeza de cenas de crimes, que se reúnem para fazer um grande trabalho em uma cena de assassinato sangrenta. Depois que eles começam a limpar e algumas coisas estranhas começam a acontecer, o grupo luta para escapar da casa depois de ficar preso por um antigo demônio nórdico que está determinado a deixá-los loucos.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>O VelociPastor</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95252699e3b4daf260be8a496210fd883770aa89</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/trSmNw63luh84MBy5XLH0UiN1BC.jpg</thumbnail>
+				<info>Após perder os pais, um padre viaja à China, onde herda uma habilidade misteriosa que o permite transformar-se em um dinossauro. A princípio horrorizada por essa novo poder, uma prostituta o convence a usá-lo para combater o crime. E ninjas.</info>
+				<genre>Terror, Ação, Comédia</genre>
+				<date>2018/09/28</date>
+				<duration>4500</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Anjos Rebeldes</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42625c4c46273e1fc897bebd3980990eff2715e8</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4KJs2jViXLEjlGcqB9xZSfHzVCJ.jpg</thumbnail>
+				<info>Um policial, que ia se sagrar padre mas perdeu a fé, se depara com uma guerra entre anjos, pois alguns deles, liderados pelo arcanjo Gabriel, não se conformam de Deus ter dado alma aos seres humanos. Enquanto esta luta acontece as almas não podem deixar seus corpos e irem para o Paraíso, sendo que Gabriel procura na Terra almas que possa usar em seu exército, mas outro anjo tenta detê-lo.</info>
+				<genre>Terror, Fantasia, Thriller</genre>
+				<date>1995/09/01</date>
+				<duration>5880</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>A Maldição: Despertar dos Mortos</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3579270ea4c4fcca8ca221344a09472c00ff28e7</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k3IgF9W8ZD6BBdz2bljQAHydFCe.jpg</thumbnail>
+				<info>Uma série de assassinatos são cometidos por mortos-vivos. No primeiro caso, o corpo do suspeito é encontrado ao lado da vítima na cena do crime, mas a polícia descobre que o cadáver morreu há três meses. Enquanto isso, a jornalista LIM Jin-hee recebe uma ligação misteriosa de um homem que afirma ser o culpado do assassinato. O suspeito avisa que mais três assassinatos estão por vir, e que serão executados por cadáveres que ressuscitaram dos mortos, os Jaechaui. No dia do primeiro assassinato anunciado, a polícia está apostos para capturar o assassino quando é surpreendida por um ataque de um exército Jaechaui. Quem está por trás de tudo isso e qual o motivo?</info>
+				<genre>Thriller, Mistério, Terror</genre>
+				<date>2021/07/28</date>
+				<duration>6540</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Elvira: A Rainha das Trevas</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd1ee43ab8e707aa8399d7a4fee665b45518bb87</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aMUFrkf3eNipkPQRp8GzqTzmLdG.jpg</thumbnail>
+				<info>Elvira (Cassandra Peterson) é a anfitriã de um programa de baixo orçamento sobre filmes de terror, mas tudo pode mudar quando ela herda da tia Morgana (Cassandra Peterson) uma velha mansão em Fallwell, Massachusetts, uma pequena cidade com apenas 1313 habitantes. Ela sonha em vender a casa e ir para Las Vegas, mas encontra dois sérios problemas: O primeiro são os habitantes da cidade, que ficam espantados com o modo de como ela se veste e se comporta. Liderados por Chastity Pariah (Edie McClurg), eles fazem forte oposição à presença de Elvira na cidade. O segundo problema é Vincent Talbot (William Morgan Sheppard), um tio de Elvira que não herdou nada, mas deseja obter de qualquer maneira um "livro de receitas" que também foi herdado por Elvira, que dará a ele imensos poderes para fazer diversos tipos de bruxarias.</info>
+				<genre>Terror, Comédia</genre>
+				<date>1988/09/30</date>
+				<duration>5760</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>As Loucas Aventuras de Elvira</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdcade3d20d4ab81b8e5675025382acb5b8218b0</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/joSoITQgLRbs0RoU0uywy7JTSZs.jpg</thumbnail>
+				<info>Elvira e a sua serva voltam a criar desacatos, dessa vez em uma mansão dominada por fantasmas. A história é ambientada em 1851, em Carpathia. Lá, ambas estão a caminho de um espetáculo da “Mistress of Dark”, mas, inadvertidamente, vão parar no sinistro castelo medieval do Lord Vladimere Hellsubus. Continuação do clássico de 1988, "Elvira, a Rainha das Trevas".</info>
+				<genre>Comédia, Terror</genre>
+				<date>2003/08/20</date>
+				<duration>5160</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>O Canal</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7e5a516bacfcb2341c53e74faa8e7a3d82d1936</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j0c1POAGkUNuBLzseVkb83fcNsj.jpg</thumbnail>
+				<info>Um arquivista de cinema deprimido e estressado encontra sua sanidade em ruínas depois de receber um rolo de filme de 16 mm com imagens de um assassinato horrível que ocorreu no início dos anos 1900.</info>
+				<genre>Terror, Mistério, Thriller</genre>
+				<date>2014/10/10</date>
+				<duration>5520</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Asilo de Medo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c91382296e067641911530b58086405dc0dbf66</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kvJu4vrPpJIE4qo3wWQVsblEXH7.jpg</thumbnail>
+				<info>Quando uma equipe de investigadores paranormais é contratada para investigar um sanatório prestes a ser demolido, acabam por descobrir pistas que levam a um massacre violento causado por um médico insano nos anos 60.</info>
+				<genre>Mistério, Thriller, Terror</genre>
+				<date>2018/01/09</date>
+				<duration>4740</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>A Babá</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49c94565644d48bce5038976ee7ec97974959195</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8qioumLk62Ot1mh9Vom1TXYky6W.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/6ybjw3pikDg68rVXsJEKF3ItpWH.jpg</fanart>
+				<genre>Terror, Drama</genre> / <year>2022</year> / <rate>6.3</rate> / <date>2022/11/23</date> / <duration>5880</duration>
+				<info>Aisha, uma babá imigrante, monta uma nova vida em Nova York, enquanto cuida do filho de uma família do Upper East Side. Ela é forçada a enfrentar uma verdade oculta que ameaça destruir seu sonho americano.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Hellraiser</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RE7GELGTY7NOSLURZX7CCYHS6I53YLIV&dn=Hellraiser%202022%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/8JbQec3ZYvC0lnxBtn6bnY9lHwi.jpg</fanart>
+				<genre>Terror, Mistério</genre> / <year>2022</year> / <rate>6.1</rate> / <date>2022/09/28</date> / <duration>7260</duration>
+				<info>Em “Hellraiser”, uma jovem lutando contra o vício se apossa de uma antiga caixa de quebra-cabeça, sem saber que seu objetivo é convocar os Cenobites, um grupo de seres sobrenaturais sádicos de outra dimensão.</info>
+			</item>
+----------------------------------------------------------------------------   
+<item>
+				<title>Herança Maldita</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e726af4eee5dbe7f5c07b89c27f740218fba8f3</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uUwIfpIxPUQnETRRqb17lzBWj84.jpg</thumbnail>
+				<info>Após receber uma carta misteriosa, uma mulher viaja até uma desolada cidade em uma ilha e logo se vê presa em um pesadelo.</info>
+				<genre>Terror, Mistério</genre>
+				<date>2022/03/11</date>
+				<duration>4980</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title> Ao 3º Dia</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4e3e31734c181793da487df3e7db1a19066315f</link>
+				<thumbnail>https://www.themoviedb.org/movie/649918-al-tercer-dia?language=pt-BR#</thumbnail>
+				<info>Cecilia e seu filho sofrem um acidente e, ao terceiro dia, ela é encontrada perambulando sozinha, sem qualquer lembrança sobre os acontecimentos dos últimos dias.</info>
+				<genre>Terror</genre>
+				<date>2021/06/04</date>
+				<duration>5100</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Aterrorizante</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f982b49d228767ae5ead68face795379ed060c9b</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGcQyScUQveMFPHOQCjJaBpRsLa.jpg</thumbnail>
+				<info>Um palhaço maníaco aterroriza três jovens na noite de Halloween e todos os outros que estão em seu caminho</info>
+				<genre>Terror</genre>
+				<date>2016/03/15</date>
+				<duration>4920</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Sorria</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65726944c9f5adc33a7d4331d2930482779b1409</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
+				<genre>Terror, Mistério, Thriller</genre>
+				<year>2022</year>
+				<rate>7.0</rate>
+				<date>2022/09/23</date>
+				<duration>6900</duration>
+				<info>"[I]Uma vez que você vê. É tarde demais[/I]"
+
+Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dra. Rose Cotter começa a vivenciar eventos assustadores que ela não consegue explicar.</info>
+			</item>
+-----------------------------------
+<item>
+				<title>Natureza Selvagem</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b20aec2b0497004962f1cf39673b37daf81a1135</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89vDPAvu2a02spYKrXxEv45IL6i.jpg</thumbnail>
+				<info>Oito adolescentes mantidos em campos de concentração nazistas são libertados por russos. Eles são entregues aos cuidados de Jadwiga num local abandonado na floresta polonesa e, além de carregarem diversos traumas, terão que enfrentar fome, sede e um grupo de violentos lobos.</info>
+				<genre>Terror</genre>
+				<date>2019/03/19</date>
+				<duration>5220</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Você Não Estará Só!</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7e3c0ba284c04119c12cbc66a8b2f1e5ed3ab00</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Aqj4qpubd5GKfZho6KUBFEBzMtU.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/x3X7bSkKhxoucdKtMweKVxCZD32.jpg</fanart>
+				<genre>Terror, Drama, História</genre> / <year>2022</year> / <rate>6.3</rate> / <date>2022/09/22</date> / <duration>6540</duration>
+				<info>Uma jovem muda que é sequestrada e depois transformada em bruxa por um espírito antigo. Curiosa sobre a vida como humana, a jovem bruxa acidentalmente mata um camponês na aldeia vizinha e depois assume a forma de sua vítima para viver a vida em sua pele. Sua curiosidade aumentou; ela continua a exercer esse poder horrível ao tentar entender o que significa ser humano.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>A Matriarca</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb3085062fa9138394cc11958e486e8f9485616b</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o57VVZImE6RcZAffPepZyuwNLKs.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/7R1gR2t4JL6raEOuZvbP3y0yl8r.jpg</fanart>
+				<genre>Terror</genre> / <year>2022</year> / <rate>4.5</rate> / <date>2022/11/11</date> / <duration>5160</duration>
+				<info>Após sobreviver a uma overdose, uma mulher retorna à casa onde cresceu para enfrentar seus demônios interiores, mas descobre a presença de uma entidade real.</info>
+			</item>
+----------------------------------------------------------------------------
+
+<item>
+				<title>A Última Coisa que Mary Viu</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dbfdb8f0df09220a3f96e20e624bf2dc0e1c9ae</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gVFwfzPXfUcRI3mpb6rSX1LYtMj.jpg</thumbnail>
+				<info>Inverno de 1843. Uma jovem está sob investigação após a misteriosa morte da matriarca de sua família. Sua lembrança dos eventos lança uma nova luz sobre as forças atemporais por trás da tragédia.</info>
+				<genre>Terror, Suspense</genre>
+				<date>2022/01/22</date>
+				<duration>5280</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Gêmeo Maligno</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aaf5b6795783e2fa5e62fd404e8bc8682fea8d4</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNbExNsfqTs8pXJs05yBRW0nNHg.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/AcStyrENNAzGB7hkCPe1YWgFgWM.jpg</fanart>
+				<genre>Terror</genre> / <year>2022</year> / <rate>5.1</rate> / <date>2022/04/06</date> / <duration>6540</duration>
+				<info>Traumatizada pela forma violenta que um de seus gêmeos morreu, uma mulher tenta recomeçar sua vida junto de seu marido. Porém, existem alguns segredos tão aterrorizantes que necessitam ser enterrados duas vezes.</info>
+			</item>
+----------------------------------------------------------------------------   
+<item>
+				<title>Oficina do Diabo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a917c761e659af65b5729c9148d15be440c6025</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rowUyokuj4xb17eWvghIry6nLgN.jpg</thumbnail>
+				<genre>Terror</genre> / <year>2022</year> / <rate>4.5</rate> / <date>2022/09/30</date> / <duration>5160</duration>
+				<info>Clayton está desesperado por um papel como demonologista. Ele entra em contato com Eliza, uma especialista em conhecimentos demoníacos para ajudá-lo a se preparar e passa o fim de semana em sua casa. Eliza força Clayton a enfrentar seu passado perturbador, realizar rituais sombrios e sacrificar animais.</info>
+			</item>
+-----------------------------------------
+<item>
+				<title>The Power: Horror na Escuridão</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19587189732ab74dfddd5bfc398504fa32caf90a</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lZ4x0TqcUulNfqqNbe9YWW2gTd1.jpg</thumbnail>
+				<info>1973: uma jovem enfermeira é forçada a trabalhar no turno da noite num hospital em ruínas. Mas dentro das paredes esconde-se uma presença aterradora que ameaça consumi-la e a todos à sua volta.</info>
+				<genre>Terror</genre>
+				<date>2021/06/03</date>
+				<duration>5520</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Men: Faces do Medo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0860dceda81c5f1fae4266d2cb558a43089666f4</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/4LnX5JTwGnasqmwuOycBR3lzc3C.jpg</fanart>
+				<info>Após uma tragédia pessoal, Harper se retira sozinho para o belo campo inglês, na esperança de encontrar um lugar para se curar. Mas alguém ou algo da floresta ao redor parece estar perseguindo ela. O que começa como um pavor latente se torna um pesadelo totalmente formado, habitado por suas memórias e medos mais sombrios.</info>
+				<genre>Terror, Thriller, Fantasia</genre>
+				<date>2022/09/01</date>
+				<duration>6000</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Morte, Morte, Morte</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3c77b9fb4f0e536528ff6eb7ee1c1e3233b287d</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cpCQCB125ptWxrQ1nl8xS1A2h30.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/oNbA1hgWpfyKIfpiu2cMaQLSjyu.jpg</fanart>
+				<genre>Comédia, Terror, Mistério</genre> / <year>2022</year> / <rate>6.3</rate> / <date>2022/08/05</date> / <duration>5640</duration>
+				<info>"[I]Quem quer jogar?[/I]"
+
+Um grupo de amigos ricos se reúne para fazer uma grande festa em uma mansão remota. Porém, a noite rapidamente descarrila em algo mais sinistro após eles começarem a ser mortos um por um.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Olhos Famintos 4: Renascimento - Leg</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfadbdd60f98ed48a122010a93926514ff1d2e3e</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p3JX4YPcJOCPp8MSjL6mg7ZhHgA.jpg</thumbnail>
+				<genre>Terror, Thriller, Mistério</genre> / <year>2022</year> / <rate>2.7</rate> / <date>2022/09/15</date> / <duration>5280</duration>
+				<info>Forçada a embarcar numa viagem até um festival de horror na Louisana com seu namorado, Laine começa a experienciar visões perturbadores associadas ao passado da cidade, em particular a uma lenda urbana local conhecida como o Creeper. Com a chegada do festival e o entretenimento sangrento se tornando um frenesi, Laine acredita que algo de outro mundo foi invocado... e ela está no centro de tudo.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>A Lenda de Lantern’s Lane</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2dc3e44bceeae31f87cafe9e4e4ae8bfc9987bc6</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4xJXC8tRAUKZeS7YoFK9UvEx8hb.jpg</thumbnail>
+				<info>Uma recém-formada na faculdade e seus amigos de escola mais distantes retornam a Lantern's Lane, o local de uma lenda urbana malvada e devem lutar para sobreviver à noite.</info>
+				<genre>Terror</genre>
+				<date>2021/05/11</date>
+				<duration>5700</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Pearl - Leg</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddc0d402d1f78beba6ce733fcccb8a3d6d917dbe</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/inxOR04CQXFVIKvn6cNu99d9Rg9.jpg</thumbnail>
+				<info>Presa na fazenda isolada de sua família, Pearl deve cuidar de seu pai doente sob o olhar amargo e autoritário de sua mãe devota. Desejando uma vida glamourosa como ela viu nos filmes, as ambições, tentações e repressões de Pearl colidem, na impressionante história de origem inspirada em technicolor do icônico vilão de X.</info>
+				<genre>Terror, Thriller, Drama</genre>
+				<date>2022/09/16</date>
+				<duration>6180</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Phobias</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a35ebfee87179437665b3e25c1dfc25103c611f</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zpecci4IooFiwMVGknhm8Jz2FHo.jpg</thumbnail>
+				<info>Cinco pacientes perigosos, que sofrem de fobias extremas em uma instalação de testes do governo, são submetidos ao teste final sob a supervisão de um médico louco e sua busca para transformar o medo em uma arma.</info>
+				<genre>Terror, Thriller</genre>
+				<date>2021/02/28</date>
+				<duration>5100</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Martyrs Lane</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c52b9d090f35a8495761946d0962634e97c1ab75</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2p9ATFUEiXT75LmMsSCBicnpX8e.jpg</thumbnail>
+				<info>Leah, 10, mora em um grande vicariato, cheio de almas perdidas e necessitados. Durante o dia, a casa fervilha de gente; à noite está escuro, vazio, um espaço para os pesadelos de Leah se infiltrarem. Um pequeno visitante noturno traz conforto a Leah, mas logo ela perceberá que seu pequeno visitante oferece conhecimentos que podem ser muito, muito perigosos.</info>
+				<genre>Terror</genre>
+				<date>2021/09/09</date>
+				<duration>5820</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Terrifier 2 - Leg</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80ad1765987d3f388c7c31e1728dfa30beb3717f</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yw8NQyvbeNXoZO6v4SEXrgQ27Ll.jpg</thumbnail>
+				<info>Após ser ressuscitado por uma entidade sinistra, Art, o Palhaço, retorna ao Condado de Miles, onde irá à caça de uma adolescente e seu irmão mais novo na noite de Halloween.</info>
+				<genre>Terror</genre>
+				<date>2022/10/06</date>
+				<duration>8080</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>O Monastério</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bc648c6cb5cf658c19d8ef0a40d0c7f1bfd57e6</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y47wBamj9vdqBeGaLEFTrYEPTeC.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/xXSjMjCdZ6v7NIFvsSMNqe4ySkF.jpg</fanart>
+				<genre>Terror</genre> / <year>2022</year> / <rate>5.7</rate> / <date>2022/10/26</date> / <duration>5400</duration>
+				<info>Uma investigação leva um policial a um remoto monastério na Polônia. Mas quando começa a desvendar os segredos desse lugar misterioso, ele descobre que também está conectado a uma força sinistra.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Noites Brutais</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:add57b8fb6a130a9fbf94da6ac1b07f2073fd149</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tA5OE1P8GAEuASNtus5zhJrooI4.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/67kTU8DU5YZYrBybH4gppqptZK9.jpg</fanart>
+				<genre>Terror, Mistério, Thriller</genre> / <year>2022</year> / <rate>7.5</rate> / <date>2022/09/09</date> / <duration>6180</duration>
+				<info>Chegando a Detroit para uma entrevista de emprego, uma jovem aluga uma casa. Mas quando chega tarde da noite, ela descobre que a casa já havia sido alugada e ocupada por um homem estranho. Contrariando seu bom senso, ela decide passar a noite, mas logo descobre que há muito mais a temer do que um simples inquilino inesperado.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Noite de Sustos</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84c435ede75344322b4fbfd1c122ba20d1e1b42f</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jaMEBAjQpJdbBZzORtr92E5Rldd.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/pr8JwnxzjBGkMvGikATaRMVH3O4.jpg</fanart>
+				<genre>Terror, Fantasia, Aventura, Família</genre> / <year>2022</year> / <rate>4.5</rate> / <date>2022/09/30</date> / <duration>5160</duration>
+				<info>Quando uma loja de Halloween abre em um shopping deserto deserto, três amigos, pensando que já superaram as gostosuras ou travessuras, decidem passar a noite trancados lá dentro. Mas sua noite de diversão cheia de sustos logo se transforma em sobrevivência bizarra.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>A Avó</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91a9d85ff04fe1833ed089c1dd6f3696568f6b2e</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ozT3LrHVBiA6IDJcQ28hs0hUAVI.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/jEkfmjJbopnMoTVFXwwJmWZiyoj.jpg</fanart>
+				<genre>Drama, Terror</genre> / <year>2022</year> / <rate>5.9</rate> / <date>2022/01/28</date> / <duration>6060</duration>
+				<info>Susana deixa sua vida em Paris, onde trabalha como modelo, e retorna a Madri para cuidar de sua avó Pilar.</info>
+			</item>
+----------------------------------------------------------------------------
+
+<item>
+				<title>O Meme do Mal</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d68863450e28aa5367ea8485ee18f814e919941</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wAjwcIUMOM5ADGvzrqwTtrZhKYy.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/znYNaQW736HBfEvfOiogfd8t4Z5.jpg</fanart>
+				<genre>Terror</genre> / <year>2022</year> / <rate>5.6</rate> / <date>2022/10/10</date> / <duration>6060</duration>
+				<info>Uma adolescente e seu irmão mais novo devem parar um meme aterrorizante da internet trazido à vida pela histeria de seus pais.</info>
+			</item>
+----------------------------------------------------------------------------
+
+<item>
+				<title>They/Them: O Acampamento</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9ffcbbdd25686d2b16908ac038d9468c9062c4</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85TJ4udfUOwFIlvQL6EMFvvbvN5.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/5spmzlcl3GmtMwQfptTVgMwdM3.jpg</fanart>
+				<genre>Terror</genre> / <year>2022</year> / <rate>3.7</rate> / <date>2022/08/05</date> / <duration>6240</duration>
+				<info>Vários campistas queer e trans se reúnem em um acampamento para uma semana de programação destinada a ajudá-los a encontrar ‘uma nova sensação de liberdade’. À medida que os métodos do acampamento se tornam cada vez mais psicologicamente perturbadores, os campistas devem trabalhar juntos para se proteger. Quando um misterioso assassino começa a fazer vítimas, as coisas ficam ainda mais perigosas.</info>
+			</item>
+----------------------------------------------------------------------------
+
+<item>
+				<title>A Volta dos Mortos Vivos</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caf1d93d7ac3c2995380098dfa01c8d5070b0cd7$nome=A Volta dos Mortos Vivos - 1080p</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:558f945a288748e3b64e77f18497ee38e34b09f5$nome=A Volta dos Mortos Vivos - 720p</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Aw2bAlJ8zIH9hkkrD6M657tI33J.jpg</thumbnail>
+				<info>Dois empregados de um armazém de medicamentos encontram no subsolo do estabelecimento barris do exército, lacrados e acidentalmente liberam um gás mortal no ar. Esse gás acaba re-animando os Mortos de um cemitério próximo, que vão querer apenas uma coisa dos vivos: seus miolos.</info>
+				<genre>Comédia, Terror</genre>
+				<date>1985/08/16</date>
+				<duration>5400</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>A Volta dos Mortos Vivos 2</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cf38e21ac51a7868bffb0ff2f35be4be1e56718</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bn0bdRqRnxI7xcVkEPqh5frSblm.jpg</thumbnail>
+				<genre>Comédia, Terror</genre>
+				<date>1989/05/18</date>
+				<duration>5400</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>A Volta dos Mortos Vivos 3</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34ceb405e273a426a42a16b5d0f44696b3177486</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxZLoZkXqBtygqPwYXjNIVn1uHM.jpg</thumbnail>
+				<info>Curt (J. Trevor Edmond) e sua namorada Julie (Melinda Clarke) descobrem que a base militar da região está fazendo uma experiência secreta com o gás Trioxin, o mesmo que trouxe os mortos à vida nos filmes anteriores. Quem coordena a pesquisa é o pai de Curt, e a intenção é usar o gás como arma de guerra para que os zumbis devorem os inimigos. Curt, revoltado por não querer acompanhar o pai na sua transferência para a cidade de Oklahoma, resolve fugir com Julie. Na fuga eles sofrem um acidente, e Julie morre. Curt desesperado a leva para a base militar para ressuscitá-la com o gás, e ela se torna uma zumbi faminta por carne humana. Ainda assim, Curt quer mantê-la viva e precisa fugir do exército, que quer capturar a garota, e de uma gangue de latinos com a qual se encrencou.</info>
+				<genre>Ficção científica, Terror</genre>
+				<date>1993/10/01</date>
+				<duration>5700</duration>
+			</item>
+------------------------------------------------
+<item>
+				<title>X: A Marca da Morte</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:139e83864245731f67fd74adee27f9bc1cfdddd1</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/70Rm9ItxKuEKN8iu6rNjfwAYUCJ.jpg</fanart>
+				<genre>Terror</genre>
+				<year>2022</year>
+				<rate>6.6</rate>
+				<date>2022/04/13</date>
+				<duration>6900</duration>
+				<info>‎Em 1979, um grupo de jovens cineastas começou a fazer um filme adulto na zona rural do Texas, mas quando seus anfitriões reclusos e idosos os pegam no ato, o elenco se encontra‎ lutando por suas vidas.‎</info>
+			</item>
+-----------------------
+<item>
+				<title>Boa Noite, Mamãe!</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65a1e3b794d51d0616058231b6a9ae65fc372693</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lwq6ct0AeroUxlXwr49QJiMzf4k.jpg</thumbnail>
+				<genre>Drama, Terror, Mistério</genre>
+				<year>2022</year>
+				<rate>8.0</rate>
+				<date>2022/09/16</date>
+				<duration>5520</duration>
+				<info>Chegando à casa de campo da mãe, os filhos gêmeos a encontram com o rosto coberto por uma bandagem – resultado, segundo ela, de uma cirurgia plástica recente. À medida em que o comportamento dela se torna cada vez mais errático e incomum, contudo, um pensamento horrível vai se enraizando na mente dos meninos: a suspeita de que a mulher por baixo da bandagem não é a mãe deles.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Pânico em Redwood</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb1a2f9d7ee8355e11c258e705f0801913818674</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ebpu3hvuvcGZEjg1Bnz3nslZXkk.jpg</thumbnail>
+				<info>Para cinco amigos aventureiros, visitando a lendária casa de assassinatos Redwood, aquele parece ser um final de semana emocionante. Até os inocentes campistas descobrirem que a lenda de Redwood é uma horrível e sangrenta realidade.</info>
+				<genre>Terror</genre>
+				<date>2015/05/23</date>
+				<duration>4920</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Speak No Evil - Leg</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2871629ac0131a9642425488ce6dca43e622605c</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7tekR9z2DFWJ1ZWfZE0sl3SQf5A.jpg</thumbnail>
+				<info>Após conhecerem uma família holandesa durante suas férias na Tosca, uma família dinamarquesa recebe o convite de passar o fim de semana na casa de seus novos amigos. Mas não demora muito para que mal-entendidos revelem que a família holandesa não é quem diziam ser.</info>
+				<genre> Terror, Thriller</genre>
+				<date>2022/03/17</date>
+				<duration>5480</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Convite Maldito - Leg</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7ca4fc9231b33da64bb322f6f77ceef0531c242</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AtiAjYCyUop1uyjJhKzmi3qnNLp.jpg</thumbnail>
+				<genre>Terror, Suspense</genre>
+				<year>2022</year>
+				<rate>6.3</rate>
+				<date>2022/09/15</date>
+				<duration>6300</duration>
+				<info>Após a morte de sua mãe e sem ter nenhum outro parente conhecido, Evie faz um teste de DNA… e descobre um primo perdido que ela não sabia que existia. Convidada pela sua nova família para um casamento, ela sente uma grande atração pelo sexy anfitrião. Mas Evie logo terá que lutar pela sobrevivência ao descobrir os segredos sinistros da história de sua família e as intenções perturbadoras por trás de sua generosidade pecaminosa.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Destinos Aterrorizantes: no Caminho do Medo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e53f2afde16acf4dbe5263268f99093f8ceddd16</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hSMqCcPoUdezVonGbf7cqkL8nUZ.jpg</thumbnail>
+				<info>Dakota Laden leva sua irmã Chelsea e seus amigos Tanner e Coalin para passar uma noite nos cinco locais mais assombrados dos Estados Unidos. O que seria um experimento para um documentário se torna um filme de terror real.</info>
+				<genre>Terror</genre>
+				<date>2022/02/24</date>
+				<duration>5760</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Marcas da Maldição</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f36a15d83e59f12295a1a31da899a05bedc2514</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/a2EBrVUZTPp3Y9YMnCy5JfMaxQu.jpg</thumbnail>
+				<genre>Terror</genre>
+				<year>2022</year>
+				<rate>6.2</rate>
+				<date>2022/03/18</date>
+				<duration>6660</duration>
+				<info>Ruo-nan quebrou o tabu da religião por acidente há 6 anos. Isso fez com que seu namorado e família morressem sem motivo. Ela passou por um período sombrio de superstição, e escondeu esses segredos e dores das pessoas, ela até deu seu filho recém-nascido para outra família. Depois de alguns anos, ela foi para a terapia e voltou à vida normal. Ela decidiu trazer seu filho de volta para morar com ela, mas sua filha começou a aparecer o sinal de maldição que ela conheceu há 6 anos. Ruo-nan precisa enfrentar o mais profundo horror por seu filho. Ela começa a registrar tudo sobre a maldição e tenta encontrar uma maneira de salvar seu filho.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Corações Degringolados</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:675b7ce3485d1d7fab3bb7c04a17045f767b5ed4</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eFiAQT2EkcOPxUnYOMvCipRmAan.jpg</thumbnail>
+				<info>Uma dupla de country em ascensão procuram abrigo na mansão reclusa de sua ídola, Harper Dutch (Katey Sagal). O que começa como uma visita amigável se transforma em uma série de absurdos que forçam os amigos a encarar até onde eles estão dispostos a ir pra realizar seus sonhos.</info>
+				<genre>Terror, Thriller, Música</genre>
+				<date>2022/05/20</date>
+				<duration>5820</duration>
+			</item>
+---------------------------------------------------------------------------------------
+
+<item>
+				<title>Exorcismo Sagrado</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f523093868a5b7baf312284345f4cfbc06138d42</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7y181pPW5P6xhcEbAVTv01bVJov.jpg</thumbnail>
+				<genre>Terror</genre>
+				<year>2022</year>
+				<rate>5.4</rate>
+				<date>2022/02/10</date>
+				<duration>5880</duration>
+				<info>Ao ser possuído durante um ritual de exorcismo, o padre Peter Williams acabou cometendo um terrível sacrilégio. Dezoito anos depois, as consequências de seu pecado voltam para assombrá-lo e acabam desencadeando uma batalha ainda maior entre o bem e o mal.</info>
+			</item>
+----------------------------------------------------------------------------
+<item>
+				<title>Mamãe</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bd945fc2869dc22adde96d17220854e6d20810e</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vgONeDoY02WPjCw4ApDaPohxqrv.jpg</thumbnail>
+				<info>Amanda e sua filha vivem uma vida tranquila em uma fazenda americana, mas quando os restos mortais de sua mãe, com quem não tinha muito contato, chegam da Coréia, Amanda fica assombrada pelas memórias e o medo de se transformar em sua própria mãe.</info>
+				<genre>Terror, Mistério</genre>
+				<date>2022/03/18</date>
+				<duration>4980</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>A Escada Para o Inferno - Leg</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1898ce7bfa61001a4f6287b5486a3b1bbb452be8$nome=The Cellar 2022 - 1080p</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27db58fc13d1abf9450d360743362c2855849477$nome=The Cellar 2022 - 720p</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg</thumbnail>
+				<info>A filha de Keira Woods desaparece misteriosamente no porão de sua nova casa no campo. Ela logo descobre que existe uma entidade antiga e poderosa controlando sua casa, e que terá que enfrentar ou arriscar perder as almas de sua família para sempre.</info>
+				<genre>Terror, Mistério</genre>
+				<date>2022/08/11</date>
+				<duration>5640</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>A Vila dos Suicídios</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e874cdeb400e138037b6d0f589ef6df253eb5914</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ArHhi0AzjSFYrp1m0xZVjdhws5.jpg</thumbnail>
+				<info>A chegada de uma caixa vinda de Jukai, um misterioso vilarejo assolado por histórias de suicídio, desata uma sombria maldição.</info>
+				<genre>Terror, Mistério, Drama</genre>
+				<date>2021/02/05</date>
+				<duration>7020</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Titanic 666 - Leg Fixa</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97d8cfd12a311c5ef1c74561b95f58aedd8bdd71</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/EX0ITg5YqDgFHjujpTNhEPaJSL.jpg</thumbnail>
+				<info>Depois que um navio de cruzeiro gigante navega sobre o local do desastre do Titanic, eventos sombrios e mortais começam a ocorrer a bordo. Quando o capitão do navio investiga as trágicas ocorrências, torna-se claro que os passageiros do Titanic original voltaram.</info>
+				<genre>Thriller, Terror</genre>
+				<date>2022/04/15</date>
+				<duration>5460</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>You Are Not My Mother - Leg Fixa</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df45644bb7d65133bc9cafdcbadce67330b0263f</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sUw081I0k5JWL6NpTaDRjMpLKwr.jpg</thumbnail>
+				<info>Em um conjunto habitacional de North Dublin, a mãe do Char desapareceu. Quando ela retorna, Char está determinada a descobrir a verdade de seu desaparecimento e descobrir os segredos obscuros de sua família.</info>
+				<genre>Terror, Thriller</genre>
+				<date>2022/03/04</date>
+				<duration>5400</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Fresh</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb3997b1d46e16ed2129cc4f144db693e431fbec</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg</thumbnail>
+				<info>Noa conhece o sedutor Steve em um supermercado e, dada sua frustração com aplicativos de namoro, se arrisca e lhe dá seu número. Após o primeiro encontro, Noa se apaixona e aceita o convite de Steve para uma escapadela romântica de fim de semana, apenas para descobrir que seu novo amante esconde alguns apetites incomuns.</info>
+				<genre>Terror, Thriller</genre>
+				<date>2022/03/04</date>
+				<duration>7200</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Terror no Estúdio 666</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9184745005744e1f46bd37c75ea01dde4094d28a</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tcsnV2L6SZY9hvuGLEbZddTylPa.jpg</thumbnail>
+				<info>Membros do Rock & Roll Hall of Fame se mudam para uma mansão em Encino, Califórnia, para gravar seu tão esperado 10º álbum. Mas a casa é marcada por uma história cruel do rock. Uma vez lá, Dave Grohl é confrontado por forças sobrenaturais que ameaçam tanto atrapalhar a conclusão do álbum quanto acabar com a vida da banda.</info>
+				<genre>Terror, Comédia, Música</genre>
+				<date>2022/02/25</date>
+				<duration>6360</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Presente Amaldiçoado</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04a7a3dccd961e962ddd464273f5e678dd6d9949</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/23uSJrE1MlFgFBhLZGqBPRLpGPp.jpg</thumbnail>
+				<info>Eva era dançarina, mas devido a um acidente ficou paraplégica. Para seu aniversário, Sophie dá a ele um estranho calendário do Advento. Ele vem com algumas regras simples, que é melhor não serem quebradas.</info>
+				<genre>Terror, Thriller</genre>
+				<date>2021/12/01</date>
+				<duration>5400</duration>
+			</item>
+---------------------------------------------------------
+
+<item>
+				<title>A Maldição</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6858993387606556a1b096f15f110cf360a97a2d</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/plS7R81TAtIJxCIW7PIze5vmy5A.jpg</thumbnail>
+				<fanart>https://www.themoviedb.org/t/p/original/jZXvRmQTAFmNaHSyN8DQqS5IIaM.jpg</fanart>
+				<genre>Terror</genre>
+				<year>2021</year>
+				<rate>5.5</rate>
+				<date>2021/11/12</date>
+				<duration>5040</duration>
+				<info>Inspirado no folclore do Leste Europeu, uma traição impensável leva a uma maldição maléfica colocada sobre a linhagem de uma família. Décadas depois, um casamento une a próxima geração de famílias distantes. Quando um deles desperta inconscientemente uma força negra que começa a eliminá-los um por um, Hana, a matriarca da linhagem de hoje, deve descobrir quem está trabalhando contra eles antes que a maldição sangrenta tome conta deles para sempre.</info>
+			</item>
+------------------------------------
+
+<item>
+				<title>Fúria</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bc852c1bd872c5531494e74b66df599cc7fbcfe</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1iKMpfASZEYvraBbVSlCkrg6qco.jpg</thumbnail>
+				<info>A tranquila Rose trabalha com roupas de moda feminina, na esperança de ser designer. Um acidente de trânsito danifica seu rosto. Ela recebe tratamento experimental com células-tronco, deixando-a mais forte e mais bonita do que nunca, mas há um efeito colateral.</info>
+				<genre>Ficção científica, Terror</genre>
+				<date>2019/12/13</date>
+				<duration>6420</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>A Maldição de Rose</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7deea617a694372c7f90f0b3469ad87025746eb</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg</thumbnail>
+				<info>Após o brutal assassinato de sua família pelas mãos de seu pai, uma veterana de guerra, Rose é enviada para morar em um convento no nordeste dos Estados Unidos. No entanto, os demônios que atormentavam seu pai, seguem despertando os pesadelos de seu passado.</info>
+				<genre>Thriller, Terror</genre>
+				<date>2020/01/10</date>
+				<duration>5400</duration>
+			</item>
+---------------------------------------------------------------------------------------
+
+<item>
+				<title>The Sadness (EN)</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:173ce69c74d2fcbad3e099b788ebb28082e81892$nome=The Sadness 2022 1080p</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14fa9c5e7c8616328c9937ec8b756769fbdc82ee$nome=The Sadness 2022 1080p x265</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uhjLvPWcdFoCatk8rMhOYfAT44Q.jpg</thumbnail>
+				<genre>Horror</genre>
+				<year>2022</year>
+				<rate>6.5</rate>
+				<date>2022/04/14</date>
+				<duration>5940</duration>
+				<info>Um vírus está assolando a população de Taiwan e as coisas se complicam uma vez que ele desperta o lado mais primitivo e selvagem dos humanos, gerando uma onda de violência extrema no país.</info>
+			</item>
+			<item>
+				<title>Sedenta de Sangue</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d05200b35b7efb581e7d6367084fee776e33db47</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pXoijqun4n8QtcVT4KW9BIOUOpG.jpg</thumbnail>
+				<info>Gray é uma cantora indie que está tendo visões de que é um lobo. Quando ela recebe um convite para trabalhar com o famoso produtor musical Vaughn Daniels em seu estúdio remoto na floresta, ela começa a descobrir quem ela realmente é.</info>
+				<genre>Terror</genre>
+				<date>2021/04/24</date>
+				<duration>4920</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>A Última Noite</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:961dd1c721d567912f539eec5f54b2c8f451262d</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMY66O0O74iPMWSvFA6vNge7Nzz.jpg</thumbnail>
+				<info>O casal Nell e Simon e seus amigos mais próximos juntam suas famílias para o jantar de Natal em sua incrível residência no interior da Inglaterra. A reunião lembra os bons e velhos tempos, mas por trás de todas as risadas e alegria, algo não está certo. O mundo exterior está enfrentando uma destruição iminente, e nenhum dos presentes natalinos, jogos em grupo ou Prosecco fará a destruição que promete dar fim a humanidade ir embora. Sobreviver às festividades será desafiador.</info>
+				<genre>Terror, Comédia, Drama</genre>
+				<date>2021/12/23</date>
+				<duration>5520</duration>
+			</item>
+-------------------------------------------------------------------------------------------
+<item>
+				<title>Drácula 3000: Escuridão Infinita</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1bdfd9e08c627ed0cc423f5f3d9e47375f8aa68</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vHClROtgcoHWiUUEmynGtlU15v6.jpg</thumbnail>
+				<info>No futuro, o Conde Drácula ressurge das trevas e passa a aterrorizar a tripulação de uma nave estelar.</info>
+				<genre>Ficção, Terror</genre>
+				<date>2004/08/09</date>
+				<duration>7200</duration>
+			</item>
+			<item>
+				<title>Os Garotos Perdidos</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a14f347201467f5074dc620754bb820e4df574f2</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xlzkIfReoFJbPkbV67NcsuMcu6T.jpg</thumbnail>
+				<genre>Terror, Comédia</genre>
+				<info>Os irmãos adolescentes Michael e Sam se mudam com a sua mãe para uma pequena cidade no norte da Califórnia. Enquanto o jovem Sam encontra novos amigos com interesses semelhantes, o angustiado Michael acaba se apaixonando por Star, que está envolvida com David, o líder de uma gangue local de vampiros. Ao se dar conta do que está acontecendo, Sam e seus novos amigos embarcam na missão de salvar Michael e Star dos mortos-vivos.</info>
+				<date>1987/07/31</date>
+				<duration>5820</duration>
+			</item>
+			<item>
+				<title>Gritos Mortais</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0085a8af8cd6c48c5ff5b87b2b6518e0b5600eb9$nome=Gritos Mortais - 1080p</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c0a9eee34f5e28b987504ac2458eac11ac60c3a$nome=Gritos Mortais - 720p</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v6XHNF5S5wZyNnmV9tFRy4rYZh4.jpg</thumbnail>
+				<info>Jamie Ashen volta para sua assustadora cidade de Ravens Fair para tentar solucionar o mistério sobre o assassinato de sua esposa. Desesperado por respostas, Jamie encontra a maldição que tirou a vida de sua esposa e agora coloca a dele em risco.</info>
+				<genre>Terror</genre>
+				<date>2007/11/23</date>
+				<duration>5340</duration>
+			</item>
+---------------------------------------------------------------------------------------
+
+<item>
+				<title>O Hospedeiro</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7f89c437e5bf36a8c51840f8658c8f2328a52b2</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/satZPvyiofuGeDyfqTD88pljtxB.jpg</thumbnail>
+				<info>Na beira do rio Han, moram Hee-bong e sua família, donos de uma barraquinha de comida no parque. Seu filho mais velho, Gang-du, tem 40 anos, mas é um tanto imaturo; a filha do meio é arqueira do time olímpico coreano; e o filho mais novo está desempregado. Todos cuidam da menina Hyun-seo, filha de Gang-du, cuja mãe saiu de casa há muito tempo. Um dia, surge um monstro no rio, causando terror nas margens e levando com ele a neta querida de Hee-bong. Exibido na Quinzena dos Realizadores do Festival de Cannes de 2006.</info>
+				<genre>Terror, Drama, Ficção científica</genre>
+				<date>2006/07/27</date>
+				<duration>7200</duration>
+			</item>
+			<item>
+				<title>Renascida das Trevas</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c85326459db391b9350a78015343098fb7ab51b6</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gx6eZTOV6fQ7H49muQOwAZegc28.jpg</thumbnail>
+				<info>Uma menina natimorta é levada do necrotério por um dos atendentes. Trazida de volta à vida por energia eletrocinética, agora, ela cresce normalmente. Mas no seu aniversário de 16 anos, a garota escapa do cativeiro e parte para procurar sua mãe biológica, deixando um rastro de destruição para trás.</info>
+				<genre>Terror</genre>
+				<date>2018/11/03</date>
+				<duration>4560</duration>
+			</item>
+---------------------------------------------------------------------------------------
+<item>
+				<title>Post Mortem: Fotos do Além</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:452be488059c5c78522b7aa8477101e7f91c9b35</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Ux89Yav96jeUR0PL6uloqmAji6.jpg</thumbnail>
+				<info>Após a Primeira Guerra Mundial, Tomas, um jovem fotógrafo de cadáveres, chega a uma pequena vila húngara acompanhado de Anna, uma menina órfã. Logo, ele se sente aprisionado no local, com as estranhas sombras, os barulhos noturnos, a hostilidade dos habitantes e as mortes suspeitas. Com a ajuda de Anna e convencido da existência de fantasmas, Tomas decide investigar uma maneira de libertá-los.</info>
+				<genre>Terror, Mistério, Thriller</genre>
+				<date>2021/10/28</date>
+				<duration>6900</duration>
+			</item>
+---------------------------------------------------------------------------------------
+
+<item>
+				<title>O Ritual: Presença Maligna</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbca9ff91850d48ce536b87012e59a12426e3aed</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVP00u-2b1u8aN-AJqYOM1F50Z1UV1BZsubVqIXsB2zoy1FZjTFYpf52BV5i54GRYsVHkcvqJaMRV_rgk6Meih9lSKrqrYwJkMoR6MillC4JYH-DP0aeo7haYOobY_3Mj5XBbRuJHusBvjhUkOzbsmR9_jRnMw3tBLgdihpTAdux3sKCDeR3JI0nOCKA/s350/O%20Ritual%20-%20Presen%C3%A7a%20Maligna.jpg</thumbnail>
+				<genre>[I]Suspense | Terror[/I]</genre>
+				<date>2022/03/17</date>
+				<year>2022</year>
+				<duration>5760</duration>
+				<info>Marianne, seu marido Lionel e sua filha Adelaide se mudam para uma cidade no interior da Inglaterra, onde Lionel foi nomeado o novo reverendo. Logo que chegam em sua nova casa, Marianne percebe que estranhos e assustadores eventos começam a acontecer, levantando as suspeitas de que as pessoas da cidade escondem um segredo terrível. Com a ajuda de um famoso ocultista, o casal vai testar toda a sua fé, buscando descobrir a aterrorizante verdade sobre a presença maligna que habita sua casa e deseja possuir sua filha Adelaide.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+<item>
+				<title>Saída Proibida</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2651f27905aeccb621a142f4961a64818fbd760e</link>
+				<thumbnail>https://1.bp.blogspot.com/-09tNIFbnNiI/XRUF3LnDQQI/AAAAAAAAX34/ZPcisJlTBd0Mn0ocTjup-De8bOvbjhd1wCLcBGAs/s1600/Sa%25C3%25ADda%2BProibida%2B2018.jpg</thumbnail>
+				<genre>[I]Mistério | Terror[/I]</genre>
+				<date>2018/06/22</date>
+				<year>2018</year>
+				<duration>5460</duration>
+				<info>É dia de Natal e a família Milgram encontra uma misteriosa substância negra ao redor de sua casa. Claramente algo está acontecendo bem à sua porta, mas o que exatamente está acontecendo? Seria um acidente industrial, um ataque terrorista, uma guerra nuclear? Apavorados, eles ligam a TV para obter qualquer informação. Na tela uma mensagem brilha sinistramente: ‘Fique dentro de casa e aguarde novas instruções’. Como a televisão exerce uma ”atração” cada vez mais sinistra, a paranoia aumenta e se transforma em uma sangrenta carnificina.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+15
+
+<item>
+				<title>Jogos Mortais - Versão do Diretor</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:146459d816a158ed09a227fc4a650e6fdb8f1361</link>
+				<thumbnail>https://vacatorrent.com/capas/jogos-mortais-versao-do-diretor-download-torrent-2004-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+				<genre>[I]Mistério / Suspense / Terror[/I]</genre>
+				<date>2005/02/04</date>
+				<year>2005</year>
+				<duration>6000</duration>
+				<info>Jigsaw é um assassino que possui uma marca registrada: ele deixa em suas vítimas uma cicatriz em forma de quebra-cabeças, que faz com que elas cometam atos agonizantes para se salvar. O detetive David Tapp (Danny Glover) é designado para investigar os assassinatos, bem como a capturar seu autor. Porém o caminho evasivo seguido por Jigsaw leva o detetive a desenvolver uma obsessão por capturá-lo.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+<item>
+				<title>Jogos Mortais 2</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d62d72a5ed54b84fb22fb8dd88fba0d334b39c1$nome=[B]Jogos Mortais 2 - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38b463f89156a539aab42d7ea9865d637eaadebc$nome=[B]Jogos Mortais 2 - 720p[/B]</link>
+				<thumbnail>https://1.bp.blogspot.com/-arpCzPMUXRk/V0DtlH-ZHTI/AAAAAAAAGWs/sr4LevOSjUk8d2S0pvQj5TFvNoYnPLUqACLcB/s1600/Jogos%2BMortais%2B2%2B2006.jpg</thumbnail>
+				<genre>[I]Mistério | Terror[/I]</genre>
+				<date>2005/11/04</date>
+				<year>2005</year>
+				<duration>5580</duration>
+				<info>O filme inicia em uma sala com um informante da polícia corrupto, Michael. A armadilha dessa vítima é uma máscara mortal. Ele descobre que a chave está escondida em seu olho esquerdo. Ele só tem uma solução, tirar o olho com um bisturi, mas não consegue e segundos depois a máscara se fecha e o mata. Enquanto investiga o resultado sangrento de um assassinato bárbaro, o Detetive Eric Matthews (Donnie Wahlberg) presume que o autor do crime seja Jigsaw (Tobin Bell), o assassino notório que desapareceu. Matthews tem razão, Jigsaw está agindo novamente. Mas dessa vez mantém presas oito pessoas em uma casa com um gás mortal sendo lançado, cujo antídoto está em diversos pontos da casa.</info>
+			</item>
+----------------------------------------------------------------------------
+
+<item>
+				<title>A Chorona</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b82a0682d369f6f4ce53d0cbdb509cb6fa2975b</link>
+				<thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/07/la_llorona_ver2_NXGWObt.jpg</thumbnail>
+				<genre>[I]Terror, Drama, Suspense[/I]</genre>
+				<date>2021/09/23</date>
+				<year>2021</year>
+				<duration>5820</duration>
+				<info>O general aposentado, Enrique, finalmente enfrenta julgamento pelo massacre genocida de milhares de maias décadas atrás. Enquanto uma horda de manifestantes raivosos ameaça invadir seu lar opulento, as mulheres da casa – sua esposa arrogante, filha em conflito e neta precoce – refletem sobre sua responsabilidade de proteger Enrique, errático e senil, contra as verdades devastadoras que são reveladas publicamente enquanto começam a sentir uma força sobrenatural em busca de vingança por seus crimes. Enquanto isso, grande parte dos empregados da família foge, deixando apenas a governanta leal Valeriana até que uma misteriosa jovem indígena chega…</info>
+			</item>
+			<item>
+				<title>O Desejo Final</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19936a29fddb79a75c210d820700ee540e70e55</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXYn7xajjsKxVOzDDDe4nb5E4SYu5dUwd78t83dArw1AMMQP3UFB8Tcs5ikUNeg4bGyFPKmDTM5C4xLrsvSf4wR3xg30Ff_3obo8BSgTka_ftZ8MPMTEepj8xzpqeQdxCr4raO2F8RihXE2xvkSI11XY7MTJAa5ZjFDBrA1ainjoJJdkVMTpckU3kLhg/s350/O%20Desejo%20Final.jpg</thumbnail>
+				<genre>[I]Terror[/I]</genre>
+				<date>2019/01/24</date>
+				<year>2019</year>
+				<duration>5700</duration>
+				<info>Aaron é um advogado que retorna à sua casa após a morte do pai, para ajudar sua devastada mãe e confrontar os demônios de seu passado. Ao mexer nos pertences do falecido, Aaron encontra uma urna que é mais do que parece ser. Quando seus desejos e pedidos começam a virar realidade, Aaron imagina que suas preces estão sendo ouvidas, mas logo percebe que terá que pagar um preço alto por elas.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+<item>
+				<title>O Último Ritual</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78394f47c213af98b133c555e6fa2ef3e85780df</link>
+				<thumbnail>https://i0.wp.com/lugarnenhum.net/wp-content/uploads/2021/10/thelastRitePostermainimagebig59901.jpg?resize=691%2C1024&ssl=1</thumbnail>
+				<fanart>https://deadtalknews.com/wp-content/uploads/maxresdefault-5-1-e1636868629797.jpg</fanart>
+				<genre>Terror</genre>
+				<year>2021</year>
+				<rate>3.5</rate>
+				<date>2021</date>
+				<duration>6420</duration>
+				<info>Uma estudante de medicina sofre de paralisia do sono. Ao mudar de casa, ela acaba aterrorizada por uma força demoníaca e terá que pedir ajuda de um padre para se libertar desse pesadelo sem fim.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+<item>
+				<title>Nas Garras do Terror</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9173cb192827efee3a9d18206d08c91728b993a7</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn_szAPQJVXdUgq6mdztoAkl81CqjGFrU3pVKCT-s-osxY0RJu3B4pLh21EFBLJk8o2F6K63tYbA3c6c2V3rQdpXjEWSF5gOa-DsXFiWcy52iKjgRSa8U4Jj_uMAO84hswfwiqa96-7GgBFTSh72z-iRlUvFnWnC7TyEXYQIgCQF_PQR6VoYJQi0AsNw/s350/Nas%20Garras%20do%20Terror.jpg</thumbnail>
+				<genre>[I]Ficção | Mistério | Terror[/I]</genre>
+				<date>2021/07/05</date>
+				<year>202'</year>
+				<duration>4800</duration>
+				<info>Depois de estourar um pneu no meio do deserto, os melhores amigos Kyle e Julia são forçados a passar a noite em uma remota cidade fantasma. Enquanto os relutantes se acomodam à noite, nas montanhas não tão distantes, os problemas aparecem. Um velociraptor, trazido à vida por um cientista, escapa de seu recinto e segue em direção à cidade fantasma. Com o predador pré-histórico agora perseguindo-os por toda a extensa propriedade e sem ajuda externa, Kyle e Julia devem trabalhar juntos para ser mais espertos e mortais que a criatura para sobreviver.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+<item>
+				<title>O Segredo de Jekyll & Hyde</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:035a802cfc04fb9de128d15b3df11512331e086d</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0FzdsoUZINL24bvWRepQZni7i0-MiPE_8eR1ropP9_mbq_lLjchrV_-bhO40TOyOLVzpUTVsO9pYa_VQE77LOVmxr0ksZqlL9II70YnxUvcIoPTpXbdpdwMjkUALHlClG6I-yXgEfyH_5gkJKxEkaMJ0tsluH0I-9w7GaK7v3-wd8fY277ECaYkeNhQ/s350/O%20Segredo%20de%20Jekyll%20&%20Hyde.jpg</thumbnail>
+				<genre>[I]Mistério | Suspense | Terror[/I]</genre>
+				<date>2021/01/01</date>
+				<year>2021</year>
+				<duration>5100</duration>
+				<info>O advogado Gabriel Utterson está trabalhando até tarde novamente, para desgosto de sua esposa Sarah, quando é interrompido por um visitante: seu velho amigo, o Dr. Henry Jekyll. Henry quer que seu testamento seja assinado e posto em vigor imediatamente, um testamento que deixa tudo para um Sr. Hyde. Quando a polícia chega na manhã seguinte, ele fica chocado ao descobrir que Jekyll é procurado por um assassinato particularmente brutal, que também se encaixa no padrão de vários outros. Depois que seu amigo comete suicídio em vez de ser preso, Gabriel inicia sua própria investigação, começando com uma carta endereçada a ele.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+<item>
+				<title>Vozes na Escuridão</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f3659f9dcca5a3cf874ffb455e40384ece167e6</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCb68Tk1blePs2JYZHkkJ3Ef18uZsftca-ZiJ3dgT5bjNjA01GatmpVHe4NHyu-Ywcu8rmSYI3vMOSDV0UkyZhmcfp8ooUm-m1Wj2zgzQlv0zGvNxKBt_8BQIhastDOdJUUkbjRMX60e2MkCf-DKAgAZWqaTmc-gSTTG1TkStpBqQmhp6ovEhAA4W5dA/s350/Vozes%20na%20Escurid%C3%A3o.jpg</thumbnail>
+				<genre>[I]Drama | Suspense | Terror[/I]</genre>
+				<date>2021/04/05</date>
+				<year>2021</year>
+				<duration>6480</duration>
+				<info>Depois de visitar o túmulo de seu pai, Lilly e sua mãe se envolvem em um terrível acidente de carro, deixando Lilly órfã e incapaz de enxergar. Em sua juventude, ela luta com sua cegueira e começa a ouvir vozes. Sem o conhecimento dela, eles não pertencem aos vivos. Depois de anos aprendendo a lidar, Lilly agora está casada e com um bebê a caminho. Lilly logo descobre que seu bebê ainda não nascido se tornou um receptáculo, uma segunda chance para as almas presas no limbo renascerem. Ela só tem até o primeiro batimento cardíaco do bebê para decidir qual alma ele terá. Agora as vozes que ela ouviu em sua juventude voltaram, clamando pela chance de voltar. Entre as vozes, ela faz amizade com o espírito de uma garotinha amarrada a um caso arquivado de anos. Lilly se encontra em uma luta desesperada com os assassinos da garota e as almas que disputam para nascer de novo.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+5
+<item>
+				<title>Adoradores do Diabo</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ceec9abfafc06923a9fcccb781d8fa716d2ef07</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/a/AVvXsEiZdix08Z5tWtSzamOJzVmhwwzo_c1xVF1QnnGBG3XS6sJ0DX5Z_ZyjuOSSdPpLlFW0vlqtz7GjkqC_583E2NMeypcWDpeT-xaVrqiXirtcR1Tv0cUl0xEqgLKcyDfOaozMQaM_JGmaQwrmxsb_nIOU4vrBEWleVh040lidejKBHpjgwV4bdPZmBah5Zw=s350</thumbnail>
+				<genre>[I]Terror[/I]</genre>
+				<date>2005/05/31</date>
+				<year>2005</year>
+				<duration>5460</duration>
+				<info>Durante meses, Jake Gray (Jensen Ackles da série de TV “Smallville”) foi atormentado por premonições perturbadoras de assassinato e auto-mutilação que ele não podia explicar, até que dois colegas de escola, Dakota (Dominique Swain de Lolita) e Conrad, mostram para ele um misterioso jogo online chamado O Caminho. De repente, o jogo começa a transformar as violentas visões de Jake em realidade. Na esperança de escapar desse pesadelo, Jake recorre a Marisol (Shannyn Sossamon de Coração de Cavaleiro), uma nova e sedutora amiga que se interessa por ciências ocultas. Ao invés disso, os dois acabam enfrentando horrores ainda piores, incluindo aterrorizantes segredos do passado sombrio da família de Jake.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+<item>
+				<title>O Closet</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b42a571418b3c69de94453bb9800e9fd0532e378</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/a/AVvXsEgDqsa4Zfxhri8nK0ikC5Bhv0teTYdFbJCooBXGmoOpMtaSg1TJ9lbYHd4fzJYZ7mOc6MwjuDfmujSDRwftqWcTEUhpmgfkz_a8QSYk_407NadbhtSdFvFfpOOCVJKLM79Q_TbyAlMaHOFokLOrmchq_0E9Gnb8gLELkTusUyfjRRzRvOFg3aeAGrVcnQ=s350</thumbnail>
+				<genre>[I]Mistério | Terror[/I]</genre>
+				<date>2020/02/05</date>
+				<year>2020</year>
+				<duration>5820</duration>
+				<info>Sang-Won é um arquiteto que perdeu a esposa recentemente. O drama na sua vida aumenta quando a filha pequena desaparece, mas um homem misterioso surge com a ideia de procurá-la dentro do closet, de onde ela pode ter embarcado para o mundo dos mortos.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+<item>
+				<title>Na Companhia do Mal</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65dfbe5c817fabc5d994a50cfd31451e871adc93</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/a/AVvXsEh9n5OCBEddFuRWZBD4RtxLnVHNL1S4-2ma3doZtWyiHNz-ErVnfoGctPLnORpYHSxATyofR9z5jkmsmCm4IRQEGQHQWHGJwPsyZe1K_KXVpToN6vtle6nSTpEm2gw-Is1u-07s7Zjv-U8iA7D0zUEF6K6ymKWUf9bVi-PPNUuUJ0NVYhob1sO0tNHk8Q=s350</thumbnail>
+				<genre>[I]Suspense | Terror[/I]</genre>
+				<date>2021/04/30</date>
+				<year>2021</year>
+				<duration>6420</duration>
+				<info>Jenny, de 8 anos, (Violet MacGraw, A Maldição da Residência Hill) leva uma vida solitaria, mas imaginativa, rodeada por bonecos baseados nos trabalhos de seu pai artista (Rubert Friend, Homeland). Quando sua mãe (Mamie Gummer, True Detective) morre tragicamente em um atropelamento e seu avô (Brian Cox, Succession) pede sua guarda, os bonecos e outros personagens assustadores começam a criar vida. A princípio, Jenny é a única pessoa que acreditam que eles são reais, colocando a vida de todos em perigo.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+<item>
+				<title>A Sonata Maldita</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a66b1b6d31f6852bc447b808ebc7f08954f8640c</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/a/AVvXsEg5R7uvIt8hQA1La_2uqWeKr2LlgT4XJj5nKPAkGw9s1P-DsfijSQ1xx-pJBs70OOtp1Vz0Su1jEL-PpaKsC_44SgfIL28sAfgH9rG29eEFTNmzklY4TX7JDVLj46Bc_OaCUDIEbYmLajz7onto3uIWS01dfhncxvYmR5JSHIVzY_iMortDbQp56AJbyg=s350</thumbnail>
+				<genre>[I]Mistério | Suspense | Terror[/I]</genre>
+				<date>2018/11/15</date>
+				<year>2018</year>
+				<duration>5280</duration>
+				<info>Após a morte repentina de seu pai, um compositor famoso, a talentosa violinista Rose herda a velha mansão que ele morou. Lá, ela descobre a obra final de seu pai: uma trilha sonora misteriosa marcada com símbolos estranhos. Com a ajuda de Charles, seu agente, ela decifra os símbolos e, aos poucos, começa a desvendar segredos sobre o passado dele, acionando os mecanismos de um plano sombrio imaginado desde o dia que ela nasceu.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+10
+
+<item>
+				<title>A Casa Sombria</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:104afc37f29686ac3089f0496aeeea394cfcf5ec</link>
+				<thumbnail>https://1.bp.blogspot.com/-autVrgaePSU/YVxNyRSg4qI/AAAAAAAAjzg/vTLQq2nsIeYEk0Hkf7UxkFz3O6j6Lj52wCNcBGAsYHQ/s350/A%2BCasa%2BSombria.jpg</thumbnail>
+				<genre>[I]Mistério | Suspense | Terror[/I]</genre>
+				<date>2021/09/23</date>
+				<year>2021</year>
+				<duration>6360</duration>
+				<info>Em A Casa Sombria, lutando por conta da morte inesperada de seu marido, Beth (Rebecca Hall) vive sozinha em sua casa à beira do lago. Ela tenta o melhor que pode para se manter bem, mas possui dificuldades por conta de seus sonhos. Visões perturbadoras de uma presença na casa a chamam, acenando com um fascínio fantasmagórico. Indo contra o conselho de seus amigos, ela começa a vasculhar os pertences do falecido, ansiando por respostas. O que ela descobre são segredos terríveis e um mistério que está determinada a resolver.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+<item>
+				<title>Possessor</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9efd39cea3af916f9193d2c4302b043287ac564</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/a/AVvXsEhlM5mKvv__NMm7bUbTpBXbxP-zlssGUhi4rdoHb0qdJUyS_T2r2dpexYLtHEztVqjFaFdnbzUVRkaFAxRFoXqpTg4qN86h3wRPyirKdvvSyudIedUWrToYprocSmnrWb9EebeB_B0nt3A4yXrShdEEztyaF-9GiNDWl5fKlWAaIPxBueu_QMluljHsYA=s350</thumbnail>
+				<genre>[I]Ficção | Mistério | Terror[/I]</genre>
+				<date>2020/11/27</date>
+				<year>2020</year>
+				<duration>6240</duration>
+				<info>Uma agente de uma organização secreta usa a tecnologia de implantes cerebrais para habitar o corpo de outras pessoas, levando-as a cometer assassinatos para clientes que pagam caro. Algo dá errado, ela logo se vê presa na mente de um homem cujo apetite por violência rivaliza com o seu.</info>
+			</item>
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+<item>
+				<title>Caso 39</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90a5d04c035bc2c4dcf2d0aba668414f49cd4af1</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oaylKJEQHEYnllktA43QOafHLzX.jpg</thumbnail>
+				<genre>[I]Terror, Suspense[/I]</genre>
+				<date>2010/04/09</date>
+				<year>2010</year>
+				<duration>6540</duration>
+				<info>Uma assistente social chamada Emily (Renée Zellweger) quer tirar uma menina de dez anos (Jodelle Ferland) da casa onde mora, porque os pais da menina são abusivos. Entretanto, quando ela ganha a guarda da criança, ela descobre que existem mais segredos rondando a vida da menina.</info>
+			</item>
+			<item>
+				<title>Pânico na Neve</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f509ad4465935785ad43ab575af1f72d1631f78f$nome=[B]Panico na Neve - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af6c7a9581b8037f494bd21691135aae2feb3bc2$nome=[B]Panico na Neve - 720p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:f509ad4465935785ad43ab575af1f72d1631f78f$nome=Panico na Neve [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/1F0RJOWzYFeounRncvXjUCc8Tmp.jpg</thumbnail>
+				<genre>Suspense</genre>
+				<date>2010/02/05</date>
+				<year>2010</year>
+				<duration>5580</duration>
+				<info>Um dia típico nas montanhas se torna um pesadelo gelado para três esquiadores que ficam presos em um teleférico antes de sua última descida. A equipe da estação de esqui desliga as luzes da pista e o trio percebe, em pânico, que foram esquecidos. Com hipotermia e queimaduras de frio, os amigos são forçados a tomar medidas extremas para sair da montanha, antes que morram congelados.</info>
+			</item>
+			<item>
+				<title>Os Outros</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc5dc6cc587f93656678f219ebcc0c987ab064f5$nome=[B]Os Outros - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:025eca0734defaca9fa80b2687d8e0a494310d46$nome=[B]Os Outros - 720p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:025eca0734defaca9fa80b2687d8e0a494310d46$nome=Os Outros [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/5dEa7JRjc5BuJPVQKsn9FpDZSIt.jpg</thumbnail>
+				<genre>[I]Terror, Drama, Suspense[/I]</genre>
+				<date>2001/09/28</date>
+				<year>2001</year>
+				<duration>6060</duration>
+				<info>Na isolada Ilha de Jersey, no final da Segunda Guerra Mundial, Grace (Nicole Kidman) aguarda o retorno de seu marido do campo de batalha. Em uma bela e espaçosa mansão, ela vive com seus dois filhos acreditando estar mantendo-se em segurança. Mas tudo isso é pura ilusão… Quando novos criados chegam para substituir os antigos que sumiram misteriosamente, eventos assustadores e sobrenaturais começam a se desenrolar. A filha de Grace diz estar mantendo contato com aparições inexplicáveis. Inicialmente, Grace se mostra relutante em acreditar em tais aparições, mas logo começa também a sentir a assustadora presença de outras pessoas em sua casa. Quem serão eles? O que querem?
+Para descobrir as respostas, Grace deve deixar de lado todos seus medos e crenças e entrar no coração do arrepiante mundo do sobrenatural.</info>
+			</item>
+			<item>
+				<title>Donnie Darko</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd3e77db2575fe09df4bec017292f0a27b0e1e61$nome=[B]Donnie Darko - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6b70d6425dc824c69eb787226c095c71c72719e$nome=[B]Donnie Darko - 720p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:f6b70d6425dc824c69eb787226c095c71c72719e$nome=Donnie Darko [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg</thumbnail>
+				<genre>[I]Fantasia, Drama, Suspense[/I]</genre>
+				<date>2003/09/24</date>
+				<year>2003</year>
+				<duration>6840</duration>
+				<info>Donnie é um jovem excêntrico que despreza a grande maioria de seus colegas de escola. Ele tem visões, em especial de Frank, um coelho gigante que só ele consegue ver e que o encoraja a fazer brincadeiras humilhantes com quem o cerca. Um dia, uma de suas visões o atrai para fora de casa e lhe diz que o mundo acabará dentro de um mês. Donnie inicialmente não acredita, mas, momentos depois, a turbina de um avião cai em sua casa e ele começa a se perguntar qual é o fundo de verdade dessa previsão.</info>
+			</item>
+			<item>
+				<title>Mártires ([COLOR gray]EN[/COLOR])</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d52f2b0594aebdc98ce933df84665f04293c61eb$nome=[B]Martyrs 2008 - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:d52f2b0594aebdc98ce933df84665f04293c61eb$nome=Martyrs 2008 [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/bhq0r5zoXJQcHJ4UaMMVz4n3o86.jpg</thumbnail>
+				<genre>[I]Terror, Drama, Suspense[/I]</genre>
+				<date>2008/09/03</date>
+				<year>2008</year>
+				<duration>5940</duration>
+				<info>Lucie (Mylène Jampanoï), uma menina de dez anos que desapareceu meses atrás, é encontrada em uma estrada, desorientada, sem lembrar de nada que aconteceu. Seu corpo está todo maltratado e as razões de seu desaparecimento são um mistério. Internada em um hospital pelos traumas causados, ela faz amizade com outra menina chamada Anna (Morjana Alaoui). Quinze anos depois dessa terrível experiência, Lucie embarca em uma sangrenta vingança contra os seus opressores, ou quem ela acredita que são.</info>
+			</item>
+			<item>
+				<title>Boa Noite, Mamãe</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9c77c4b78dc841105c8279ef60ff2ad0b93b1ab$nome=[B]Boa Noite Mamae - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27a4ac7f76e3593c19169f0ae28b253e7ce96714$nome=[B]Boa Noite Mamae - 720p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:27a4ac7f76e3593c19169f0ae28b253e7ce96714$nome=Boa Noite Mamae [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/pl3rsmrUuNjnanlxFE1rjazlYPJ.jpg</thumbnail>
+				<genre>[I]Terror, Suspense[/I]</genre>
+				<date>2016/02/25</date>
+				<year>2016</year>
+				<duration>5940</duration>
+				<info>No calor do verão, uma casa isolada no campo, entre bosques e campos de milho. Gêmeos de dez anos de idade esperam por sua mãe. Quando ela volta, com a cabeça envolta em ataduras após uma cirurgia plástica, nada é como era antes. Severa e distante, ela fecha a família para o mundo exterior. Começando a duvidar que esta mulher é realmente sua mãe, os meninos estão determinados a encontrar a verdade de qualquer maneira.</info>
+			</item>
 
 
+5
+
+<item>
+				<title>Ilha do Medo</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc326de3bc47b4782fe63c794e18a1fc52db3817$nome=[B]Ilha do Medo - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb7f2550f8f1104a6b13143afd4aa1473b8af912$nome=[B]Ilha do Medo - 720p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:fc326de3bc47b4782fe63c794e18a1fc52db3817$nome=Ilha do Medo [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/erl801HYIodoIBGZeFk0GTwCUBh.jpg</thumbnail>
+				<genre>[I]Suspense[/I]</genre>
+				<date>2010/03/12</date>
+				<year>2010</year>
+				<duration>7800</duration>
+				<info>Na década de 50, a fuga de uma assassina leva o detetive Teddy Daniels e seu parceiro a investigarem o seu desaparecimento de um quarto trancado em um hospital psiquiátrico. Lá, uma rebelião se inicia e o agente terá que enfrentar seus próprios medos.</info>
+			</item>
+			<item>
+				<title>Arraste-me para o Inferno</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc215cf2dbd07397041946c5b488f9297268d6af$nome=[B]Arraste-me para o Inferno - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e93d213ebfbbdba9771dca427d50acbadb70e797$nome=[B]Arraste-me para o Inferno - 720p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:dc215cf2dbd07397041946c5b488f9297268d6af$nome=Arraste-me para o Inferno [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/dnfLXsIxGdqC2tP08LqqQddINsn.jpg</thumbnail>
+				<genre>[I]Terror, Suspense[/I]</genre>
+				<date>2009/08/14</date>
+				<year>2009</year>
+				<duration>5940</duration>
+				<info>Los Angeles. Christine Brown (Alison Lohman) trabalha como analista de crédito e vive com seu namorado, o professor Clay Dalton (Justin Long). Um dia, para impressionar seu chefe, ela recusa o pedido de uma senhora (Lorna Raver) para conseguir um acréscimo em seu empréstimo, de forma que possa pagar sua casa. Como vingança ela joga uma maldição sobrenatural na vida de Christine.</info>
+			</item>
+			<item>
+				<title>O Convite</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09344ca1c20b6eee570c3cff1e486d223698372f$nome=[B]O Convite - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acb7348fe2f2b6d4742c12877271b4c91458f8b9$nome=[B]O Convite - 720p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:09344ca1c20b6eee570c3cff1e486d223698372f$nome=O Convite [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/xcYQLtK4gKRnyIj4pwxP1VDIdpe.jpg</thumbnail>
+				<genre>[I]Suspense[/I]</genre>
+				<date>2015/03/13</date>
+				<year>2015</year>
+				<duration>6000</duration>
+				<info>Uma tragédia abala o casal formado por Will e Eden. Eles perdem o filho pequeno e, desolada, Eden vai embora sem dar notícias. Dois anos mais tarde, ela volta a procurar o marido, acompanhada de outro homem, e totalmente diferente de como era antes. Durante um jantar, com Will, Eden e o novo companheiro de sua esposa, Will começa a suspeitar que os visitantes têm planos sinistros contra ele.</info>
+			</item>
+			<item>
+				<title>Dagon</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cebf4f20259e792b749983339ceb86fa0f745016$nome=[B]Dagon - 720p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f897d600f2bc8c80c1a19af36176129fb3051ef0$nome=[B]Dagon - 720p (2)[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:cebf4f20259e792b749983339ceb86fa0f745016$nome=Dagon [T]</link>
+				<thumbnail/>
+				<genre>[I]Terror/Fantasia[/I]</genre>
+				<date>2001/10/31</date>
+				<year>2001</year>
+				<duration>5880</duration>
+				<info>Um acidente de barco na costa da Espanha leva um jovem casal, Paul e Barbara, para a decrépita e macabra vila de Imboca, procurando por ajuda. Conforme a noite cai, pessoas começam a desaparecer, e coisas não-humanas começam a surgir</info>
+			</item>
+			<item>
+				<title>The Deep House</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbd043047897ded91f59e0f13189ece6037ab117$nome=[B]The Deep House 2021 1080p[/B]</link>
+				<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:fbd043047897ded91f59e0f13189ece6037ab117$nome=The Deep House 2021 1080p [T]</link>
+				<thumbnail>https://m.media-amazon.com/images/M/MV5BOTA0YzY3MjktYzdiMi00M2Y3LWEyN2QtNDZlZGY2NWFlNGQyXkEyXkFqcGdeQXVyMTM4MzU4OTE@._V1_FMjpg_UX1000_.jpg</thumbnail>
+				<fanart>https://i.ytimg.com/vi/FNEVVY249yo/maxresdefault.jpg</fanart>
+				<info>Tina e Ben são um jovem casal de youtubers especializado em videos de exploração subaquatica. Enquanto mergulham em um lago remoto, descobrem uma casa submersa em aguas profundas. O que era inicialmente uma descoberta unica logo se torna um pesadelo, quando eles descobrem que a casa foi cena de crimes atrozes. Presos, com as reservas de oxigênio chegando perigosamente ao fim, Tina e Ben percebem que o pior ainda esta por vir: eles não estão sozinhos na casa.</info>
+				<genre>Drama, Misterio, Terror</genre>
+				<year>2021</year>
+				<date>2022/06/30</date>
+				<duration>5400</duration>
+			</item>
+			<item>
+				<title>Sozinho com o Inimigo</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33a51ad6983934d63506d8a89ed2810a6ca67097$nome=[B]Sozinho com o Inimigo 2021 (1080p)[/B]</link>
+				<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:33a51ad6983934d63506d8a89ed2810a6ca67097$nome=Sozinho com o Inimigo 2021 (1080p) [T]</link>
+				<thumbnail>https://m.media-amazon.com/images/M/MV5BNmI4NTdmNGYtYzExNy00Zjc3LTk2YWUtZjY3ZDNiMWNiMGVhXkEyXkFqcGdeQXVyNTIyMjU5NQ@@._V1_.jpg</thumbnail>
+				<fanart>https://i.ytimg.com/vi/w4xnaVd_CMo/maxresdefault.jpg</fanart>
+				<info>Sozinho em uma fazenda isolada, Henry, 12 anos, esta em meio a um sombrio segredo de uma familia conturbada quando seu misterioso avô morre durante a noite e ele se torna o alvo de um vizinho assassino.</info>
+				<genre>Suspense</genre>
+				<year>2021</year>
+				<date>2022/06/30</date>
+				<duration>5400</duration>
+			</item>
+			<item>
+				<title>Filhos do Privilégio</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5625c79c5a73761d363f7e570ddf85e44fe3dae9$nome=[B]Filhos do Privilegio  - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:5625c79c5a73761d363f7e570ddf85e44fe3dae9$nome=Filhos do Privilégio [T]</link>
+				<thumbnail>https://vacatorrent.com/imagens/filhos-do-privilegio-das-privileg-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+				<genre>[I]Drama / Mistério / Terror[/I]</genre>
+				<year>2022</year>
+				<date>02/09/2022</date>
+				<duration>6420</duration>
+				<info>Um adolescente rico e seus colegas de colégio investigam uma serie de acontecimentos e descobrem uma conspiração sinistra. Em Filhos do Privilégio, muitos anos após a trágica morte de sua irmã Anna, Finn (Max Schimmelpfennig), agora um jovem de 18 anos, é repetidamente assombrado por pesadelos e demônios. O que sua família acredita ser uma consequência psicótica do trauma de infância começa a parecer cada vez mais real para ele. À medida que eventos terríveis começam a se acumular ao seu redor, ele não consegue mais acreditar que está tudo só em sua cabeça. Junto com sua melhor amiga Lena (Lea van Acken), ele tenta entender esse terrível segredo que está em seu passado, por trás da fachada despretensiosa de sua família.</info>
+			</item>
+			<item>
+				<title>A Casa no Bayou</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc7b72a24dd839524c30612d25d2a96fc357b1f6$nome=[B]A Casa no Bayou - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:bc7b72a24dd839524c30612d25d2a96fc357b1f6$nome=A Casa no Bayou [T]</link>
+				<thumbnail>https://vacatorrent.com/imagens/a-casa-no-bayou-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+				<genre>[I]Mistério / Suspense / Terror[/I]</genre>
+				<year>2022</year>
+				<date>03/03/2022</date>
+				<info>Um casal com o relacionamento em crise e sua filha pré-adolescente viajam até a zona ribeira da Louisiana para passar as férias numa casa isolada, onde poderão se reconectar como família. Mas quando visitas inesperadas chegam, a farsa por trás de sua união familiar começa a aparecer, levando segredos assustadores à tona.</info>
+			</item>
+			<item>
+				<title>Não Me Mate</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9198038e4f9ffecdd8447a4f76df3bcb461cdd0c$nome=[B]Nao Me Mate - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:9198038e4f9ffecdd8447a4f76df3bcb461cdd0c$nome=Nao Me Mate [T]</link>
+				<thumbnail>https://vacatorrent.com/imagens/nao-me-mate-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+				<genre>[I]Terror[/I]</genre>
+				<year>2021</year>
+				<date>02/21/2022</date>
+				<info>Não Me Mate segue a história de Mirta, de dezenove anos, que morreu de overdose com seu amado Robin. A menina voltará à vida e descobrirá que para continuar vivendo e honrando a memória de Robin terá que se alimentar de carne humana .</info>
+			</item>
+			<item>
+				<title>A Babá: O Chamado das Sombras</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b81dde2b1cb0184fba4015695d1894bea8d4652a$nome=[B]A Baba - O Chamado das Sombras - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:b81dde2b1cb0184fba4015695d1894bea8d4652a$nome=A Baba - O Chamado das Sombras [T]</link>
+				<thumbnail>https://vacatorrent.com/imagens/a-baba-o-chamado-das-sombras-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+				<genre>[I]Terror[/I]</genre>
+				<year>2022</year>
+				<date>12/08/2021</date>
+				<info>Uma família se muda para um novo apartamento e contrata uma misteriosa nova babá para cuidar da filha recém-nascida. Quando as duas desaparecem, logo eles descobrem que estavam lidando com uma força demoníaca conhecida como Baba Yaga.</info>
+			</item>
+			<item>
+				<title>In the Earth</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27f644c1cc3449a9adb207007e629a6abb0820e9$nome=[B]In the Earth - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:27f644c1cc3449a9adb207007e629a6abb0820e9$nome=In the Earth [T]</link>
+				<thumbnail>https://vacatorrent.com/imagens/in-the-earth-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+				<genre>[I]Ficção / Suspense / Terror[/I]</genre>
+				<year>2022</year>
+				<date>01/29/2021</date>
+				<info>Enquanto o mundo busca pela cura de um desastroso vírus, um cientista e uma policial florestal se aventuram pela floresta, mas sua viagem toma rumos cada vez mais aterrorizantes à medida que a noite cai e o bosque parece ganhar vida em volta deles.</info>
+			</item>
+
+5
+
+<item>
+				<title>O Semideus</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5e6a109a6cd40fc65878e5df7c8576f33fd4124$nome=[B]O Semideus - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:f5e6a109a6cd40fc65878e5df7c8576f33fd4124$nome=O Semideus [T]</link>
+				<thumbnail>https://vacatorrent.com/imagens/o-semideus-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+				<genre>[I]Terror[/I]</genre>
+				<year>2022</year>
+				<date>06/17/2021</date>
+				<info>Casal viaja para uma cabana isolada e descobre a história aterrorizante do local. Não demora até que tenham que enfrentar momentos de puro horror na imensa floresta que os cerca.</info>
+			</item>
+			<item>
+				<title>Quando o Demônio Chama</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a4a170e63a8548de60c4bf1efc34542a5a962e2$nome=[B]Quando o Demonio Chama - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:4a4a170e63a8548de60c4bf1efc34542a5a962e2$nome=Quando o Demonio Chama [T]</link>
+				<thumbnail>https://vacatorrent.com/imagens/quando-o-demonio-chama-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+				<genre>[I] Mistério / Suspense / Terror[/I]</genre>
+				<year>2020</year>
+				<date>10/23/2020</date>
+				<info>Shirin se muda para um duplex com seu parceiro e o filho dele, ao mesmo tempo que tenta se adaptar ao novo papel de madrasta. A nova casa parece o lugar perfeito para recomeçar uma família, mas quando Fredrik sai para trabalhar, coisas estranhas começam a surgir - do Outro Lado.</info>
+			</item>
+			<item>
+				<title>Reféns</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:992f198ea24d269d61a4767cee49f7d066857b1f$nome=[B]Refens - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:992f198ea24d269d61a4767cee49f7d066857b1f$nome=Refens [T]</link>
+				<thumbnail>https://vacatorrent.com/imagens/refens-held-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+				<genre>[I]Mistério / Suspense / Terror[/I]</genre>
+				<year>2021</year>
+				<date>12/16/2021</date>
+				<info> casamento em dificuldades de um casal é posto à prova quando eles são mantidos como reféns, em um apartamento de férias isolado por uma voz invisível que comanda todos os seus movimentos.</info>
+			</item>
+			<item>
+				<title>Minha Morte</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d7e492b8304b730be9af31fa38aac0b9ce728d8$nome=[B]Minha Morte - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:3d7e492b8304b730be9af31fa38aac0b9ce728d8$nome=Minha Morte [T]</link>
+				<thumbnail>https://vacatorrent.com/imagens/minha-morte-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+				<genre>[I]Mistério / Suspense / Terror[/I]</genre>
+				<year>2021</year>
+				<date>10/02/2020</date>
+				<info>Um casal de férias numa praia acorda uma manhã com uma ressaca e sem saber o que ocorreu na noite anterior. Ao checar as gravações, eles descobrem que participaram de um ritual satânico onde o marido matou a esposa... embora ela ainda esteja viva.</info>
+			</item>
+			<item>
+				<title>A Caverna</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a859579d693fd918db60fdc2ebe309ec16b38825$nome=[B]A Caverna - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:a859579d693fd918db60fdc2ebe309ec16b38825$nome=A Caverna [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/qGfT6Edm2PSXDbGfwIJgCUzbHCl.jpg</thumbnail>
+				<genre>[I]Aventura, Terror, Suspense[/I]</genre>
+				<year>2005</year>
+				<date>08/26/2005</date>
+				<info>Quando um sistema de cavernas desconhecido é descoberto debaixo de uma abadia romana do século 13, uma equipe de profissionais, em busca de emoções, é enviado para fazer buscas na área, a fim de detectar sinais de um novo ecossistema. A boa notícia é que eles encontram vida; a má notícia é que podem não viver tempo suficiente para contar a alguém.</info>
+			</item>
+
+10
+
+<item>
+				<title>Aterrados ([COLOR gray]EN[/COLOR])</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2064583d4a11095610bedbbb95c7827685b7dc09$nome=[B]Aterrados 2018 - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:2064583d4a11095610bedbbb95c7827685b7dc09$nome=Aterrados 2018 [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/tFQX0I6gHGO8lfeQN8Za8YepWqx.jpg</thumbnail>
+				<genre>[I]2018[/I]</genre>
+				<year>2018</year>
+				<date>05/05/2018</date>
+				<info>Pessoas que desaparecem sem deixar rastros, mortos que voltam de seus túmulos, vozes nos canos d`água. Um policial tentará encontrar uma explicação para desvendar estes mistérios, com a ajuda de pesquisadores especializados no paranormal, antes que o mal destrua a sociedade que conhecemos. Mas a tarefa não será tão fácil quanto parece.</info>
+			</item>
+			<item>
+				<title>V/H/S/2</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb1bfc0d1ad5aa31203080d3b4fc9c9f257d18e9$nome=[B]V/H/S/2 - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:051d3bdb2b89cf48800461594c27d712527dd72a$nome=[B]V/H/S/2 - 720p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:cb1bfc0d1ad5aa31203080d3b4fc9c9f257d18e9$nome=V/H/S/2 [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/7tdHgMOyyylpMhr05MhQ5IYmD50.jpg</thumbnail>
+				<genre>[I]Terror, Suspense, Ficção Científica[/I]</genre>
+				<year>2013</year>
+				<date>06/12/2013</date>
+				<duration>5580</duration>
+				<info>Seguindo o mesmo estilo de V/H/S, S-VHS é uma antologia com vários curtas de horror. Procurando por um estudante desaparecido, dois investigadores particulares vão parar numa casa abandona onde descobrem uma nova coleção de misteriosas fitas VHS. Assistindo aos horrí­veis ví­deos, eles logo percebem que o desaparecimento do estudante tem motivações terrí­veis.</info>
+			</item>
+			<item>
+				<title>A Colmeia</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8248a1fc38d72f01aa965f9e7653af79f21a2232$nome=[B]A Colmeia - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:8248a1fc38d72f01aa965f9e7653af79f21a2232$nome=A Colmeia [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/w6kJXPELCTjcGe1nSEHQgAoVZVX.jpg</thumbnail>
+				<genre>[I]Terror, Ficção Científica, Suspense[/I]</genre>
+				<year>2015</year>
+				<date>08/05/2015</date>
+				<duration>5340</duration>
+				<info>O filme conta a história de Adão, um conselheiro do acampamento adolescente que acorda dentro de uma cabine fechada com tábuas, sem absolutamente nenhuma memória de quem ele é ou onde ele está. As únicas pistas sobre quem ele é e o que está acontecendo são mensagens rabiscadas que Adam fez para si mesmo sobre as paredes e as mudanças perturbadoras com sua fisiologia. Quando ele começa a juntar os eventos que o levaram à sua estranha prisão, ele percebe que as únicas lembranças que ele tem não são suas, e elas podem ser a chave para sua sobrevivência.</info>
+			</item>
+			<item>
+				<title>Ainda Estamos Aqui</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:214f9cab8a50aa1ecbed3d06a957557f69973550$nome=[B]Ainda Estamos Aqui - 1080p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:214f9cab8a50aa1ecbed3d06a957557f69973550$nome=Ainda Estamos Aqui [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/mAczE7FFRa8WWiJBK2l3CPnGW3Q.jpg</thumbnail>
+				<genre>[I]Terror[/I]</genre>
+				<year>2015</year>
+				<date>06/05/2015</date>
+				<duration>4980</duration>
+				<info>Depois de perder o filho adolescente num acidente automobilístico, Paul e Anne se mudam para os pacatos campos de New England para iniciar uma nova vida. Entretanto, o casal logo descobre que a aparentemente pacífica cidade para a qual se mudaram esconde um terrível e obscuro segredo, e que a o casarão onde vivem é habitado por uma outra família – de fantasmas</info>
+			</item>
+			<item>
+				<title>Somos o Que Somos</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:523e7996ba765d530ad68e6ce559329ed677248d$nome=[B]Somos o Que Somos - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75180260f498352bec1800e9e6706f0a68cb9349$nome=[B]Somos o Que Somos - 720p[/B]</link>
+-----<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:75180260f498352bec1800e9e6706f0a68cb9349$nome=Somos o Que Somos [T]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/o5Js0jg7RTTJrz63oVpHQssSSYX.jpg</thumbnail>
+				<genre>[I]Terror, Suspense[/I]</genre>
+				<year>2013</year>
+				<date>11/29/2013</date>
+				<duration>6300</duration>
+				<info>Na vila onde Frank Parker (Bill Sage) mora, todos o conhecem por sua discrição. Após a súbita morte da mãe, as adolescentes Iris (Ambyr Childers) e Rose (Julia Garner) ficam encarregadas de cuidar do irmão mais novo, Rory (Jack Gore). Com novas responsabilidades, elas são obrigadas a aceitar o forte temperamento do pai, que deseja manter os costumes familiares. Quando uma tempestade atinge a região, seus segredos são ameaçados pelas investigações das autoridades locais.</info>
+			</item>
+			<item>
+				<title>Terror em Shellmont</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45825d903ac6421b61d1d0031587e53cdef6b92f</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/vCyeZW4CnICOZm4cAJqZgC9CvVP.jpg</thumbnail>
+				<genre>[I]Terror[/I]</genre>
+				<info>Como xerife da cidade de Shellmont, Billy tem que proteger a todos. Com seu colega de trabalho e melhor amigo, Donny, ele não mede esforços para que a pacífica comunidade esteja sempre a salvo. Tudo isso muda quando um misterioso ser chega ao local e começa a matar os habitantes com requintes de crueldade.</info>
+			</item>
+			<item>
+				<title>Voo 7500</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf69c5ac302730bc5545e30a9de9fdac07e32a92$nome=[B]Voo 7500 - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4da0ad30743c1e1c8723850462c6e3e34fd602c5$nome=[B]Voo 7500 - 720p[/B]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/saywKbI5wqlFCC33xrAb5U1tORc.jpg</thumbnail>
+				<genre>[I]Suspense, Terror[/I]</genre>
+				<info>O voo 7500 parte do Aeroporto Internacional de Los Angeles com destino a Tóquio. Ao fazer o seu caminho sobre o Oceano Pacífico durante o seu curso de dez horas, os passageiros encontram o que parece ser uma força sobrenatural na cabine.</info>
+			</item>
+			<item>
+				<title>O Nó do Diabo</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:930069ea5b37563c8b9a32f14811e832f3a95d07</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/fSCso8sdVvBsyNetxkpE563bH2P.jpg</thumbnail>
+				<genre>[I]Terror[/I]</genre>
+				<info>Cinco contos de horror. Uma fazenda tomada por horrores há mais de duzentos anos. Cinco encontros com a morte. Um nó que não se desata.</info>
+			</item>
+			<item>
+				<title>Dois</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feea4dbc4d5c8520b675e49a2b39b232ddbc5dae$nome=[B]Dois - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fa52b9614b0b948d3fe6095a55b60c8ea9a4343$nome=[B]Dois - 720p[/B]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/dk9PgN3iN9MOPJW3LJErh4y5xWw.jpg</thumbnail>
+				<info>Dois estranhos descobrem, ao acordar, que foram unidos cirurgicamente. E ficam ainda mais chocados quando descobrem quem está por trás desse suplício.</info>
+				<genre>[I]Suspense, Terror[/I]</genre>
+			</item>
+			<item>
+				<title>Espíritos Obscuros</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9566f5e1ce8614a57143dbbefff3b73bcea95960</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/d2c8DlW3qfu4w6fgn4lMrI6wEfM.jpg</thumbnail>
+				<info>Uma jovem professora descobre que o pai e irmão mais novo do seu aluno problemático escondem um segredo sobre-humano mortal. Tendo decidido tomar conta do menino, ela deve lutar pela sobrevivência dos dois contra horrores além da imaginação.</info>
+				<genre>[I]Terror, Suspense[/I]</genre>
+			</item>
+			<item>
+				<title>O Massacre da Serra Elétrica: O Retorno de Leatherface </title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1ef311b7433bdf51e3c2c583d55b26a9bd0e74c</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/4YMiQNAHpfm4sx8f5dL5zKWSFdc.jpg</thumbnail>
+				<info>Nesta sequência, um grupo de jovens decide dar vida nova a uma cidade fantasma no Texas, mas acaba se deparando com Leatherface, o famoso maníaco da serra elétrica.</info>
+				<genre>[I]Terror[/I]</genre>
+			</item>
+			<item>
+				<title>Herdeiro</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2236f8c258135245d04db9396dc172cd0dd0d0ad</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/x6QStvZ0RBahnz5YZ584yeZLb5x.jpg</thumbnail>
+				<info> Quando um menino contrai uma doença misteriosa, sua mãe deve decidir o quão longe ela irá para protegê-lo das forças terríveis de seu passado.</info>
+				<genre>[I]Terror, Suspense[/I]</genre>
+			</item>
+			<item>
+				<title>Segredos nas Paredes</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2593ededeee349a51cc3160d0d1e095abb3ad00</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ooxBEFf3eSCnExvgw5Hb8qnvbaS.jpg</thumbnail>
+				<info>Dois irmãos descobrem um buraco misterioso na parede da casa dos avós, e acontecimentos assustadores passam a revelar segredos sobre a família.</info>
+				<genre>[I]Terror[/I]</genre>
+			</item>
+
+10
+
+<item>
+				<title>Jack, O Estripador A História não Contada</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16429ef4f3f0a6eebfe3e7dba4c1896e77d1297b</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/yq4ekYYxchTqOJd8kULWID8CkM3.jpg</thumbnail>
+				<info>Londres, 1888 e a cidade está com medo. Uma série de assassinatos aterrorizou os residentes de Whitechapel e o inspetor Reid, da Scotland Yard, não tem pistas na caça ao assassino. À medida que a contagem de cadáveres aumenta e com a cidade em pânico, o inspetor Reid deve mergulhar na escuridão de Londres para encontrar um assassino que pode estar muito mais perto de casa do que qualquer um imagina.</info>
+				<genre>[I]Terror[/I]</genre>
+			</item>
+			<item>
+				<title>Noite Passada em Soho</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d9606175939e4a40c0c970412042b08a71b374d</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ba7YvSdEBuTjhmX5Cr7k8bVyidw.jpg</thumbnail>
+				<info>Uma jovem apaixonada por moda misteriosamente ganha a chance de voltar aos anos 60 e encontrar sua ídola, uma encantadora cantora aspirante. Mas a Londres dessa década não é o que parece e logo o tempo começa a desmoronar com perigosas consequências.
+</info>
+				<genre>[I]Suspense, Terror[/I]</genre>
+			</item>
+			<item>
+				<title>Na Mente do Demônio</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:069b36d11ecb62972d06e6c008145996870d1497</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/rKRra8tFuUKjed2JEpNRXrPkimi.jpg</thumbnail>
+				<info>Uma jovem solta demônios aterrorizantes quando forças sobrenaturais na raiz de uma divisão de décadas entre mãe e filha são implacavelmente reveladas.</info>
+				<genre>[I]Terror, Suspense[/I]</genre>
+			</item>
+			<item>
+				<title>Sem Conexão Parte 2</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd9b241583c96e55994c5fcaedb0a6c9e5c82a46</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/txp0Wm5MGTYRJopAC015VRanBab.jpg</thumbnail>
+				<info>Quando algo terrível ocorre com a única sobrevivente de um massacre sangrento, um cadete inseguro da polícia precisa vencer os seus medos para evitar uma enorme carnificina</info>
+				<genre>[I]Terror, Suspense[/I]</genre>
+			</item>
+			<item>
+				<title>Rua do Medo 1994: Parte 1</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f374e3b2ce287bc1673ed53bac29b23effd338af</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kIABUqs2kfFBDa10l2tFxTIKZMH.jpg</thumbnail>
+				<info>Depois de uma série de assassinatos brutais, um grupo de adolescentes enfrenta uma força maligna que aterroriza a cidade há séculos. Bem-vindos a Shadyside.</info>
+				<genre>[I]Terror, Suspense[/I]</genre>
+			</item>
+
+10
 
 
+<item>
+				<title>Ninguém Sai Vivo</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e7bd09e298be28949cc9f8dc005bda861ec9698</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/tqdeUuieFW0oZ0yHU3RcYycUsxL.jpg</thumbnail>
+				<info>Desesperada, uma imigrante ilegal do México se muda para uma pensão decadente nos EUA. Ela nem imagina que seu pior pesadelo está prestes a começar.</info>
+				<genre>[I]Terror, Suspense[/I]</genre>
+			</item>
+			<item>
+				<title>O Garoto da Casa ao Lado</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome=[B]O Garoto da Casa ao Lado - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome=[B]The Boy Next Door 2015 [/B]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/mSe9JkjAgr8VfLnEoSlxLWxnKCo.jpg</thumbnail>
+				<genre>[I]Suspense[/I]</genre>
+				<info>A professora de ensino médio recém-divorciada Claire Peterson se envolve com o vizinho adolescente, chamado Noah, e o relacionamento entre os dois gera consequências inimagináveis quando o rapaz mostra-se alguém obcecado e inconsequente.</info>
+			</item>
+			<item>
+				<title>Contos do Dia das Bruxas</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a79c66d704a274acae41351ec6029ca06ec783d6$nome=[B]Contos do Dia das Bruxas - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eace8201995f7a84d17f5b8f736b27b70833f17d$nome=[B]Trick r Treat 2007[/B]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/1wr3hBGt8oqpwJENmtXHYW40h5E.jpg</thumbnail>
+				<genre>[I]Terror, Comédia[/I]</genre>
+				<info>Na noite do Halloween, uma pequena cidade descobrirá que algumas tradições nunca devem ser esquecidas. Um casal quebra uma lanterna de abóbora antes da meia-noite, quatro mulheres são perseguidas por um mascarado, alguns garotos travessos descobrem um terrível segredo enterrado e um eremita rabugento recebe uma soturna visita. As travessuras de Halloween podem ser mortais quando as mais variadas criaturas – humanas ou não – tentam sobreviver à mais assustadora noite do ano.</info>
+			</item>
+			<item>
+				<title>Tumba Aberta</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e87fc5e4d40cf6370978799ac7bb950de013840d$nome=[B]Tumba Aberta  - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d4a6101aa56e891caaaf417f777282bc74a7d43$nome=[B]Tumba Aberta - 720p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2c20817bc12cc54ce11ef3eebacf48934ece9d8$nome=[B]Open Grave 2013 [/B]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/c2vEyiJDzzNbqTYOx5VYT9w7IRt.jpg</thumbnail>
+				<genre>[I]Terror, Suspense[/I]</genre>
+				<info>John acorda no meio de uma pilha de cadáveres sem saber como foi parar ali. Aterrorizado, ele encontra um grupo de estranhos também sem recordação alguma do que houve. Eles precisam confiar uns nos outros para desvendar o mistério que os cerca.
+</info>
+			</item>
+			<item>
+				<title>Kristy</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6062f1cb172e5a458c43e923412939f83d81ffa9$nome=[B]Kristy - 1080p[/B]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e11629a958243541f99503366ac2c4409deba543$nome=[B]Kristy - 720p[/B]</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/5sT3ZsWbX6VOlgqslJ1l7eWZJqq.jpg</thumbnail>
+				<genre>[I]Suspense, Terror[/I]</genre>
+				<info>Durante o Dia de Ação de Graças, quase todos os estudantes de uma universidade deixam o câmpus para visitar as suas famílias. Justine (Haley Bennett) não tem dinheiro para viajar, por isso permanece no local praticamente deserto. Uma noite, surge um grupo de pessoas mascaradas querendo matá-la</info>
+			</item>
+			<item>
+				<title>Ninguém Sobrevive</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e2eaaaa7b57da4d2a877b55d37460a497833dbc</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/b6ntb1V78jIfbiInJR1Zrblfo0k.jpg</thumbnail>
+				<genre>[I]Terror, Suspense[/I]</genre>
+				<info>Uma gangue de criminosos cruéis leva um jovem casal como refém para uma casa abandonada no meio do nada. Mas quando a menina é morta, tudo muda e a gangue se depara com um matador experiente determinado a garantir que ninguém.</info>
+			</item>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+				<title>Um lugar silencioso </title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e29692853177fe9b9dd4db3c047c13a94ccef429$nome=[COLOR white]Um lugar silencioso - 1080p[/COLOR]</link>1
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3248a7c86c4f501dc8ac12126ceee8249dd4240b$nome=[COLOR white]Um lugar silencioso - 720p[/COLOR]</link>2
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/03/01/20/26/0577579.jpg</thumbnail>
+				<info>[COLOR red]Sinopse[/COLOR]: 
+Em uma fazenda nos Estados Unidos, uma familia do Meio-Oeste e perseguida por uma entidade fantasmagorica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo e ativado pela percepçao do som.</info>
+			</item>
 
-
-
-
-
-
-
-</channels>
+</items>
