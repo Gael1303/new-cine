@@ -22,3 +22,152 @@
         </items>
     </channel>
 </channels>
+
+<channel>
+        <name>Psicose</name>
+        <thumbnail>https://image.tmdb.org/t/p/w342/ppgFbH4laZu2kYoFLGlU3ZbgzpX.jpg</thumbnail>
+        <date>15.01.1999</date> <genre>Terror / Misterio</genre>
+        <info>Marion rouba uma grande quantia de seu patrao e foge da cidade, eventualmente parando em um motel remoto. La, ela e servida por Norman Bates, uma pessoa muito estranha, mas docil, que ela sempre escuta discutindo com sua mae controladora. Marion e brutalmente assassinada apos aquela noite; Norman encontra e esconde o corpo. Quando um detetive e a irma de Marion visitam o motel para investigar, eles descobrem a terrivel verdade.</info>
+        <items> <SetViewMode>500</SetViewMode>
+            <item>
+                <title>Psicose (1998) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1215bb8e7f490885c13bd231f08663a1f0cb3222</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/ppgFbH4laZu2kYoFLGlU3ZbgzpX.jpg</thumbnail>
+                <genre>Terror / Misterio</genre>
+            </item>
+            <item>
+                <title>Psicose (1998) (Legendado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff7a9ee6efdd4d6f0fc50362b77e277adeb4e17f</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/ppgFbH4laZu2kYoFLGlU3ZbgzpX.jpg</thumbnail>
+                <genre>Terror / Misterio</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>Se7en: Os 7 Crimes Capitais</name>
+        <thumbnail>https://image.tmdb.org/t/p/w342/69Sns8WoET6CfaYlIkHbla4l7nC.jpg</thumbnail>
+        <date>15.12.1995</date> <genre>Suspense / terror / Drama</genre>
+        <info>Quando, a ponto de se aposentar, o detetive William Somerset aborda o ultimo caso com a ajuda do recem-transferido David Mills, eles descobrem uma serie de assassinatos. Logo percebem que estao lidando com um assassino que tem como alvo pessoas que ele acredita representar os sete pecados capitais. Somerset tambem faz amizade com a esposa de Mills, Tracy, que esta gravida e com medo de ter a criança em uma cidade cheia de crimes.</info>
+        <items>
+            <item>
+                <title>Se7en: Os 7 Crimes Capitais (1995) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29d0ea8e79a1d48bb7cc6c445ce603f60ee0538c</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/69Sns8WoET6CfaYlIkHbla4l7nC.jpg</thumbnail>
+                <genre>Suspense / terror / Drama</genre>
+            </item>
+            <item>
+                <title>Se7en: Os 7 Crimes Capitais (1995) (Legendado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c62db96f2940fffc47a76c82c88857a68e27a235</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/69Sns8WoET6CfaYlIkHbla4l7nC.jpg</thumbnail>
+                <genre>Suspense / terror / Drama</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>O Iluminado</name>
+        <thumbnail>https://image.tmdb.org/t/p/w342/xazWoLealQwEgqZ89MLZklLZD3k.jpg</thumbnail>
+        <date>25.12.1980</date> <genre> Drama / Terror</genre>
+        <info>Jack Torrance se torna caseiro de inverno do isolado Hotel Overlook, nas montanhas do Colorado, na esperança de curar seu bloqueio de escritor. Ele se instala com a esposa Wendy e o filho Danny, que e atormentando por premoniçoes. Jack nao consegue escrever e as visoes de Danny se tornam mais perturbadoras. O escritor descobre os segredos sombrios do hotel e começa a se transformar em um maniaco homicida, aterrorizando sua familia.</info>
+        <items>
+            <item>
+                <title>O Iluminado (1980) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b62a4d710c00f9e4f6263ccec5894eb0c805cf4</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/xazWoLealQwEgqZ89MLZklLZD3k.jpg</thumbnail>
+                <genre>Drama/Terror</genre>
+            </item>
+            <item>
+                <title>O Iluminado (1980) (Legendado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c58874899b2ba718a1741266ab9fb198934d941</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/xazWoLealQwEgqZ89MLZklLZD3k.jpg</thumbnail>
+                <genre> Drama/Terror</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>O Sexto Sentido</name>
+        <thumbnail>https://image.tmdb.org/t/p/w342/vaghZWWBamw5vcyUyzFScWlIr1J.jpg</thumbnail>
+        <date></date> <genre>Terror / Suspense</genre>
+        <info></info>
+        <items>
+            <item>
+                <title>O Sexto Sentido (1999) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ca352e23688c20cf0b3ad0647eb4ac72b6d3334</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/vaghZWWBamw5vcyUyzFScWlIr1J.jpg</thumbnail>
+                <genre>Terror / Suspense</genre>
+            </item>
+            <item>
+                <title>O Sexto Sentido (1999) (Legendado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/vaghZWWBamw5vcyUyzFScWlIr1J.jpg</thumbnail>
+                <genre>Terror / Suspense</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>*A Freira: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d998jmbM0AQ9Ad138Mz0N9CdnOU.jpg</thumbnail>
+        <date>07.09.2023</date> <genre>Terror, Mistério, Thriller</genre>
+        <info>Uma série de filmes de terror sobrenatural que faz parte do universo de Invocação do Mal.</info>
+        <items>
+            <item>
+                <title>A Freira</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0500fbcb24d1ba01838d3f54815f4b4d6286998</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d998jmbM0AQ9Ad138Mz0N9CdnOU.jpg</thumbnail>
+                <genre>Terror, Mistério, Thriller</genre>
+            </item>
+            <item>
+                <title>A Freira 2</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39db6bb3bada15e9958228a6f6a8fd924a6d2856</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg</thumbnail>
+                <genre>Terror, Mistério, Thriller</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>*Sobrenatural: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/original/7qXeocgg1EFVyW65LinabYh02uf.jpg</thumbnail>
+        <date>22.04.2011</date> <genre>Terror, Suspense, Mistério</genre>
+        <info>Uma série de filmes de terror americanos onde as tramas são retratadas como arquivos de casos de demonologistas. Os dois primeiros filmes giram em torno de um casal que, depois que seu filho entra misteriosamente em estado comatoso e se torna um vaso para fantasmas em um plano astral, são continuamente assombrados por demônios de um reino infernal conhecido como o Mais Distante até que eles tirem da família o que eles mais querem: vida. O terceiro filme, uma prequela, foca no mesmo médium que ajudou a família desta vez a socorrer uma jovem que clama pelos mortos, e o quarto a acompanha quando sua própria família se torna assombrada. Todas as tramas são retratadas como arquivos de casos de demonologistas.</info>
+        <items>
+            <item>
+                <title>Sobrenatural (2011) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed27821ba0d3929ce67f8ff2a6ae2e6e22c1b981</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2L8fErMpGD4s81VtWwspeyHYdiI.jpg</thumbnail>
+                <genre>Terror, Suspense, Mistério</genre>
+            </item>
+            <item>
+                <title>Sobrenatural: Capítulo 2 (2013) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e07e512572fc912984a6d8039c4c08b2c090ef1d</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9L8Ar7ayazSXPNLNxiaVWOCjzrf.jpg</thumbnail>
+                <genre>Terror, Suspense, Mistério</genre>
+            </item>
+			<item>
+                <title>Sobrenatural: A Origem (2015) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab9ade1d7df6a0aa670ef89071b3a4c9444e7ba1</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yZXbaDPmc8qT4vLQSnf4LAPv1J.jpg</thumbnail>
+                <genre>Terror, Suspense, Mistério</genre>
+            </item>
+            <item>
+                <title>Sobrenatural: A Última Chave (2018) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64532d503a58d6d871fd8f5792daf6d722349284</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3RYZGwImjBUF18RV57J5QuOa31.jpg</thumbnail>
+                <genre>Terror, Suspense, Mistério</genre>
+            </item>
+			<item>
+                <title>Sobrenatural: A Porta Vermelha (2023) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d26e49e3e9a46b6ace6f949ac7f5c38cfaf9cdc</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3RYZGwImjBUF18RV57J5QuOa31.jpg</thumbnail>
+                <genre>Terror, Suspense, Mistério</genre>
+            </item>
+        </items>
+    </channel>
