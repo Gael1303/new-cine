@@ -549,4 +549,105 @@
         </items>
     </channel>
 ----
+    <channel>
+        <name>Shrek: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/md3s2Z5bE2AwQlCjFS5UxhfKhdU.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/gMWrKQjoTIpYjhc8SxZF20EDIES.jpg</fanart>
+        <date>22.06.2001</date> <genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
+        <info>A história de conto de fadas de um ogro grande, forte, solitário e intimidador chamado Shrek, e seus amigos.</info>
+        <items>
+            <item>
+                <title>Shrek (2001) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05968ec30ded898b9a843975df9a192418a16ecf</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/o04jZs5SXhbvhqO4981W7KJXOWZ.jpg</thumbnail>
+                <genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
+            </item>
+			<item>
+                <title>Shrek 2 (2004) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b551f0c2eb11e1e20ec73ea821a027d67171a3cd</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/2SwrbqS8Tv40bHx4AGYpNJX1xDW.jpg</thumbnail>
+                <genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
+            </item>
+			<item>
+                <title>Shrek Terceiro (2007) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9abaa66e56a6de58dd969c6d822d3c62dfc03b4d</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg</thumbnail>
+                <genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
+            </item>
+			<item>
+                <title>Shrek Para Sempre: O Capítulo Final (2010) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ca626440a21f3b5400e24b6bf3a50330692e4e6</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/wQ1vzJuKui9btHYqzn4ZEFwth2w.jpg</thumbnail>
+                <genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
+            </item>
+            
+        </items>
+    </channel>
+----	
+    
+	<channel>
+	<name>Toy Story: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7G9915LfUQ2lVfwMEEhDsn3kT4B.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/hApclyB9NEZEQujAVajzi5iWE4a.jpg</fanart>
+	<date>30.10.1995</date>
+	<genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
+	<info>Woody, um cowboy de pano é o brinquedo favorito de Andy. O que Andy não sabe é que quando os humanos não estão olhando os brinquedos ganham vida. Woody é considerado o líder dos brinquedos do quarto do Andy. Woody é muito amigo de Slinky, um cão com molas que é muito fiel ao cowboy. Andy ainda possui outros brinquedos, tais como Porquinho, o porco-cofrinho; Sr. Cabeça de Batata, o clássico brinquedo montável da Hasbro; Rex, o Tiranossauro de brinquedo; Betty, a pastora de ovelhas e "namorada" de Woody; dentre alguns outros.</info>
+	<items>
+		<item>
+			<title>Toy Story: Um Mundo de Aventuras (1995) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54cc2900a3b0d6893068cbe61e57a01dc8054e00</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/8j4Hrbm0wpBLXZTvsWf83pk4moV.jpg</thumbnail>
+			<genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
+		</item>
+		<item>
+			<title>Toy Story 2 (1999) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4aaaf212fe98a0aac932f71c390baea8a8fcaf7</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/wxvFpBEBJkvZS9EHLpaLsc1tDKs.jpg</thumbnail>
+			<genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
+		</item>
+		<item>
+			<title>Toy Story 3 (2010) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a4fd8fa80f0925d73891ccfe7e4bcf6be438200</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/amY0NH1ksd9xJ9boXAMmods6U0D.jpg</thumbnail>
+			<genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
+		</item>
+		<item>
+			<title>Toy Story 4 (2019) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:014df1aba3b3ebe683ac80c4b39636c038b7e8a6</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/AkrRD3Lnwb82Stu2SpDKAerK6O2.jpg</thumbnail>
+			<genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
+		</item>
+	</items>
+</channel>
+----	
+    
+	<channel>
+	<name>Kung Fu Panda: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7X73TVXQhHF6bZYaj557GePr5nu.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/uDosHOFFWtF5YteBRygHALFqLw2.jpg</fanart>
+	<date>06.06.2008</date>
+	<genre>Aventura, Animação, Ação, Comédia, Família</genre>
+	<info>A série Kung Fu Panda são filmes de comédia de ação animados por computador ambientados em uma versão da China antiga povoada por animais falantes humanoides, a trama gira em torno de um panda humanoide atrapalhado chamado Po que aspira a ser um mestre de kung fu.</info>
+	<items>
+		<item>
+			<title>Kung Fu Panda (2008) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45b01488ee1500450d673a3610ca1f69ac8eca1a</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg</thumbnail>
+			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
+		</item>
+		<item>
+			<title>Kung Fu Panda 2 (2011) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78c40f183a0d579c359742f2f86721e5c208ab07</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/oDoxqekgain7WEHjoBN8BZIY6dY.jpg</thumbnail>
+			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
+		</item>
+		<item>
+			<title>Kung Fu Panda 3 (2016) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8c780bc1a747724badbaab385ad43c51fa6db10</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/pXYJjUNtnLfXVKGmqi1nfGornri.jpg</thumbnail>
+			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
+		</item>
+	</items>
+</channel>
+
 </channels>
