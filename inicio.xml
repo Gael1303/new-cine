@@ -78,4 +78,23 @@
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
    </channel>
 
+    
+<channel>
+    <name>Teste</name>
+    <thumbnail>https://example.com/thumbnail.jpg</thumbnail>
+    <date>2023-10-24</date>
+    <subchannels>
+        <subchannel>
+            <name>Streaming 1</name>
+            <thumbnail>https://example.com/subchannel1.jpg</thumbnail>
+			<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/populares/Filmes</externallink>
+        </subchannel>
+		<subchannel>
+            <name>Streaming 2</name>
+            <thumbnail>https://example.com/subchannel1.jpg</thumbnail>
+			<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/populares/Series</externallink>
+        </subchannel>
+    </subchannels>
+</channel>
+
 </channels>	
