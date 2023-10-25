@@ -16,64 +16,64 @@
     
     <channel>
         <name>[COLOR green]•[/COLOR]Novo No Cine Room</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Conteudos Recem-lançados no mundo</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/recentes.xml</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR green]•[/COLOR]Populares</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <name>[COLOR green]•[/COLOR]Tendencias</name>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Filmes e series Populares</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/populares/abas</externallink>
     </channel>
 	
    <channel>
         <name>[COLOR yellow]•[/COLOR]Top Streaming</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Filmes e Séries mais vistos em cada streaming</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/streamings.xml</externallink>
    </channel>
    
    <channel>
-        <name>[COLOR yellow]•[/COLOR]Sagas</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <name>[COLOR green]•[/COLOR]Coleção</name>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Melhores coletaneas</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/sagas</externallink>
    </channel>
     
    <channel>
-        <name>[COLOR yellow]•[/COLOR]Generos</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <name>[COLOR green]•[/COLOR]Generos</name>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Filmes Separados por genero</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/abas.xml</externallink>
    </channel>
    
    <channel>
         <name>[COLOR red]•[/COLOR]Melhor Avaliação</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Filmes e Séries mais bem avaliados</info>
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
    </channel>
 
 	<channel>
         <name>[COLOR green]•[/COLOR]Melhor Qualidade</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Quando a qualidade é PRIORIDADE.</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/melhor%20qualidade/abas.xml</externallink>
    </channel>
 
    <channel>
         <name>[COLOR red]•[/COLOR]Todos</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Todos os conteudos em um só lugar</info>
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
    </channel>
