@@ -4,8 +4,9 @@
     <SetViewMode>500</SetViewMode>
     
 	<channel>
-        <name>*A Freira: Coleção</name>
+        <name>A Freira: Coleção</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d998jmbM0AQ9Ad138Mz0N9CdnOU.jpg</thumbnail>
+		<fanart>https://kondmaratonamos.com.br/wp-content/uploads/2022/10/5f451e7b46fdd.jpg</fanart>
         <date>07.09.2023</date> <genre>Terror, Mistério, Thriller</genre>
         <info>Uma série de filmes de terror sobrenatural que faz parte do universo de Invocação do Mal.</info>
         <items>
@@ -26,8 +27,9 @@
 ----	
     
 	<channel>
-        <name>*Sobrenatural: Coleção</name>
+        <name>Sobrenatural: Coleção</name>
         <thumbnail>https://www.themoviedb.org/t/p/original/7qXeocgg1EFVyW65LinabYh02uf.jpg</thumbnail>
+		<fanart>https://streamcoimg-a.akamaihd.net/000/135/2235/1352235-Banner-L2-05568f2133ff0b68d1bbdb3d3996e267.jpeg</fanart>
         <date>22.04.2011</date> <genre>Terror, Suspense, Mistério</genre>
         <info>Uma série de filmes de terror americanos onde as tramas são retratadas como arquivos de casos de demonologistas. Os dois primeiros filmes giram em torno de um casal que, depois que seu filho entra misteriosamente em estado comatoso e se torna um vaso para fantasmas em um plano astral, são continuamente assombrados por demônios de um reino infernal conhecido como o Mais Distante até que eles tirem da família o que eles mais querem: vida. O terceiro filme, uma prequela, foca no mesmo médium que ajudou a família desta vez a socorrer uma jovem que clama pelos mortos, e o quarto a acompanha quando sua própria família se torna assombrada. Todas as tramas são retratadas como arquivos de casos de demonologistas.</info>
         <items>
@@ -66,8 +68,9 @@
 ----	
     
 	<channel>
-        <name>*Pânico: Coleção</name>
+        <name>Pânico: Coleção</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glmWNyOkoXMqltWJJhQelAvIVxk.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/g3UTK29RMThW0OIvWTLDfSPCHSV.jpg</fanart>
         <date>31.01.1997</date> <genre>Terror, Suspense, Crime, Mistério</genre>
         <info>Os filmes da série "Pânico" seguem Sidney Prescott e sua guerra contra uma sucessão de assassinos que adotam o disfarce de Ghostface para perseguir e atormentar as suas vítimas. Sidney recebe apoio do deputado municipal e posteriormente xerife Dewey Riley, do repórter e escritor da revista cor de rosa Gale Weathers e do geek Randy Meeks, junto com vários amigos, parceiros românticos e outros conhecidos que mudam conforme a série avança.</info>
         <items>
@@ -112,7 +115,8 @@
 ----	
     
 	<channel>
-        <name>*Invocação do Mal: Coleção</name>
+        <name>Invocação do Mal: Coleção</name>
+		<fanart>https://cinematologia.com.br/cine/wp-content/uploads/2018/08/Capa-1.jpg</fanart>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg</thumbnail>
         <date>13.09.2013</date> <genre>Terror, Suspense, Misterio</genre>
         <info>Invocação do Mal é uma coletânea com dois de filmes de horror, estrelada por Vera Farmiga e Patrick Wilson, no papel dos investigadores paranormais Lorraine e Ed Warren. Esta franquia é de grande sucesso, com vários personagens marcantes que chegaram até a ter seus próprios filmes. Estas histórias são a base para criação de universo fantástico do paranormal.</info>
@@ -140,7 +144,8 @@
 ----	
     
 	<channel>
-        <name>*Um Lugar Silencioso: Coleção</name>
+        <name>Um Lugar Silencioso: Coleção</name>
+		<fanart>https://www.themoviedb.org/t/p/original/aYIWZ8SmnZt6rDCuIvXzzcnxjWC.jpg</fanart>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gRj1xzwDLRnSWDeqTQZFOg0y1VB.jpg</thumbnail>
         <date>05.04.2018</date> <genre>Drama, Terror, Suspense, Ficção Científica</genre>
         <info>Uma série de filmes que giram em torno de pessoas lutando para sobreviver em um mundo pós-apocalíptico habitado por criaturas extraterrestres cegas com um senso agudo de audição.</info>
@@ -162,7 +167,8 @@
 ----	
     
 	<channel>
-        <name>*Jogos Mortais: Coleção</name>
+        <name>Jogos Mortais: Coleção</name>
+		<fanart>https://www.themoviedb.org/t/p/original/q6XF2qbrxdv3OwZPnXgecDRft1O.jpg</fanart>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dIqFwkyd38C9dYUhlibpYSp9IoT.jpg</thumbnail>
         <date>02.04.2005</date> <genre>Terror, Suspense, Crime, Misterio</genre>
         <info>Jigsaw é um assassino que possui uma marca registrada: ele deixa em suas vítimas uma cicatriz em forma de quebra-cabeças, que faz com que elas cometam atos igonizantes para se salvar. O detetive David Tapp (Danny Glover) é designado para investigar os assassinatos, bem como a capturar seu autor. Porém o caminho evasivo seguido por Jigsaw leva o detetive a desenvolver uma obsessão por capturá-lo. A coletânea é composta de sete filmes, Jogos Mortais I, Jogos Mortais II, Jogos Mortais III, Jogos Mortais IV, Jogos Mortais V, Jogos Mortais VI e Jogos Mortais VII: O Final, lançados sequencialmente nos anos 2004 a 2010.</info>
@@ -232,7 +238,7 @@
 ----	
     
 	<channel>
-        <name>*Cemitério Maldito: Coleção</name>
+        <name>Cemitério Maldito: Coleção</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/FYIdCS39yn0NGFDFlRUXUmRxRk.jpg</fanart>
         <date>06.10.2023</date> <genre>Terror</genre>
         <info>Em 1969, o jovem Jud Crandall sonha em deixar para trás sua cidade natal, Ludlow, mas logo descobre segredos sinistros no local. Ele é forçado a enfrentar a sombria história de sua família, que o manterá para sempre conectado à cidadezinha.</info>
@@ -254,7 +260,7 @@
 ----	
     
 	<channel>
-        <name>*It: A Coisa - Coleção</name>
+        <name>It: A Coisa - Coleção</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tZ55C7gPExwzvBLCsZMqFZMbB2I.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/zTlvziOLzdUqUqQ3KZ4W9ex4sBD.jpg</fanart>
         <date>07.09.2017</date> <genre>Fantasia, Terror</genre>
@@ -277,7 +283,7 @@
 ----	
     
 	<channel>
-        <name>*Rua do Medo: Coleção</name>
+        <name>Rua do Medo: Coleção</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nuh1egnnHA3r4dCqAQqkfbC9neK.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/13nBFLeuhHbXmU8QAnLIrJy11cl.jpg</fanart>
         <date>02.07.2021</date> <genre>Terror, Misterio</genre>
         <info>Três adaptações cinematográficas da série de livros de R. L. Stine.</info>
@@ -305,7 +311,7 @@
 ----	
     
 	<channel>
-        <name>*Atividade Paranormal: Coleção</name>
+        <name>Atividade Paranormal: Coleção</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZIOIsr3GJn2d0grVlFfLKxmGA3.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/2UDoxTDlbcWRxLpKEx5gJAANSEQ.jpg</fanart>
         <date>17.11.2009</date> <genre>Terror, Suspense, Misterio</genre>
         <info>Uma série americana de filmes de terror baseada na assombração de famílias.</info>
@@ -357,7 +363,7 @@
 ----	
     
 	<channel>
-        <name>*A Entidade: Coleção</name>
+        <name>A Entidade: Coleção</name>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t19QJGCgExGEZabHosjKkLcn5jE.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/iQY3kJ2oqHqmcSm32xPfkFF4xW9.jpg</fanart>
         <date>12.10.2015</date> <genre>Terror, Suspense, Misterio</genre>
         <info>Uma série americana de filmes de terror sobrenatural que começa com o escritor fictício de crimes reais Ellison Oswalt, que descobre uma caixa de filmes caseiros em seu sótão que coloca sua família em perigo. Uma sequência segue James Ransone, o deputado, e uma mãe cujos filhos são atormentados pelas crianças fantasmagóricas levadas por Bughuul em sua fazenda rural.</info>
@@ -373,6 +379,172 @@
                 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:045f9f93079b3ec864432d0dcd196601015181e9</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1nKrDcCzDG5LLamYb3dWWenE92L.jpg</thumbnail>
                 <genre>Terror, Suspense, Misterio</genre>
+            </item>
+        </items>
+    </channel>
+----
+    
+    
+	<channel>
+        <name>O Chamado: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/500xj7l72BojMZ3tNBJY46tg5YJ.jpg</thumbnail> 
+		<fanart>https://www.themoviedb.org/t/p/original/jXlFymc442CEMB5h3d62GeJefnW.jpg</fanart>
+        <date>31.01.2003</date> <genre>Terror, Mistério</genre>
+        <info>Uma série de filmes de horror psicológico americano baseada no filme de terror japonês Ringu de 1998.</info>
+        <items>
+            <item>
+                <title>O Chamado (2003) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d459e5bf2dec478c1c8a804e3853d20ea998d513</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/rHTUfJE1y7XGU3hk6l3W5rQnku1.jpg</thumbnail>
+                <genre>Terror, Mistério</genre>
+            </item>
+            <item>
+                <title>O Chamado 2 (2005) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69e356624b30f7bf27cfac86545a60f5e442d440</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tRAMi4baz87h6k4o9EgAmi3dOw9.jpg</thumbnail>
+                <genre>Terror, Mistério</genre>
+            </item>
+			<item>
+                <title>O Chamado 3 (2017) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76ac5fe4a60f2d25f965c76ea4a19f4bc6537381</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvsh3qYE2TVhjlQFYV7o13jTAvr.jpg</thumbnail>
+                <genre>Terror, Mistério</genre>
+            </item>
+			<item>
+                <title>O Chamado 4: Samara Ressurge (2022) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e7aa80dd9c8c05498cdf90a81f223cba7a4ed21</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7IlDfL40rIe1bVERCxXUJJfx2en.jpg</thumbnail>
+                <genre>Terror, Mistério</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+	<channel>
+        <name>John Wick: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/41CVGwXoXkcozabIiCXpPSunLjZ.jpg</thumbnail> 
+		<fanart>https://www.themoviedb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg</fanart>
+        <date>17.11.2014</date> <genre>Ação, Suspense, Crime</genre>
+        <info>Uma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan 'John' Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.</info>
+        <items>
+            <item>
+                <title>John Wick: De Volta ao Jogo (2014) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
+                <genre>Ação, Suspense, Crime</genre>
+            </item>
+            <item>
+                <title>John Wick 2: Um Novo Dia para Matar (2017) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b0501ccf9162ef8095d6da69133e63028924641</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kRAHy9CQnNT16vTvtJtu9pRgjEG.jpg</thumbnail>
+                <genre>Ação, Suspense, Crime</genre>
+            </item>
+			<item>
+                <title>John Wick 3: Parabellum (2019) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f564d1711f5817589a5c7e8ced467f65b9a1d93f</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mTzREVpVUvVCiVU1znu8dbbb4MB.jpg</thumbnail>
+                <genre>Ação, Suspense, Crime</genre>
+            </item>
+			<item>
+                <title>John Wick 4: Baba Yaga (2023) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:655e12bc64229f2345be2258a8080142ba460d68</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg</thumbnail>
+                <genre>Ação, Suspense, Crime</genre>
+            </item>
+        </items>
+    </channel>
+----	
+    
+<channel>
+	<name>Harry Potter: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/original/oD2dRmLPrluxJTlSlpMaAzDnz3.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/wfnMt6LGqYHcNyOfsuusw5lX3bL.jpg</fanart>
+	<date>23.11.2001</date>
+	<genre>Aventura, Fantasia</genre>
+	<info>Assista o fenômeno cinematográfico de uma vida em toda sua brilhante e alta definição. Redescubra o mundo de Harry Potter através de 7 filmes e de um processo de produção que durou uma década inteira.</info>
+	<items>
+		<item>
+			<title>Harry Potter e a Pedra Filosofal (2001) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35e3e1b9172d374e7a63a0f2efdc9002a4a090c9</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/qnw9610ojLT0jU3lMSZOAFttt1e.jpg</thumbnail>
+			<genre>Aventura, Fantasia</genre>
+		</item>
+		<item>
+			<title>Harry Potter e a Camara secreta (2002) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba794413620f255a6848e0d4c160cde11f61a66c</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg</thumbnail>
+			<genre>Aventura, Fantasia</genre>
+		</item>
+		<item>
+			<title>Harry Potter e o Prisioneiro de Azkaban (2004) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a82abdd7f9305db077205845147af9bfcd7f3c2</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg</thumbnail>
+			<genre>Aventura, Fantasia</genre>
+		</item>
+		<item>
+			<title>Harry Potter e o Calice de fogo (2005) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecfc8bcc9db3842414670d22e8295da6c1de734d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg</thumbnail>
+			<genre>Aventura, Fantasia</genre>
+		</item>
+		<item>
+			<title>Harry Potter e a Ordem da Fenix (2007) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd3d6f1825a2df0ea7ee3f47e49dcd4c4c270e85</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg</thumbnail>
+			<genre>Aventura, Fantasia</genre>
+		</item>
+		<item>
+			<title>Harry Potter e o Enigma do Principe (2009) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce90fa26268ee182297d57ad89a363311c5b9390</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg</thumbnail>
+			<genre>Aventura, Fantasia</genre>
+		</item>
+		<item>
+			<title>Harry Potter e as Reliquias da Morte: Parte I (2010) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab7f93b6fac7e050bd4e5799e1a332cdc88b3cbc</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/67FVFOTaeBUQnimhCWpUkDawDct.jpg</thumbnail>
+			<genre>Aventura, Fantasia</genre>
+		</item>
+		<item>
+			<title>Harry Potter e as Reliquias da Morte: Parte II (2011) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b9e85562e7ee53834da11117e49d36b91ed916d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg</thumbnail>
+			<genre>Aventura, Fantasia</genre>
+		</item>
+	</items>
+</channel>
+----	
+    
+	<channel>
+        <name>Jogos Vorazes: Coleção</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tpq93sfKJjq6EOWkhp3LN2HOuaW.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/zWiiLNg8yXv0he3tCH6XignPaYV.jpg</fanart>
+        <date>23.03.2012</date> <genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
+        <info>Katniss Everdeen, uma garota de dezesseis anos que vive em um país distópico chamado Panem - localizado onde estaria a América do Norte. O país é dominado por uma metrópole tecnologicamente avançada chamada Capital, que realiza anualmente os Jogos Vorazes, para que as pessoas sempre se lembrem da revolta que aconteceu décadas atrás.</info>
+        <items>
+            <item>
+                <title>Jogos Vorazes (2012) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:015380b6afa40fde80c73e58591dbcf6804cadc1</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l6jn53LMu07uPt8A42JWIKi1Beb.jpg</thumbnail>
+                <genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
+            </item>
+            <item>
+                <title>Jogos Vorazes: Em Chamas (2013) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a00db3ae122ce1ca081c43881a271ab66cbe9512</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m1lky5ftnhLRpkoYWKssH8qvlRU.jpg</thumbnail>
+                <genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
+            </item>
+			<item>
+                <title>Jogos Vorazes: A Esperança - Parte 1 (2014) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:baa1a76ca1eae1227410381083c66145ae141fc3</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hekpVNWOROZm57RS4OLW0ySkxx9.jpg</thumbnail>
+                <genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
+            </item>
+			<item>
+                <title>Jogos Vorazes: A Esperança - O Final (2015) (Dublado)</title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8796d6e9ba595c7ca9ae0634bd5c2400eae803c</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5KSQkozSelQj6bq8NCKtINvsSSj.jpg</thumbnail>
+                <genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
             </item>
         </items>
     </channel>
