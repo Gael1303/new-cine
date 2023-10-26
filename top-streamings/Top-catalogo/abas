@@ -7,11 +7,11 @@
         <thumbnail>https://catracalivre.com.br/wp-content/uploads/2018/05/31945562_2186800151356984_3834350131021348864_n-450x488.jpg</thumbnail>
         <fanart>https://conversationsabouther.net/wp-content/uploads/2015/09/netflix.jpg</fanart>
 		<info>Filmes Populares</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/populares/Filmes</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/Top-catalogo/aba-streamings-filmes</externallink>
     </channel>
 	
 	<channel>
-        <name>[COLOR green]•[/COLOR]Séries</name>
+        <name>[COLOR red]•[/COLOR]Séries</name>
         <thumbnail>https://www.apptuts.net/wp-content/uploads/2019/08/melhores-series-netflix-2019-capa.jpg</thumbnail>
         <fanart>https://149356117.v2.pressablecdn.com/wp-content/uploads/2019/09/series-muito-longas.jpg</fanart>
 		<info>Séries Populares</info>
