@@ -23,20 +23,12 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR green]•[/COLOR]Tendencias</name>
+        <name>[COLOR green]•[/COLOR]Populares</name>
         <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
         <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Filmes e series Populares</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/populares/abas</externallink>
     </channel>
-	
-   <channel>
-        <name>[COLOR yellow]•[/COLOR]Top Streaming</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Filmes e Séries mais vistos em cada streaming</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/Top-catalogo/abas</externallink>
-   </channel>
    
    <channel>
         <name>[COLOR green]•[/COLOR]Coleção</name>
@@ -70,6 +62,14 @@
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/melhor%20qualidade/abas.xml</externallink>
    </channel>
 
+<channel>
+        <name>[COLOR yellow]•[/COLOR]Oscar</name>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Filmes Indicados e vencedores</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/Top-catalogo/abas</externallink>
+   </channel>
+	
    <channel>
         <name>[COLOR red]•[/COLOR]Todos</name>
         <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
@@ -78,23 +78,6 @@
 		<externallink>https://bit.ly/3xZ2T9O</externallink>
    </channel>
 
-    
-<channel>
-    <name>Teste</name>
-    <thumbnail>https://example.com/thumbnail.jpg</thumbnail>
-    <date>2023-10-24</date>
-    <subchannels>
-        <subchannel>
-            <name>Streaming 1</name>
-            <thumbnail>https://example.com/subchannel1.jpg</thumbnail>
-			<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/populares/Filmes</externallink>
-        </subchannel>
-		<subchannel>
-            <name>Streaming 2</name>
-            <thumbnail>https://example.com/subchannel1.jpg</thumbnail>
-			<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/populares/Series</externallink>
-        </subchannel>
-    </subchannels>
-</channel>
+
 
 </channels>	
