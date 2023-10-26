@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+	<SetViewMode>500</SetViewMode>
+
+<channel>
+        <name>Apple Tv+</name>
+        <thumbnail>https://www.macpricesaustralia.com.au/wp-content/uploads/2019/10/Apple-TV-app-icon-1024x1024.png</thumbnail>
+        <fanart>https://mixdeseries.com.br/wp-content/uploads/2019/03/Apple-TV-2-e1568730986332.jpg</fanart>
+		<info>Filmes e Séries disponiveis</info>
+        <items>
+            <item>
+	       <title>Ghosted: Sem Resposta (2023) </title>
+	       <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5RI26DO4VFI5RJVWP6U6YZ52L5FPMIVD&dn=Ghosted%20-%20Sem%20Resposta%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+	       <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg</thumbnail>
+	       <fanart>https://www.themoviedb.org/t/p/original/9ynjn4vuWxBtGSpTrzf69demjhv.jpg</fanart>
+	       <genre>Romance, Açao, Comedia</genre> / <rate>7.2</rate> / <aired>2023/04/20</aired> </item>
+            <item>
+                <title>Greyhound: na mira do inimigo (2020) </title>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d7427decac26e35e62424d2b4359e04691cfb9a</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/vlgz2XLdLkSI5aNUJLHqUXVQ1GU.jpg</thumbnail>
+                <genre>Gueraa / Drama</genre> <date>10.07.2020</date>
+            </item>
+			<item>
+                <title>Tetris (2023) </title>  
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82d9a4ff51b7989881cce476cb135fea957656cb</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg</thumbnail> 
+                <fanart>https://www.themoviedb.org/t/p/original/4avmIRBBOs9b4DKoenf8SWWJJP7.jpg</fanart>				
+                <genre>História, Drama, Thriller</genre>
+				<date>15.03.2023</date>
+            </item>
+			<item>
+                <title>Emancipation: Uma História de Liberdade (2023) </title>  
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4e85f65416f1fa30d8dd89b69418ddd93ac1462</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izTIOynukDcN9dp7uPlwBjHr8f5.jpg</thumbnail>  
+				<fanart>https://www.themoviedb.org/t/p/original/jYFoJyZpuqRC2MrPiLY0pHDTxAZ.jpg</fanart>
+                <genre>Açao, Thriller, História, Drama</genre>  <aired>2022/12/02</aired>
+            </item>
+		<item>	<title>The Box: No Ritmo do Coraçao (2021) </title>
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db46488a8fae1b665d5a961429172320f4a476e9</link>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pdTMlYcTQqRY4dtBWuCa9QpYVym.jpg</thumbnail>
+                <genre>Musica, Drama</genre>
+            </item>
+			<item> <title>Finch (2021) </title>
+           -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f3e18dbe7fde04e513a7998c0deee3d37e9dfb2</link>
+           <thumbnail>https://image.tmdb.org/t/p/w342/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg</thumbnail>
+           <genre>[I]Ficçao Científica, Drama, Aventura[/I]</genre>
+            </item>
+			<item>
+                <title>Sharper: Uma Vida de Trapaças (2023) </title>  
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba4cb9e93af29a0ab8ac01956ee3fc81f5b53bd4</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nkvg5RbmDcLMfu5gfJHhMqdWBpK.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/cG5QZHyIRJXqo53YA41gbNMlpIM.jpg</fanart>
+                <genre>Crime/Drama/Thriller</genre> 
+            </item>
+			<item>
+                <title>Palmer (2021)</title> 
+				<genre>Drama</genre>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae9fb02301be2287aac03cf4049506b33e9e7848</link>
+                <thumbnail>https://image.tmdb.org/t/p/w342/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg</thumbnail>
+            </item>
+			<item>
+                <title>Passagem (2022)</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d46a130c15f7e3594efa955b4d9c6e9627d119d2</link>
+                <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/81eQIYIR7i5W0XsB2PtvZAt4I9w.jpg</thumbnail>  
+				<fanart>https://www.themoviedb.org/t/p/original/e3GJaLTXrKzFAMB2kIQtzgadBHw.jpg</fanart>
+               	<genre>Drama</genre>
+            </item>
+			<item>
+			<title>Sorte (2022)</title>
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cde288af13a3060d718d1b60993395d6a7ca8255</link>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aeJHkkrDvbXPB25NghNbv5kUBVi.jpg</thumbnail>
+            <genre>Animaçao / Aventura / Comedia / Fantasia</genre> 
+            </item>
+			
+          <item>
+	       <title>A Tragedia de Macbeth (2021)</title>
+           <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f521e0656043e147e4d6f1facfd42b8c51cdf3d</link>
+	       <thumbnail>https://megafilmeseseriesonline.com/wp-content/uploads/2022/01/Assistir-A-Tragedia-de-Macbeth-2022-Dublado-Online.jpg</thumbnail>
+	       <fanart>https://www.cinemascomics.com/wp-content/uploads/2021/07/tragedy-macbeth-1.jpg</fanart>
+	       <genre>Drama</genre>
+       </item>
+       <item>
+            <title>Cherry: Inocencia Perdida (2021)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa4e1b61b48e07c585e5036ae99268a24c972903</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/qbSsR0IfnxdXZqfRMpH2PgLAbPV.jpg</thumbnail>
+<genre>[I]Drama, Crime[/I]</genre>
+</item>
+<item>
+	<title>O Banqueiro</title>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8102688088d98186129b0e6acf10355815345e7f</link>
+	<genre>Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w500/nwcHBtJBbL0ku0Lf3mpTHEwa69y.jpg</thumbnail>
+</item>
+<item>
+	<title>Spirited: Um Conto Natalino (2022)</title>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79ba556cfa8a987fa1debd1132d6b48548365590</link>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z4oo31ZE4hK3uON2ojkV39BAX8C.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/snO3rah2ty0tI5kX5SNqftqmWD2.jpg</fanart>
+	<genre>Comedia</genre>
+</item>
+<item>
+	<title>Wolfwalkers (2020)</title>
+	<genre>Animaçao</genre>
+	<thumbnail>https://image.tmdb.org/t/p/w342/gCa0yDjBb6zHgy2dhbud9mfsTLK.jpg</thumbnail>
+	<genre>[COLOR white][I]Animaçao, Familia, Aventura, Fantasia</genre>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79c3f29c66648c4378b1aa72093649ce4c40f9ce</link>
+</item>
+<item>
+	<title>O Canto do Cisne (2021)</title>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cec9024a5c9e3d8236e09db3a750fdcee3441e5f</link>
+	<thumbnail>https://cafecomnerd.com.br/wp-content/uploads/2021/11/SWAN-SONG-Apple-TV-Plus-lanca-trailer-drama-de-ficcao-cieniifica-com-Mahershala-Ali-Poster.jpg</thumbnail>
+	<fanart>https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/swan-song-apple-tv.jpg?resize=1200,628&quality=82&strip=all&ssl=1</fanart>
+	<genre>Drama, Ficçao</genre>
+</item>
+	<item>
+		<title>Avatar: O Caminho da Água (2022)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61e10c8e238c96c8d19a80d853c90a574602323a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/94xxm5701CzOdJdUEdIuwqZaowx.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg</fanart>
+		<genre>Ficção científica, Ação, Aventura</genre>
+	</item>
+	<item>
+		<title>Fale Comigo (2023)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24bcce4cf3d6c0fd3199cff3eb1c2853ca2ce5d4</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eqTYmtZKv4RGJiIQy6P6KyMNJ3h.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dVdjbRLvL4qan6APcpnl5BIXJGU.jpg</fanart>
+		<genre>Terror, Suspense</genre>
+	</item>
+	<item>
+			<title>Missão: Impossível – Acerto de Contas Parte 1 (2023)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:163693b00111ba61b215a2cfaa150c76998c13d8</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg</thumbnail>
+			<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/bYJv39whWTAOWO0mv7oUija8GgM.jpg</fanart>
+			<genre>Ação, Thriller, Aventura</genre>
+		</item>
+             </items>
+</channels>	
