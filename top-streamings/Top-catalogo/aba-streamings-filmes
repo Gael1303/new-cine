@@ -36,12 +36,12 @@
 				<fanart>https://www.themoviedb.org/t/p/original/jYFoJyZpuqRC2MrPiLY0pHDTxAZ.jpg</fanart>
                 <genre>Açao, Thriller, História, Drama</genre>  <aired>2022/12/02</aired>
             </item>
-			<title>The Box: No Ritmo do Coraçao (2021) </title>
+		<item>	<title>The Box: No Ritmo do Coraçao (2021) </title>
             <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db46488a8fae1b665d5a961429172320f4a476e9</link>
             <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pdTMlYcTQqRY4dtBWuCa9QpYVym.jpg</thumbnail>
                 <genre>Musica, Drama</genre>
             </item>
-			<title>Finch (2021) </title>
+			<item> <title>Finch (2021) </title>
            -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f3e18dbe7fde04e513a7998c0deee3d37e9dfb2</link>
            <thumbnail>https://image.tmdb.org/t/p/w342/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg</thumbnail>
            <genre>[I]Ficçao Científica, Drama, Aventura[/I]</genre>
@@ -111,7 +111,6 @@
 	<fanart>https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/swan-song-apple-tv.jpg?resize=1200,628&quality=82&strip=all&ssl=1</fanart>
 	<genre>Drama, Ficçao</genre>
 </item>
-<item>
 	<item>
 		<title>Avatar: O Caminho da Água (2022)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61e10c8e238c96c8d19a80d853c90a574602323a</link>
@@ -127,12 +126,11 @@
 		<genre>Terror, Suspense</genre>
 	</item>
 	<item>
-		<item>
 			<title>Missão: Impossível – Acerto de Contas Parte 1 (2023)</title>
 			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:163693b00111ba61b215a2cfaa150c76998c13d8</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg</thumbnail>
 			<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/bYJv39whWTAOWO0mv7oUija8GgM.jpg</fanart>
 			<genre>Ação, Thriller, Aventura</genre>
 		</item>
-
+             </items>
 </channels>	
