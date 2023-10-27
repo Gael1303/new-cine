@@ -41,6 +41,7 @@
 		<date>20.10.2023</date>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/classicos</externallink>
     </channel>
+
 	
 	<channel>
         <name>[COLOR green]•[/COLOR]Comédia</name>
@@ -49,6 +50,15 @@
 		<info>ATUALIZADO EM: </info>
 		<date>20.10.2023</date>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/comedia</externallink>
+    </channel>
+
+	<channel>
+        <name>[COLOR red]•[/COLOR]Crime</name>
+        <thumbnail>https://ia801407.us.archive.org/14/items/cineroom/Picsart_22-09-01_17-55-48-439.jpg</thumbnail>
+        <fanart>https://t.ctcdn.com.br/R6lsUGWANGYZwjamhU92Dn20FeI=/1920x1080/smart/i574046.png</fanart>
+		<info>ATUALIZADO EM: </info>
+		<date>20.10.2023</date>
+		<externallink>http://</externallink>
     </channel>
 	
 	<channel>
@@ -88,12 +98,12 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR red]•[/COLOR]Ficção científica</name>
+        <name>[COLOR green]•[/COLOR]Ficção científica</name>
         <thumbnail>https://ia801407.us.archive.org/14/items/cineroom/Picsart_22-09-01_17-55-48-439.jpg</thumbnail>
         <fanart>https://olhardigital.com.br/wp-content/uploads/2023/07/this-is-how-interstellar-originally-ended_9e59.1280.webp</fanart>
 		<info>ATUALIZADO EM: </info>
 		<date>20.10.2023</date>
-		<externallink>http://</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/sci-fi</externallink>
     </channel>
 	
 	<channel>
@@ -141,14 +151,7 @@
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/lgbt</externallink>
     </channel>
 	
-	<channel>
-        <name>[COLOR red]•[/COLOR]Crime</name>
-        <thumbnail>https://ia801407.us.archive.org/14/items/cineroom/Picsart_22-09-01_17-55-48-439.jpg</thumbnail>
-        <fanart>https://t.ctcdn.com.br/R6lsUGWANGYZwjamhU92Dn20FeI=/1920x1080/smart/i574046.png</fanart>
-		<info>ATUALIZADO EM: </info>
-		<date>20.10.2023</date>
-		<externallink>http://</externallink>
-    </channel>
+	
 	
 	
 </channels>	
