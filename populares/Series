@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-	<SetViewMode>54</SetViewMode>
+	<SetViewMode>502</SetViewMode>
 	<channel>
 		<name>Lupin</name>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yUSpKDhibrxnY3EXAcNkaPrUOI0.jpg</thumbnail>
@@ -211,6 +211,276 @@
 			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b9b3ca13167685fff5d6c57f2b559d25a855f66</link>
 			<fanart>https://www.themoviedb.org/t/p/original/butQYwQvXZDDT9vatV3oO0ZAMhe.jpg</fanart>
 			<genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Impuros</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/leHugSOjrC26eZJmOLu9mUnAlai.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/w1000_and_h563_face/ajCK4xCO2UIHSqttXIHcRstBHRC.jpg</fanart>
+	<date>19.10.2023</date>
+	<studio>DISNEY+</studio>
+	<info>No Rio dos anos 90, Evandro é um jovem da favela que tenta ganhar a vida honestamente. Porém, após a morte do irmão pela polícia, ele entra no mundo do tráfico buscando vingança.</info>
+	<items>
+		<item>
+			<title>T01 : Impuros - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eec46a7f81ea21767fdace610711c6d9ede832d0</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/r9MgJJceXDfrbgQPO6ErdQIXXei.jpg</thumbnail>
+		</item>
+		<item>
+			<title>T02 : Impuros - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d2dd32a1c87e1c9e81da259845189949fc49564</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/4zAtrolGNgRJsccgvJLxDRLa6wT.jpg</thumbnail>
+		</item>
+		<item>
+			<title>T03 : Impuros - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab7638d55e73749d10cd0873d811d3d2cbd3a58d</link>
+			<thumbnail>https://1.bp.blogspot.com/-0z3u-Nlo3QA/YS-oN_Om6eI/AAAAAAAAjWA/iLeclcahqwMPd6SevBa9DsunQSzq0ZvmgCNcBGAsYHQ/s350/Impuros%2Bs3.jpg</thumbnail>
+		</item>
+		<item>
+			<title>T04 : Impuros - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2381b341d9acbc742f76ca4e5508526134733c32</link>
+			<thumbnail>https://1.bp.blogspot.com/-0z3u-Nlo3QA/YS-oN_Om6eI/AAAAAAAAjWA/iLeclcahqwMPd6SevBa9DsunQSzq0ZvmgCNcBGAsYHQ/s350/Impuros%2Bs3.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+	
+	<channel>
+	<name>ONE PIECE: A Série</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y0VSmak9mSobl9QTKCvR7w4w6Ui.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/nI7Gc3EvuwXxzQboSAuF0LdR4kc.jpg</fanart>
+	<genre>Action & Adventure, Sci-Fi & Fantasy</genre>
+	<date>31.08.2023</date>
+	<studio>NETFLIX</studio>
+	<info>O jovem pirata Monkey D. Luffy veste o chapéu de palha e, com sua tripulação atrapalhada, zarpa em uma jornada épica nesta adaptação em live-action do popular mangá.</info>
+	<items>
+		<item>
+			<title>T01 : ONE PIECE: A Série  - Completa</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a882481137a005215512630fd95d1db4273673a0$nome=T01 : ONE PIECE: A Série  - Completa (1080P)</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23534e77756f20b11307e584d2db753c79f1f8a1$nome=T01 : ONE PIECE: A Série  - Completa (720P)</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/nI7Gc3EvuwXxzQboSAuF0LdR4kc.jpg</thumbnail>
+			<genre>Action & Adventure, Sci-Fi & Fantasy</genre>
+		</item>
+	</items>
+</channel>
+	
+	
+	<channel>
+	<name>Ragnarok</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/37p95Lpe7mfVX86ZcVr7TisAHPn.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/z5QMMmYe2FzWvauIe9v4HBetJpV.jpg</fanart>
+	<genre>Sci-Fi & Fantasy, Drama, Mistério</genre>
+	<date>31.01.2020</date>
+	<studio>NETFLIX</studio>
+	<info>Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda poderá combater um mal antigo.</info>
+	<items>
+		<item>
+			<title>T01 : Ragnarok - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdea0ee2aef10fbfd8cbb4cb55ca502c9c02c3cd</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/z5QMMmYe2FzWvauIe9v4HBetJpV.jpg</thumbnail>
+			<genre>Sci-Fi & Fantasy, Drama, Mistério</genre>
+		</item>
+        <item>
+			<title>T02 : Ragnarok - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8722167766727731aba554d158cb60e5055cc8e</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/z5QMMmYe2FzWvauIe9v4HBetJpV.jpg</thumbnail>
+			<genre>Sci-Fi & Fantasy, Drama, Mistério</genre>
+		</item>
+        <item>
+			<title>T03 : Ragnarok - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac96ec68c53f5c728697ffb7f434b34e067650d3</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/z5QMMmYe2FzWvauIe9v4HBetJpV.jpg</thumbnail>
+			<genre>Sci-Fi & Fantasy, Drama, Mistério</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Ahsoka</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/caMnsmsTObOGSp60nnFrWFSgxWp.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
+	<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
+	<date>22.08.2023</date>
+	<studio>DISNEY</studio>
+	<info>"[I]Guerreira. Exilada. Rebelde. Jedi.[/I]"
+
+Situada após a queda do Império, a série segue a ex-cavaleira Jedi Ahsoka Tano enquanto ela investiga uma ameaça emergente a uma galáxia vulnerável.</info>
+	<items>
+		<item>
+			<title>T01:  Ahsoka - EP 01-2</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6bbbaff6702ae14f28240459a04a1e8c7308e63$nome=T01:  Ahsoka - EP 01-2 1080P</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a08719fc17bddd02363abb7dcb1fcd10932f8a8f$nome=T01:  Ahsoka - EP 01-2 4K</link>
+			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
+			<genre>Ficção Cientifica, Fantasia</genre>
+		</item>
+		<item>
+			<title>T01:  Ahsoka - EP 03</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8eeb3bafeea60dadaea26b9f8bc5b890deb0421a$nome=T01:  Ahsoka - EP 03 1080P</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e26fb751503b0894f58400690e9b325526aa3aa7$nome=T01:  Ahsoka - EP 03 4K</link>
+			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
+			<genre>Ficção Cientifica, Fantasia</genre>
+		</item>
+		<item>
+			<title>T01:  Ahsoka - EP 04</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f3a35ecda61c9306a34c5213dcc76a1a0b573d8$nome=T01:  Ahsoka - EP 04 1080P</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e059db90efad9f16b345d52217e443f4bb6c47db$nome=T01:  Ahsoka - EP 04 4K</link>
+			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
+			<genre>Ficção Cientifica, Fantasia</genre>
+		</item>
+		<item>
+			<title>T01:  Ahsoka - EP 05</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3962c32501dd8ee0e239f9f85a92015fca1b3d28$nome=T01:  Ahsoka - EP 05 1080P</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ccebeb7df49162069cd1b88c0976afaa4740c4c$nome=T01:  Ahsoka - EP 05 4K</link>
+			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
+			<genre>Ficção Cientifica, Fantasia</genre>
+		</item>
+		<item>
+			<title>T01:  Ahsoka - EP 06</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe9b7fc28a4f9aacb9c5a4f604862304cce875d8$nome=T01:  Ahsoka - EP 06 1080P</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67df640acccb55079939314a789ee740a1020d66$nome=T01:  Ahsoka - EP 06 4K</link>
+			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
+			<genre>Ficção Cientifica, Fantasia</genre>
+		</item>
+		<item>
+			<title>T01:  Ahsoka - EP 07</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1176cacd7e61994116134b6aa1f1d83228c0fabd$nome=T01:  Ahsoka - EP 07 1080P</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:287733870710908d5f66fcc8d91f1b07f4dc373c$nome=T01:  Ahsoka - EP 07 4K</link>
+			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
+			<genre>Ficção Cientifica, Fantasia</genre>
+		</item>
+		<item>
+			<title>T01:  Ahsoka - EP 08</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05f464d9f4250529de48e407f65816a0bf6d678c$nome=T01:  Ahsoka - EP 08 1080P</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7e45c91cec30dd58434e88441de97189929590a$nome=T01:  Ahsoka - EP 08 4K</link>
+			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
+			<genre>Ficção Cientifica, Fantasia</genre>
+		</item>
+	</items>
+</channel>
+	
+	
+	<channel>
+	<name>Sintonia</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/6146fdy0RxZgs5soMCMlxNIfksF.jpg</fanart>
+	<genre>Drama, Crime</genre>
+	<date>09.08.2021</date>
+	<studio>NETFLIX</studio>
+	<info>Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião.</info>
+	<items>
+		<item>
+			<title>T01 : Sintonia</title>Sintonia
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6c1bb67db4ec38777613d3b6fb6e6ad8dfc6295</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/87yr3e0eXGKbvmCgjxIjFaBQIRx.jpg</thumbnail>
+		</item>
+		<item>
+			<title>T02 : Sintonia </title>Sintonia
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:457f8903fa674eef55f4901a06ac5cf386962a36</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/87yr3e0eXGKbvmCgjxIjFaBQIRx.jpg</thumbnail>
+		</item>
+		<item>
+			<title>T03 : Sintonia</title>Sintonia
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f35c18c7fdd579b373a1a75a0c031da628805b7c</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/87yr3e0eXGKbvmCgjxIjFaBQIRx.jpg</thumbnail>
+		</item>
+		<item>
+			<title>T04 : Sintonia</title>Sintonia
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H3ZVAM77KICW6GHOK6N4W32MJPDBFNUZ&dn=Sintonia%20S04%202023%20WEB-DL%201080p%20x264%20FULLHD%20NACIONAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/87yr3e0eXGKbvmCgjxIjFaBQIRx.jpg</thumbnail>
+		</item>
+	</items>
+</channel>
+	
+	
+	<channel>
+	<name>Justified: Cidade Primitiva</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mEqRQ7HeraCuC69cmcBWZQi6xBJ.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/cANGYGM4woVNbXTdAF0ctMpEAxF.jpg</fanart>
+	<genre>Crime, Drama</genre>
+	<date>18.07.2023</date>
+	<studio>FX</studio>
+	<info>"[I]Ele é lei e ordem.[/I]"
+
+Raylan Givens deixou o Kentucky e está equilibrando sua vida de agente federal com a de pai em meio período. Um encontro inesperado o envia para Detroit, onde ele acaba cruzando com um sociopata violento e uma advogada de defesa formidável.</info>
+	<items>
+		<item>
+			<title>T01 : Justified: Cidade Primitiva - PT-BR</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:865facc355830d528d8cce6cb6110f4aec44ad86$nome=T01 : Justified: Cidade Primitiva EPs 01-2</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69e99d8229ac895663a3fdf168aae36810cf2bdb$nome=T01 : Justified: Cidade Primitiva EP 03</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d14264320ad7807410ad7ce83f70f17b6ec447d2$nome=T01 : Justified: Cidade Primitiva EP 04</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c6ab5261b9e7e0b9e395c7f7459f117440e2320$nome=T01 : Justified: Cidade Primitiva EP 05</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80aa13590f99eef37fa6cd5eeb075302389c7743$nome=T01 : Justified: Cidade Primitiva EP 06</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a80f1f6fbf28aabe832b9461ab32207e34c71ac$nome=T01 : Justified: Cidade Primitiva EP 07</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ed1fe285ff4c1994ef9363ad722a1b6d550a36d$nome=T01 : Justified: Cidade Primitiva EP 08</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome=EPISÓDIOS EXIBIDOS SEMANALMENTE</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/cANGYGM4woVNbXTdAF0ctMpEAxF.jpg</thumbnail>
+			<genre>Drama, Crime</genre>
+		</item>
+	</items>
+</channel>
+	
+	
+	<channel>
+	<name>Minhas Aventuras com o Superman</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jiJpmCWFvGwJd3URX8RopMOx7Bc.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/9ndRuPSznjGpEkrhHm6PGxN4G2l.jpg</fanart>
+	<genre>Animação, Action & Adventure, Sci-Fi & Fantasy</genre>
+	<date>07.07.2023</date>
+	<studio>HBO</studio>
+	<info>"[I]Veja um garoto se tornar um Superman.[/I]"
+
+Minhas Aventuras Com o Superman acompanha Clark Kent, Lois Lane e Jimmy Olsen no processo de descobrir quem eles são e o que conseguem fazer enquanto salvam sua cidade de forças que conspiram para destruí-la!</info>
+	<items>
+		<item>
+			<title>T01 : Minhas Aventuras com o Superman</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b915e3c6e70a78bee6ae9e13cc2561e2e6453b11$nome=T01 : Minhas Aventuras com o Superman EP 01-2</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32b529862ce6b0c8e9baf07ea5cc1c8b3bbdc779$nome=T01 : Minhas Aventuras com o Superman EP 03</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6828d84b09e4d15e0788e67f8a2719f60f3c3b0$nome=T01 : Minhas Aventuras com o Superman EP 04</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2664cc9899bb63bd0420486523ee48c5956631ae$nome=T01 : Minhas Aventuras com o Superman EP 05</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a95406554a7f8b04e0ec96ff4bb39c5dd15ad3b$nome=T01 : Minhas Aventuras com o Superman EP 06</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91dac3a3cbb3db742d2dede664bee73781ed7bde$nome=T01 : Minhas Aventuras com o Superman EP 07</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9278048b30414494bd3993fe965bdeff10820f8$nome=T01 : Minhas Aventuras com o Superman EP 08</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31efcbf337d4708d3949b1ce108d3580136cb38f$nome=T01 : Minhas Aventuras com o Superman EP 09</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6550fa6d78f64950f625854d40d766cbbceed9e$nome=T01 : Minhas Aventuras com o Superman EP 010</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/9ndRuPSznjGpEkrhHm6PGxN4G2l.jpg</thumbnail>
+			<genre>Animação | Ação | Aventura</genre>
+			<SetViewMode>500</SetViewMode>
+		</item>
+	</items>
+</channel>
+	
+	<channel>
+	<name>The Witcher</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e5iqR3k7azXGK1tGaOLMnKycGku.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/udwyPqbwWlpqvMgfbRemOahzc7z.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/witcher</externallink>
+	<date>20.12.2019</date>
+	<studio>NETFLIX</studio>
+	<info>Geralt of Rivia (Henry Cavill), um solitário caçador de monstros, luta para achar seu lugar num mundo onde pessoas se provam mais perversas do que criaturas. Mas quando o destino o leva à uma poderosa feiticeira (Anya Chalotra) e uma jovem princesa (Freya Allan) com um segredo perigoso, os três precisam aprender a navegar pelo Continente juntos.[/I]</info>
+	<items>
+		<item>
+			<title>The Witcher - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f42b9ee5fa466af782c49f7ad5a59756fab38ce$nome=The Witcher T01 1080P</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:948c263fb99990d4c587d40b33e2b99831dda0a7$nome=The Witcher T01 720P</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e5iqR3k7azXGK1tGaOLMnKycGku.jpg</thumbnail>
+			<duration>3600</duration>
+			<genre>Sci-Fi & Fantasy, Drama, Action & Adventure</genre>
+		</item>
+		<item>
+			<title>The Witcher - 2ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d356a719df6c5e98428389d3df80befba61a74f7</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e5iqR3k7azXGK1tGaOLMnKycGku.jpg</thumbnail>
+			<duration>3600</duration>
+			<genre>Sci-Fi & Fantasy, Drama, Action & Adventure</genre>
+		</item>
+		<item>
+			<title>The Witcher - 3ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2da7a0faa0b716b599a75f8c090009eaf914f060$nome=The Witcher: T03 - Volume I</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EY5LTOZKVN3ZXQTKYS3A2DN7ETI3VBPB&dn=The%20Witcher%20S03%20VOL%202%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce$nome=The Witcher: T03 - Volume II</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e5iqR3k7azXGK1tGaOLMnKycGku.jpg</thumbnail>
+			<duration>3600</duration>
+			<genre>Sci-Fi & Fantasy, Drama, Action & Adventure</genre>
 		</item>
 	</items>
 </channel>
