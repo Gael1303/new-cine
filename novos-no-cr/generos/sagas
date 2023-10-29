@@ -650,4 +650,358 @@
 	</items>
 </channel>
 
+<channel>
+	<name>007 James Bond: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dTxLAJftBBCI28QfS7aN23hhyex.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iMyzpZiBLoojAbWt1WfxfnHuf2P.jpg</fanart>
+	<date></date>
+	<genre>Adventure, Drama, Action, Thriller, Crime, Science Fiction</genre>
+	<info>A série de filmes de James Bond é uma série britânica de filmes de espião com base no personagem fictício do agente MI6 James Bond, codinome "007". Com toda ação, aventura e gadgets que deixou Bond famoso.</info>
+	<items>
+		<item>
+			<title>007 James Bond: Coleção - Completa (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dTxLAJftBBCI28QfS7aN23hhyex.jpg</thumbnail>
+			<genre>Adventure, Drama, Action, Thriller, Crime, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>MIB: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1n1SduNkZ92m9gTlf4BhSqJoZf9.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/xKz6YaOvmnIJQ3MYIpnaa7FBaAB.jpg</fanart>
+	<date>11.07.1997</date>
+	<genre>Adventure, Action, Comedy, Science Fiction</genre>
+	<info>Uma série de filmes americanos de ação e comédia de ficção científica baseados na série de quadrinhos Malibu / Marvel The Men in Black de Lowell Cunningham. Estilizou MIB e gerou 2 sequências numeradas, bem como um spin-off.</info>
+	<items>
+		<item>
+			<title>MIB - Homens de Preto (1997) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf7ce7ce589b29ac82432881e38f89b9b2e48e39</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/jNailYxoCT6L2DDBFNz7kNCULhG.jpg</thumbnail>
+			<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		</item>
+		<item>
+			<title>MIB - Homens de Preto II (2002) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:719e2f826cfb53199d0a790a40b3465d7cf0acc9</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/1zoknLsDO3M3aYLzfs3wIvXDTfC.jpg</thumbnail>
+			<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		</item>
+		<item>
+			<title>MIB - Homens de Preto III (2012) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a14ebe5a73ad46e43ada78e6716096074827838</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/g3DyE2sU4Xr14XR1ZXirCn2lt7e.jpg</thumbnail>
+			<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		</item>
+		<item>
+			<title>MIB Homens de Preto: Internacional (2019) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba2eec627a88642c1f05218af02b92c8b1de35ef</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg</thumbnail>
+			<genre>Adventure, Action, Comedy, Science Fiction</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Batman: O Cavaleiro das Trevas: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p6xEzcEudPCatCgZPESqS2OdZ5L.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg</fanart>
+	<date>17.06.2005</date>
+	<genre>Drama, Action, Thriller, Crime</genre>
+	<info>A visão de Christopher Nolan para o universo do Batman.</info>
+	<items>
+		<item>
+			<title>Batman Begins (2005) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdb6c2756149a63ed357382f07aa1148eeebbe89</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg</thumbnail>
+			<genre>Drama, Action, Thriller, Crime</genre>
+		</item>
+		<item>
+			<title>Batman: O Cavaleiro das Trevas (2008) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9afedf42bef3dd8d990309ea84d3a7c583bbda1</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGq8oYx466sSukN3LUv0httsxQa.jpg</thumbnail>
+			<genre>Drama, Action, Thriller, Crime</genre>
+		</item>
+		<item>
+			<title>Batman: O Cavaleiro das Trevas Ressurge (2012) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ad8e85fd5b276f142614c696492901ac38450bf</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zRwO5BPPgkTNo1PoomZPE7wkKvQ.jpg</thumbnail>
+			<genre>Drama, Action, Thriller, Crime</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Exterminador do Futuro: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xd2YpJhY6Kap9WS4eSOpuRFWcSH.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/rbXxcKeW07QDtqaRw8WPZh4JFdD.jpg</fanart>
+	<date>25.03.1985</date>
+	<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+	<info>Uma série de filmes de ficção científica sobre o conflito futurista entre os humanos liderados por John Connor e os exterminadores, que são feitos e controlados pela Skynet, um super computador autoconsciente que iniciou o Armagedon e pode realmente acabar com a humanidade para sempre.
+	
+	[COLOR yellow]Numero de Filmes[/COLOR]: 6
+	[COLOR yellow]Receita[/COLOR]: $2,106,447,030</info>
+	<items>
+		<item>
+			<title>O Exterminador do Futuro (1985) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:337a7c112702669ce506cd1856c60426ffeb4696</link>
+            <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iHVDy91mpqUbUDdG6hfyniFQPx4.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>>O Exterminador do Futuro 2: O Julgamento Final (1991) (Dublado)</title>
+			<thumbnail>https://image.tmdb.org/t/p/w342/3TozsOOvgppyDQPVPQntmJhviRF.jpg</thumbnail>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a74d828b27cd365e4a80bae1cf8fde591f4ffcde</link>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>O Exterminador do Futuro 3: A Rebeliao das Maquinas (2003) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d972c709ca21ee18731f354493af921cf7a938c</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lzzuKhx8Ly6SZa8LxkT5Fvouc5z.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>O Exterminador do Futuro: A Salvaçao (2009) (Dublado)</title>
+			<thumbnail>https://image.tmdb.org/t/p/w342/tNKoEs9ovTLpJURT9WKJASUDktM.jpg</thumbnail>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55d006e6efa123c1f1759672027d2c601cf7f8e0</link> 
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>O Exterminador do Futuro: Genesis (2015) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1dc9eba5842d9878d10f7ca7d86d63bc8ec008e</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/utLd6J4Gn38YynSS0kB0ZXRDFWK.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>O Exterminador do Futuro: Destino Sombrio (2019) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3e0a6f4bf91d2c9386f330760748fc63d2ef94</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/14595EXiEksBAJzhqwJCGacRc2S.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		
+	</items>
+</channel>
+
+<channel>
+	<name>Jurassic Park: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63S4L7p7ljvKFFUuuaWKo8mHxBY.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/8mFbNmYcMFYCiJPBs3jYTfIOxne.jpg</fanart>
+	<date>25.06.1993</date>
+	<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+	<info>Uma série americana de filmes de aventura de ficção científica com base no romance do mesmo nome de Michael Crichton. Os filmes se centram na ilustre Isla Nublar, perto da Costa Rica, na Costa do Pacífico Centro-Americana, onde um filantropo bilionário e uma pequena equipe de cientistas genéticos criaram um parque de diversões de dinossauros clonados.</info>
+	<items>
+		<item>
+			<title>Jurassic Park: O Parque dos Dinossauros (1993) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45c9ac5e84b31935930b1ad869e5d750d01f4daa</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/9VykXSE6qpRE7DD3LKOmG4oitc7.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>O Mundo Perdido: Jurassic Park (1997) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70b1ac0fd408735b2895ad378b7d5b991b66654c</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/bgxdK2eFyXpFBhUYDXrJKvQFZkB.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>Jurassic Park 3 (2001) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8404921557797d3115af79f3d6808c9a13092c1</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/xpS4DbBVfu9WsQqzoSa81hOt4mu.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>Jurassic World: O Mundo dos Dinossauros (2015) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4609bf989c539b06541014acca912943b8b5c05</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/stg9saQsfZdyrhXJRmwmZmcooNS.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>Jurassic World: Reino Ameaçado (2018) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7941ad862eb6c7d296292c2fcb63585f21de382d</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/b3CuByY3v7qz9aq4rayIMeAMemy.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>Jurassic World: Domínio (2022) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d301ccb078b82ca01ec35ce1388cd1f41ed9821</link>
+			<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje93wUvBE4c6DpRrcbE3l3OZUFJPI3tnOTnN4WWOrGb1v2HfncS0vhcMaBYtzPaVYNG-NIxvOxaps7Jx-2NOLv-XBpID85EWb4nRVwP5SGmTxjHNQ4M7V73lnKCBrYygL2eNapzh5f5tpzyb-1X23dbxHsH7ic4c3LcfAgnBfiMg901eWJ7MyQoXcZsw/s350/Jurassic%20World%20-%20Dom%C3%ADnio.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Matrix: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/original/e6MmtcSkL1Hw6ghsc5XJybfWzCv.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/RhUxjzNojIJsdZSYTn0CQvdKsn.jpg</fanart>
+	<date>21.05.1999</date>
+	<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+	<info>Thomas A. Anderson vive uma vida dupla. De dia, é um programador para uma companhia de software. De noite é um hacker, invadindo sistemas de computador ilegalmente e roubando informações, sob o apelido de Neo. Durante a sua vida como pirata informático, Neo cruza-se com uma pergunta constante: "O que é a Matrix?". Na busca da resposta, dedica-se de forma persistente a encontrar um suposto "terrorista" conhecido apenas como Morpheus. O que Neo não sabe é que o Morpheus o tem observado por um longo período de tempo.</info>
+	<items>
+		<item>
+			<title>Matrix (1999) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26fa43a4ccca61d8f7cf96a106d7fe1801aed9c2</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>Matrix Reloaded (2003) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e20368c163a5b597da05d68d63b16c519e8b97b</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTGg4gT6yBAxm6bskTkOjdRsbit.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>Matrix Revolutions (2003) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:172863ab4080c8c2538da526b2e1d37c4f4d129f</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xPsnWYgtHPghlF2p8maWWuXoMQN.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+		<item>
+			<title>Matrix Resurrections (2021) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0edfffb8ec007792fef641143e44c9e129a74c2</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8c4a8kE7PizaGQQnditMmI1xbRp.jpg</thumbnail>
+			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Maze Runner: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cNGErzNuuL1wYM6e7kYNlsHtvmu.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/te8ibHFhjwWXZTCtQIPRUFjxWX2.jpg</fanart>
+	<date>18.09.2014</date>
+	<genre>Ação, Mistério, Ficção científica, Thriller</genre>
+	<info>A série de filmes consiste em filmes de aventura, ação distópica de ficção científica com base na trilogia de livros Maze Runner do autor americano James Dashner. Eles começam com Thomas, que acorda preso em um labirinto com um grupo de outros meninos, ele não tem memória do mundo exterior além dos sonhos sobre uma organização conhecida como CRUEL. Somente juntando fragmentos de seu passado com pistas que ele descobre no labirinto, Thomas pode descobrir seu propósito e uma maneira de escapar.</info>
+	<items>
+		<item>
+			<title>Maze Runner: Correr ou Morrer (2014) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5abc2a0b84d3c19b7e0a9f296fa9525f29ed672e</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHnRw9Kccevck2KdmzJ8Xf7zczM.jpg</thumbnail>
+			<genre>Ação, Mistério, Ficção científica, Thriller</genre>
+		</item>
+		<item>
+			<title>Maze Runner: Prova de Fogo (2015) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cef6ce36bf354620ba0ee84d74b587dc770c52c5</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zpdGT57Rn3mAZsNOkeDeINB6L9v.jpg</thumbnail>
+			<genre>Ação, Mistério, Ficção científica, Thriller</genre>
+		</item>
+		<item>
+			<title>Maze Runner: A Cura Mortal (2018) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cae0f8aa154bfaaf95ff4464b6914920ff14543</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uBEpWurzTOiz520d1tRNhBXN7h9.jpg</thumbnail>
+			<genre>Ação, Mistério, Ficção científica, Thriller</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Meu Malvado Favorito: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/95prV91f4DxkBnLU43YjLbU1m3q.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/37xamYKRUGCRux532lKcZdVGYuR.jpg</fanart>
+	<date>06.08.2010</date>
+	<genre>Aventura, Animação, Ação, Comédia, Família</genre>
+	<info>A franquia se concentra em Gru, um super-vilão (que mais tarde se torna pai e super-herói); seus Minions de cor amarela; e suas três órfãs, Margo, Edith e Agnes.</info>
+	<items>
+		<item>
+			<title>Meu Malvado Favorito (2010) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f18d6a111fdac2a79d049a8375f7a141aaba8ac7</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/t9lOz6ixGp61Or6hPPorc0dyDaX.jpg</thumbnail>
+			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
+		</item>
+		<item>
+			<title>Meu Malvado Favorito 2 (2013) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2a3ddb6f7b1ee5aa4b2ea56a3e9f30bec4abf95</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/7mYMq6OQyum1wAiUI7i6w78YKEO.jpg</thumbnail>
+			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
+		</item>
+		<item>
+			<title>Meu Malvado Favorito 3 (2017) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:658efefceb068182c13fa2f78bdd43efc32a85cd</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/InJSedsAjy5VUYkanrBFGZngI8.jpg</thumbnail>
+			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Minha Mãe é uma Peça: Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vH37BsIhlQyU2frTyxXUOTQQTEl.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/w7zPAsAU94CxcYlyO68W2C83rbE.jpg</fanart>
+	<date>21.06.2013</date>
+	<genre>Comédia</genre>
+	<info>Dona Hermínia é uma mulher de meia idade, divorciada do marido, que a trocou por uma mais jovem. Hiperativa, ela não larga o pé de seus filhos Marcelina e Juliano, que já estão bem grandinhos.</info>
+	<items>
+		<item>
+			<title>Minha Mãe é uma Peça: O Filme (2013) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b9aec8735a5ab408f83a2c7d109be9d010c8491</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/5cF5v8N0wMALMcgEHpBZHyYQZDl.jpg</thumbnail>
+			<genre>Comédia</genre>
+		</item>
+		<item>
+			<title>Minha Mãe é uma Peça 2: O Filme (2016) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc0794e9d6aad4016d2252be80095d99f1fcff91</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/eDApDWU6r9zxk9MZLc6rfnBb3vu.jpg</thumbnail>
+			<genre>Comédia</genre>
+		</item>
+		<item>
+			<title>Minha Mãe é uma Peça 3: O Filme (2019) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c82fc7488427544a434c6ce05487f3de43dc8ad</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg</thumbnail>
+			<genre>Comédia</genre>
+		</item>
+	</items>
+</channel>
+
+<channel>
+	<name>Missão: Impossível - Coleção</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4eqpRQONnsx6umo0BXE6MBW834n.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/jYl0UuJFcmhymv9ZNO14lPLDY1Z.jpg</fanart>
+	<date>12.07.1996</date>
+	<genre>Ação, Aventura, Suspense</genre>
+	<info>Missão: Impossível é uma série de filmes de suspense de um agente secreto baseado na popular série de televisão. Eles narram as missões de uma equipe de agentes secretos do governo conhecida como Força de Missões Impossíveis (FMI) sob a liderança de Hunt.</info>
+	<items>
+		<item>
+			<title>Missão: Impossível (1996) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:182301e9ef59e96a84a32ad67fee3394870543b6</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/70MV8TU1Lxc6vyj8BaEU3HLuU7W.jpg</thumbnail>
+			<genre>Ação, Aventura, Suspense</genre>
+		</item>
+		<item>
+			<title>Missão: Impossível 2 (2000) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e926fbfe072a57477569b86ab8632b03400ed85</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/sT5hbs7rmMk2Edup7Pw9MB02x9G.jpg</thumbnail>
+			<genre>Ação, Aventura, Suspense</genre>
+		</item>
+		<item>
+			<title>Missão: Impossível 3 (2006) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1be1b74dd8b188c3fc201722bf4925ff2e8e45c</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/ui7TCk3IzsjLcDRkZi08nLFvwRO.jpg</thumbnail>
+			<genre>Ação, Aventura, Suspense</genre>
+		</item>
+		<item>
+			<title>Missão: Impossível - Protocolo Fantasma (2011) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ca8b4380436bff1c82d8c5f284e5d35843414af</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/9Odva4vcrL6D7NRhIMlYf8Dg5nC.jpg</thumbnail>
+			<genre>Ação, Aventura, Suspense</genre>
+		</item>
+		<item>
+			<title>Missão: Impossível - Nação Secreta (2015) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b39e8edfb78e0ac0e3ee616b9b4631b961c88a8</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/fxL6ktSUDejDq9Ni6UsoY73DC2I.jpg</thumbnail>
+			<genre>Ação, Aventura, Suspense</genre>
+		</item>
+		<item>
+			<title>Missão: Impossível - Efeito Fallout (2018) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b5c9e8fb4b7cafb9ef15c8a888a4c934449ae27</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/i273qQubszItr11lQNMFWnYP4J1.jpg</thumbnail>
+			<genre>Ação, Aventura, Suspense</genre>
+		</item>
+		<item>
+			<title>Missão: Impossível - Acerto de Contas Parte 1 (2023) (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a6ddf53745d7c105491ae85214a1dd3716b8532</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg</thumbnail>
+			<genre>Ação, Aventura, Suspense</genre>
+		</item>
+	</items>
+</channel>
+
 </channels>
