@@ -29,6 +29,14 @@
 		<info>Filmes e series Populares</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/populares/abas</externallink>
     </channel>
+
+	<channel>
+        <name>[COLOR yellow]•[/COLOR]Top 100 IMDb</name>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Filmes e Séries mais bem avaliados</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/melhor-avaliacao/abas</externallink>
+   </channel>
    
    <channel>
         <name>[COLOR green]•[/COLOR]Coleção</name>
@@ -44,14 +52,6 @@
         <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Filmes Separados por genero</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/abas.xml</externallink>
-   </channel>
-   
-   <channel>
-        <name>[COLOR yellow]•[/COLOR]Top 100 IMDb</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Filmes e Séries mais bem avaliados</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/melhor-avaliacao/abas</externallink>
    </channel>
 
 	<channel>
