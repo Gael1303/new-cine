@@ -31,7 +31,7 @@
     </channel>
 
 	<channel>
-        <name>[COLOR yellow]•[/COLOR]Top 100 IMDb</name>
+        <name>[COLOR yellow]•[/COLOR]Top IMDb</name>
         <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
         <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Filmes e Séries mais bem avaliados</info>
@@ -39,7 +39,7 @@
    </channel>
    
    <channel>
-        <name>[COLOR green]•[/COLOR]Coleção</name>
+        <name>[COLOR green]•[/COLOR]Sagas</name>
         <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
         <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
 		<info>Melhores coletaneas</info>
@@ -71,12 +71,30 @@
    </channel>
 	
    <channel>
-        <name>[COLOR blue]•[/COLOR]Contato!</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Todos os conteudos em um só lugar</info>
-		<externallink>https://bit.ly/3xZ2T9O</externallink>
-   </channel>
+	<name>[COLOR blue]•[/COLOR]Informações!</name>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Info_icon_002.svg/800px-Info_icon_002.svg.png</thumbnail>
+	<info>Duvidas sobre doaçoes, contato e status do addon</info>
+	<items>
+		<item>
+			<title>[COLOR cyan]Doaçoes Pix[/COLOR]: cineroom.ofc@gmail.com</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+			<thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Screenshots_2022-09-06-12-08-28.png</thumbnail>
+			<info>Colabore livremente, e não se esqueça que não obrigamos isso de nenhum modo!
+			
+			Ressaltando que você não está doando ou pagando pelo Conteudo e sim com os custos do aparelho para compartilharmos todo esse material para o seu entretenimento.</info>
+		</item>
+		<item>
+			<title>[COLOR cyan]Contato[/COLOR]: em breve!</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+			<thumbnail>https://www.ufpb.br/cga/contents/imagens/icones/contatos.png/@@images/image.png</thumbnail>
+		</item>
+		<item>
+			<title>[COLOR cyan]Status do addon[/COLOR]: Online!</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+			<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Info_icon_002.svg/800px-Info_icon_002.svg.png</thumbnail>
+		</item>
+		</items>
+	</channel>
 
 
 
