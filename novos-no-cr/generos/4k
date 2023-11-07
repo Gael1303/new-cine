@@ -1,1330 +1,1371 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-<SetViewMode>500</SetViewMode>
-
-<item>
-<title>Jogos Mortais X - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa1032456a69625e0cbc7c616f8b647b0bfc5a39</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/dZbLqRjjiiNCpTYzhzL2NMvz4J0.jpg</fanart>
-<genre>Terror, Thriller</genre>
-<date>28.09.2023</date>  
-</item>	
-
-<item>
-<title>Interestelar - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5669c94c766f76a380ef9e113462585cd5468c56</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Perdido em Marte - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caef0861f0944fbf707467ab74fd6807568f44ed</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/e6Uo3QAaUesiduyNX9hDLbaT9P8.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>  <title>O Protetor: Capitulo Final - 4K</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e947df0a8f96d6b23f05cb5c6d493965bc1dfff&dn=O%20Protetor%20-%20Capitulo%20Final%202023%202160p%204K%20WEBRip%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xVHBEX96zMjMw0YExFWsKW9Er1i.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg</fanart>
-<genre>Ação, Thriller, Crime</genre> / <rate>6.9</rate> / <aired>2023/05/10</aired> </item>
+	<SetViewMode>500</SetViewMode>
+	<item>
+		<title>Os Mercenários 4 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c5097b8b696fdd54155ce80aa2548f77df4a0be</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg</fanart>
+		<genre>Ação, Aventura, Thriller</genre>
+		<date>21.09.2023</date>
+		<studio>LIONSGATE</studio>
+	</item>
+	<item>
+		<title>Five Nights at Freddy’s: O Pesadelo Sem Fim - 4K (Leg)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z4OvWTJY56fOyuQWfbZhNPMWX9N.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg</fanart>
+		<genre>Terror, Suspense</genre>
+		<date>26.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eb2c9841f1107bbbb487425f2bcf720fe1fe41f</link>
+	</item>
+	<item>
+		<title>Jogos Mortais X - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa1032456a69625e0cbc7c616f8b647b0bfc5a39</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dZbLqRjjiiNCpTYzhzL2NMvz4J0.jpg</fanart>
+		<genre>Terror, Thriller</genre>
+		<date>28.09.2023</date>
+	</item>
+	<item>
+		<title>Interestelar - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5669c94c766f76a380ef9e113462585cd5468c56</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Perdido em Marte - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caef0861f0944fbf707467ab74fd6807568f44ed</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/e6Uo3QAaUesiduyNX9hDLbaT9P8.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>O Protetor: Capitulo Final - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e947df0a8f96d6b23f05cb5c6d493965bc1dfff&dn=O%20Protetor%20-%20Capitulo%20Final%202023%202160p%204K%20WEBRip%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xVHBEX96zMjMw0YExFWsKW9Er1i.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg</fanart>
+		<genre>Ação, Thriller, Crime</genre> / <rate>6.9</rate> / <aired>2023/05/10</aired>
+	</item>
 ------------------
-<item>  <title>Missão: Impossível – Acerto de Contas Parte 1 - 4K</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5318fdde1bb1d187fb13297e52626fe330bdff</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/bYJv39whWTAOWO0mv7oUija8GgM.jpg</fanart>
-<genre>Ação, Thriller, Aventura</genre> / <rate>8.3</rate> / <aired>2023/07/13</aired> /  </item>
+<item>
+		<title>Missão: Impossível – Acerto de Contas Parte 1 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5318fdde1bb1d187fb13297e52626fe330bdff</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/bYJv39whWTAOWO0mv7oUija8GgM.jpg</fanart>
+		<genre>Ação, Thriller, Aventura</genre> / <rate>8.3</rate> / <aired>2023/07/13</aired> /  </item>
 ------------------
-<item>  <title>Mansão Mal-Assombrada - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8703c22660a32cb3714d523fd22bfe3a4018beae</link> 
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3puybXuYPlZPRplIVSrExZnWibb.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/mzlZAMjE2yk2sW3f9HTeBM3B3jw.jpg</fanart>
-<genre>Fantasia, Comédia</genre> / <rate>6.8</rate> / <aired>2023/07/28</aired> </item>
+<item>
+		<title>Mansão Mal-Assombrada - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8703c22660a32cb3714d523fd22bfe3a4018beae</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3puybXuYPlZPRplIVSrExZnWibb.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/mzlZAMjE2yk2sW3f9HTeBM3B3jw.jpg</fanart>
+		<genre>Fantasia, Comédia</genre> / <rate>6.8</rate> / <aired>2023/07/28</aired>
+	</item>
 ----------------------------------------------------------------------------
-<item>  <title>A Freira 2 - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9e9ace5837b3851eea7cdd6f162701ab36c83d6</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/2yjrmdQwYIVWlhCSWD5ZeI7F6zK.jpg</fanart>
-<genre>Terror, Mistério, Thriller</genre> / <rate>6.7</rate> / <aired>2023/09/07</aired> /  </item>
+<item>
+		<title>A Freira 2 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9e9ace5837b3851eea7cdd6f162701ab36c83d6</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/2yjrmdQwYIVWlhCSWD5ZeI7F6zK.jpg</fanart>
+		<genre>Terror, Mistério, Thriller</genre> / <rate>6.7</rate> / <aired>2023/09/07</aired> /  </item>
 ----------------------------------------------------------------------------
-<item>  <title>Drácula: A Última Viagem do Deméter - 4K</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9eb653606eb05e1a194ec90ee847f1a3f38fa96</link>
-<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail>  
-<genre>Suspense, Terror</genre> / <rate>7.3</rate> / <aired>2023/08/24</aired> /  </item>
+<item>
+		<title>Drácula: A Última Viagem do Deméter - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9eb653606eb05e1a194ec90ee847f1a3f38fa96</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail>
+		<genre>Suspense, Terror</genre> / <rate>7.3</rate> / <aired>2023/08/24</aired> /  </item>
 ------------------------
-<item>  <title>Gran Turismo - 4K</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5204989498d8001b2822d3423f493fc64d5a0b33</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5ma2TOWO9BkK7zyc0R2dZOIWuaA.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/3wtifTCVwqSyXF924FLkRpVRjYw.jpg</fanart>
-<genre>Ação, Drama, Aventura</genre> / <rate>7.5</rate> / <aired>2023/08/25</aired> /  </item>
+<item>
+		<title>Gran Turismo - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5204989498d8001b2822d3423f493fc64d5a0b33</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5ma2TOWO9BkK7zyc0R2dZOIWuaA.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/3wtifTCVwqSyXF924FLkRpVRjYw.jpg</fanart>
+		<genre>Ação, Drama, Aventura</genre> / <rate>7.5</rate> / <aired>2023/08/25</aired> /  </item>
 ------------------------
-<item>  <title>Besouro Azul - 4K</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e22defe6c98f2451a536ada1a87b419aaa936bff</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gA6sEygZlszxZZZTR5jD9rfleZO.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg</fanart>
-<genre>Ação, Ficção científica</genre> / <rate>6.9</rate> / <aired>2023/08/17</aired> /  </item>
+<item>
+		<title>Besouro Azul - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e22defe6c98f2451a536ada1a87b419aaa936bff</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gA6sEygZlszxZZZTR5jD9rfleZO.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg</fanart>
+		<genre>Ação, Ficção científica</genre> / <rate>6.9</rate> / <aired>2023/08/17</aired> /  </item>
 --------------------------------
-<item>  <title>As Tartarugas Ninja: Caos Mutante - 4K</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bbced5391019df6a154b5ce5fe7ecae3b97f921</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg</fanart>
-<genre>Animação, Comédia, Açã</genre> / <rate>7.5</rate> / <aired>2023/08/31</aired> /  </item>
+<item>
+		<title>As Tartarugas Ninja: Caos Mutante - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bbced5391019df6a154b5ce5fe7ecae3b97f921</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg</fanart>
+		<genre>Animação, Comédia, Açã</genre> / <rate>7.5</rate> / <aired>2023/08/31</aired> /  </item>
 -----------------------------
-<item>  <title>Elementos - 4K</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9ef5d817b262186557cd62ed1e799be8695d896</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cveXFCRCrxdARM3Gel0pRCKsssJ.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/it7yPSgca2VEJyXAqgjfaccgvJm.jpg</fanart>
-<genre>Animação, Comédia, Família, Fantasia, Romance</genre>  <aired>2023/06/15</aired> </item>
+<item>
+		<title>Elementos - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9ef5d817b262186557cd62ed1e799be8695d896</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cveXFCRCrxdARM3Gel0pRCKsssJ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/it7yPSgca2VEJyXAqgjfaccgvJm.jpg</fanart>
+		<genre>Animação, Comédia, Família, Fantasia, Romance</genre>
+		<aired>2023/06/15</aired>
+	</item>
 ---------------------------------------------------------------------------- 
-<item>  <title>Barbie - 4K</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7b973f237c1902d345e4239f4cbad709f77b76c</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg</fanart>
-<genre>Comédia, Aventura, Fantasia</genre> / <rate>7.8</rate> / <aired>2023/07/20</aired> / </item>
+<item>
+		<title>Barbie - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7b973f237c1902d345e4239f4cbad709f77b76c</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg</fanart>
+		<genre>Comédia, Aventura, Fantasia</genre> / <rate>7.8</rate> / <aired>2023/07/20</aired> / </item>
 ----------------------------
-<item>  <title>A Pequena Sereia - 4K</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3fc138735bf5ac46112a77cd099d491e1cc5312</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/znUYFf0Sez5lUmxPr3Cby7TVJ6c.jpg</fanart>
-<genre>Aventura, Família, Fantasia, Romance</genre> / <rate></rate> / <aired>2023/05/25</aired></item>
+<item>
+		<title>A Pequena Sereia - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3fc138735bf5ac46112a77cd099d491e1cc5312</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/znUYFf0Sez5lUmxPr3Cby7TVJ6c.jpg</fanart>
+		<genre>Aventura, Família, Fantasia, Romance</genre> / <rate/> / <aired>2023/05/25</aired>
+	</item>
 ----------------------------------------------------------------------------   
-<item>  <title>Megatubarão 2 - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f09e356352d3282a5b23d86c528ecbe796daad5</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sTEPkhEZVKP6Aptr4Mh6EEIU1Zb.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/zN41DPmPhwmgJjHwezALdrdvD0h.jpg</fanart>
-<genre>Ação, Ficção científica, Terror</genre> / <rate>5.5</rate> / <aired>2023/08/03</aired> / </item>
-
-<item>  <title>Agente Stone - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4848d6ac6e0e9cd0389bec37736f058ab4a3845</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EpaPaKozP2b8L1hJekBFI75gCm.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/xVMtv55caCEvBaV83DofmuZybmI.jpg</fanart>
-<genre>Suspense, Ação</genre> / <rate>5.2</rate> / <aired>2023/08/09</aired> / </item>
+<item>
+		<title>Megatubarão 2 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f09e356352d3282a5b23d86c528ecbe796daad5</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sTEPkhEZVKP6Aptr4Mh6EEIU1Zb.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/zN41DPmPhwmgJjHwezALdrdvD0h.jpg</fanart>
+		<genre>Ação, Ficção científica, Terror</genre> / <rate>5.5</rate> / <aired>2023/08/03</aired> / </item>
+	<item>
+		<title>Agente Stone - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4848d6ac6e0e9cd0389bec37736f058ab4a3845</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EpaPaKozP2b8L1hJekBFI75gCm.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xVMtv55caCEvBaV83DofmuZybmI.jpg</fanart>
+		<genre>Suspense, Ação</genre> / <rate>5.2</rate> / <aired>2023/08/09</aired> / </item>
 -------------------------
-<item>  <title>Homem-Aranha: Através do Aranhaverso - 4K</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5874a93880ec22d4422230364f61ac9360a6442b</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6a7NItazspSV8Fl7u46ccxwPKk4.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/dlebyCnmdwXtJfHNicBYhudz5EJ.jpg</fanart>
-<genre>Ação, Aventura, Animação, Ficção científica</genre> / <rate>9.1</rate> / <aired>2023/06/01</aired> / <duration>8400</duration></item>
+<item>
+		<title>Homem-Aranha: Através do Aranhaverso - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5874a93880ec22d4422230364f61ac9360a6442b</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6a7NItazspSV8Fl7u46ccxwPKk4.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dlebyCnmdwXtJfHNicBYhudz5EJ.jpg</fanart>
+		<genre>Ação, Aventura, Animação, Ficção científica</genre> / <rate>9.1</rate> / <aired>2023/06/01</aired> / <duration>8400</duration>
+	</item>
 -----------------
 
-<item>  <title>Sobrenatural: A Porta Vermelha - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9b40ad59118e43000b1beee06d762058623d6a</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A2XloB9BYZtMzWOR78uguOoCfH5.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/i2GVEvltEu3BXn5crBSxgKuTaca.jpg</fanart>
-<genre>Terror, Mistério, Thriller</genre> / <rate>6.0</rate> / <aired>2023/06/07</aired></item>
+<item>
+		<title>Sobrenatural: A Porta Vermelha - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9b40ad59118e43000b1beee06d762058623d6a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A2XloB9BYZtMzWOR78uguOoCfH5.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/i2GVEvltEu3BXn5crBSxgKuTaca.jpg</fanart>
+		<genre>Terror, Mistério, Thriller</genre> / <rate>6.0</rate> / <aired>2023/06/07</aired>
+	</item>
 ----------------------
-<item>  <title>Guardiões da Galáxia: Vol. 3 - 4K</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5d6b816afc9aef93b7e0d6e340a9de87e4382d&dn=Guardioes.da.Galaxia.Vol.3.2023.2160p.BluRay.IMAX.HDR.x265.DUAL-LAPUMiA.mkv&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.birkenwald.de%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fopentor.org%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2970%2fannounce&tr=https%3a%2f%2ftracker.foreverpirates.co%3a443%2fannounce&tr=http%3a%2f%2fvps02.net.orel.ru%3a80%2fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttkTwdSx21AB1EDastR6xwMC2PT.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg</fanart>
-<genre>Ficção científica, Aventura, Ação</genre> / <rate>8.3</rate> / <aired>2023/05/04</aired></item>
+<item>
+		<title>Guardiões da Galáxia: Vol. 3 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5d6b816afc9aef93b7e0d6e340a9de87e4382d&dn=Guardioes.da.Galaxia.Vol.3.2023.2160p.BluRay.IMAX.HDR.x265.DUAL-LAPUMiA.mkv&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.birkenwald.de%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fopentor.org%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2970%2fannounce&tr=https%3a%2f%2ftracker.foreverpirates.co%3a443%2fannounce&tr=http%3a%2f%2fvps02.net.orel.ru%3a80%2fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttkTwdSx21AB1EDastR6xwMC2PT.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg</fanart>
+		<genre>Ficção científica, Aventura, Ação</genre> / <rate>8.3</rate> / <aired>2023/05/04</aired>
+	</item>
 -------------------------------
-<item> <title>Transformers: O Despertar das Feras - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34363705cc85d6c12c4d180f9b5cf50821f5dd52</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/woJbg7ZqidhpvqFGGMRhWQNoxwa.jpg</fanart>
-<genre>Ação, Aventura, Ficção científica</genre> / <rate>7.1</rate> / <aired>2023/06/08</aired> </item>
+<item>
+		<title>Transformers: O Despertar das Feras - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34363705cc85d6c12c4d180f9b5cf50821f5dd52</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/woJbg7ZqidhpvqFGGMRhWQNoxwa.jpg</fanart>
+		<genre>Ação, Aventura, Ficção científica</genre> / <rate>7.1</rate> / <aired>2023/06/08</aired>
+	</item>
 --------------- 
-<item>  <title>The Flash - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WO3WSINNF3NSS4NGJXXUNY7VPUSDN6MQ&dn=The%20Flash%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itYONYDHpJqTuu8BCXAtHxgpglq.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/yF1eOkaYvwiORauRCPWznV9xVvi.jpg</fanart>
-<genre>Ficção científica, Ação, Aventura</genre> / <rate>7.5</rate> / <aired>2023/06/15</aired> </item>
+<item>
+		<title>The Flash - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WO3WSINNF3NSS4NGJXXUNY7VPUSDN6MQ&dn=The%20Flash%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itYONYDHpJqTuu8BCXAtHxgpglq.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/yF1eOkaYvwiORauRCPWznV9xVvi.jpg</fanart>
+		<genre>Ficção científica, Ação, Aventura</genre> / <rate>7.5</rate> / <aired>2023/06/15</aired>
+	</item>
 ---------------------------
-<item>  <title>Sisu - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MGYOUJ5QYAYLWHIAS2TD7IGZBCDF6MYF&dn=Sisu%202023%20WEB-DL%202160p%20x265%20DV%20HDR10Plus%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lEEemfOwbQMddF4qXtcAXyuxYcV.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg</fanart>
-<genre>Ação, Guerra</genre> / <rate>7.5</rate> / <aired>2023/01/27</aired>  </item>
+<item>
+		<title>Sisu - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MGYOUJ5QYAYLWHIAS2TD7IGZBCDF6MYF&dn=Sisu%202023%20WEB-DL%202160p%20x265%20DV%20HDR10Plus%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lEEemfOwbQMddF4qXtcAXyuxYcV.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg</fanart>
+		<genre>Ação, Guerra</genre> / <rate>7.5</rate> / <aired>2023/01/27</aired>
+	</item>
 ----------------------------------------------------------------------------
-<item>  <title>Velozes e Furiosos 10 - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c01859ac1335d63771bc4b1157af1be248cda59a</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nxrmpkwVdmiVAiRTqSSC2SateN2.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/cEyhk8tZWubni71M6plwLMQFOIX.jpg</fanart>
-<genre>Ação, Crime, Thriller</genre> / <rate>7.0</rate> / <aired>2023/05/18</aired> / </item>
-
-<item>  <title>Tudo em Todo o Lugar ao Mesmo Tempo - 4K</title>
-<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Filmes%20no%20geral/Everything%20Everywhere%20All%20at%20Once%20(2022)/Everything%20Everywhere%20All%20at%20Once%20(2022)%20[BD%202160p][Dual%20%C3%81udio]%20HEVC.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg</thumbnail>
-<genre>Ação, Aventura, Ficção científica</genre> / <aired>2022/06/23</aired> </item>
+<item>
+		<title>Velozes e Furiosos 10 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c01859ac1335d63771bc4b1157af1be248cda59a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nxrmpkwVdmiVAiRTqSSC2SateN2.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/cEyhk8tZWubni71M6plwLMQFOIX.jpg</fanart>
+		<genre>Ação, Crime, Thriller</genre> / <rate>7.0</rate> / <aired>2023/05/18</aired> / </item>
+	<item>
+		<title>Tudo em Todo o Lugar ao Mesmo Tempo - 4K</title>
+		<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Filmes%20no%20geral/Everything%20Everywhere%20All%20at%20Once%20(2022)/Everything%20Everywhere%20All%20at%20Once%20(2022)%20[BD%202160p][Dual%20%C3%81udio]%20HEVC.mkv</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg</thumbnail>
+		<genre>Ação, Aventura, Ficção científica</genre> / <aired>2022/06/23</aired>
+	</item>
 ----------------------------------------------------------------------------
-<item>  <title>Luca - 4K</title>
-<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Anima%C3%A7%C3%A3o%20ocidental/Luca%20(2021)/Dual%20%C3%81udio%20-%202160p/Luca%20(2021)%20[2160p][Dual%20%C3%81udio]%20HEVC.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m6Ockf2oYhxXoBIBaRLDwCOE410.jpg</thumbnail>
-<genre>Animação, Comédia, Fantasia, Aventura, Família</genre> / <aired>2021/06/18</aired> </item>
+<item>
+		<title>Luca - 4K</title>
+		<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Anima%C3%A7%C3%A3o%20ocidental/Luca%20(2021)/Dual%20%C3%81udio%20-%202160p/Luca%20(2021)%20[2160p][Dual%20%C3%81udio]%20HEVC.mkv</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m6Ockf2oYhxXoBIBaRLDwCOE410.jpg</thumbnail>
+		<genre>Animação, Comédia, Fantasia, Aventura, Família</genre> / <aired>2021/06/18</aired>
+	</item>
 ----------------------------------------------------------------------------
-<item>  <title>O Homem do Norte - 4K</title>
-<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Filmes%20no%20geral/The%20Northman%20(2022)/The%20Northman%20(2022)%20[BD%202160p][Dual%20%C3%81udio].mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg</thumbnail>
-<genre>Ação, Aventura, Fantasia</genre> / <aired>2022/05/12</aired> </item>
+<item>
+		<title>O Homem do Norte - 4K</title>
+		<link>https://animezey.animezey240420232625.workers.dev//0:/Filmes/Filmes%20no%20geral/The%20Northman%20(2022)/The%20Northman%20(2022)%20[BD%202160p][Dual%20%C3%81udio].mkv</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg</thumbnail>
+		<genre>Ação, Aventura, Fantasia</genre> / <aired>2022/05/12</aired>
+	</item>
 ----------------------------------------------------------------------------
-<item>  <title>WALL-E - 4K</title>
-<link>https://animezey.xyz/download.aspx?file=gF9OUyEbwjJmrV1GJTSmNdkqsWZJp8O5Dxq4oyf%2Fvfb6hH5%2F7CQeu1wwyuiu5ThR&expiry=JTjVGmbuCtXHkzWtD6lmhw%3D%3D&mac=6828887b2818c9b6f766eb4b775a9563851ce5cafeffa85c2c20b8734b16e867</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg</fanart>
-<genre>Animação</genre> / <aired>2008/06/27</aired> </item>
+<item>
+		<title>WALL-E - 4K</title>
+		<link>https://animezey.xyz/download.aspx?file=gF9OUyEbwjJmrV1GJTSmNdkqsWZJp8O5Dxq4oyf%2Fvfb6hH5%2F7CQeu1wwyuiu5ThR&expiry=JTjVGmbuCtXHkzWtD6lmhw%3D%3D&mac=6828887b2818c9b6f766eb4b775a9563851ce5cafeffa85c2c20b8734b16e867</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg</fanart>
+		<genre>Animação</genre> / <aired>2008/06/27</aired>
+	</item>
 ----------------------------------------------------------------------------
-<item>  <title>O Senhor dos Anéis: A Sociedade do Anel - 4K</title>
-<link>https://animezey.xyz/download.aspx?file=AjYegw4v8%2BevQCXvJ6o6amvFShkr67%2F9wt772Cgdm24Q4w34FJGFp4eypZqmeXSt&expiry=FgGxEaBjGqkE4DKNpoWN0w%3D%3D&mac=cf71aaba92790710ad10b641367d2726903332f9b8fbee4176485a154c9514d6</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/omoMXT3Z7XrQwRZ2OGJGNWbdeEl.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/vRQnzOn4HjIMX4LBq9nHhFXbsSu.jpg</fanart>
-<genre>Aventura, Fantasia, Ação</genre> / <aired>2002/01/01</aired> </item>
+<item>
+		<title>O Senhor dos Anéis: A Sociedade do Anel - 4K</title>
+		<link>https://animezey.xyz/download.aspx?file=AjYegw4v8%2BevQCXvJ6o6amvFShkr67%2F9wt772Cgdm24Q4w34FJGFp4eypZqmeXSt&expiry=FgGxEaBjGqkE4DKNpoWN0w%3D%3D&mac=cf71aaba92790710ad10b641367d2726903332f9b8fbee4176485a154c9514d6</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/omoMXT3Z7XrQwRZ2OGJGNWbdeEl.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vRQnzOn4HjIMX4LBq9nHhFXbsSu.jpg</fanart>
+		<genre>Aventura, Fantasia, Ação</genre> / <aired>2002/01/01</aired>
+	</item>
 ----------------------------------------------------------------------------
-<item>  <title>O Senhor dos Anéis: As Duas Torres - 4K</title>
-<link>https://animezey.xyz/download.aspx?file=mbQu33tDIvwvuPP%2BGvUBsdAXWAifjRzFFlTYn9shY17rrv0QmV6w5M9oj74%2FY%2FeY&expiry=gevThQ3NZtIYqJPQ1E9Wmw%3D%3D&mac=fce66449c344711f2130a8caca486363c8e62401c4d7d9f12606beb28ad1a755</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/20eUL6eN89SM0U7KPDw8iR82mOT.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/7tNTPZMb13W0AhkcuoL6myRrNRr.jpg</fanart>
-<genre>Aventura, Fantasia, Ação</genre> / <aired>2002/12/27</aired> </item>
+<item>
+		<title>O Senhor dos Anéis: As Duas Torres - 4K</title>
+		<link>https://animezey.xyz/download.aspx?file=mbQu33tDIvwvuPP%2BGvUBsdAXWAifjRzFFlTYn9shY17rrv0QmV6w5M9oj74%2FY%2FeY&expiry=gevThQ3NZtIYqJPQ1E9Wmw%3D%3D&mac=fce66449c344711f2130a8caca486363c8e62401c4d7d9f12606beb28ad1a755</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/20eUL6eN89SM0U7KPDw8iR82mOT.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7tNTPZMb13W0AhkcuoL6myRrNRr.jpg</fanart>
+		<genre>Aventura, Fantasia, Ação</genre> / <aired>2002/12/27</aired>
+	</item>
 ----------------------------------------------------------------------------
-<item>  <title>O Senhor dos Anéis: O Retorno do Rei - 4K</title>
-<link>https://animezey.xyz/download.aspx?file=0wW2r6KjcsoxuUnj9j%2FgS6oauK0jqhjKK%2FPf71qESZHVfhpCDDPTX%2FUsukr7i0DQ&expiry=hdcrbQfh1NxqAGY3YUEOPw%3D%3D&mac=a6c8817d4afac2f05ed23f26a5458fee7e0e5e15933a560fe35ef9a9825c96db</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/pm0RiwNpSja8gR0BTWpxo5a9Bbl.jpg</fanart>
-<genre>Aventura, Fantasia, Ação</genre> / <aired>2003/12/25</aired> </item>
+<item>
+		<title>O Senhor dos Anéis: O Retorno do Rei - 4K</title>
+		<link>https://animezey.xyz/download.aspx?file=0wW2r6KjcsoxuUnj9j%2FgS6oauK0jqhjKK%2FPf71qESZHVfhpCDDPTX%2FUsukr7i0DQ&expiry=hdcrbQfh1NxqAGY3YUEOPw%3D%3D&mac=a6c8817d4afac2f05ed23f26a5458fee7e0e5e15933a560fe35ef9a9825c96db</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/pm0RiwNpSja8gR0BTWpxo5a9Bbl.jpg</fanart>
+		<genre>Aventura, Fantasia, Ação</genre> / <aired>2003/12/25</aired>
+	</item>
 ----------------------------------------------------------------------------
-<item>  <title>John Wick: Baba Yaga - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9384ad0be79850ca635841c8d5ac2a8b11449a72</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ns9CNHY25J18rEsTjGTPd0Ui9tf.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/shaz5Y1GA1hy9BtgHij6gd0AcY0.jpg</fanart>
-<genre>Ação, Thriller, Crime</genre> / <rate></rate> / <aired>2023/03/23</aired></item>
+<item>
+		<title>John Wick: Baba Yaga - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9384ad0be79850ca635841c8d5ac2a8b11449a72</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ns9CNHY25J18rEsTjGTPd0Ui9tf.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/shaz5Y1GA1hy9BtgHij6gd0AcY0.jpg</fanart>
+		<genre>Ação, Thriller, Crime</genre> / <rate/> / <aired>2023/03/23</aired>
+	</item>
 ----------------------------------------------------------------------------  
-<item>  <title>Homem-Formiga e a Vespa: Quantumania - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60dd85dfd992ed39fa9f34b1cf7ffaa8231e3d8e</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg</fanart>
-<genre>Aventura, Ficção científica, Comédia</genre> / <rate>7.0</rate> / <aired>2023/02/10</aired> </item>
+<item>
+		<title>Homem-Formiga e a Vespa: Quantumania - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60dd85dfd992ed39fa9f34b1cf7ffaa8231e3d8e</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg</fanart>
+		<genre>Aventura, Ficção científica, Comédia</genre> / <rate>7.0</rate> / <aired>2023/02/10</aired>
+	</item>
 -----------------------------------
-<item>  <title>Super Mario Bros.: O Filme - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5d9cee0f0a19256d9855e49967900fdaefb6933</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg</fanart>
-<genre>Animação, Aventura, Família, Fantasia, Comédia</genre> / <rate>7.5</rate> / <aired>2023/04/05</aired></item>
+<item>
+		<title>Super Mario Bros.: O Filme - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5d9cee0f0a19256d9855e49967900fdaefb6933</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg</fanart>
+		<genre>Animação, Aventura, Família, Fantasia, Comédia</genre> / <rate>7.5</rate> / <aired>2023/04/05</aired>
+	</item>
 -----------------------------
-<item>  <title>Dungeons & Dragons: Honra Entre Rebeldes - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73b7564cf285b6d7f699567f181fd73c4935c6fe</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6LuXaihVIoJ5FeSiFb7CZMtU7du.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/fh7aM10THQzivGU7kAkgKrgzot4.jpg</fanart>
-<genre>Ação, Aventura, Fantasia, Comédia</genre> / <rate></rate> / <aired>2023/04/13</aired>  </item>
+<item>
+		<title>Dungeons & Dragons: Honra Entre Rebeldes - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73b7564cf285b6d7f699567f181fd73c4935c6fe</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6LuXaihVIoJ5FeSiFb7CZMtU7du.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fh7aM10THQzivGU7kAkgKrgzot4.jpg</fanart>
+		<genre>Ação, Aventura, Fantasia, Comédia</genre> / <rate/> / <aired>2023/04/13</aired>
+	</item>
 ---------------------------
-<item>  <title>O Exorcista do Papa - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e627fd657ed9aba11cda7bcc600a19317522c836</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rBDAkmDdRv1bG996JPPNq0cMOVG.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/4n6pKjKlrDApwlw7k36MkcQHgc9.jpg</fanart>
-<genre>Terror, Mistério</genre> / <rate>6.1</rate> / <aired>2023/04/05</aired> </item>
+<item>
+		<title>O Exorcista do Papa - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e627fd657ed9aba11cda7bcc600a19317522c836</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rBDAkmDdRv1bG996JPPNq0cMOVG.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/4n6pKjKlrDApwlw7k36MkcQHgc9.jpg</fanart>
+		<genre>Terror, Mistério</genre> / <rate>6.1</rate> / <aired>2023/04/05</aired>
+	</item>
  ---------------------
-<item>  <title>Pânico VI - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e549001b7522f8aef3a8ec3efad456b5732d2dc4</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/b4bqBLvP0qdoWaarPGHMlnNznKD.jpg</fanart>
-<genre>Terror, Mistério, Thriller</genre> / <rate>7.1</rate> / <aired>2023/03/09</aired> </item>
+<item>
+		<title>Pânico VI - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e549001b7522f8aef3a8ec3efad456b5732d2dc4</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/b4bqBLvP0qdoWaarPGHMlnNznKD.jpg</fanart>
+		<genre>Terror, Mistério, Thriller</genre> / <rate>7.1</rate> / <aired>2023/03/09</aired>
+	</item>
 ---------------------------------------------------------------------------- 
-<item>  <title>Ghosted: Sem Resposta - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MRTXDK4LLY2OQ2OLHF2TEZKCWJ5NX5UG&dn=Ghosted%20-%20Sem%20Resposta%202023%20WEB-DL%202160p%20x265%20SDR%2010bit%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg</thumbnail>
-<genre>Romance, Ação, Comédia</genre> / <rate>7.2</rate> / <aired>2023/04/20</aired>
-</item>
+<item>
+		<title>Ghosted: Sem Resposta - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MRTXDK4LLY2OQ2OLHF2TEZKCWJ5NX5UG&dn=Ghosted%20-%20Sem%20Resposta%202023%20WEB-DL%202160p%20x265%20SDR%2010bit%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg</thumbnail>
+		<genre>Romance, Ação, Comédia</genre> / <rate>7.2</rate> / <aired>2023/04/20</aired>
+	</item>
 ---------------------------------------------------------------------------- 
-<item>  <title>Avatar: O Caminho da Água - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f18771276b7efad91da5352e92c71fb261131ffc</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/94xxm5701CzOdJdUEdIuwqZaowx.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg</fanart>
-<genre>Ficção científica, Ação, Aventura</genre> / <rate>8.4</rate> / <aired>2022/12/14</aired> </item>
+<item>
+		<title>Avatar: O Caminho da Água - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f18771276b7efad91da5352e92c71fb261131ffc</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/94xxm5701CzOdJdUEdIuwqZaowx.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg</fanart>
+		<genre>Ficção científica, Ação, Aventura</genre> / <rate>8.4</rate> / <aired>2022/12/14</aired>
+	</item>
 ----------------------------
-<item>  <title>Gato de Botas 2: O Último Pedido - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b6145a5d55c17ff6436ca233d1b94457ff1a419</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65NBNqJiaHeCmqDqkCmrRplJXw.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg</fanart>
-<genre>Animação/Aventura</genre> / <rate>7.6</rate> / <aired>2022/12/07</aired>
-</item>
-
-<item> <title>Pantera Negra: Wakanda Para Sempre - 4K [Remux]</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59501332d345aaa93bbffa95c701f1091ad8a2cf</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tb0qiqLN9szHPA4i0kY38oaWew.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg</fanart>
-<genre>Ação, Aventura, Ficção científica</genre> / <rate></rate> / <aired>2022/11/10</aired></item>
+<item>
+		<title>Gato de Botas 2: O Último Pedido - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b6145a5d55c17ff6436ca233d1b94457ff1a419</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65NBNqJiaHeCmqDqkCmrRplJXw.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg</fanart>
+		<genre>Animação/Aventura</genre> / <rate>7.6</rate> / <aired>2022/12/07</aired>
+	</item>
+	<item>
+		<title>Pantera Negra: Wakanda Para Sempre - 4K [Remux]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59501332d345aaa93bbffa95c701f1091ad8a2cf</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tb0qiqLN9szHPA4i0kY38oaWew.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg</fanart>
+		<genre>Ação, Aventura, Ficção científica</genre> / <rate/> / <aired>2022/11/10</aired>
+	</item>
 ---------------------
-<item>  <title>Halloween Ends - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6feaa65169f6c4846a4a1b5fd075fe44a04b85e7</link>
-<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/5G9tPJu3xDCQj0Gv9w2R1EScIix.jpg</thumbnail>
-<genre>Horror , Thriller</genre> / 2022 / <aired>2022/10/14</aired> </item>
+<item>
+		<title>Halloween Ends - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6feaa65169f6c4846a4a1b5fd075fe44a04b85e7</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/5G9tPJu3xDCQj0Gv9w2R1EScIix.jpg</thumbnail>
+		<genre>Horror , Thriller</genre> / 2022 / <aired>2022/10/14</aired>
+	</item>
 ----------------------------------------------------------------------------
-<item>  <title>Adão Negro - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7e5af3191a58388ed33d1060caaf6c93638734a</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>  
-<genre>Ação, Ficção</genre> / 2022 / <rate>7.3</rate> / <aired>2022/10/20</aired> </item>
+<item>
+		<title>Adão Negro - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7e5af3191a58388ed33d1060caaf6c93638734a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>
+		<genre>Ação, Ficção</genre> / 2022 / <rate>7.3</rate> / <aired>2022/10/20</aired>
+	</item>
 ----------------------------------------
-<item> <title>A Mulher Rei - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50e7890c1f1d68c80115d14acef81703d214e467</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg</thumbnail> 
-<genre>Ação, Drama, História</genre> 2022 <rate>6.1</rate> <aired>2022/09/15</aired> </item>
+<item>
+		<title>A Mulher Rei - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50e7890c1f1d68c80115d14acef81703d214e467</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg</thumbnail>
+		<genre>Ação, Drama, História</genre> 2022 <rate>6.1</rate>
+		<aired>2022/09/15</aired>
+	</item>
 -----------------------------------
-<item>  <title>Sorria - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66d360cc0632b60eb3b626dde1f94642c1fcb4b7</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
-<genre>Terror, Mistério, Thriller</genre> 2022 <rate>7.0</rate> <aired>2022/09/23</aired> </item>
+<item>
+		<title>Sorria - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66d360cc0632b60eb3b626dde1f94642c1fcb4b7</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
+		<genre>Terror, Mistério, Thriller</genre> 2022 <rate>7.0</rate>
+		<aired>2022/09/23</aired>
+	</item>
 ----------------------------------
-<item>  <title>Nada de Novo no Front - 4K</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70b6f15a3327590bb4713b6e0717ad0c62c0e077</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg</thumbnail>
-<genre>Guerra, História, Drama, Ação</genre> / 2022 / <aired>2022/10/28</aired> </item>
-----------------------------------------------------------------------------
-<item> <title>Não! Não Olhe! - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c35b94eaf3fd82ea375b11639d31ef66291e4377</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail>
-<aired>2022/07/20</aired>
-<genre>Terror, Mistério, Ficção científica, Thriller</genre></item>
-
-<item>  <title>Free Guy: Assumindo o Controle - 4K</title>
-<link>https://animezey.animezey.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Free%20Guy%20-%20Assumindo%20o%20Controle/Free.Guy.Assumindo.O.Controle.(2021).2160p.BluRay.REMUX.DTS-HD.7.1.HDR-U.HEV.DUAL-Hiro360.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg</thumbnail>
-<genre>Ação, Aventura, Comédia</genre> / 2021 / <aired>2021/08/11</aired> LINK DIRETO</item>
-----------------------------------------------------------------------------
-<item>  <title>Rambo: Até o Fim - 4K</title>
-<link>https://animezey.animezey.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Rambo/Rambo.At%C3%A9.o.Fim.(2019).[Vers%C3%A3o-de-Cinema].4K.UHD.BD-Remux.2160p.h265.Dual.Audio.ROBSON2015.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg</thumbnail>
-<genre>Ação, Suspense</genre> / <aired>2019/09/19</aired> LINK DIRETO</item>
-----------------------------------------------------------------------------
-<item>  <title>Cruella - 4K </title>
-<link>https://https://animezey.animezey.workers.dev//0:/Filmes/Filmes%20no%20geral/Cruella%20(2021)/Dual%20%C3%81udio%20-%202160p%20HDR%20HEVC/[Disney+]%20Cruella%20(2021)%20[2160p][Dual%20%C3%81udio]%20HEVC.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg</thumbnail>  
-<genre>Comédia, Crime</genre> / <aired>2021/05/26</aired> LINK DIRETO</item>
-----------------------------------------------------------------------------
-
-<item> <title>Tron: O Legado - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fc375528fd26350f61ec2616ae920c6be474a7f</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wlHzvzXE9AvMgrVsKHg2PweC3aC.jpg</thumbnail>
-<genre>Ficção Científica, Ação</genre> 2010 <aired>2010/12/17</aired></item>
--------------------------------
-
-<item> <title>DC Liga dos Superpets - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a20d5508d35403bb3812a32794966925613cece6</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sexnQm1YEJMYo7hZgVP1Y6rEyWz.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/p8XnVA7zWZu7ZJsM1Cm9l7S9IH8.jpg</fanart>
-<genre>Animação, Ação, Família, Ficção científica, Comédia</genre> 2022 <aired>2022/07/28</aired></item>
--------------------------------
-<item>  <title>Trem-Bala - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf0f278b601bdaf826c000a2b008036b5ce7cd56</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6moyjAEMV9OZ3EurotIX0mPiK6y.jpg</thumbnail>
-<genre>Ação, Comédia, Crime</genre> 2022 <rate>7.5</rate> <aired>2022/07/03</aired></item>
--------------------------------
-<item> 
-<title>Thor: Amor e Trovão - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66a573fedbc4ba29515790ebe17235a496c5f10e</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
-<genre>Ação, Aventura, Comédia</genre> <rate>7.2</rate><aired>2022/07/07</aired>
-</item>
-
-<item> 
-<title>Samaritano - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:668d37244a196e31bf33510f2f1f439c8924f839</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z0de9eo5QznG9KEijDvROHrYSfo.jpg</thumbnail>
-<genre>Ficção científica, Drama, Ação, Fantasia</genre><aired>2022/08/26</aired>
-</item>
+<item>
+		<title>Nada de Novo no Front - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70b6f15a3327590bb4713b6e0717ad0c62c0e077</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg</thumbnail>
+		<genre>Guerra, História, Drama, Ação</genre> / 2022 / <aired>2022/10/28</aired>
+	</item>
 ----------------------------------------------------------------------------
 <item>
-<title>Top Gun: Maverick - 4K</title>
+		<title>Não! Não Olhe! - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c35b94eaf3fd82ea375b11639d31ef66291e4377</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail>
+		<aired>2022/07/20</aired>
+		<genre>Terror, Mistério, Ficção científica, Thriller</genre>
+	</item>
+	<item>
+		<title>Free Guy: Assumindo o Controle - 4K</title>
+		<link>https://animezey.animezey.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Free%20Guy%20-%20Assumindo%20o%20Controle/Free.Guy.Assumindo.O.Controle.(2021).2160p.BluRay.REMUX.DTS-HD.7.1.HDR-U.HEV.DUAL-Hiro360.mkv</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg</thumbnail>
+		<genre>Ação, Aventura, Comédia</genre> / 2021 / <aired>2021/08/11</aired> LINK DIRETO</item>
+----------------------------------------------------------------------------
+<item>
+		<title>Rambo: Até o Fim - 4K</title>
+		<link>https://animezey.animezey.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Rambo/Rambo.At%C3%A9.o.Fim.(2019).[Vers%C3%A3o-de-Cinema].4K.UHD.BD-Remux.2160p.h265.Dual.Audio.ROBSON2015.mkv</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg</thumbnail>
+		<genre>Ação, Suspense</genre> / <aired>2019/09/19</aired> LINK DIRETO</item>
+----------------------------------------------------------------------------
+<item>
+		<title>Cruella - 4K </title>
+		<link>https://https://animezey.animezey.workers.dev//0:/Filmes/Filmes%20no%20geral/Cruella%20(2021)/Dual%20%C3%81udio%20-%202160p%20HDR%20HEVC/[Disney+]%20Cruella%20(2021)%20[2160p][Dual%20%C3%81udio]%20HEVC.mkv</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg</thumbnail>
+		<genre>Comédia, Crime</genre> / <aired>2021/05/26</aired> LINK DIRETO</item>
+----------------------------------------------------------------------------
+
+<item>
+		<title>Tron: O Legado - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fc375528fd26350f61ec2616ae920c6be474a7f</link>
+		<thumbnail>https://image.tmdb.org/t/p/original/wlHzvzXE9AvMgrVsKHg2PweC3aC.jpg</thumbnail>
+		<genre>Ficção Científica, Ação</genre> 2010 <aired>2010/12/17</aired>
+	</item>
+-------------------------------
+
+<item>
+		<title>DC Liga dos Superpets - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a20d5508d35403bb3812a32794966925613cece6</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sexnQm1YEJMYo7hZgVP1Y6rEyWz.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/p8XnVA7zWZu7ZJsM1Cm9l7S9IH8.jpg</fanart>
+		<genre>Animação, Ação, Família, Ficção científica, Comédia</genre> 2022 <aired>2022/07/28</aired>
+	</item>
+-------------------------------
+<item>
+		<title>Trem-Bala - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf0f278b601bdaf826c000a2b008036b5ce7cd56</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/6moyjAEMV9OZ3EurotIX0mPiK6y.jpg</thumbnail>
+		<genre>Ação, Comédia, Crime</genre> 2022 <rate>7.5</rate>
+		<aired>2022/07/03</aired>
+	</item>
+-------------------------------
+<item>
+		<title>Thor: Amor e Trovão - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66a573fedbc4ba29515790ebe17235a496c5f10e</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
+		<genre>Ação, Aventura, Comédia</genre>
+		<rate>7.2</rate>
+		<aired>2022/07/07</aired>
+	</item>
+	<item>
+		<title>Samaritano - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:668d37244a196e31bf33510f2f1f439c8924f839</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z0de9eo5QznG9KEijDvROHrYSfo.jpg</thumbnail>
+		<genre>Ficção científica, Drama, Ação, Fantasia</genre>
+		<aired>2022/08/26</aired>
+	</item>
+----------------------------------------------------------------------------
+<item>
+		<title>Top Gun: Maverick - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9f13521894181ccf34ef2aa181c8f110a24303</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/e9ZrMPiJqYg2qEnWS7n1U7W0GHL.jpg</thumbnail>
-<aired>2022/08/23</aired><genre>Action, Drama</genre>
-</item>
-
-<item>
-<title>Minions 2: A Origem de Gru - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/e9ZrMPiJqYg2qEnWS7n1U7W0GHL.jpg</thumbnail>
+		<aired>2022/08/23</aired>
+		<genre>Action, Drama</genre>
+	</item>
+	<item>
+		<title>Minions 2: A Origem de Gru - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:972dafbb7e2e0667c2a13831b9f50478563a75dd</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/yRGDZI2lYTgUM3ifsoFASU5z77v.jpg</thumbnail>
-<aired>2022/08/02</aired>
-<genre>Animação , Aventura, Comédia, Crime , Família, Sci-Fi</genre>
-</item>
-
-<item>
-<title>O Predador: A Caçada - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5546f7bfbf8ea20d360057b69dc3790ba33bb46&dn=O.Predador.A.Cacada.2022.WEB-DL.2160p.HDR-U.V2.EAC3.5.1.Dual-www.animestotais.xyz&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg</thumbnail>
-<genre>Ação, Ficção, Suspense</genre><aired>2022/08/05</aired>
-</item>
+		<thumbnail>https://www.themoviedb.org/t/p/original/yRGDZI2lYTgUM3ifsoFASU5z77v.jpg</thumbnail>
+		<aired>2022/08/02</aired>
+		<genre>Animação , Aventura, Comédia, Crime , Família, Sci-Fi</genre>
+	</item>
+	<item>
+		<title>O Predador: A Caçada - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5546f7bfbf8ea20d360057b69dc3790ba33bb46&dn=O.Predador.A.Cacada.2022.WEB-DL.2160p.HDR-U.V2.EAC3.5.1.Dual-www.animestotais.xyz&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg</thumbnail>
+		<genre>Ação, Ficção, Suspense</genre>
+		<aired>2022/08/05</aired>
+	</item>
 ----------------
 <item>
-<title>Lightyear - 4K</title>
+		<title>Lightyear - 4K</title>
  ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6379d97afd3be5a95ee2e2aa53e67f2091d055b2</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wc3cGQUF4P2Jetawf7YqzaWQsNc.jpg</thumbnail>
-<aired>2022/06/16</aired><genre>Animação, Ficção científica, Aventura, Ação, Família</genre>
-</item>
-
-<item>
-<title>Jurassic World: Dominio - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wc3cGQUF4P2Jetawf7YqzaWQsNc.jpg</thumbnail>
+		<aired>2022/06/16</aired>
+		<genre>Animação, Ficção científica, Aventura, Ação, Família</genre>
+	</item>
+	<item>
+		<title>Jurassic World: Dominio - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf171e1d2aea3095cfef1d042c3b5df1351d20d7</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
-<genre>Ação, Aventura, Ficção científica</genre> <rate>5.9</rate> <aired>2022/06/01</aired>
-</item>
-
-<item>
-<title>Doutor Estranho - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ecf7532b77da78c699414d6ff28855ca7197a0e</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iM1hlVGZ5Qwn3gO6ewTszY7OrLY.jpg</thumbnail>
-<aired>2016/10/25</aired><genre>Ação, Aventura, Fantasia</genre>
-</item> 
+		<thumbnail>https://www.themoviedb.org/t/p/original/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
+		<genre>Ação, Aventura, Ficção científica</genre>
+		<rate>5.9</rate>
+		<aired>2022/06/01</aired>
+	</item>
+	<item>
+		<title>Doutor Estranho - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ecf7532b77da78c699414d6ff28855ca7197a0e</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iM1hlVGZ5Qwn3gO6ewTszY7OrLY.jpg</thumbnail>
+		<aired>2016/10/25</aired>
+		<genre>Ação, Aventura, Fantasia</genre>
+	</item> 
 
 -----------------------------
 <item>
-<title>Doutor Estranho no Multiverso da Loucura - 4K</title>
+		<title>Doutor Estranho no Multiverso da Loucura - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4477740a267e0e7fe09cd282d8650521842c48a0</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hq2igFqb31fDqGotz8ZuUfwKgn8.jpg</thumbnail>
-<aired>2022/05/05</aired><genre>Fantasia, Ação, Aventura</genre>
-</item>
-
-<item>
-<title>Animais fantasticos e onde habitam - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69ad78d9fdbeae41de5720547b5872de50108208</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGkt9ekX5cgRYKRIiJM27Xp3piR.jpg</thumbnail>
-<aired>2016/11/16</aired> <genre>Fantasia, Aventura, Ação</genre>
-</item>
-
-<item>
-<title>Animais Fantásticos: Os Crimes de Grindelwald - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f67450dc26393655f18988fd33b11ec9fb991122</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oANEhQDQ3eB8tcqRPSzABim8oNg.jpg</thumbnail>
-<aired>2018/11/14</aired> <genre>Fantasia, Aventura, Ação</genre>
-</item> 
-
-<item>
-<title>Animais Fantásticos: Os Segredos de Dumbledore - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hq2igFqb31fDqGotz8ZuUfwKgn8.jpg</thumbnail>
+		<aired>2022/05/05</aired>
+		<genre>Fantasia, Ação, Aventura</genre>
+	</item>
+	<item>
+		<title>Animais fantasticos e onde habitam - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69ad78d9fdbeae41de5720547b5872de50108208</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGkt9ekX5cgRYKRIiJM27Xp3piR.jpg</thumbnail>
+		<aired>2016/11/16</aired>
+		<genre>Fantasia, Aventura, Ação</genre>
+	</item>
+	<item>
+		<title>Animais Fantásticos: Os Crimes de Grindelwald - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f67450dc26393655f18988fd33b11ec9fb991122</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oANEhQDQ3eB8tcqRPSzABim8oNg.jpg</thumbnail>
+		<aired>2018/11/14</aired>
+		<genre>Fantasia, Aventura, Ação</genre>
+	</item>
+	<item>
+		<title>Animais Fantásticos: Os Segredos de Dumbledore - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa521c3fd4036e63bdb3463101f8bb910a2fd04a</link>
-<thumbnail>https://br.web.img2.acsta.net/pictures/21/12/21/10/49/4342577.jpg</thumbnail>
-<aired>2022/04/14</aired> <genre>Aventura | Fantasia</genre>
-</item>
-
-<item>
-<title>Harry Potter e a Pedra Filosofal - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df7a584072e09105313964314555806c49bd46f7</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gztrXVQsNwCZCEX7XyUXP3BQjUq.jpg</thumbnail>
- <genre>Fantasia / Aventura</genre>
-</item>
-
-<item>
-<title>Harry Potter e a Câmara Secreta - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bee62d2e777dbc4b1cd499e9df193acc1508fe49</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3N35vEoDnyYEmWqibnILwUjibAQ.jpg</thumbnail>
-<genre>Fantasia / Aventura</genre>
-</item>
-
-<item>
-<title>Harry Potter Prisioneiro de Azkaban - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad83f178346c275d3de93a00fb8aabd0a6bb2eb0</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r2DnP3uSvgmU1IffKK9sHBVGYnT.jpg</thumbnail>
-<genre>Fantasia / Aventura</genre>
-</item>
-
-<item>
-<title>Harry Potter e o Cálice de Fogo - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7005de9ada47e5334e631c21b85f8549df2fe1f2</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2GRZge8h9MNAyqiaR3FWQczARUe.jpg</thumbnail>
-<genre>Fantasia / Aventura</genre>
-</item>
-
-<item>
-<title>Harry Potter Ordem da Fênix - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b7f8146a2a25beb19f6516240b3d76abf815562</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nzYRAgaTx8b6BBai73WyOnxgIB9.jpg</thumbnail>
-<genre>Fantasia / Aventura</genre>
-</item>
-
-<item>
-<title>Harry Potter Enigma do Príncipe - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:436fc796022e8cffec1128c3ecdeb0f1f3496722</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6SZLLz0Z1pYPBS0Q5vvplpyJI1.jpg</thumbnail>
-<genre>Fantasia / Aventura</genre>
-</item>
-
-<item>
-<title>Harry Potter e as Relíquias da Morte – Parte 1 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f42ab6dfe87fa90d0689da31dbc17ad9aed01818</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xhqBzXp1276aFTOZ1TqqxtvGIZ5.jpg</thumbnail>
-<genre>Fantasia / Aventura</genre>
-</item>
-
-<item>
-<title>Harry Potter e as Relíquias da Morte – Parte 2 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c1e06e36df779cb839f8cd1a41cd429dbe73b0</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4h2Dm29WDtKssLjuJeEGBDobhYT.jpg</thumbnail>
-<genre>Fantasia / Aventura</genre>
-</item>
-
-<item>
-<title>Sonic - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c2c4c4bc9f224e6a77ef7afe26c2ec35738e8de</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg</thumbnail>
-<aired>2020/02/13</aired> <genre>Ação, Ficção científica, Comédia, Família</genre>
-</item>
-
-<item>
-<title>Sonic 2: O Filme - 4K</title>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/21/12/21/10/49/4342577.jpg</thumbnail>
+		<aired>2022/04/14</aired>
+		<genre>Aventura | Fantasia</genre>
+	</item>
+	<item>
+		<title>Harry Potter e a Pedra Filosofal - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df7a584072e09105313964314555806c49bd46f7</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gztrXVQsNwCZCEX7XyUXP3BQjUq.jpg</thumbnail>
+		<genre>Fantasia / Aventura</genre>
+	</item>
+	<item>
+		<title>Harry Potter e a Câmara Secreta - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bee62d2e777dbc4b1cd499e9df193acc1508fe49</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3N35vEoDnyYEmWqibnILwUjibAQ.jpg</thumbnail>
+		<genre>Fantasia / Aventura</genre>
+	</item>
+	<item>
+		<title>Harry Potter Prisioneiro de Azkaban - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad83f178346c275d3de93a00fb8aabd0a6bb2eb0</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r2DnP3uSvgmU1IffKK9sHBVGYnT.jpg</thumbnail>
+		<genre>Fantasia / Aventura</genre>
+	</item>
+	<item>
+		<title>Harry Potter e o Cálice de Fogo - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7005de9ada47e5334e631c21b85f8549df2fe1f2</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2GRZge8h9MNAyqiaR3FWQczARUe.jpg</thumbnail>
+		<genre>Fantasia / Aventura</genre>
+	</item>
+	<item>
+		<title>Harry Potter Ordem da Fênix - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b7f8146a2a25beb19f6516240b3d76abf815562</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nzYRAgaTx8b6BBai73WyOnxgIB9.jpg</thumbnail>
+		<genre>Fantasia / Aventura</genre>
+	</item>
+	<item>
+		<title>Harry Potter Enigma do Príncipe - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:436fc796022e8cffec1128c3ecdeb0f1f3496722</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6SZLLz0Z1pYPBS0Q5vvplpyJI1.jpg</thumbnail>
+		<genre>Fantasia / Aventura</genre>
+	</item>
+	<item>
+		<title>Harry Potter e as Relíquias da Morte – Parte 1 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f42ab6dfe87fa90d0689da31dbc17ad9aed01818</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xhqBzXp1276aFTOZ1TqqxtvGIZ5.jpg</thumbnail>
+		<genre>Fantasia / Aventura</genre>
+	</item>
+	<item>
+		<title>Harry Potter e as Relíquias da Morte – Parte 2 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c1e06e36df779cb839f8cd1a41cd429dbe73b0</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4h2Dm29WDtKssLjuJeEGBDobhYT.jpg</thumbnail>
+		<genre>Fantasia / Aventura</genre>
+	</item>
+	<item>
+		<title>Sonic - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c2c4c4bc9f224e6a77ef7afe26c2ec35738e8de</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg</thumbnail>
+		<aired>2020/02/13</aired>
+		<genre>Ação, Ficção científica, Comédia, Família</genre>
+	</item>
+	<item>
+		<title>Sonic 2: O Filme - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc8b023e5e3da2d9b6905e58c013d34961086628</link>
-<thumbnail>https://iguatemi.com.br/jkiguatemi/sites/jkiguatemi/files/fde04f56-1afb-4c71-9ff2-97dac723f8d8.jpg</thumbnail>
-<aired>2022/05/20</aired> <genre>Ação | Aventura | Fantasia</genre>
-</item>
-
-<item>
-<title>Pokémon: Detetive Pikachu - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cd70d193f92599b2a7d9702477de1b728db2f56</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
-<genre>Ação, Aventura, Fantasia</genre> <aired>2019/05/09</aired>
-</item> 
-
-<item>
-<title>Os Croods 2: Uma Nova Era - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b8651b9b02341971081d7677c6e611531eed09c</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRTScutueW9gLF3dSo2Za7o0v7n.jpg</thumbnail>
-<aired>2020/11/25</aired> <genre>Aventura, Animação</genre>
-</item>
-
-<item>
-<title>Raya e o Último Dragão - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:731d761ab714753a773835d26940814e7759a17a</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/yXrb84zJidCefyhTWHwo4yCDvwz.jpg</thumbnail>
-<aired>2021/03/04</aired>  <genre>Aventura, Animação</genre>
-</item>
-
-<item>
-<title>Alita: Anjo de Combate - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c06c7320fcc8b7f800c25826cca32c2b84a09d66</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/i7eGbUjw721W02ofWEJt4zpiJDp.jpg</thumbnail>
-<aired>2019/02/14</aired> <genre>Ação, Ficção científica, Aventura</genre>
-</item>
-
-<item>
-<title>Vingadores: Guerra infinita - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:518b4b3f0dc68658c44834085bc2b28d8d377183</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</thumbnail>
-<aired>2018/04/26</aired> <genre>Aventura, Ação, Ficção científica</genre>
-</item>
-
-<item>
-<title>Vingadores: Ultimato - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1fde83fc6568ef8218a61eb7270dfecafb5ff97</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
-<aired>2019/04/25</aired> <genre>Aventura, Ação, Ficção científica</genre>
-</item> 
-
-<item>
-<title>Vingadores: Era de Ultron - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7927cb715cbe2109c5dc9a349139ef38b11dd481</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71wV2rzkFwL._AC_SL1022_.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Guardiões da Galáxia - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ba421c097ded6b7b7654c7b7013065882eaa526</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/xaY92XMToaSnBuvCui3LHzNGqZB.jpg</thumbnail>
-</item>
-
-<item>
-<title>Capitão América 2: O Soldado Invernal - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dd8c44c46e2e4a64d7fdea9bf56e0ffb889c7ce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/iBFPjLLHXkBojKpWDluJxnpM24h.jpg</thumbnail>
-</item>
-
-<item>
-<title>Homem aranha: Longe de casa - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ced02a945f3ee4562605ac2d89e7e92c0dd1bd7a</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
-<genre>Ação, Aventura, Ficção científica</genre> <aired>2019/07/04</aired>
-</item>
-
-<item>
-<title>Homem-Aranha: Sem Volta Para Casa - 4K</title>
+		<thumbnail>https://iguatemi.com.br/jkiguatemi/sites/jkiguatemi/files/fde04f56-1afb-4c71-9ff2-97dac723f8d8.jpg</thumbnail>
+		<aired>2022/05/20</aired>
+		<genre>Ação | Aventura | Fantasia</genre>
+	</item>
+	<item>
+		<title>Pokémon: Detetive Pikachu - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cd70d193f92599b2a7d9702477de1b728db2f56</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
+		<genre>Ação, Aventura, Fantasia</genre>
+		<aired>2019/05/09</aired>
+	</item>
+	<item>
+		<title>Os Croods 2: Uma Nova Era - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b8651b9b02341971081d7677c6e611531eed09c</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRTScutueW9gLF3dSo2Za7o0v7n.jpg</thumbnail>
+		<aired>2020/11/25</aired>
+		<genre>Aventura, Animação</genre>
+	</item>
+	<item>
+		<title>Raya e o Último Dragão - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:731d761ab714753a773835d26940814e7759a17a</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/yXrb84zJidCefyhTWHwo4yCDvwz.jpg</thumbnail>
+		<aired>2021/03/04</aired>
+		<genre>Aventura, Animação</genre>
+	</item>
+	<item>
+		<title>Alita: Anjo de Combate - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c06c7320fcc8b7f800c25826cca32c2b84a09d66</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/i7eGbUjw721W02ofWEJt4zpiJDp.jpg</thumbnail>
+		<aired>2019/02/14</aired>
+		<genre>Ação, Ficção científica, Aventura</genre>
+	</item>
+	<item>
+		<title>Vingadores: Guerra infinita - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:518b4b3f0dc68658c44834085bc2b28d8d377183</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89QTZmn34iwXYeCpVxhC9UrT8sX.jpg</thumbnail>
+		<aired>2018/04/26</aired>
+		<genre>Aventura, Ação, Ficção científica</genre>
+	</item>
+	<item>
+		<title>Vingadores: Ultimato - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1fde83fc6568ef8218a61eb7270dfecafb5ff97</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
+		<aired>2019/04/25</aired>
+		<genre>Aventura, Ação, Ficção científica</genre>
+	</item>
+	<item>
+		<title>Vingadores: Era de Ultron - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7927cb715cbe2109c5dc9a349139ef38b11dd481</link>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71wV2rzkFwL._AC_SL1022_.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Guardiões da Galáxia - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ba421c097ded6b7b7654c7b7013065882eaa526</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/xaY92XMToaSnBuvCui3LHzNGqZB.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Capitão América 2: O Soldado Invernal - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dd8c44c46e2e4a64d7fdea9bf56e0ffb889c7ce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/iBFPjLLHXkBojKpWDluJxnpM24h.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Homem aranha: Longe de casa - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ced02a945f3ee4562605ac2d89e7e92c0dd1bd7a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
+		<genre>Ação, Aventura, Ficção científica</genre>
+		<aired>2019/07/04</aired>
+	</item>
+	<item>
+		<title>Homem-Aranha: Sem Volta Para Casa - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcfc9450eb7efd7c7304e754afeaf4ed3b266603</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg</thumbnail>
-<genre>Ação, Aventura, Ficção científica</genre> <rate>8.8</rate> <aired>2021/12/16</aired>
-</item>
-
-<item>
-<title>Logan - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d757897dcf54ac6ca892256b33772365c5a6884</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg</thumbnail>
-<aired>2017/02/28</aired> <genre>Ação, Drama, Ficção científica</genre>
-</item>
-
-<item>
-<title>Um lugar silencioso - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b62b3250eaa14f531b09bd2e36dac4319a519b7</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/70XFvmFRrdVxAjne5f3ItwRBtuQ.jpg</thumbnail>
-<aired>2018/04/03</aired> <genre>Terror, Drama, Ficção científica</genre>
-</item>
-
-<item>
-<title>Um Lugar Silencioso: Parte II - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg</thumbnail>
+		<genre>Ação, Aventura, Ficção científica</genre>
+		<rate>8.8</rate>
+		<aired>2021/12/16</aired>
+	</item>
+	<item>
+		<title>Logan - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d757897dcf54ac6ca892256b33772365c5a6884</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg</thumbnail>
+		<aired>2017/02/28</aired>
+		<genre>Ação, Drama, Ficção científica</genre>
+	</item>
+	<item>
+		<title>Um lugar silencioso - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b62b3250eaa14f531b09bd2e36dac4319a519b7</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/70XFvmFRrdVxAjne5f3ItwRBtuQ.jpg</thumbnail>
+		<aired>2018/04/03</aired>
+		<genre>Terror, Drama, Ficção científica</genre>
+	</item>
+	<item>
+		<title>Um Lugar Silencioso: Parte II - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19a401a5721835bc1ea6fbef1f95f01a33d5cb2b</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9VitwVOlBTRjULKvvur2FLiMz6I.jpg</thumbnail>
-<aired>2021/06/10</aired> <genre>Terror, Drama, Ficção científica</genre>
-</item>
-
-<item>
-<title>John Wick: De Volta ao Jogo - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fedb435319580fc6e2bbfb709a11489aa307d31</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/41I5E0L6eLtqfWQ4D6ix2dbarzo.jpg</thumbnail>
-<aired>2014/10/24</aired> <genre>Ação, Thriller</genre>
-</item>
-
-<item>
-<title>John Wick 2: Um Novo Dia Para Matar - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae39f23c416945c291da5fc962b9b21096e20e18</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
-<aired>2017/02/16</aired> <genre>Ação, Thriller, Crime</genre>
-</item> 
-
-<item>
-<title>John Wick 3: Parabellum - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28b66d9a55fb0084ea48716be129637e0a300e34</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg</thumbnail>
-<aired>2019/05/16</aired> <genre>Ação, Thriller, Crime</genre>
-</item> 
-
-<item>
-<title>Doutor sono - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ae5338dff55b944cbfd30eb1a8a8f1115c2071e</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/3Myolw3VB5MSw8kVLfUzzxcnFoJ.jpg</thumbnail>
-<aired>2019/10/30</aired> <genre>Terror, Thriller, Fantasia</genre>
-</item>
-
-<item>
-<title>Coringa - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:236f0860e2cb91236b64109f061b2e1b80c35812</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg</thumbnail>
-<aired>2019/10/01</aired> <genre>Crime, Thriller, Drama</genre>
-</item>
-
-<item>
-<title>1917 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f422ffb940bffbd8ff3f27437aa6ffe06ad9fff</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qi7PCLXNhHnJZBljI3xwF1G0g4i.jpg</thumbnail>
-<aired>2020/01/23</aired> <genre>Guerra, Drama, Ação, Thriller, História</genre>
-</item>
-
-<item>
-<title>Até o Último Homem - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eadb2cfac227400b4fbe4f4946c7dcaf2aa7a4a</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88sCL8OQMoieKpHClqRCCbcgH6w.jpg</thumbnail>
-<aired>2016/10/07</aired> <genre>Guerra, Drama, Ação, Thriller, História</genre>
-</item>
-
-<item>
-<title>Vidro - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb58fce58b404a3c1ee96facbe4ab78aa7b941f2</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d8rvXqqZ3hzrWfFGS47jU7sCx69.jpg</thumbnail>
-<aired>2019/01/17</aired> <genre>Ação, Ficção científica, Comédia, Família</genre>
-</item>
-
-<item>
-<title>Morbius - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/9VitwVOlBTRjULKvvur2FLiMz6I.jpg</thumbnail>
+		<aired>2021/06/10</aired>
+		<genre>Terror, Drama, Ficção científica</genre>
+	</item>
+	<item>
+		<title>John Wick: De Volta ao Jogo - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fedb435319580fc6e2bbfb709a11489aa307d31</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/41I5E0L6eLtqfWQ4D6ix2dbarzo.jpg</thumbnail>
+		<aired>2014/10/24</aired>
+		<genre>Ação, Thriller</genre>
+	</item>
+	<item>
+		<title>John Wick 2: Um Novo Dia Para Matar - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae39f23c416945c291da5fc962b9b21096e20e18</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+		<aired>2017/02/16</aired>
+		<genre>Ação, Thriller, Crime</genre>
+	</item>
+	<item>
+		<title>John Wick 3: Parabellum - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28b66d9a55fb0084ea48716be129637e0a300e34</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg</thumbnail>
+		<aired>2019/05/16</aired>
+		<genre>Ação, Thriller, Crime</genre>
+	</item>
+	<item>
+		<title>Doutor sono - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ae5338dff55b944cbfd30eb1a8a8f1115c2071e</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3Myolw3VB5MSw8kVLfUzzxcnFoJ.jpg</thumbnail>
+		<aired>2019/10/30</aired>
+		<genre>Terror, Thriller, Fantasia</genre>
+	</item>
+	<item>
+		<title>Coringa - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:236f0860e2cb91236b64109f061b2e1b80c35812</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg</thumbnail>
+		<aired>2019/10/01</aired>
+		<genre>Crime, Thriller, Drama</genre>
+	</item>
+	<item>
+		<title>1917 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f422ffb940bffbd8ff3f27437aa6ffe06ad9fff</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qi7PCLXNhHnJZBljI3xwF1G0g4i.jpg</thumbnail>
+		<aired>2020/01/23</aired>
+		<genre>Guerra, Drama, Ação, Thriller, História</genre>
+	</item>
+	<item>
+		<title>Até o Último Homem - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eadb2cfac227400b4fbe4f4946c7dcaf2aa7a4a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/88sCL8OQMoieKpHClqRCCbcgH6w.jpg</thumbnail>
+		<aired>2016/10/07</aired>
+		<genre>Guerra, Drama, Ação, Thriller, História</genre>
+	</item>
+	<item>
+		<title>Vidro - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb58fce58b404a3c1ee96facbe4ab78aa7b941f2</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d8rvXqqZ3hzrWfFGS47jU7sCx69.jpg</thumbnail>
+		<aired>2019/01/17</aired>
+		<genre>Ação, Ficção científica, Comédia, Família</genre>
+	</item>
+	<item>
+		<title>Morbius - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54f27119dfdc2d3ec8725de87c7813498458942a</link>
-<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC6MgKcWwaCFD8OHgWyBk30BYiEKqlO1G_ifjvrGXA-AOHkX-wMOPgXRsWeLm4EhJenj-CK2YhULdkTF-5-uAgWIXNGZcb7510XiD-XkD-J7cFEhN32rVKaGDruC__Q1hpUnPJkhHpdOegbqMxd5iyCXQ9pCgSr2dn1vfUhTvc1Y7vgwHJXdjcLehBNg/s350/Morbius.jpg</thumbnail>
-<aired>2022/03/31</aired> <genre>Ação / Aventura</genre>
-</item>
-
-<item>
-<title>Jumanji: Bem-Vindo à Selva - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c094c77b69f8fe41040cf420eb3c2ad89fa778ae</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uT1pHr90KqQGMucv7YgyPdxhMiC.jpg</thumbnail>
-<aired>2017/12/09</aired> <genre>Aventura, Ação, Comédia, Fantasia</genre>
-</item> 
-
-<item>
-<title>Jumanji: Próxima Fase - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bdd450f31c7f17ef3e5d06f08b10c414ee35425</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg</thumbnail>
-<aired>2019/12/04</aired> <genre>Aventura, Comédia, Fantasia</genre>
-</item> 
-
-<item>
-<title>Uncharted: Fora do Mapa - 4K</title>
+		<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC6MgKcWwaCFD8OHgWyBk30BYiEKqlO1G_ifjvrGXA-AOHkX-wMOPgXRsWeLm4EhJenj-CK2YhULdkTF-5-uAgWIXNGZcb7510XiD-XkD-J7cFEhN32rVKaGDruC__Q1hpUnPJkhHpdOegbqMxd5iyCXQ9pCgSr2dn1vfUhTvc1Y7vgwHJXdjcLehBNg/s350/Morbius.jpg</thumbnail>
+		<aired>2022/03/31</aired>
+		<genre>Ação / Aventura</genre>
+	</item>
+	<item>
+		<title>Jumanji: Bem-Vindo à Selva - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c094c77b69f8fe41040cf420eb3c2ad89fa778ae</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uT1pHr90KqQGMucv7YgyPdxhMiC.jpg</thumbnail>
+		<aired>2017/12/09</aired>
+		<genre>Aventura, Ação, Comédia, Fantasia</genre>
+	</item>
+	<item>
+		<title>Jumanji: Próxima Fase - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bdd450f31c7f17ef3e5d06f08b10c414ee35425</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg</thumbnail>
+		<aired>2019/12/04</aired>
+		<genre>Aventura, Comédia, Fantasia</genre>
+	</item>
+	<item>
+		<title>Uncharted: Fora do Mapa - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f504d3bc15567ffc95273c0cd8eac9106d52ead5</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg</thumbnail>
-<rate>6.6</rate> <aired>2022/02/17</aired> <genre>Ação | Aventura</genre>
-</item>
-
-<item>
-<title>Batman - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ce3fbb0e2900fd358dfede59fc738e9f15885b6</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg</thumbnail>
-<genre>Açao, Crime, Drama</genre> <aired>2022/04/18</aired>
-</item>
-
-<item>
-<title>Eternos - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg</thumbnail>
+		<rate>6.6</rate>
+		<aired>2022/02/17</aired>
+		<genre>Ação | Aventura</genre>
+	</item>
+	<item>
+		<title>Batman - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ce3fbb0e2900fd358dfede59fc738e9f15885b6</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg</thumbnail>
+		<genre>Açao, Crime, Drama</genre>
+		<aired>2022/04/18</aired>
+	</item>
+	<item>
+		<title>Eternos - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd07997f3c5db3767711218bba5607e60789acc9</link>
-<thumbnail>https://images.moviefit.me/t/o/194740-eternals.jpg</thumbnail>
-<genre>Ação, Aventura, Fantasia</genre> <aired>2021/11/04</aired>
-</item>
-
-<item>
-<title>Venom - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c63a3383d6c7ff0ec07b64fee3ca7131d37f607b</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg</thumbnail>
-<genre>Ficção científica, Ação</genre> <aired>2018/10/05</aired>
-</item> 
-
-<item>
-<title>Venom: Tempo de Carnificina - 4K</title>
+		<thumbnail>https://images.moviefit.me/t/o/194740-eternals.jpg</thumbnail>
+		<genre>Ação, Aventura, Fantasia</genre>
+		<aired>2021/11/04</aired>
+	</item>
+	<item>
+		<title>Venom - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c63a3383d6c7ff0ec07b64fee3ca7131d37f607b</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg</thumbnail>
+		<genre>Ficção científica, Ação</genre>
+		<aired>2018/10/05</aired>
+	</item>
+	<item>
+		<title>Venom: Tempo de Carnificina - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc6d5d0af4aeab1449db74df2421e6cf69aa0999</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg</thumbnail>
-<genre>Ficção científica, Ação</genre> <aired>2021/09/30</aired>
-</item>
-
-<item>
-<title>Matrix Resurrections - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg</thumbnail>
+		<genre>Ficção científica, Ação</genre>
+		<aired>2021/09/30</aired>
+	</item>
+	<item>
+		<title>Matrix Resurrections - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c217179889e060bb11190eaa2f55cd1298ec4a2c</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/8c4a8kE7PizaGQQnditMmI1xbRp.jpg</thumbnail>
-<genre>Ação / Ficção</genre>
-</item>
-
-<item>
-<title>O Espetacular Homem-Aranha - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/8c4a8kE7PizaGQQnditMmI1xbRp.jpg</thumbnail>
+		<genre>Ação / Ficção</genre>
+	</item>
+	<item>
+		<title>O Espetacular Homem-Aranha - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91cb826f0e382722e091fa9b23a844269abcbd8f</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/dODKvv9o9BOemWavnulutJBHM80.jpg</thumbnail>
-<genre>Ação, Aventura, Fantasia</genre>
-</item>
-
-<item>
-<title>O espetacular Homem-aranha 2 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb054ff2a299072b25f3c47dc6a36a73bc2aa4e7</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/sKCaomyS92jS9GhEJbdAfzNaf7A.jpg</thumbnail>
-<genre>Ação, Aventura, Fantasia</genre>
-</item>
-
-<item>
-<title>Ghostbusters: Mais Além - 4K</title>
+		<thumbnail>https://image.tmdb.org/t/p/w342/dODKvv9o9BOemWavnulutJBHM80.jpg</thumbnail>
+		<genre>Ação, Aventura, Fantasia</genre>
+	</item>
+	<item>
+		<title>O espetacular Homem-aranha 2 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb054ff2a299072b25f3c47dc6a36a73bc2aa4e7</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/sKCaomyS92jS9GhEJbdAfzNaf7A.jpg</thumbnail>
+		<genre>Ação, Aventura, Fantasia</genre>
+	</item>
+	<item>
+		<title>Ghostbusters: Mais Além - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02d836011e4b1a10eef090045cdb9ed923fda7c2</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/719aIhGrTrJ0yzkZ806Ea4rbonV.jpg</thumbnail>
-<genre>Aventura, Comédia, Fantasia</genre>
-</item>
-
-<item>
-<title>007: Sem Tempo para Morrer - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/719aIhGrTrJ0yzkZ806Ea4rbonV.jpg</thumbnail>
+		<genre>Aventura, Comédia, Fantasia</genre>
+	</item>
+	<item>
+		<title>007: Sem Tempo para Morrer - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f7603fc171badd48808d47103c578f522d4ae17</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/luE0KG1rWfUptbgNtlNtL5sihyd.jpg</thumbnail>
-<genre>Ação, Aventura, Suspense</genre>
-</item>
-
-<item>
-<title>Shang-Chi e a Lenda dos Dez Anéis - 4K</title>
-<thumbnail>https://br.web.img3.acsta.net/pictures/21/08/05/20/13/2818037.jpg</thumbnail>
-<genre>Ação, Aventura, Fantasia</genre>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/luE0KG1rWfUptbgNtlNtL5sihyd.jpg</thumbnail>
+		<genre>Ação, Aventura, Suspense</genre>
+	</item>
+	<item>
+		<title>Shang-Chi e a Lenda dos Dez Anéis - 4K</title>
+		<thumbnail>https://br.web.img3.acsta.net/pictures/21/08/05/20/13/2818037.jpg</thumbnail>
+		<genre>Ação, Aventura, Fantasia</genre>
 --<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f3ad1610cbd290e172e5b303dba762bed9167da</link>
-</item>
-
-<item>
-<title>Duna - 4K</title>
-<thumbnail>https://www.themoviedb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg</thumbnail>
-<genre>Ação, Aventura, Drama</genre>
+	</item>
+	<item>
+		<title>Duna - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg</thumbnail>
+		<genre>Ação, Aventura, Drama</genre>
 --<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c</link>
-</item>
-
-<item>
-<title>Maligno - 4K</title>
-<thumbnail>https://www.themoviedb.org/t/p/w500/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg</thumbnail>
-<genre>Mistério, Policial, Terror</genre>
+	</item>
+	<item>
+		<title>Maligno - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg</thumbnail>
+		<genre>Mistério, Policial, Terror</genre>
 --<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dff29c40f065a592c575c880d376bb393d543c82$nome=Maligno - 4K</link>
-</item>
-
-<item>
-<title>Mad Max: Estrada da Fúria - 4K</title>
+	</item>
+	<item>
+		<title>Mad Max: Estrada da Fúria - 4K</title>
 -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da7aa2851497ff7f61bb9e00f01a4ed30f3e7e1f</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/mE9ShTg5UoOIgo1LTkC1iZGMN1o.jpg</thumbnail>
-<genre>Ação, Aventura, Ficção Científica</genre>
-</item>
-
-<item>
-<title>Velozes & Furiosos 9 - 4K</title>
-<thumbnail>https://www.themoviedb.org/t/p/original/7rWlqhy76Az3L0C016cLZRSVqcZ.jpg</thumbnail>
-<genre>Ação / Aventura / Crime</genre>
+		<thumbnail>https://www.themoviedb.org/t/p/original/mE9ShTg5UoOIgo1LTkC1iZGMN1o.jpg</thumbnail>
+		<genre>Ação, Aventura, Ficção Científica</genre>
+	</item>
+	<item>
+		<title>Velozes & Furiosos 9 - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/7rWlqhy76Az3L0C016cLZRSVqcZ.jpg</thumbnail>
+		<genre>Ação / Aventura / Crime</genre>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ebfa89ae2be5ead927bb7fa7224b7f5c7a473f90</link>
-</item>
-
-<item>
-<title>O Esquadrão Suicida - 4K</title>
-<thumbnail>https://www.themoviedb.org/t/p/w500/wTS3dS2DJiMFFgqKDz5fxMTri.jpg</thumbnail>
-<genre>Ação / Comédia / Ficção Cientifica</genre>
+	</item>
+	<item>
+		<title>O Esquadrão Suicida - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/wTS3dS2DJiMFFgqKDz5fxMTri.jpg</thumbnail>
+		<genre>Ação / Comédia / Ficção Cientifica</genre>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff964ed1374b5b452e0d8bdd7d7c63fd7c90282c</link>
-</item>
-
-<item>
-<title>Frozen II - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3eea88e07236eb05c2e7a7e17958518d03a5005</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/19/10/14/15/18/1691494.jpg</thumbnail>
-<genre>Animação</genre>
-</item>
-
-<item>
-<title>O Rei Leao - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:837183da81708b92ba68b5898584a38ba9717367</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/19/05/07/20/54/2901026.jpg</thumbnail>
-<genre>Animação</genre>
-</item>
-
-<item>
-<title>Viva: A Vida É uma Festa - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e148976e09e360a549bfc9512b4e1b5589c37c9a</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/17/12/07/11/33/0502209.jpg</thumbnail>
-<genre>Animação</genre>
-</item>
-
-<item>
-<title>Valente - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddb6daed87d74d7a5af3356582fa0768179f99c7</link>
-<thumbnail>https://s2.glbimg.com/uENq0Axpn5tjzMBdItDiHfXUhx0=/362x536/https://s2.glbimg.com/CGl0Bg-PDSGuqIxbjEmGJWtcthE=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/C/3/JzIcNLR528bCTFd5PhGA/2019-434-midia-kit-filmes-disney-valente-poster.jpg</thumbnail>
-<genre>Animação</genre>
-</item>
-
-<item>
-<title>Jungle Cruise - 4K</title>
-<thumbnail>https://static.wikia.nocookie.net/disney/images/c/cb/Jungle_Cruise_-_P%C3%B4ster_Nacional_%283%29.jpg/revision/latest?cb=20210713210244&path-prefix=pt-br</thumbnail>
-<genre>Aventura / Comédia / Fantasia</genre>
+	</item>
+	<item>
+		<title>Frozen II - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3eea88e07236eb05c2e7a7e17958518d03a5005</link>
+		<thumbnail>https://br.web.img3.acsta.net/pictures/19/10/14/15/18/1691494.jpg</thumbnail>
+		<genre>Animação</genre>
+	</item>
+	<item>
+		<title>O Rei Leao - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:837183da81708b92ba68b5898584a38ba9717367</link>
+		<thumbnail>https://br.web.img3.acsta.net/pictures/19/05/07/20/54/2901026.jpg</thumbnail>
+		<genre>Animação</genre>
+	</item>
+	<item>
+		<title>Viva: A Vida É uma Festa - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e148976e09e360a549bfc9512b4e1b5589c37c9a</link>
+		<thumbnail>https://br.web.img3.acsta.net/pictures/17/12/07/11/33/0502209.jpg</thumbnail>
+		<genre>Animação</genre>
+	</item>
+	<item>
+		<title>Valente - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddb6daed87d74d7a5af3356582fa0768179f99c7</link>
+		<thumbnail>https://s2.glbimg.com/uENq0Axpn5tjzMBdItDiHfXUhx0=/362x536/https://s2.glbimg.com/CGl0Bg-PDSGuqIxbjEmGJWtcthE=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2019/C/3/JzIcNLR528bCTFd5PhGA/2019-434-midia-kit-filmes-disney-valente-poster.jpg</thumbnail>
+		<genre>Animação</genre>
+	</item>
+	<item>
+		<title>Jungle Cruise - 4K</title>
+		<thumbnail>https://static.wikia.nocookie.net/disney/images/c/cb/Jungle_Cruise_-_P%C3%B4ster_Nacional_%283%29.jpg/revision/latest?cb=20210713210244&path-prefix=pt-br</thumbnail>
+		<genre>Aventura / Comédia / Fantasia</genre>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a20b61905320ec777aadca1e70666507d40f8a8</link>
-</item>
-
-<item>
-<title>Space Jam: Um Novo Legado - 4K</title>
-<thumbnail>https://www.themoviedb.org/t/p/original/k4KpzK25KbkHWmj74lrskz2Sfyl.jpg</thumbnail>
-<genre>Animação, Aventura , Comedia , Familia</genre>
+	</item>
+	<item>
+		<title>Space Jam: Um Novo Legado - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/k4KpzK25KbkHWmj74lrskz2Sfyl.jpg</thumbnail>
+		<genre>Animação, Aventura , Comedia , Familia</genre>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:550d5c9a067ac7670ca5aacbcd6ff99876c802b6</link>
-</item>
-
-<item>
-<title>Viúva Negra - 4K</title>
-<thumbnail>https://dyncdn.me/mimages/344325/poster_opt.jpg</thumbnail>
-<genre>Action , Adventure , Sci-Fi</genre>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a58463b7fd7c3210e46231ec29fd8708fa8762fc</link>
-</item>
-
-<item>
-<title>Trolls 2 - 4K</title>
-<thumbnail>https://br.web.img3.acsta.net/pictures/20/08/14/02/16/1418007.jpg</thumbnail>
-<genre>Animação,Aventura</genre>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bddf7e910ffc5608690196a55ac468ea73c290bc</link>
-</item>
-
-<item>
-<title>Looper: Assassinos Do Futuro - 4K</title>
+	</item>
+	<item>
+		<title>Viúva Negra - 4K</title>
+		<thumbnail>https://dyncdn.me/mimages/344325/poster_opt.jpg</thumbnail>
+		<genre>Action , Adventure , Sci-Fi</genre>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a58463b7fd7c3210e46231ec29fd8708fa8762fc</link>
+	</item>
+	<item>
+		<title>Trolls 2 - 4K</title>
+		<thumbnail>https://br.web.img3.acsta.net/pictures/20/08/14/02/16/1418007.jpg</thumbnail>
+		<genre>Animação,Aventura</genre>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bddf7e910ffc5608690196a55ac468ea73c290bc</link>
+	</item>
+	<item>
+		<title>Looper: Assassinos Do Futuro - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97f1d64eaf5493065d91821bafe3087c418182e9</link>
-<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/08/71/20267083.jpg</thumbnail>
-<genre>Ficção científica, Ação</genre>
-</item>
-
-<item>
-<title>Os Vingadores - 4K</title>
+		<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/08/71/20267083.jpg</thumbnail>
+		<genre>Ficção científica, Ação</genre>
+	</item>
+	<item>
+		<title>Os Vingadores - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d215ff817a31229bf959288583c061ae5830c572</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg</thumbnail>
-<genre>Ação, Aventura, Ficção</genre>
-</item>
-
-<item>
-<title>Velozes & Furiosos: Desafio em Tóquio - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg</thumbnail>
+		<genre>Ação, Aventura, Ficção</genre>
+	</item>
+	<item>
+		<title>Velozes & Furiosos: Desafio em Tóquio - 4K</title>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0640a1f7757554d0833ce8944c4e751a07be1d0</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/qexEesWpZgxLFlOrm54Sjn3Z7Y0.jpg</thumbnail>
-<genre>Ação, Crime, Drama, Suspense</genre>
-</item>
-
-<item>
-<title>Star Wars: Episódio III – A Vingança dos Sith - 4K</title>
-<thumbnail>https://www.themoviedb.org/t/p/w500/nuF5yWtTJEEAd4Qa6cVkYz1XCST.jpg</thumbnail>
-<genre>Ação | Aventura | Fantasia</genre> <rate>7,5</rate>
+		<thumbnail>https://image.tmdb.org/t/p/w342/qexEesWpZgxLFlOrm54Sjn3Z7Y0.jpg</thumbnail>
+		<genre>Ação, Crime, Drama, Suspense</genre>
+	</item>
+	<item>
+		<title>Star Wars: Episódio III – A Vingança dos Sith - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/nuF5yWtTJEEAd4Qa6cVkYz1XCST.jpg</thumbnail>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<rate>7,5</rate>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa11a70d775f1b6af0d4839d4c8591dc9d0a5eeb</link>
-</item>
-
-<item>
-<title>Star Wars: Episódio II – Ataque dos Clones - 4K</title>
-<thumbnail>https://www.themoviedb.org/t/p/w500/9m1nJ2MfTG5QEmjOCg0b4YCo4W8.jpg</thumbnail>
-<genre>Ação | Aventura | Fantasia</genre>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e7e5f49a0d3513f45d1eb26b342ab44408880c2</link>
-</item>
-
-<item>
-<title>Creed II - 4K</title>
-<thumbnail>https://www.themoviedb.org/t/p/w500/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg</thumbnail>
-<genre>Drama</genre> <rate>7,6</rate>
+	</item>
+	<item>
+		<title>Star Wars: Episódio II – Ataque dos Clones - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/9m1nJ2MfTG5QEmjOCg0b4YCo4W8.jpg</thumbnail>
+		<genre>Ação | Aventura | Fantasia</genre>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e7e5f49a0d3513f45d1eb26b342ab44408880c2</link>
+	</item>
+	<item>
+		<title>Creed II - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg</thumbnail>
+		<genre>Drama</genre>
+		<rate>7,6</rate>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc6d827906c39538bef126486d8b22a5341d83d7</link>
-</item>
-
-<item>
-<title>Mortal Kombat - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54a48d164f856298036dae1ea6108950532eb4d0</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg</thumbnail>
-<genre>Ação / Fantasia</genre>
-</item>
-
-<item>
-<title>Godzilla vs. Kong - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81bc49d9f159361808bf48ab357caf2d5d8a7dcb</link>1
+	</item>
+	<item>
+		<title>Mortal Kombat - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54a48d164f856298036dae1ea6108950532eb4d0</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg</thumbnail>
+		<genre>Ação / Fantasia</genre>
+	</item>
+	<item>
+		<title>Godzilla vs. Kong - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81bc49d9f159361808bf48ab357caf2d5d8a7dcb</link>1
 <thumbnail>https://www.themoviedb.org/t/p/w342/klAIFewuqcyEmH1SMtR2XbMyqzM.jpg</thumbnail>
-<genre>Ação / Ficção Cientifica</genre>
-</item>
-
-<item>
-<title>Blodshoot - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da99408fc7537b6d8fce66894b1db63f21a55faf</link>
-<thumbnail>https://br.web.img3.acsta.net/c_215_290/pictures/20/01/22/18/59/2385080.jpg</thumbnail>
-<genre>Ação / Ficção Cientifica</genre>
-</item>
-
-<item>
-<title>Bumblebee - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:724188621f3e1c7f7a6142e1afde7c7c7ef505f3</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BODZjOWNiMGEtNWU0My00YTdjLWJjZGQtOGM3ZGUyZGEyNDhjXkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_.jpg</thumbnail>
-<genre>Ação / Ficção Cientifica</genre>
-</item>
-
-<item>
-<title>Godzilla: O rei dos monstros - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73241c0f27f2eadec5a56c98310d91aeb182fc4b</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/z6JxhQnpxVz6rfFHbAL8MWFaiPL.jpg</thumbnail>
-<genre>Ação / Ficção Cientifica</genre>
-</item>
-
-<item>
-<title>Scoob! - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:227d70efc11ad4002b6c342d9d139eb1e799a703</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/20/03/05/20/58/4942195.jpg</thumbnail>
-<genre>Animação / Aventura</genre>
-</item>
-
-<item>
-<title>Historias assustadoras para contar no escuro - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99786604d1932d81e98fb3294a5f8b606f339324</link>
-<thumbnail>https://i.imgur.com/vurLJxz.jpg?1</thumbnail>
-<genre>Terror / Fantasia / Suspense</genre>
-</item>
-
-<item>
-<title>Lar das crianças peculiares - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ae2c6f2d032287c0fe95ed55672f9c894aebf75</link>
-<thumbnail>https://br.web.img2.acsta.net/pictures/16/09/29/22/31/239318.jpg</thumbnail>
-<genre>Aventura / Fantasia</genre>
-</item>
-
-<item>
-<title>Malévola: Dona do Mal - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a01fbd10bb754d479a710887d6f9b3aae993d714</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/oP3TasnCKqSvGDv0sHLUhpioNVb.jpg</thumbnail>
-<genre>Aventura / Fantasia</genre>
-</item> 
-
-<item>
-<title>X-Men: Dias de um Futuro Esquecido - 4K (Leg)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e0214f4643c32e4a3710ec2f714ef1b931f4832</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hdwV4OBZNgdI4RPFIHmLLg08Jvw.jpg</thumbnail>
-<genre>Ação / Ficção Cientifica</genre>
-</item> 
-
-<item>
-<title>Aquaman - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df6bec12d1d67c1e058026099d8bca8b396bcef4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/oB367uFcyU2uhGkFqo5RB4Evdji.jpg</thumbnail>
-<genre>Ação / Ficção Cientifica</genre>
-</item> 
-
-<item>
-<title>Mulher-Maravilha - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f1fc5b68352c06127bc3217950fdb07d03bb270</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/ujQthWB6c0ojlARk28NSTmqidbF.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Piratas do Caribe: A Vingança de Salazar - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93bc40425b0074823cff9d2565fe09d2c7336691</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/FavAT2tbkCvlGM5pbgnRgAlzIf.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
-<item>
-<title>Os Incríveis - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86d6aed525ddb1dfd437299dde04815c66782766</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/ohxeKUSj1EX0zoFNP3gFfqLs3dE.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Os Incriveis II - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3a88858992e57043d70a726cb7d7b662b75e60d</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/917tZw9GT%2BL._AC_SL1500_.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Deadpool - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414421fa93a87ab540bd28f78cba2111e7592756</link>
-<thumbnail>https://4.bp.blogspot.com/-8BRUXNWNIc4/W3zrNrlRvJI/AAAAAAAAP1A/Ogn-GeK4Eo4KRtbt6ZdsSURRfpj9O0vVgCLcBGAs/s1600/Deadpool%2B4k%2Bultra%2Bhd%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Invasão Zumbi 2 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bffc540016e8a665bea8802924e7c2b0147a3650</link>
-<thumbnail>https://www.hdmoviesource.com/v/vspfiles/photos/13248-1.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
- 
-<item>
-<title>Batman vs Superman A Origem da Justiça - Versão Estendida - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb89c3d4e973fbc807f2f502fe37966a4257da75</link>
-<thumbnail>https://m.media-amazon.com/images/I/91+EM8-G8ZL._AC_SL1500_.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Moana - Um Mar de Aventuras - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8995612764f4abb8b1f5d9626dba87201c157078</link>
-<thumbnail>https://ondebaixa.com/capas/moana-um-mar-de-aventuras-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Círculo de Fogo - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97e5dbb88d482d95230f8e8ed87b574df410aa84</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/wkeKhseRUJd4SavrCu5BtD5DgcB.jpg</thumbnail>
-<genre>4K</genre>
-</item>
+		<genre>Ação / Ficção Cientifica</genre>
+	</item>
+	<item>
+		<title>Blodshoot - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da99408fc7537b6d8fce66894b1db63f21a55faf</link>
+		<thumbnail>https://br.web.img3.acsta.net/c_215_290/pictures/20/01/22/18/59/2385080.jpg</thumbnail>
+		<genre>Ação / Ficção Cientifica</genre>
+	</item>
+	<item>
+		<title>Bumblebee - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:724188621f3e1c7f7a6142e1afde7c7c7ef505f3</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BODZjOWNiMGEtNWU0My00YTdjLWJjZGQtOGM3ZGUyZGEyNDhjXkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_.jpg</thumbnail>
+		<genre>Ação / Ficção Cientifica</genre>
+	</item>
+	<item>
+		<title>Godzilla: O rei dos monstros - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73241c0f27f2eadec5a56c98310d91aeb182fc4b</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/z6JxhQnpxVz6rfFHbAL8MWFaiPL.jpg</thumbnail>
+		<genre>Ação / Ficção Cientifica</genre>
+	</item>
+	<item>
+		<title>Scoob! - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:227d70efc11ad4002b6c342d9d139eb1e799a703</link>
+		<thumbnail>https://br.web.img3.acsta.net/pictures/20/03/05/20/58/4942195.jpg</thumbnail>
+		<genre>Animação / Aventura</genre>
+	</item>
+	<item>
+		<title>Historias assustadoras para contar no escuro - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99786604d1932d81e98fb3294a5f8b606f339324</link>
+		<thumbnail>https://i.imgur.com/vurLJxz.jpg?1</thumbnail>
+		<genre>Terror / Fantasia / Suspense</genre>
+	</item>
+	<item>
+		<title>Lar das crianças peculiares - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ae2c6f2d032287c0fe95ed55672f9c894aebf75</link>
+		<thumbnail>https://br.web.img2.acsta.net/pictures/16/09/29/22/31/239318.jpg</thumbnail>
+		<genre>Aventura / Fantasia</genre>
+	</item>
+	<item>
+		<title>Malévola: Dona do Mal - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a01fbd10bb754d479a710887d6f9b3aae993d714</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/oP3TasnCKqSvGDv0sHLUhpioNVb.jpg</thumbnail>
+		<genre>Aventura / Fantasia</genre>
+	</item>
+	<item>
+		<title>X-Men: Dias de um Futuro Esquecido - 4K (Leg)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e0214f4643c32e4a3710ec2f714ef1b931f4832</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/hdwV4OBZNgdI4RPFIHmLLg08Jvw.jpg</thumbnail>
+		<genre>Ação / Ficção Cientifica</genre>
+	</item>
+	<item>
+		<title>Aquaman - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df6bec12d1d67c1e058026099d8bca8b396bcef4</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/oB367uFcyU2uhGkFqo5RB4Evdji.jpg</thumbnail>
+		<genre>Ação / Ficção Cientifica</genre>
+	</item>
+	<item>
+		<title>Mulher-Maravilha - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f1fc5b68352c06127bc3217950fdb07d03bb270</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/ujQthWB6c0ojlARk28NSTmqidbF.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Piratas do Caribe: A Vingança de Salazar - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93bc40425b0074823cff9d2565fe09d2c7336691</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/FavAT2tbkCvlGM5pbgnRgAlzIf.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Os Incríveis - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86d6aed525ddb1dfd437299dde04815c66782766</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/ohxeKUSj1EX0zoFNP3gFfqLs3dE.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Os Incriveis II - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3a88858992e57043d70a726cb7d7b662b75e60d</link>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/917tZw9GT%2BL._AC_SL1500_.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Deadpool - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414421fa93a87ab540bd28f78cba2111e7592756</link>
+		<thumbnail>https://4.bp.blogspot.com/-8BRUXNWNIc4/W3zrNrlRvJI/AAAAAAAAP1A/Ogn-GeK4Eo4KRtbt6ZdsSURRfpj9O0vVgCLcBGAs/s1600/Deadpool%2B4k%2Bultra%2Bhd%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Invasão Zumbi 2 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bffc540016e8a665bea8802924e7c2b0147a3650</link>
+		<thumbnail>https://www.hdmoviesource.com/v/vspfiles/photos/13248-1.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Batman vs Superman A Origem da Justiça - Versão Estendida - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb89c3d4e973fbc807f2f502fe37966a4257da75</link>
+		<thumbnail>https://m.media-amazon.com/images/I/91+EM8-G8ZL._AC_SL1500_.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Moana - Um Mar de Aventuras - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8995612764f4abb8b1f5d9626dba87201c157078</link>
+		<thumbnail>https://ondebaixa.com/capas/moana-um-mar-de-aventuras-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Círculo de Fogo - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97e5dbb88d482d95230f8e8ed87b574df410aa84</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/wkeKhseRUJd4SavrCu5BtD5DgcB.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
 ---------------------------------------------------------
 <item>
-<title>Homem-Aranha no Aranhaverso - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:894ebf5dd5adb37107cfb5aae94c15eed1bb9735</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg</thumbnail>
-<genre>4K</genre>
-</item>
+		<title>Homem-Aranha no Aranhaverso - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:894ebf5dd5adb37107cfb5aae94c15eed1bb9735</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
 ----------------------------------------------------------
 <item>
-<title>Homem-Aranha: De Volta ao Lar - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fd0fea6814b7467f8a03ce7d0cc6233b34086c0</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Batman Begins - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0744d54ba8b80fd96d673febdfb70621ab72408</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Terremoto: A Falha de San Andreas - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da52862657eccd678c9ff7a0a875eef6f2af02f6</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/xfT3fpVI139u9FlYx7VkwEHnq95.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>O Silêncio dos Inocentes - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08f14c9af2a2e9b63dadbc23dc314ae1587dea95</link>
-<thumbnail>https://efemeridesdoefemello.files.wordpress.com/2016/01/30jan16.jpg?w=500&h=743</thumbnail>
-<genre>4K</genre>
-</item> 
-
-
-<item>
-<title>Matrix (1999) - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96fdc513d5551feb50b955e542ad3a9acd37f361</link>
-<thumbnail>https://img.uhdbluray.eu/images/2021/08/28/612a161719040.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>As Aventuras de Pi - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:198a0945ca15f4430d36c07f85bf0f23636be071</link>
-<thumbnail>https://m.media-amazon.com/images/I/8130Jufk32L._AC_SY879_.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Jojo Rabbit - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e39869338bab091dbb6e570ec16ee4a7980b33ec</link>
-<thumbnail>https://m.media-amazon.com/images/I/81sqzUCO5QL._AC_SX522_.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Star Wars, Episódio IX - A Ascensão Skywalker - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7e25e85a95fc2ed93395a03a894fa07d93318f6</link>
-<thumbnail>https://m.media-amazon.com/images/I/81vD8cJGCuL._SX342_.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>WiFi Ralph: Quebrando a Internet - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0eb427e4cbb25e8d9c3d8745e7b8994051f96081</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/lnpTKpAZ1RBjMzewtsC1fmWWXd0.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Tomb Raider: A Origem - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f12d6e2530765b60b826bbbdf662967ab4ae614</link>
-<thumbnail>https://i1.wp.com/blackpipe.com.br/wp-content/uploads/2018/03/tombraidercartaz1-1-819x1024.jpg?resize=394%2C493</thumbnail>
-<genre> Ação, Aventura, Fantasia, Suspense</genre>
-</item> 
-
-<item>
-<title>O Touro Ferdinando - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34b654446d4acb1f5b8198b76c6f90bad183185d</link>
-<thumbnail>https://i.pinimg.com/originals/c3/d9/f8/c3d9f80472957fcc43128b7cdd60f9bc.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>O Protetor - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b15e4fe416c1717f5cdfea47fbcc07f6e384d23</link>
-<thumbnail>https://1.bp.blogspot.com/-XCA1mkhTEHg/W1Y7eEoO93I/AAAAAAAAAIs/VorlG_IgXesWftxMiDWWab6FZDcJI79eACLcBGAs/s1600/203714_front.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Velozes e Furiosos: Hobbs e Shaw - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dbe9b48c38eb8893f8fdadc441a3c0fe36a85f0</link>
-<thumbnail>https://m.media-amazon.com/images/I/819p+bz5k0L._AC_SX425_.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Capitão América: Guerra Civil - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0fc8bc85ed04701bae02f37278e04423ac2e4fd</link>
-<thumbnail>https://2.bp.blogspot.com/-p6L1rAgqoLc/W4D-vPeCXeI/AAAAAAAAQCE/i677ub4ZEe4aJH7Tsto8LfyURnA5W_7BgCLcBGAs/s1600/capitao-america-guerra-civil%2B4k%2Bultra%2Bhd%2Bdownload%2Btorrent%2Bdublado%2Bbluray.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>A Origem - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8d2b6a12a152de91d32119c38e81a53918d7d35</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Shazam - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:596cf2a18e254c11aee483a2a3cb4fe3d4f632f4</link>
-<thumbnail>https://http2.mlstatic.com/D_NQ_NP_894429-MLB40796102362_022020-O.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Superação: O Milagre da Fé - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f95f91ba8c5f0003d2c687ba616bf82b5d4da7f</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Megatubarão - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6f749c797f05a0d88c8999bb38f3aa10ad4b8e7</link>
-<thumbnail>https://3.bp.blogspot.com/-7Dlm5Mo31xE/W7miaG2kc3I/AAAAAAAABUI/L7F11wZSi18_2gvh5_zDPQ25sWrh705tgCLcBGAs/s1600/Megatubar%25C3%25A3o%2B4K%2BUltra%2BHD%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Hereditário - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01264c1fd2766645d27e7ecfb7ccdf3d7020aa90</link>
-<thumbnail>https://1.bp.blogspot.com/-b59vs4_tRM0/W6OxXRrjF3I/AAAAAAAAAg0/BcSzEfCC-TkLbExIZeOywnhs39aaJxv4gCLcBGAs/s1600/Heredit%25C3%25A1rio%2B4K%2BUltra%2BHD%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Parasita - 4K (Leg)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8593e59e39f0d337ca7e90afb8317beb2447cbb1</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Ad Astra: Rumo às Estrelas - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:855bb80ef8e64cd5fcda7f59e269af5e58d8e1f2</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>O Hobbit: Uma Jornada Inesperada - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0717e185fd325071ba994fc8fd25d7b93ef67e73</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/asuSvb1MDN04HftUFxlp7i6ZHpV.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Han Solo: Uma História Star Wars - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6020bd7b84bd29b1da90880965aaf0d3f85d2696</link>
-<thumbnail>https://1.bp.blogspot.com/-Ib0ANKrClVQ/W6GzXkuycKI/AAAAAAAAAcg/p5p4sKSbCIs1fPIjSqVS-royEpx34Sw9wCLcBGAs/s1600/Han%2BSolo%2BUma%2BHist%25C3%25B3ria%2BStar%2BWars%2B4K%2BUltra%2BHD%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Jogos Vorazes - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d78363d067d1fcbe407ec30f8553fe13d80386b4</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/xAmbI0D90t74Xeq6K9nGeTXkd1U.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>O Resgate do Soldado Ryan (1998) - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e61fff906b0cb18a3fd7c51227490eef63e8fe3</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/iZ3jDTycla1JasNg6h7Gg1sEIys.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Ford vs Ferrari - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b49d80b77d5b64a39540e02857aeb390d0dfc6d3</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/4hQD9xGJOh7e0h3Md6BB8oxtPQS.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Mulher-Maravilha 1984 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f42eb1c513fde6c74d0b42d388e95ab8e1e15d31</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/pBHYbehxaSSMc0X5m5iKBvqWzCi.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Pantera Negra - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586a40c2113efebf35fcd3ea68b2abf08c6caf17</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>O Exterminador do Futuro: Destino Sombrio - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84140618e0c0d509f687140fcb2ee364330870ba</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Prometheus - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e742061502a67a0b7353cfcac7f6f41ee41548e</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/omy5CiDMQnGqQUEJ9gNLOGPZQFW.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Alien Covenant - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55d91366e25f987500df0bce3aafd7cbac93aadf</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>A Freira - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb40359194f80006e964721a135865b8e90a2240</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/4MG9XyyzLvON5iqCp8l8eVI8QiF.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Kong: A Ilha da Caveira - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02910e19ca3d780a56aec757a38a129d3f6f8631</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/17/02/24/14/55/144568.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Corações de Ferro - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1c9a47f0a54a35db84d6f792c647418b5976597</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/AkZhchgqSIhnUgtvVrfR6vKHjtH.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Resident Evil 6: O Capítulo Final - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb83167d2ce555c43f075da0dedfd2acfea2f2de</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/jkaLHoFk6dmTHZNW17FmeybZsdf.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Deadpool 2 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a226dc885999f166470755a1967c5788238d4b5</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Batman: Trilogia - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e0dfa99ba80cb28a23b97cb72482d4bda0c84e5</link>
-<thumbnail>https://4.bp.blogspot.com/-lQb0LFNlX3w/WxVMjDVmj6I/AAAAAAAAMDY/ecaiiWIn4mYkN_Q-dqVV2klwO0yFSCLEQCLcBGAs/s1600/Batman%2Btrilogia%2B4k%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Passageiros - 4K (Leg)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6518e0fbed70e76bf95a6f690a008ca7b2fffbbd</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/4ttmnglFa2WxDK3yBkMX1VlpkTo.jpg</thumbnail> 
-<genre>Ficção Cientifica, Romance, Drama</genre>
-</item>
-
-<item>
-<title>O Regresso - 4K (Leg)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f6491e7decee8aebb34c0078c6a0e4fbd174a17</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/x1jViuXsm5ZmrR6uFmxU6AVdXzs.jpg</thumbnail>
-<genre>Suspense, Crime, Drama</genre>
-</item>
-
-<item>
-<title>007: Operação Skyfall - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffa909bdd4af7bebc6ec699b3ede82dcf63d7f9f</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Annabelle 3: De Volta Para Casa - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfc2ac3ed6aeb033464b552ba390d2182944f5c1</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/m8h2gz4El6bvYpDjyQhb7R49rSp.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Velozes & Furiosos 8 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc7ca6f835ebda2aa7bfd07d3e3e1b8b444c486a</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/3G6PUtqIKPKyZXXWB8jgZZJF1C8.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Maze Runner: A Cura Mortal - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:982562629855acf7402460b574e5e85930b25012</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/uBEpWurzTOiz520d1tRNhBXN7h9.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Aves de Rapina − Arlequina e sua Emancipação Fantabulosa - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79cb405e5a7f9f9f3ebe4969f8416ab7c1cedf85</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/19/09/17/19/29/5316438.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
-
-<item>
-<title>Como Treinar o Seu Dragão 3 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d40a013e13a65240970bc12f545cf83b991c88c</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Sniper Americano - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9147ef552ef8c1b857543c7adb6ca57d2fb23af9</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg</thumbnail>
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Gladiador - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbead284ff6418acd89989d5d027c5dbdd76529c</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg</thumbnail>
-<genre>Guerra, Ação</genre>
-</item>
-
-<item>
-<title>Bad boys para sempre - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbbc4f2219a667763b726b9ac17ab4e4e9a605e</link>
-<thumbnail>https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXN0PVB/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg</thumbnail> 
-<genre>4K</genre>
-</item>
-
-<item>
-<title>Toy Story 3 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:561c6ba6639ce024276f6a7b37d902fa88b2d232</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg</thumbnail>
-<genre>Animação</genre>
-</item>
-
-<item>
-<title>Sing: Quem Canta Seus Males Espanta - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e3e3e1dda260970e6e7aab1ff14f83bb1f6caf8</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1LEeSindznWQnXIglb7Ica9MITe.jpg</thumbnail>
-<genre>Animação</genre>
-</item>
-
-<item>
-<title>O Labirinto do Fauno - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1056f233736415fff2a3aa80c1b3b6b8df9fcf0</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/53ZMT8Y18gwLpInzRLMEebAZxew.jpg</thumbnail>
-<genre>Guerra, Drama, Fantasia</genre>
-</item>
-
-<item>
-<title>Ratatouille - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bf30bf43670d5d5aa704da194c62b3f5c42d05f</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg</thumbnail>
-<genre>Animação</genre>
-</item>
-
-<item>
-<title>Frozen: Uma Aventura Congelante - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9ba9b65725a697ad73298e2becc00fcd94c0a58</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/hOZKUJGN0m717LRSQDxhgABqWrf.jpg</thumbnail>
-<genre>Animação</genre>
-</item>
-
-<item>
-<title>Coração Valente - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f4558d5ff2f76388aa9a9b5e3a379b4284b3c91</link>
-<thumbnail>https://www.themoviedb.org/t/p/w500/tWBbNikf5ng7BuNGA55MkvhLrag.jpg</thumbnail>
-<genre>guerra</genre>
-</item>
-
-
-
-
+		<title>Homem-Aranha: De Volta ao Lar - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fd0fea6814b7467f8a03ce7d0cc6233b34086c0</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Batman Begins - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0744d54ba8b80fd96d673febdfb70621ab72408</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/1P3ZyEq02wcTMd3iE4ebtLvncvH.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Terremoto: A Falha de San Andreas - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da52862657eccd678c9ff7a0a875eef6f2af02f6</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/xfT3fpVI139u9FlYx7VkwEHnq95.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>O Silêncio dos Inocentes - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08f14c9af2a2e9b63dadbc23dc314ae1587dea95</link>
+		<thumbnail>https://efemeridesdoefemello.files.wordpress.com/2016/01/30jan16.jpg?w=500&h=743</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Matrix (1999) - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96fdc513d5551feb50b955e542ad3a9acd37f361</link>
+		<thumbnail>https://img.uhdbluray.eu/images/2021/08/28/612a161719040.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>As Aventuras de Pi - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:198a0945ca15f4430d36c07f85bf0f23636be071</link>
+		<thumbnail>https://m.media-amazon.com/images/I/8130Jufk32L._AC_SY879_.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Jojo Rabbit - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e39869338bab091dbb6e570ec16ee4a7980b33ec</link>
+		<thumbnail>https://m.media-amazon.com/images/I/81sqzUCO5QL._AC_SX522_.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Star Wars, Episódio IX - A Ascensão Skywalker - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7e25e85a95fc2ed93395a03a894fa07d93318f6</link>
+		<thumbnail>https://m.media-amazon.com/images/I/81vD8cJGCuL._SX342_.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>WiFi Ralph: Quebrando a Internet - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0eb427e4cbb25e8d9c3d8745e7b8994051f96081</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/lnpTKpAZ1RBjMzewtsC1fmWWXd0.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Tomb Raider: A Origem - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f12d6e2530765b60b826bbbdf662967ab4ae614</link>
+		<thumbnail>https://i1.wp.com/blackpipe.com.br/wp-content/uploads/2018/03/tombraidercartaz1-1-819x1024.jpg?resize=394%2C493</thumbnail>
+		<genre> Ação, Aventura, Fantasia, Suspense</genre>
+	</item>
+	<item>
+		<title>O Touro Ferdinando - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34b654446d4acb1f5b8198b76c6f90bad183185d</link>
+		<thumbnail>https://i.pinimg.com/originals/c3/d9/f8/c3d9f80472957fcc43128b7cdd60f9bc.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>O Protetor - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b15e4fe416c1717f5cdfea47fbcc07f6e384d23</link>
+		<thumbnail>https://1.bp.blogspot.com/-XCA1mkhTEHg/W1Y7eEoO93I/AAAAAAAAAIs/VorlG_IgXesWftxMiDWWab6FZDcJI79eACLcBGAs/s1600/203714_front.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Velozes e Furiosos: Hobbs e Shaw - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dbe9b48c38eb8893f8fdadc441a3c0fe36a85f0</link>
+		<thumbnail>https://m.media-amazon.com/images/I/819p+bz5k0L._AC_SX425_.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Capitão América: Guerra Civil - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0fc8bc85ed04701bae02f37278e04423ac2e4fd</link>
+		<thumbnail>https://2.bp.blogspot.com/-p6L1rAgqoLc/W4D-vPeCXeI/AAAAAAAAQCE/i677ub4ZEe4aJH7Tsto8LfyURnA5W_7BgCLcBGAs/s1600/capitao-america-guerra-civil%2B4k%2Bultra%2Bhd%2Bdownload%2Btorrent%2Bdublado%2Bbluray.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>A Origem - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8d2b6a12a152de91d32119c38e81a53918d7d35</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Shazam - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:596cf2a18e254c11aee483a2a3cb4fe3d4f632f4</link>
+		<thumbnail>https://http2.mlstatic.com/D_NQ_NP_894429-MLB40796102362_022020-O.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Superação: O Milagre da Fé - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f95f91ba8c5f0003d2c687ba616bf82b5d4da7f</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Megatubarão - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6f749c797f05a0d88c8999bb38f3aa10ad4b8e7</link>
+		<thumbnail>https://3.bp.blogspot.com/-7Dlm5Mo31xE/W7miaG2kc3I/AAAAAAAABUI/L7F11wZSi18_2gvh5_zDPQ25sWrh705tgCLcBGAs/s1600/Megatubar%25C3%25A3o%2B4K%2BUltra%2BHD%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Hereditário - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01264c1fd2766645d27e7ecfb7ccdf3d7020aa90</link>
+		<thumbnail>https://1.bp.blogspot.com/-b59vs4_tRM0/W6OxXRrjF3I/AAAAAAAAAg0/BcSzEfCC-TkLbExIZeOywnhs39aaJxv4gCLcBGAs/s1600/Heredit%25C3%25A1rio%2B4K%2BUltra%2BHD%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Parasita - 4K (Leg)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8593e59e39f0d337ca7e90afb8317beb2447cbb1</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Ad Astra: Rumo às Estrelas - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:855bb80ef8e64cd5fcda7f59e269af5e58d8e1f2</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>O Hobbit: Uma Jornada Inesperada - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0717e185fd325071ba994fc8fd25d7b93ef67e73</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/asuSvb1MDN04HftUFxlp7i6ZHpV.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Han Solo: Uma História Star Wars - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6020bd7b84bd29b1da90880965aaf0d3f85d2696</link>
+		<thumbnail>https://1.bp.blogspot.com/-Ib0ANKrClVQ/W6GzXkuycKI/AAAAAAAAAcg/p5p4sKSbCIs1fPIjSqVS-royEpx34Sw9wCLcBGAs/s1600/Han%2BSolo%2BUma%2BHist%25C3%25B3ria%2BStar%2BWars%2B4K%2BUltra%2BHD%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Jogos Vorazes - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d78363d067d1fcbe407ec30f8553fe13d80386b4</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/xAmbI0D90t74Xeq6K9nGeTXkd1U.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>O Resgate do Soldado Ryan (1998) - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e61fff906b0cb18a3fd7c51227490eef63e8fe3</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/iZ3jDTycla1JasNg6h7Gg1sEIys.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Ford vs Ferrari - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b49d80b77d5b64a39540e02857aeb390d0dfc6d3</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/4hQD9xGJOh7e0h3Md6BB8oxtPQS.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Mulher-Maravilha 1984 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f42eb1c513fde6c74d0b42d388e95ab8e1e15d31</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/pBHYbehxaSSMc0X5m5iKBvqWzCi.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Pantera Negra - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586a40c2113efebf35fcd3ea68b2abf08c6caf17</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>O Exterminador do Futuro: Destino Sombrio - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84140618e0c0d509f687140fcb2ee364330870ba</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Prometheus - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e742061502a67a0b7353cfcac7f6f41ee41548e</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/omy5CiDMQnGqQUEJ9gNLOGPZQFW.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Alien Covenant - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55d91366e25f987500df0bce3aafd7cbac93aadf</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>A Freira - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb40359194f80006e964721a135865b8e90a2240</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/4MG9XyyzLvON5iqCp8l8eVI8QiF.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Kong: A Ilha da Caveira - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02910e19ca3d780a56aec757a38a129d3f6f8631</link>
+		<thumbnail>https://br.web.img3.acsta.net/pictures/17/02/24/14/55/144568.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Corações de Ferro - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1c9a47f0a54a35db84d6f792c647418b5976597</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/AkZhchgqSIhnUgtvVrfR6vKHjtH.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Resident Evil 6: O Capítulo Final - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb83167d2ce555c43f075da0dedfd2acfea2f2de</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/jkaLHoFk6dmTHZNW17FmeybZsdf.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Deadpool 2 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a226dc885999f166470755a1967c5788238d4b5</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Batman: Trilogia - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e0dfa99ba80cb28a23b97cb72482d4bda0c84e5</link>
+		<thumbnail>https://4.bp.blogspot.com/-lQb0LFNlX3w/WxVMjDVmj6I/AAAAAAAAMDY/ecaiiWIn4mYkN_Q-dqVV2klwO0yFSCLEQCLcBGAs/s1600/Batman%2Btrilogia%2B4k%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Passageiros - 4K (Leg)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6518e0fbed70e76bf95a6f690a008ca7b2fffbbd</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/4ttmnglFa2WxDK3yBkMX1VlpkTo.jpg</thumbnail>
+		<genre>Ficção Cientifica, Romance, Drama</genre>
+	</item>
+	<item>
+		<title>O Regresso - 4K (Leg)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f6491e7decee8aebb34c0078c6a0e4fbd174a17</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/x1jViuXsm5ZmrR6uFmxU6AVdXzs.jpg</thumbnail>
+		<genre>Suspense, Crime, Drama</genre>
+	</item>
+	<item>
+		<title>007: Operação Skyfall - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffa909bdd4af7bebc6ec699b3ede82dcf63d7f9f</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Annabelle 3: De Volta Para Casa - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfc2ac3ed6aeb033464b552ba390d2182944f5c1</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/m8h2gz4El6bvYpDjyQhb7R49rSp.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Velozes & Furiosos 8 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc7ca6f835ebda2aa7bfd07d3e3e1b8b444c486a</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/3G6PUtqIKPKyZXXWB8jgZZJF1C8.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Maze Runner: A Cura Mortal - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:982562629855acf7402460b574e5e85930b25012</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/uBEpWurzTOiz520d1tRNhBXN7h9.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Aves de Rapina − Arlequina e sua Emancipação Fantabulosa - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79cb405e5a7f9f9f3ebe4969f8416ab7c1cedf85</link>
+		<thumbnail>https://br.web.img3.acsta.net/pictures/19/09/17/19/29/5316438.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Como Treinar o Seu Dragão 3 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d40a013e13a65240970bc12f545cf83b991c88c</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Sniper Americano - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9147ef552ef8c1b857543c7adb6ca57d2fb23af9</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Gladiador - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbead284ff6418acd89989d5d027c5dbdd76529c</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg</thumbnail>
+		<genre>Guerra, Ação</genre>
+	</item>
+	<item>
+		<title>Bad boys para sempre - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbbc4f2219a667763b726b9ac17ab4e4e9a605e</link>
+		<thumbnail>https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXN0PVB/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg</thumbnail>
+		<genre>4K</genre>
+	</item>
+	<item>
+		<title>Toy Story 3 - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:561c6ba6639ce024276f6a7b37d902fa88b2d232</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg</thumbnail>
+		<genre>Animação</genre>
+	</item>
+	<item>
+		<title>Sing: Quem Canta Seus Males Espanta - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e3e3e1dda260970e6e7aab1ff14f83bb1f6caf8</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/1LEeSindznWQnXIglb7Ica9MITe.jpg</thumbnail>
+		<genre>Animação</genre>
+	</item>
+	<item>
+		<title>O Labirinto do Fauno - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1056f233736415fff2a3aa80c1b3b6b8df9fcf0</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/53ZMT8Y18gwLpInzRLMEebAZxew.jpg</thumbnail>
+		<genre>Guerra, Drama, Fantasia</genre>
+	</item>
+	<item>
+		<title>Ratatouille - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bf30bf43670d5d5aa704da194c62b3f5c42d05f</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg</thumbnail>
+		<genre>Animação</genre>
+	</item>
+	<item>
+		<title>Frozen: Uma Aventura Congelante - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9ba9b65725a697ad73298e2becc00fcd94c0a58</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/hOZKUJGN0m717LRSQDxhgABqWrf.jpg</thumbnail>
+		<genre>Animação</genre>
+	</item>
+	<item>
+		<title>Coração Valente - 4K</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f4558d5ff2f76388aa9a9b5e3a379b4284b3c91</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/tWBbNikf5ng7BuNGA55MkvhLrag.jpg</thumbnail>
+		<genre>guerra</genre>
+	</item>
 </items>
