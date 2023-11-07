@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<SetViewMode>54</SetViewMode>
+<item>
+        <title>O Protetor: Capítulo Final </title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6f28c1db53c66e8fc12eb41453216be49761e41</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxkzUJVaKNZ4IYYHpJq5y05MauC.jpg</thumbnail>
+	    <fanart>https://www.themoviedb.org/t/p/original/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg</fanart>
+        <genre>Ação, Thriller, Crime</genre>
+        <info>Sentindo-se em casa no sul da Itália, o ex-agente Robert McCall logo descobre que seus novos amigos estão sob o controle dos chefes do crime local. À medida que os acontecimentos se tornam mortais, McCall sabe o que tem de fazer: tornar-se o protetor dos seus amigos, enfrentando a máfia.</info>
+        <date>05.10.2023</date>  
+    </item>	
+
+    <item>
+        <title>Missão: Impossível – Acerto de Contas Parte 1 </title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a6ddf53745d7c105491ae85214a1dd3716b8532</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg</thumbnail>
+	    <fanart>https://www.themoviedb.org/t/p/original/628Dep6AxEtDxjZoGP78TsOxYbK.jpg</fanart>
+        <genre>Ação, Thriller</genre>
+        <info>Ethan Hunt e sua equipe embarcam em sua missão mais perigosa: rastrear uma nova arma aterrorizante que ameaça toda a humanidade antes que caia em mãos erradas. Com o controle do futuro e o destino do mundo em jogo e as forças sombrias do passado de Ethan se aproximando, uma corrida mortal ao redor do globo começa. Confrontado por um inimigo misterioso e todo-poderoso, Ethan é forçado a considerar que nada pode importar mais do que sua missão – nem mesmo a vida daqueles com quem ele mais se importa.</info>
+        <date>13.07.2023</date> 
+        <studio>APPLE TV+</studio>		
+     </item>
+	 <item>
+		<title>Gran Turismo: De Jogador a Corredor </title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P5UKTEOC6K3ZM62VTIJHM6HXPX3LHPL3&dn=Gran%20Turismo%20-%20De%20Jogador%20a%20Corredor%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5ma2TOWO9BkK7zyc0R2dZOIWuaA.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/3wtifTCVwqSyXF924FLkRpVRjYw.jpg</fanart>
+		<genre>Ação, Drama, Aventura</genre> / <rate>7.5</rate> / <date>25.08.2023</date> / <duration>8100</duration>
+		<studio>APPLE TV+</studio>
+		<info>Baseado na história de Jann Mardenborough, e relata a trajetória de um jogador de videogame que utilizou suas habilidades nos simuladores para se tornar um piloto profissional de verdade.</info>
+	</item>
 	<item>
 		<title>O Rei dos Assassinos</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9c14e5f7bf85df172a87e505c283ddbeb94c704</link>
