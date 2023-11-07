@@ -3,6 +3,212 @@
 <items>
   
 <SetViewMode>500</SetViewMode>
+
+	<item>
+        <title>Os Mercenários 4 (2023)</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98e7cfe00a8ebbc028fbf71e093f97eb459b69b8</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg</thumbnail>  
+	    <fanart>https://www.themoviedb.org/t/p/original/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg</fanart>
+        <genre>Ação, Aventura, Thriller</genre>  
+	    <rate>5.2</rate> 
+	    <date>21.09.2023</date>  
+	    <duration>6180</duration>
+        <studio>LIONSGATE</studio>
+        <info>Os Mercenários enfrentam um traficante de armas que comanda o poder de um enorme exército privado.</info>		
+    </item>
+	
+	<item>
+		<title>Som da Liberdade (2023)</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab6c010e6daf13149ef3dd4b0b83672c536f8046</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w1000_and_h563_face/o4SBV32WdZZOd9mV9ng7zUUWG70.jpg</fanart>
+		<genre>Suspense</genre> / 
+		<rate>7.8</rate> / 
+		<date>21.09.2023</date> / 
+		<duration>7860</duration>
+		<studio>PRIME VIDEO</studio>
+		<info>A história de Tim Ballard, um ex-agente do governo dos EUA, que largou seu emprego para dedicar sua vida a resgatar crianças de traficantes sexuais globais.</info>
+	</item>
+	<item>
+		<title>A Noite das Bruxas (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9UAc4DF4oEObQk4sz4sNeHI4waY.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/kHlX3oqdD4VGaLpB8O78M25KfdS.jpg</fanart>
+		<genre>Mistério, Thriller, Crime</genre>
+		<date>14.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:127e6a10f0839460c32e522a7b812a53ff6ee4e2</link>
+		<info>O célebre detetive Hercule Poirot, agora aposentado e vivendo em exílio auto imposto em Veneza, relutantemente participa de uma sessão de Halloween em um palazzo decadente e mal-assombrado. Quando um dos convidados é assassinado, o detetive é lançado em um mundo sinistro de sombras e segredos.</info>
+	</item>
+	<item>
+		<title>Ressurreição do Mal (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7q6OFowMWFABPY7fyJMuHI0upBj.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/qCiZ46Kzd2xbE5TuAVPEExxNeRQ.jpg</fanart>
+		<genre>Terror, Ficção científica</genre>
+		<date>27.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2dd7166963a1a5af1ef3b441528c4ee99a6547</link>
+		<info>Em um futuro distópico, o Vaticano possui o conhecimento de ressuscitar pessoas. No entanto, um padre descobre uma teia de conspiração e assassinatos ligada a estes aparentes milagres.</info>
+	</item>
+	<item>
+		<title>Temporada de Furacões (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5wY5mqmwIu5XOhDBhoBY9SStjR8.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/unaaQI7mTuXNo3q97mXHvmvHqVn.jpg</fanart>
+		<genre>Drama, Thriller, Crime</genre>
+		<date>01.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f3bfbb238a7753f8feb4d8abd3fa34c1ff2b55b</link>
+		<info>Quando um grupo de adolescentes encontra um corpo flutuando em um canal, a dura realidade por trás de um crime perverso revela os segredos ocultos de uma cidade.</info>
+	</item>
+	<item>
+		<title>Nuovo Olimpo (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7zmauCUkwjq9wBWBY1IoV5mi8ju.jpg</fanart>
+		<genre>Drama, Romance</genre>
+		<date>01.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e72ca21c4a5bf5842ef64623fe0bd733325e7f86</link>
+		<info>Na Roma da década de 1970, um encontro casual entre Enea e Pietro no cinema se transforma em um romance inesquecível.</info>
+	</item>
+	<item>
+		<title>As Ladras (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wnLJ7nVObgbAD7cgF87XW1t9JT2.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9TNJvSIbK7s6jNKFZYvZcUM8rBM.jpg</fanart>
+		<genre>Comédia, Ação, Drama</genre>
+		<date>01.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e6cc1b037f1d2d65917610f1d6b5ac425faab4e</link>
+		<info>Cansada de viver se escondendo, uma ladra profissional decide se aposentar. Mas só depois de um último roubo com a parceira no crime e uma nova motorista para a fuga.</info>
+	</item>
+	<item>
+		<title>Paralisia (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cjEpz3rZNOae9SghNhoUqxpEjlY.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/sBY1M68pNdR30EXJnP9s5V104cF.jpg</fanart>
+		<genre>Suspense</genre>
+		<date>01.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3e6c58073c7cd9132d83888cb25961893d847fd</link>
+		<info>Ao tentar entender o que realmente aconteceu com uma paciente em coma, uma enfermeira acaba descobrindo uma trama de rivalidade, infidelidade, traição e assassinato.</info>
+	</item>
+	<item>
+		<title>Skinamarink: Canção de Ninar (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yYI9HBPxVzPZosQBJOXV2QGdcZK.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/rryI5WchAXVJKazxnZeGalvSllc.jpg</fanart>
+		<genre>Terror, Mistério</genre>
+		<date>23.03.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93ac165e2b180540746f63d3d7b3d87d98941e3b</link>
+		<info>Duas crianças acordam no meio da noite e descobrem que seu pai desapareceu e que todas as janelas e portas de sua casa sumiram.</info>
+	</item>
+	<item>
+		<title>David Contra os Bancos (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nYM7ooxIqyMcywcC1QDanyc9Hh8.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wcka0WH6otb1xueWk62Rpxqh3nm.jpg</fanart>
+		<genre>Comédia, Drama</genre>
+		<date>16.01.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f8d368d9dfa4dee063f82152cffb9b7c9aaf7d4</link>
+		<info>A história real de Dave Fishwick, um empresário idealista que decidiu lutar contra o sistema e abrir seu próprio banco para ajudar sua comunidade. Ao lado de seu advogado, ele se tornará um herói local.</info>
+	</item>
+	<item>
+		<title>The Blackening (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/iHSE8lEkPFHHPqaCv6Eh2aUfe6q.jpg</fanart>
+		<genre>Comédia, Terror</genre>
+		<date>16.06.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:478c480f9b5bedf14a2ecaeb572b319e295ffe3a</link>
+		<info>Sete amigos vão embora no fim de semana e acabam presos em uma cabana com um assassino que quer vingança. Será que sua esperteza e conhecimento de filmes de terror os ajudarão a sobreviver? Provavelmente não.</info>
+	</item>
+	<item>
+		<title>Presos na Floresta: Fuja Se For Capaz (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kVPyzvwW2qvdZa0uAKhb8IlB0tF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/zOJJA32HyILcqirff4AfF47DaDJ.jpg</fanart>
+		<genre>Suspense, Terror</genre>
+		<date>31.08.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:973f5887bee4b64eb0398bd70f44a452ccc9ed29</link>
+		<info>Um casal à beira do divórcio fica preso na areia movediça enquanto caminhava por uma floresta tropical colombiana. É uma luta pela sobrevivência enquanto eles lutam contra os elementos da selva e devem trabalhar juntos para escapar.</info>
+	</item>
+	<item>
+		<title>Explorer: Lago de Fogo (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPvrybP5kiLrKAuymDkfI6LlaSo.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xhh1FXSTSaKu46FiFEnvklqPtyF.jpg</fanart>
+		<genre>Documentario</genre>
+		<date>27.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcf481b5cc50b1ee225ccf81d72e404e40114a19</link>
+		<info>Em 2001, imagens de satélite capturaram uma misteriosa "anomalia térmica" num vulcão inexplorado nos confins da Terra. O que está dentro pode fornecer novas pistas para ajudar a prever erupções vulcânicas em todo o mundo. Mas a ilha é tão remota e as condições tão extremas que até agora ninguém chegou ao topo para investigar o que há lá dentro.</info>
+	</item>
+	<item>
+		<title>Um Dia Dos Mortos Nada Tradicional (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xL7eHZekMBFHlvM3u9OJGSIuY24.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/8JFg1Ig00BHCqpetWIgJdsTlQuo.jpg</fanart>
+		<genre>Comédia</genre>
+		<date>26.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fbc5205679827c4b83748f4a08538acacbb7388</link>
+		<info>Uma morte repentina reúne as famílias García e San Román. Lidia e Manuel tentam manter vivo o romance, mas Francisco foi morar com eles. Lidia é promovida no emprego, mas isso requer uma mudança para Monterrey. Rosa lida com a memória do marido e tenta encontrar um lugar para Jaime em sua vida. As famílias celebram a memória dos mortos e se preparam para uma vida que nunca mais será a mesma.</info>
+	</item>
+	<item>
+		<title>Porta Amarela: O Cineclube dos Anos 90 (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/znlWjvwrcSOcP3P43zvZLkAusys.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/yOxhFp9zzoat6ruclDpjepFxGUr.jpg</fanart>
+		<genre>Documentário</genre>
+		<date>27.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d72835a195c73c136482da46c322bccd935a055b</link>
+		<info>Este documentário intimista retrata uma antiga era da paixão pela sétima arte e o surgimento de jovens cinéfilos na Coreia do Sul, entre eles Bong Joon Ho.</info>
+	</item>
+	<item>
+		<title>Organ Trail: Sobrevivência (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dE1SUD70ptplI0bKbdQCbbS8RZ0.jpg</fanart>
+		<genre>Terror, Faroeste</genre>
+		<date>14.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+		<info>Uma jovem sozinha no inverno de Montana durante a década de 1870, luta por sua sobrevivência e para recuperar seu único bem terreno: um cavalo da família, que está em posse de uma gangue de bandidos sedentos por sangue.</info>
+	</item>
+	<item>
+		<title>Máfia da Dor (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m3JAB0LIofPUaka941lyZb7yZlo.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/bMRofddQE58ToKM7GtdJy6MuKoY.jpg</fanart>
+		<genre>Drama, Crime</genre>
+		<date>27.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a06486d507ee442b49cfbca43743468a88d6c28</link>
+		<info>Uma mãe solo falida, mas ambiciosa, encontra uma oportunidade de ganhar dinheiro vendendo um analgésico potente. Mas até onde ela vai para ficar rica?</info>
+	</item>
+	<item>
+		<title>Irmã Morte (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZXjucSt0SLxZjKa74lvxPsyKeg.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ZsiP0qr8TRUJTAd1VE0VNkLzhH.jpg</fanart>
+		<genre>Drama, Terror</genre>
+		<date>27.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0b312fd11688492c4477d74556ac14025b73eac</link>
+		<info>Espanha, 1949. Narcisa, uma noviça, chega a um antigo convento, convertido em uma escola para meninas, para trabalhar como professora.</info>
+	</item>
+	<item>
+		<title>A Menina que Matou os Pais: A Confissão (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hcdF2VcSwv4hUGBAhQiZSYw9OeH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9Ay9WG0JkrSISVbti1do8SwW4Pf.jpg</fanart>
+		<genre>Drama, Crime</genre>
+		<date>26.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0977296599b997ef3aa1938c07a656d405af40b3</link>
+		<info>Veja o que Suzane von Richthofen, Daniel Cravinhos e Cristian Cravinhos fizeram nos dias que sucederam o crime brutal que levou o casal Richthofen à morte. Este filme revela momentos cruciais da investigação policial, depoimentos e a confissão do crime.</info>
+	</item>
+	<item>
+		<title>Five Nights at Freddy’s: O Pesadelo Sem Fim (2023) (Leg)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z4OvWTJY56fOyuQWfbZhNPMWX9N.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg</fanart>
+		<genre>Terror, Suspense</genre>
+		<date>26.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2d94833474e5afe13b9b7e2fdcb6c5efa26bccb</link>
+		<info>Enquanto passa sua primeira noite no trabalho, um problemático guarda de segurança da Pizzaria Freddy Fazbear logo percebe que não será uma tarefa fácil sobreviver ao seu primeiro turno.</info>
+	</item>
+	<item>
+		<title>Golda: A Mulher de Uma Nação (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7nB9OWfLWbbyfk0MYv2czQCeKZ3.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/d1A5OQ4PRYssLilGCTRxqwKSQ8q.jpg</fanart>
+		<genre>História, Drama, Thriller</genre>
+		<date>07.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e500556f60af9a479c415b2a1fb63bcf1bc6156f</link>
+		<info>Ambientado na Guerra do Yom Kippur, em 1973, o drama mostra como a primeira-ministra Golda Meir conhecida como a “Dama de Ferro” de Israel enfrenta uma possível destruição do Estado, tomando decisões de alto risco, enquanto luta contra o câncer.</info>
+	</item>
+	<item>
+		<title>The Adults (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iA8HDbXgQE6RIEwqCMBZwPbpfxT.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/nVP2UAvA9pH7h3pkkKryyMc3cGl.jpg</fanart>
+		<genre>Drama, Comédia</genre>
+		<date>28.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6276a320b17262af61122d16c182a9499976b00d</link>
+		<info>Conta a história de Eric que volta para sua cidade natal para visitar suas irmãs, mas seu plano para que a viagem seja curta começa a dar errado quando ele encontra novas formas de avivar seu vício em pôquer. Enquanto permanece na cidade, Eric passa muito tempo de qualidade prometido com suas irmãs e é forçado a encarar que relacionamentos da infância nem sempre se traduzem em conexões na idade adulta.</info>
+	</item>
   <item>
         <title>Jogos Mortais X (2023)</title>
         <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a134acbd6f0c4652220ac180ef10451c001dbcc1</link>
@@ -45,19 +251,6 @@
 	<duration>5460</duration>
         <studio>AMAZON</studio>
         <info>Com seus filhos presos no banco de trás e uma bomba que explodirá se eles saírem do carro, um trajeto normal se torna um jogo distorcido de vida ou morte enquanto Matt Turner segue as instruções cada vez mais perigosas de um estranho em uma corrida contra o tempo para salvar sua família.</info>		
-    </item>
-	
-    <item>
-        <title>Os Mercenários 4 (2023) (Leg)</title>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
-        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg</thumbnail>  
-	<fanart>https://www.themoviedb.org/t/p/original/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg</fanart>
-        <genre>Ação, Aventura, Thriller</genre>  
-	<rate>5.2</rate> 
-	<date>21.09.2023</date>  
-	<duration>6180</duration>
-        <studio>LIONSGATE</studio>
-        <info>Os Mercenários enfrentam um traficante de armas que comanda o poder de um enorme exército privado.</info>		
     </item>		
 	
     <item>  
@@ -358,20 +551,6 @@
 		<info>Quatro anos após os acontecimentos na abadia de St. Carta, a Irmã Irene (Taissa Farmiga) regressa mais uma vez e depara-se com a força demoníaca de Valak, a Freira (Bonnie Aarons).</info>
 	</item>
 	
-	<item>
-		<title>Som da Liberdade (2023) (Leg)</title>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:828249a1371c573d0a4b0271a8f7f09a32cc9c81</link>
-		<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/w1000_and_h563_face/o4SBV32WdZZOd9mV9ng7zUUWG70.jpg</fanart>
-		<genre>Suspense</genre> / 
-		<rate>7.8</rate> / 
-		<date>21.09.2023</date> / 
-		<duration>7860</duration>
-		<studio>PRIME VIDEO</studio>
-		<info>A história de Tim Ballard, um ex-agente do governo dos EUA, que largou seu emprego para dedicar sua vida a resgatar crianças de traficantes sexuais globais.</info>
-	</item>
-
-
     <item>
 		<title>Drácula: A Última Viagem do Deméter (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb9680316e37c25041e168a74deb98f431d3c77e</link>
