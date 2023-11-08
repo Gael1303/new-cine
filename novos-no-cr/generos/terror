@@ -3,6 +3,41 @@
 	<SetViewMode>54</SetViewMode>
 
 <item>
+        <title>Jogos Mortais X</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a134acbd6f0c4652220ac180ef10451c001dbcc1</link>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/dZbLqRjjiiNCpTYzhzL2NMvz4J0.jpg</fanart>
+        <genre>Terror, Thriller</genre>
+        <info>Entre os eventos de “Jogos Mortais” e “Jogos Mortais II”, um doente e desesperado John Kramer viaja para o México para um arriscado e experimental procedimento médico na esperança de uma cura milagrosa para seu câncer — apenas para descobrir que toda a operação é uma farsa para fraudar os mais vulneráveis. Armado com um propósito recém-descoberto, o infame assassino em série retorna ao seu trabalho, virando a mesa contra os vigaristas em sua maneira visceral característica por meio de armadilhas tortuosas, perturbadas e engenhosas.</info>
+        <date>28.09.2023</date> 
+   </item>
+   <item>
+		<title>A Fúria de Becky </title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l3fBun1ZXnSU8NVNEr5CQRNSegR.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ymDCdsobG8P4S3epFvT0CLDvEhP.jpg</fanart>
+		<genre>Ação, Terror, Thriller</genre>
+		<date>26.05.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2602bc2aff8d271ddf5fc23a64edcc3e36ffbc0</link>
+		<info>Dois anos depois de escapar de um ataque violento, uma adolescente deve se defender contra uma célula terrorista.</info>
+	</item>
+	<item>
+		<title>Presos na Floresta: Fuja Se For Capaz </title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kVPyzvwW2qvdZa0uAKhb8IlB0tF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/zOJJA32HyILcqirff4AfF47DaDJ.jpg</fanart>
+		<genre>Suspense, Terror</genre>
+		<date>31.08.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:973f5887bee4b64eb0398bd70f44a452ccc9ed29</link>
+		<info>Um casal à beira do divórcio fica preso na areia movediça enquanto caminhava por uma floresta tropical colombiana. É uma luta pela sobrevivência enquanto eles lutam contra os elementos da selva e devem trabalhar juntos para escapar.</info>
+	</item>
+	<item>
+		<title>Não Abra!</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mZRiaWpstOKsoYm8yg2JDo5lsBM.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dp0rdbGSbZTyWumnbWspXQp87hA.jpg</fanart>
+		<genre>Terror, Mistério</genre>
+		<date>02.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1917f3d5d6c76006257191c8e6ea17ec8e108ed2</link>
+		<info>Sam (Megan Suri), uma adolescente que lida com os conflitos entre sua origem indiana e a vida nos EUA, acidentalmente liberta uma antiga entidade demoníaca de um jarro que jamais deveria ter sido aberto. À medida que o mal se alimenta dos seus piores medos, Sam precisará desvendar segredos ancestrais para tentar salvar sua vida e a de todos ao seu redor.</info>
+	</item>
+<item>
 	<title>Corra</title> 
 	<genre>Suspense, Terror, Misterio</genre>
 	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:687302f36d96bffe3791b1e95bbbeea63d37827d$nome=Corra! 1080P</link>
