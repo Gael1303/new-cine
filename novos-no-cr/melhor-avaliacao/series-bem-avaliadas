@@ -4565,7 +4565,7 @@
 			</item>
 			<item>
 				<title>Demon Slayer: Kimetsu no Yaiba - 2ª Temporada</title>Kimetsu no Yaiba
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6af163b065269a481ec6a67879428dcc3db89a47$nome=EP 1 - Tengen Uzui, o Pilar do Som [1080p]</link>
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6af163b065269a481ec6a67879428dcc3db89a47$nome=EP 1 - Tengen Uzui, o Pilar do Som [1080p]</link>
 				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6699ee9003f2259cd61aabd426942e205e59d33e$nome=EP 2 - Invasão do Distrito do Entretenimento [1080p]</link>
 				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f508622bc231a3c244a4a39918e8223e3e8e35d$nome=EP 3 - Quem? [1080p]</link>
 				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4d7ecf7e5bfbcc5f7bdcd7e54151114139f1068$nome=EP 4 - Esta noite [1080p]</link>
@@ -4635,6 +4635,7 @@
 			</item>
 		</items>
 	</channel>
+	------------------------------------
    <channel>
 		<name>Haikyuu!! [COLOR yellow]8.7[/COLOR]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ecQ84z2sR0XapZu435MnFuEBzD8.jpg</thumbnail>
@@ -5005,13 +5006,13 @@
 				<genre/>
 			</item>
 			<item>
-				<title>>Chaves - 6ª Temporada</title>
+				<title>Chaves - 6ª Temporada</title>
 				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:543d9e3922279fd6ff9c96625ef61a12febe0e05</link>
 				<thumbnail>https://image.tmdb.org/t/p/w342/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg</thumbnail>
 				<genre/>
 			</item>
 			<item>
-				<title>>Chaves - 7ª Temporada</title>
+				<title>Chaves - 7ª Temporada</title>
 				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f2c00125597922fdb94eeb4264aba356b5ce62b</link>
 				<thumbnail>https://image.tmdb.org/t/p/w342/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg</thumbnail>
 				<genre/>
@@ -9798,7 +9799,7 @@ Rodeado de falsos telepatas, espíritos do mal e misteriosas organizações, com
 			<thumbnail>https://image.tmdb.org/t/p/w342/zI4ewGoymytILTmKrMWDVQuQl82.jpg</thumbnail>
 			<genre>Mistério, Drama, Crime</genre>
 		</item>
-	</item>
+	
 </items>
 </channel>
 		-----------------------------------------------
@@ -9869,6 +9870,7 @@ Rodeado de falsos telepatas, espíritos do mal e misteriosas organizações, com
 			<duration>2880</duration>
 			<genre>Sci-Fi & Fantasy, Drama</genre>
 		</item>
+		</items>
 	</channel>
 		-----------------------------------------------
 		<channel>
