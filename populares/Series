@@ -1,70 +1,185 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 	<SetViewMode>502</SetViewMode>
-	<channel>
-		<name>Lupin</name>
-		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yUSpKDhibrxnY3EXAcNkaPrUOI0.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg</fanart>
-		<genre>Crime, Drama, Mistério</genre>
-		<date>08.01.2021</date>
-		<studio>NETFLIX</studio>
-		<info>Na adolescência, a vida de Assane Diop dá uma guinada radical quando seu pai morre após ser acusado de um crime que não cometeu. Vinte e cinco anos depois, Assane se inspira em "Arsène Lupin, o Ladrão de Casaca" para vingá-lo.</info>
-		<items>
-			<item>
-				<title>Lupin: 1ª Temporada - Completo</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8e2456de818b24463d119e3f8df2885a936f0b7</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/5Hke4jkFgD0loC6QBY7ym235Hq.jpg</thumbnail>
-				<genre>Crime, Drama, Mistério</genre>
-			</item>
-			<item>
-				<title>Lupin: 2ª Temporada - Completo</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eab57445d9249ad40f71c1b1efcbdb01d9cb7aa9</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg</thumbnail>
-				<genre>Crime, Drama, Mistério</genre>
-			</item>
-			<item>
-				<title>Lupin: 3ª Temporada - Completo</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52279ee9af92c2e218be22f60ad6284c1ad0e31a</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg</thumbnail>
-				<genre>Crime, Drama, Mistério</genre>
-			</item>
-		</items>
-	</channel>
-	
-	<channel>
+
+<channel>
+	<name>Gen V</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGOV8WrYzHKYt9lMrSGzxVAlfqL.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/urzEsxKKNgCan2mX5z5heXbUyef.jpg</fanart>
+	<date>28.09.2023</date>
+	<genre>Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
+	<info>Alunos talentosos põem os limites morais à prova, competindo pelo melhor lugar no ranking da universidade e uma chance de se juntar aos Sete, a equipe de elite da Vought. Quando os segredos obscuros da universidade vêm à tona, eles devem decidir que tipo de heróis querem ser.</info>
+	<studio>AMAZON</studio>
+	<items>
+	<item>
+		<title>T1:E01-3 - Gen V</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d6807623e4dfcb170fb6034afb807f63d44289a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/p5QGIGOConKKrgfiTcHEBsjPDcs.jpg</thumbnail>
+		<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
+	</item>
+	<item>
+		<title>T1:E04 - Gen V</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83c75c66c58ccc330e2a87e2b3bc0277c73f32d8</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/p5QGIGOConKKrgfiTcHEBsjPDcs.jpg</thumbnail>
+		<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
+	</item>
+	<item>
+		<title>T1:E05 - Gen V</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3720393dd873d466f4ce92f8a2fd409b0deb532</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/p5QGIGOConKKrgfiTcHEBsjPDcs.jpg</thumbnail>
+		<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
+	</item>
+	<item>
+		<title>T1:E06 - Gen V</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb9da7ec0e26e2e907a611b59dd773047970695d</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/p5QGIGOConKKrgfiTcHEBsjPDcs.jpg</thumbnail>
+		<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
+	</item>
+	<item>
+		<title>T1:E07 - Gen V</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5eea77d70d70a69737e5cb6b220387bda73feb33</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/p5QGIGOConKKrgfiTcHEBsjPDcs.jpg</thumbnail>
+		<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
+	</item>
+	<item>
+		<title>T1:E08 - Gen V</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8a40dde0e6d635674e3dd62b593fcb3eb7bb033</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/p5QGIGOConKKrgfiTcHEBsjPDcs.jpg</thumbnail>
+		<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
+	</item>
+</items>
+</channel>
+		-----------------------------------------------
+
+        <channel>
 	<name>Loki</name>
-	<thumbnail>https://www.themoviedb.org/t/p/original/voHUmluYmKyleFkTu3lOXQG702u.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg</fanart>
-	<genre>Action & Adventure, Mistério, Drama, Sci-Fi & Fantasy</genre>
-	<date>09.06.2021</date>
-	<studio>DISNEY+</studio>
-	<info>Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/voHUmluYmKyleFkTu3lOXQG702u.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg</fanart>
+<genre>Action & Adventure, Mistério, Drama, Sci-Fi & Fantasy</genre>
+<date>09.06.2021</date>
+<studio>DISNEY+</studio>
+<info>Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.</info>
+<items>
+	<item>
+		<title>Loki: 1ª Temporada - Completo</title>LOKI
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1752b07558746e4bd734f14432cd716f0ccebd2c</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+	</item>
+	<item>
+		<title>[COLOR yellow][B]2ª TEMPORADA[/B][/COLOR]</title>LOKI
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Loki: T02 E01</title>LOKI
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16bda628a4dd9cf2524197be42c373937160776f$nome=Loki: T02 E01 (1080P)</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40e3e39d7a89c8c8838e6efbcf4fdf3fa0a50ce7$nome=Loki: T02 E01 (4K)</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Loki: T02 E02</title>LOKI
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa44edabf9d326f400eb2456d2b2a2d2e348cd12$nome=Loki: T02 E02 (1080P)</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db1fe13c656f6593ca5572b09e6f7b11067ecc20$nome=Loki: T02 E02 (4K)</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Loki: T02 E03</title>LOKI
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a65336c70c51b398d0154242f52315c6dbbd008$nome=Loki: T02 E03 (1080P)</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09b9fb23caea2e257bc29053809f1297a8d5c231$nome=Loki: T02 E03 (4K)</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Loki: T02 E04</title>LOKI
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c666f06e62bc592de4086df2a7e7f02993dc799b$nome=Loki: T02 E04 (1080P)</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcd3d7a8c90abc2cff821c05d905d33643a05484$nome=Loki: T02 E04 (4K)</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Loki: T02 E05</title>LOKI
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90b9cc8381accb7da99d3bc4fe769bf13b7e976c$nome=Loki: T02 E05 (1080P)</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ebe862711d68b65d56b701532bf13efee46dbef$nome=Loki: T02 E05 (4K)</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Loki: T02 E06</title>LOKI
+            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3eb0b3ba280cfbe744f175bd30cd68bdd68fc173$nome=Loki: T02 E06 (1080P)</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc5a680d75eac1fc8d16f0cb88f2b0f39f33713b$nome=Loki: T02 E06 (4K)</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+	</item>
+</items>
+</channel>
+	<channel>
+	<name>Twisted Metal</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/xmDhagFdAfbkDFL6YpV3Vfe9OMl.jpg</fanart>
+	<date>27.07.2023</date>
+	<genre>Action & Adventure, Comédia</genre>
+	<info>Um forasteiro deve atravessar uma terra arrasada pós-apocalíptica para entregar um pacote misterioso em busca da promessa de uma vida melhor.</info>
+	<studio>HBO</studio>
 	<items>
 		<item>
-			<title>Loki: 1ª Temporada - Completo</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1752b07558746e4bd734f14432cd716f0ccebd2c</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+			<title>T1:E01 -  Twisted Metal (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9d70cc6c66c7d033a3c7e6996a3693b4e768160</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/pwljNoolEY0znsZVnGNN17QDPc5.jpg</thumbnail>
+			<genre>Action & Adventure, Comédia</genre>
 		</item>
 		<item>
-			<title>[COLOR yellow][B]2ª TEMPORADA[/B][/COLOR]</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+			<title>T1:E02 -  Twisted Metal (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd193d687603b79000cd362b5565c130dc4b2053</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/pwljNoolEY0znsZVnGNN17QDPc5.jpg</thumbnail>
+			<genre>Action & Adventure, Comédia</genre>
 		</item>
 		<item>
-			<title>Loki: 2ª Temporada - EP01</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16bda628a4dd9cf2524197be42c373937160776f$nome=Loki: 2ª Temporada - EP01 (1080P)</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40e3e39d7a89c8c8838e6efbcf4fdf3fa0a50ce7$nome=Loki: 2ª Temporada - EP01 (4K)</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+			<title>T1:E03 -  Twisted Metal (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:376f115e71a8ace828cb785fb0010e719ebbea81</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/pwljNoolEY0znsZVnGNN17QDPc5.jpg</thumbnail>
+			<genre>Action & Adventure, Comédia</genre>
 		</item>
 		<item>
-			<title>Loki: 2ª Temporada - EP02</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa44edabf9d326f400eb2456d2b2a2d2e348cd12$nome=Loki: 2ª Temporada - EP02 (1080P)</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db1fe13c656f6593ca5572b09e6f7b11067ecc20$nome=Loki: 2ª Temporada - EP02 (4K)</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
+			<title>T1:E04 -  Twisted Metal (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2810f97197441ad2cfdeaf31315e3b6d97f3c529</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/pwljNoolEY0znsZVnGNN17QDPc5.jpg</thumbnail>
+			<genre>Action & Adventure, Comédia</genre>
+		</item>
+		<item>
+			<title>T1:E05 -  Twisted Metal (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f871fe2e019e8983b9a12afd113922537816bafc</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/pwljNoolEY0znsZVnGNN17QDPc5.jpg</thumbnail>
+			<genre>Action & Adventure, Comédia</genre>
+		</item>
+		<item>
+			<title>T1:E06 -  Twisted Metal (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:847200e20b651b8a62dcc074d63e9285e493218e</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/pwljNoolEY0znsZVnGNN17QDPc5.jpg</thumbnail>
+			<genre>Action & Adventure, Comédia</genre>
+		</item>
+		<item>
+			<title>T1:E07 -  Twisted Metal (Dublado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2a846f7f022ccb70c37a2657f51cf2413c0ece0</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/pwljNoolEY0znsZVnGNN17QDPc5.jpg</thumbnail>
+			<genre>Action & Adventure, Comédia</genre>
 		</item>
 	</items>
 </channel>
-	
+		-----------------------------------------------
+		<channel>
+	<name>A Vida no Nosso Planeta</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5dkKTQyg2vcXgzAkiCJfQzpcntV.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/o5NFe8iAeYxpwNuN0zuUwp8NIpy.jpg</fanart>
+	<date>25.10.2023</date>
+	<genre>Documentário</genre>
+	<info>Esta série documental inovadora mostra a extraordinária jornada para vencer, se adaptar e sobreviver na Terra ao longo de bilhões de anos.</info>
+	<studio>NETFLIX</studio>
+	<items>
+		<item>
+			<title>A Vida no Nosso Planeta: 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:641f6294910091e6bffbbdb38068bace382f0262</link>
+		    <fanart>https://www.themoviedb.org/t/p/original/o5NFe8iAeYxpwNuN0zuUwp8NIpy.jpg</fanart>
+			<genre>Documentário</genre>
+		</item>
+		</items>
+		</channel>
+		-----------------------------------------------
 	
 	<channel>
 	<name>The Walking Dead: Daryl Dixon</name>
@@ -99,41 +214,21 @@
 			<thumbnail>https://www.themoviedb.org/t/p/original/uh74RN8lCY2JyZnbjoCoxzJo6a1.jpg</thumbnail>
 			<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
 		</item>
+                <item>
+			<title>The Walking Dead: Daryl Dixon - 1ª Temporada E05 (Legendado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3752c87ec1eb77dd7216093167c5bf294f234f23</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/uh74RN8lCY2JyZnbjoCoxzJo6a1.jpg</thumbnail>
+			<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
+		</item>
+               <item>
+			<title>The Walking Dead: Daryl Dixon - 1ª Temporada E06 (Legendado)</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd76f37fd3676edadbaaf3877358940be1b3c5ba</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/uh74RN8lCY2JyZnbjoCoxzJo6a1.jpg</thumbnail>
+			<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
+		</item>
 	</items>
 </channel>
 
-<channel>
-	<name>O Continental: Do Mundo de John Wick</name>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNsHjhHKsslok9d3eu2aBChzWya.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/1gajPADcRyzmYvfAefbJwhCy4bk.jpg</fanart>
-	<genre>Crime, Action & Adventure</genre>
-	<date>22.09.2023</date>
-	<studio>AMAZON</studio>
-	<info>O jovem Winston Scott é arrastado para o cenário infernal da Nova York dos anos 70 para enfrentar um passado que ele pensava ter deixado para trás. Winston traça um caminho mortal através do misterioso submundo do hotel em uma tentativa angustiante de tomá-lo e finalmente assumir seu trono.</info>
-	<items>
-		<item>
-			<title>E01 - O Continental: Do Mundo de John Wick</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b93f95f872c2e93f02939970aa2c208367a363c5</link>
-			<fanart>https://www.themoviedb.org/t/p/original/1gajPADcRyzmYvfAefbJwhCy4bk.jpg</fanart>
-			<genre>Ação</genre>
-		</item>
-
-<item>
-			<title>E02 - O Continental: Do Mundo de John Wick</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95d4241a9192e56f14ca78d2fe77037f5450b658</link>
-			<fanart>https://www.themoviedb.org/t/p/original/1gajPADcRyzmYvfAefbJwhCy4bk.jpg</fanart>
-			<genre>Ação</genre>
-		</item>
-  
- <item>
-			<title>E03 - O Continental: Do Mundo de John Wick</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9e05abd1df0a6233de64cba26915a331ecd69c8</link>
-			<fanart>https://www.themoviedb.org/t/p/original/1gajPADcRyzmYvfAefbJwhCy4bk.jpg</fanart>
-			<genre>Ação</genre>
-		</item>
- 
-	</items>
-</channel>
 
 <channel>
 	<name>Virgin River</name>
@@ -215,37 +310,7 @@
 	</items>
 </channel>
 
-<channel>
-	<name>Impuros</name>
-	<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/leHugSOjrC26eZJmOLu9mUnAlai.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/w1000_and_h563_face/ajCK4xCO2UIHSqttXIHcRstBHRC.jpg</fanart>
-	<date>19.10.2023</date>
-	<studio>DISNEY+</studio>
-	<info>No Rio dos anos 90, Evandro é um jovem da favela que tenta ganhar a vida honestamente. Porém, após a morte do irmão pela polícia, ele entra no mundo do tráfico buscando vingança.</info>
-	<items>
-		<item>
-			<title>T01 : Impuros - Completo</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eec46a7f81ea21767fdace610711c6d9ede832d0</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/r9MgJJceXDfrbgQPO6ErdQIXXei.jpg</thumbnail>
-		</item>
-		<item>
-			<title>T02 : Impuros - Completo</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d2dd32a1c87e1c9e81da259845189949fc49564</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/4zAtrolGNgRJsccgvJLxDRLa6wT.jpg</thumbnail>
-		</item>
-		<item>
-			<title>T03 : Impuros - Completo</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab7638d55e73749d10cd0873d811d3d2cbd3a58d</link>
-			<thumbnail>https://1.bp.blogspot.com/-0z3u-Nlo3QA/YS-oN_Om6eI/AAAAAAAAjWA/iLeclcahqwMPd6SevBa9DsunQSzq0ZvmgCNcBGAsYHQ/s350/Impuros%2Bs3.jpg</thumbnail>
-		</item>
-		<item>
-			<title>T04 : Impuros - Completo</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2381b341d9acbc742f76ca4e5508526134733c32</link>
-			<thumbnail>https://1.bp.blogspot.com/-0z3u-Nlo3QA/YS-oN_Om6eI/AAAAAAAAjWA/iLeclcahqwMPd6SevBa9DsunQSzq0ZvmgCNcBGAsYHQ/s350/Impuros%2Bs3.jpg</thumbnail>
-		</item>
-	</items>
-</channel>
-	
+
 	<channel>
 	<name>ONE PIECE: A Série</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y0VSmak9mSobl9QTKCvR7w4w6Ui.jpg</thumbnail>
@@ -296,103 +361,6 @@
 	</items>
 </channel>
 
-<channel>
-	<name>Ahsoka</name>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/caMnsmsTObOGSp60nnFrWFSgxWp.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
-	<genre>Sci-Fi & Fantasy, Action & Adventure</genre>
-	<date>22.08.2023</date>
-	<studio>DISNEY</studio>
-	<info>"[I]Guerreira. Exilada. Rebelde. Jedi.[/I]"
-
-Situada após a queda do Império, a série segue a ex-cavaleira Jedi Ahsoka Tano enquanto ela investiga uma ameaça emergente a uma galáxia vulnerável.</info>
-	<items>
-		<item>
-			<title>T01:  Ahsoka - EP 01-2</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6bbbaff6702ae14f28240459a04a1e8c7308e63$nome=T01:  Ahsoka - EP 01-2 1080P</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a08719fc17bddd02363abb7dcb1fcd10932f8a8f$nome=T01:  Ahsoka - EP 01-2 4K</link>
-			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
-			<genre>Ficção Cientifica, Fantasia</genre>
-		</item>
-		<item>
-			<title>T01:  Ahsoka - EP 03</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8eeb3bafeea60dadaea26b9f8bc5b890deb0421a$nome=T01:  Ahsoka - EP 03 1080P</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e26fb751503b0894f58400690e9b325526aa3aa7$nome=T01:  Ahsoka - EP 03 4K</link>
-			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
-			<genre>Ficção Cientifica, Fantasia</genre>
-		</item>
-		<item>
-			<title>T01:  Ahsoka - EP 04</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f3a35ecda61c9306a34c5213dcc76a1a0b573d8$nome=T01:  Ahsoka - EP 04 1080P</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e059db90efad9f16b345d52217e443f4bb6c47db$nome=T01:  Ahsoka - EP 04 4K</link>
-			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
-			<genre>Ficção Cientifica, Fantasia</genre>
-		</item>
-		<item>
-			<title>T01:  Ahsoka - EP 05</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3962c32501dd8ee0e239f9f85a92015fca1b3d28$nome=T01:  Ahsoka - EP 05 1080P</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ccebeb7df49162069cd1b88c0976afaa4740c4c$nome=T01:  Ahsoka - EP 05 4K</link>
-			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
-			<genre>Ficção Cientifica, Fantasia</genre>
-		</item>
-		<item>
-			<title>T01:  Ahsoka - EP 06</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe9b7fc28a4f9aacb9c5a4f604862304cce875d8$nome=T01:  Ahsoka - EP 06 1080P</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67df640acccb55079939314a789ee740a1020d66$nome=T01:  Ahsoka - EP 06 4K</link>
-			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
-			<genre>Ficção Cientifica, Fantasia</genre>
-		</item>
-		<item>
-			<title>T01:  Ahsoka - EP 07</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1176cacd7e61994116134b6aa1f1d83228c0fabd$nome=T01:  Ahsoka - EP 07 1080P</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:287733870710908d5f66fcc8d91f1b07f4dc373c$nome=T01:  Ahsoka - EP 07 4K</link>
-			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
-			<genre>Ficção Cientifica, Fantasia</genre>
-		</item>
-		<item>
-			<title>T01:  Ahsoka - EP 08</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05f464d9f4250529de48e407f65816a0bf6d678c$nome=T01:  Ahsoka - EP 08 1080P</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7e45c91cec30dd58434e88441de97189929590a$nome=T01:  Ahsoka - EP 08 4K</link>
-			<fanart>https://www.themoviedb.org/t/p/original/lbJG35jQE6erMW68YmQ1moE8TZQ.jpg</fanart>
-			<genre>Ficção Cientifica, Fantasia</genre>
-		</item>
-	</items>
-</channel>
-	
-	
-	<channel>
-	<name>Sintonia</name>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/6146fdy0RxZgs5soMCMlxNIfksF.jpg</fanart>
-	<genre>Drama, Crime</genre>
-	<date>09.08.2021</date>
-	<studio>NETFLIX</studio>
-	<info>Criados juntos na quebrada de São Paulo, três jovens amigos correm atrás de seus sonhos rodeados por música, drogas e religião.</info>
-	<items>
-		<item>
-			<title>T01 : Sintonia</title>Sintonia
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6c1bb67db4ec38777613d3b6fb6e6ad8dfc6295</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/87yr3e0eXGKbvmCgjxIjFaBQIRx.jpg</thumbnail>
-		</item>
-		<item>
-			<title>T02 : Sintonia </title>Sintonia
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:457f8903fa674eef55f4901a06ac5cf386962a36</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/87yr3e0eXGKbvmCgjxIjFaBQIRx.jpg</thumbnail>
-		</item>
-		<item>
-			<title>T03 : Sintonia</title>Sintonia
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f35c18c7fdd579b373a1a75a0c031da628805b7c</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/87yr3e0eXGKbvmCgjxIjFaBQIRx.jpg</thumbnail>
-		</item>
-		<item>
-			<title>T04 : Sintonia</title>Sintonia
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H3ZVAM77KICW6GHOK6N4W32MJPDBFNUZ&dn=Sintonia%20S04%202023%20WEB-DL%201080p%20x264%20FULLHD%20NACIONAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/87yr3e0eXGKbvmCgjxIjFaBQIRx.jpg</thumbnail>
-		</item>
-	</items>
-</channel>
-	
-	
 	<channel>
 	<name>Justified: Cidade Primitiva</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mEqRQ7HeraCuC69cmcBWZQi6xBJ.jpg</thumbnail>
