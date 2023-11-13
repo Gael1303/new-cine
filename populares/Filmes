@@ -1,1065 +1,656 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-<SetViewMode>54</SetViewMode>
+	<SetViewMode>495</SetViewMode>
 	<item>
-		<title>Gran Turismo – De Jogador a Corredor</title>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OC23LO2VBO62OA6EO3FGUZJA5ZV7WAUW&dn=Gran%20Turismo%20-%20De%20Jogador%20a%20Corredor%202023%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<title>Missão: Impossível – Acerto de Contas Parte 1 [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a6ddf53745d7c105491ae85214a1dd3716b8532</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/628Dep6AxEtDxjZoGP78TsOxYbK.jpg</fanart>
+		<genre>Ação, Thriller</genre>
+		<info>Ethan Hunt e sua equipe embarcam em sua missão mais perigosa: rastrear uma nova arma aterrorizante que ameaça toda a humanidade antes que caia em mãos erradas. Com o controle do futuro e o destino do mundo em jogo e as forças sombrias do passado de Ethan se aproximando, uma corrida mortal ao redor do globo começa. Confrontado por um inimigo misterioso e todo-poderoso, Ethan é forçado a considerar que nada pode importar mais do que sua missão – nem mesmo a vida daqueles com quem ele mais se importa.</info>
+		<date>13.07.2023</date>
+		<studio>APPLE TV+</studio>
+	</item>	
+	-------------------------------------------
+	 <item>
+		<title>Five Nights at Freddy’s: O Pesadelo Sem Fim [COLOR gray](2023)[/COLOR] [COLOR gray][Leg][/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z4OvWTJY56fOyuQWfbZhNPMWX9N.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg</fanart>
+		<genre>Terror, Suspense</genre>
+		<date>26.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2d94833474e5afe13b9b7e2fdcb6c5efa26bccb</link>
+		<info>Enquanto passa sua primeira noite no trabalho, um problemático guarda de segurança da Pizzaria Freddy Fazbear logo percebe que não será uma tarefa fácil sobreviver ao seu primeiro turno.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Som da Liberdade [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab6c010e6daf13149ef3dd4b0b83672c536f8046</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w1000_and_h563_face/o4SBV32WdZZOd9mV9ng7zUUWG70.jpg</fanart>
+		<genre>Suspense</genre> / 
+		<rate>7.8</rate> / 
+		<date>21.09.2023</date> / 
+		<duration>7860</duration>
+		<studio>PRIME VIDEO</studio>
+		<info>A história de Tim Ballard, um ex-agente do governo dos EUA, que largou seu emprego para dedicar sua vida a resgatar crianças de traficantes sexuais globais.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Os Mercenários 4 [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98e7cfe00a8ebbc028fbf71e093f97eb459b69b8</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg</fanart>
+		<genre>Ação, Aventura, Thriller</genre>
+		<rate>5.2</rate>
+		<date>21.09.2023</date>
+		<duration>6180</duration>
+		<studio>LIONSGATE</studio>
+		<info>Os Mercenários enfrentam um traficante de armas que comanda o poder de um enorme exército privado.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Velozes e Furiosos 10 [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:814e0c7a62d9a225074f852a75eb35a0c8375111</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nxrmpkwVdmiVAiRTqSSC2SateN2.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/cEyhk8tZWubni71M6plwLMQFOIX.jpg</fanart>
+		<genre>Ação, Crime, Thriller</genre>
+		<rate>7.0</rate>
+		<date>18.05.2023</date>
+		<duration>8520</duration>
+		<info>Ao longo de muitas missões e contra probabilidades impossíveis, Dom Toretto e sua família foram mais espertos, mais nervosos e superaram todos os inimigos em seu caminho. Agora, eles enfrentam o oponente mais letal que já enfrentaram: uma ameaça terrível emergindo das sombras do passado, alimentada por vingança de sangue e determinada a destruir esta família e destruir tudo - e todos - que Dom ama, para sempre. .</info>
+	</item>
+    -------------------------------------------
+	 <item>
+		<title>Jogos Mortais X [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74cc65461f07acc5f529578284e7a637843d4786&dn=Jogos.Mortais.X.2023.1080p.WEB-DL.EAC3.AAC.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dZbLqRjjiiNCpTYzhzL2NMvz4J0.jpg</fanart>
+		<info>Entre os eventos de “Jogos Mortais” e “Jogos Mortais II”, um doente e desesperado John Kramer viaja para o México para um arriscado e experimental procedimento médico na esperança de uma cura milagrosa para seu câncer — apenas para descobrir que toda a operação é uma farsa para fraudar os mais vulneráveis. Armado com um propósito recém-descoberto, o infame assassino em série retorna ao seu trabalho, virando a mesa contra os vigaristas em sua maneira visceral característica por meio de armadilhas tortuosas, perturbadas e engenhosas.</info>
+		<genre>Crime, Terror, Thriller</genre>
+		<rate>7.4</rate>
+		<date>28.09.2023</date>
+		<duration>7200</duration>
+	</item>
+	<item>
+		<title>O Protetor: Capitulo Final [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3206a0e3bcfc625c8327fdbb1b3e943dbdb56760&dn=O%20Protetor%20-%20Capitulo%20Final%202023%201080p%20WEB-DL%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xVHBEX96zMjMw0YExFWsKW9Er1i.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg</fanart>
+		<genre>Ação, Thriller, Crime</genre>
+		<rate>6.9</rate>
+		<date>10.05.2023</date>
+		<duration>6540</duration>
+		<info>Sentindo-se em casa no sul da Itália, o ex-agente Robert McCall logo descobre que seus novos amigos estão sob o controle dos chefes do crime local. À medida que os acontecimentos se tornam mortais, McCall sabe o que tem de fazer: tornar-se o protetor dos seus amigos, enfrentando a máfia.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>A Freira 2 [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39db6bb3bada15e9958228a6f6a8fd924a6d2856</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/2yjrmdQwYIVWlhCSWD5ZeI7F6zK.jpg</fanart>
+		<genre>Terror, Mistério, Thriller</genre> / 
+		<rate>6.7</rate> / 
+		<date>07.09.2023</date> / 
+		<duration>6600</duration>
+		<studio>PRIME VIDEO</studio>
+		<info>Quatro anos após os acontecimentos na abadia de St. Carta, a Irmã Irene [COLOR gray](Taissa Farmiga)[/COLOR] regressa mais uma vez e depara-se com a força demoníaca de Valak, a Freira [COLOR gray](Bonnie Aarons)[/COLOR].</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>A Chamada [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6f9e700bd0ca5202f56c710343efa6d16502a1c</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cvWrqNrCeoaqBm2ST5hAP2igngA.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/tUlUdP04nDWsy372myIHuA2qdNv.jpg</fanart>
+		<genre>Suspense, Ação</genre>
+		<date>24.08.2023</date>
+		<duration>5460</duration>
+		<studio>AMAZON</studio>
+		<info>Com seus filhos presos no banco de trás e uma bomba que explodirá se eles saírem do carro, um trajeto normal se torna um jogo distorcido de vida ou morte enquanto Matt Turner segue as instruções cada vez mais perigosas de um estranho em uma corrida contra o tempo para salvar sua família.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Missão Babilônia [COLOR gray](2008)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hv5pWWC6wNBz3HRAWk3QXV8pHU8.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wVTvfxz53pDqrIvbrxhVdKcLhip.jpg</fanart>
+		<genre>Ação, Aventura, Ficção científica, Thriller</genre>
+		<date>28.08.2008</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6247282617401b2d9f89ce25b07f5bd3f7f8a9f3</link>
+		<info>Toorop é um mercenário que segue como código de sobrevivência o lema matar ou morrer. Ele é contratado para escoltar Aurora, que vive em um convento no Cazaquistão, para Nova York. Juntamente com a irmã Rebeka, protetora de Aurora, eles atravessam o território conhecido como a "nova Rússia" para chegar ao estreito de Bhering, por onde pretendem entrar na América do Norte.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>After: Para Sempre [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jxb7NBx8jjqxiz3MIE3KMyqp45d.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/zzK0HDEswyhHFDFWlPz6HdgXKH5.jpg</fanart>
+		<genre>Romance, Drama</genre>
+		<date>14.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aaf88f0c860762fcedf8a31e987a732722f1e507</link>
+		<info>Hardin não para de pensar na sua relação conturbada com Tessa. Vítima de um bloqueio criativo, o jovem escritor resolve fazer as malas e partir para Lisboa, capital portuguesa, onde espera reencontrar a sua inspiração.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Gran Turismo: De Jogador a Corredor [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P5UKTEOC6K3ZM62VTIJHM6HXPX3LHPL3&dn=Gran%20Turismo%20-%20De%20Jogador%20a%20Corredor%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5ma2TOWO9BkK7zyc0R2dZOIWuaA.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/3wtifTCVwqSyXF924FLkRpVRjYw.jpg</fanart>
-		<genre>Ação, Drama, Aventura</genre> / <rate>7.5</rate> / <aired>2023/08/25</aired> / <duration>8100</duration>
-		<info>[I]De Jogador a Corredor.[/I]
-
-Baseado na história de Jann Mardenborough, e relata a trajetória de um jogador de videogame que utilizou suas habilidades nos simuladores para se tornar um piloto profissional de verdade.</info>
+		<genre>Ação, Drama, Aventura</genre>
+		<rate>7.5</rate>
+		<date>25.08.2023</date>
+		<duration>8100</duration>
+		<studio>APPLE TV+</studio>
+		<info>Baseado na história de Jann Mardenborough, e relata a trajetória de um jogador de videogame que utilizou suas habilidades nos simuladores para se tornar um piloto profissional de verdade.</info>
 	</item>
-------------------------
-<item>
-		<title>Besouro Azul</title>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08724f4114c335035c03466b2c6a9c859c672782</link>
-		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gA6sEygZlszxZZZTR5jD9rfleZO.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg</fanart>
-		<genre>Ação, Ficção científica</genre> / <rate>6.9</rate> / <aired>2023/08/17</aired> / <duration>7620</duration>
-		<info>[I]Jaime Reyes é um super-herói, quer ele goste ou não.[/I]
-
-Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.</info>
-	</item>
---------------------------------
-<item>
-		<title>Ninguém Vai Te Salvar</title>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91d6bc9a5956bc50d0fa91d3b1d1d6322db884a6$nome=1080P LEGENDADO</link>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf28fa39c07d17745b1228bf821b140415efb40d$nome=720P LEGENDADO</link>
-		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/zYlgqIpqJ1VAbvFhRhktAzIybVs.jpg</fanart>
-		<genre>Terror, Ficção científica, Thriller</genre> / <rate>6.7</rate> / <aired>2023/09/22</aired> / <duration>5580</duration>
-		<info>[I]Mais de 1.65 milhões de lares são invadidos por ano. Esta invasão é diferente.[/I]
-
-Brynn é uma jovem talentosa que vive isolada pela sua comunidade. Solitária, mas cheia de esperança, ela se refugia na casa onde cresceu, até o dia em que é despertada por barulhos estranhos que só podem ser oriundos de invasores alienígenas. O que se desenrola a partir daí é um duelo incessante entre Brynn e os seres extraterrestres que ameaçam seu futuro enquanto a obrigam a encarar seu passado.</info>
-	</item>
-----------------------------------------------------------------------------  
-<item>
-		<title>Elementos</title>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cf06a540ca1e1b34ea796bdf03fed2aa279b178</link>
+	-------------------------------------------
+	 <item>
+		<title>Elementos [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed20ebd0a4950d10b79fe018268502055084c98a</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cveXFCRCrxdARM3Gel0pRCKsssJ.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/it7yPSgca2VEJyXAqgjfaccgvJm.jpg</fanart>
-		<genre>Animação, Comédia, Família, Fantasia, Romance</genre> / <rate>7.2</rate> / <aired>2023/06/15</aired> / <duration>6120</duration>
-			<info>"[I]Os opostos se atraem.[/I]"
+		<genre>Animação, Comédia, Família, Fantasia, Romance</genre>
+		<rate>7.2</rate>
+		<date>15.06.2023</date>
+		<duration>6120</duration>
+		<info>Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Patrulha Canina: Um Filme Superpoderoso [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uzqjYjnnA3fpXFvd4JfMEc1fBhj.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/zgQQF04u3OgNBJqClRNby1FPz9s.jpg</fanart>
+		<genre>Animação, Família, Ação, Ficção científica</genre>
+		<date>05.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:980d11cf51b15a9e5e775138a946e8e8101afacb</link>
+		<info>Um meteoro mágico cai em Adventure City, dá superpoderes aos filhotes da Patrulha Canina e os transforma em Os Super Filhotes. Quando o arquirrival da Patrulha Canina, Humdinger, foge da prisão e se junta a um cientista maluco para roubar os poderes para si, Os Super Filhotes devem salvar Adventure City e deter os supervilões antes que seja tarde demais.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Besouro Azul [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81ba02dd4e9b4971ae8be003ba5643932c8d8c73</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gA6sEygZlszxZZZTR5jD9rfleZO.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg</fanart>
+		<genre>Ação, Ficção científica</genre>
+		<rate>6.9</rate>
+		<date>17.08.2023</date>
+		<duration>7620</duration>
+		<info>Jaime Reyes, um adolescente de origem mexicana que encontra um artefato alienígena que lhe dá um exoesqueleto mecanizado e poderes, tornando-o no Besouro Azul.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Ninguém Vai Te Salvar [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91d6bc9a5956bc50d0fa91d3b1d1d6322db884a6</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/zYlgqIpqJ1VAbvFhRhktAzIybVs.jpg</fanart>
+		<genre>Terror, Ficção científica, Thriller</genre>
+		<rate>6.7</rate>
+		<date>22.09.2023</date>
+		<duration>5580</duration>
+		<info>Brynn é uma jovem talentosa que vive isolada pela sua comunidade. Solitária, mas cheia de esperança, ela se refugia na casa onde cresceu, até o dia em que é despertada por barulhos estranhos que só podem ser oriundos de invasores alienígenas. O que se desenrola a partir daí é um duelo incessante entre Brynn e os seres extraterrestres que ameaçam seu futuro enquanto a obrigam a encarar seu passado.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Barbie [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad812e83054324ebdc9ed2560889a1a4571bb4fd</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg</fanart>
+		<genre>Comédia, Aventura, Fantasia</genre>
+		<rate>7.8</rate>
+		<date>20.07.2023</date>
+		<duration>6720</duration>
+		<info>No mundo mágico das Barbies, "Barbieland", uma das bonecas começa a perceber que não se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no "mundo real", onde descobre que a beleza está no interior de cada um.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Homem-Aranha: Através do Aranhaverso [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg</fanart>
+		<genre>Animação, Ação, Aventura</genre>
+		<date>01.06.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:996a18a1e2786c7aeacadd70e126f87cdb0dbcb5</link>
+		<info>Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Desperation Road [COLOR gray](2023)[/COLOR] [Leg]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/tPyj6Gii1HrnzCbJXEF7JdSFkQ8.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/aOQvHB4cWx8MREpbJ963tvUuYW4.jpg</fanart>
+		<genre>Ação, Crime, Drama, Thriller</genre>
+		<date>06.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed87de580e3a092afff9263438fc1624c3d20133</link>
+		<info>Um thriller Noir, ambientado em uma cidade difícil e turbulenta do Mississippi, onde uma mulher e sua filha são apanhadas no fogo cruzado quando uísque, armas e o desejo de vingança se cruzam violentamente.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Transformers: O Despertar das Feras [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg</fanart>
+		<genre>Ação, Aventura, Ficção científica</genre>
+		<date>06.06.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fc9dd9fe03b4454ffd24ce099d54c420f441ba7</link>
+		<info>Nesta aventura cheia de adrenalina, Optimus Prime e os Autobots enfrentam seu maior desafio até agora. Quando uma nova ameaça capaz de destruir todo o planeta surge, eles devem se unir a uma poderosa facção conhecida como os Maximals. Com o destino da humanidade em jogo, Noah [COLOR gray](Anthony Ramos)[/COLOR] e Elena [COLOR gray](Dominique Fishback)[/COLOR] farão o que for preciso para ajudar os Transformers na batalha final para salvar a Terra.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Megatubarão 2 [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/klGKGITBYYyTiHrph1VDSgGULOR.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg</fanart>
+		<genre>Ação, Ficção científica, Terror</genre>
+		<date>03.08.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f781135236ec7d5480ebc58ebb1b0ad5137c99</link>
+		<info>Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Super Mario Bros.: O Filme [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg</fanart>
+		<genre>Animação, Família, Aventura, Fantasia, Comédia</genre>
+		<date>05.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ad8dabec387da716d75bc9b2f41d302c4d7b136</link>
+		<info>Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Fale Comigo [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tIhfkc52XQnxzbMYeV9XK90NTG.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/iIvQnZyzgx9TkbrOgcXx0p7aLiq.jpg</fanart>
+		<genre>Terror, Thriller</genre>
+		<date>17.08.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45c6c436feb24f5440d5d68c1d3eae36f030621a</link>
+		<info>Quando um grupo de amigos descobre como conjurar espíritos usando uma antiga mão embalsamada, eles ficam viciados na nova emoção. Até que um deles vai longe demais e abre a porta para o mundo espiritual.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Mortal Kombat Legends: Cage Bom de Luta [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qx6DPthpaAZEUfcKaAoP3OL3aW2.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/p0IejE15lzXBGhRTpKoHPsSrHf7.jpg</fanart>
+		<genre>Animação, Ação, Fantasia</genre>
+		<date>17.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8496d625b34fa444dfdeff595644aa3ee9f10b8e</link>
+		<info>Na Hollywood dos anos 1980, o astro de ação Johnny Cage está procurando se tornar um ator do primeiro escalão. Mas, quando sua companheira, Jennifer, desaparece do set, ele se vê jogado em um mundo cheio de sombras e perigo. Ao embarcar em uma jornada sangrenta, Johnny rapidamente descobre que a Cidade dos Anjos tem mais do que alguns demônios em seu meio. Ele enfrenta uma sinistra sociedade secreta tramando um esquema nefasto, mas a luta brutal contra os guerreiros sanguinários de Netherrealm está apenas começando.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Destinos à Deriva [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJonRBSvmX3TEGhxSHooGmJa4GG.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/lUIAlOzNVKunMHo7lFDqH8eGsWK.jpg</fanart>
+		<genre>Thriller, Drama</genre>
+		<date>29.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f75022c9acdd5f88795f1b448f7b34633165fcf</link>
+		<info>Mia (Anna Castillo) é uma mulher grávida que se esconde em um contêiner para fugir de um país totalitário com o marido. Separada dele à força, ela precisa lutar pela sobrevivência quando uma violenta tempestade a atira ao mar. Sozinha e à deriva no meio do oceano, Mia fará o impossível para salvar a vida da filha e reencontrar o companheiro.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Quando O Mal Chega [COLOR gray](2023)[/COLOR] [Leg]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iQ7G9LhP7NRRIUM4Vlai3eOxBAc.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/92LX2nflnkxHtmV2WRb4I4lSXsY.jpg</fanart>
+		<genre>Terror</genre>
+		<date>09.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12c9ed9ad4738e4ad68eccc774178aa15705d537</link>
+		<info>Em uma vila remota, dois irmãos encontram um homem possuído por demônios prestes a dar à luz ao mal encarnado. Eles decidem se livrar do sujeito, mas acabam apenas espalhando o caos.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>O Atirador: Resposta Global e Equipe Tática [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v7mXgXpNZYYPVBo6sqdxjIhQIsb.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/bGQyu8H6q20ZRxqr3z65kE17QPA.jpg</fanart>
+		<genre>Ação, Thriller</genre>
+		<date>26.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48f35311eafb66683116a53d82286f7dfacb3ea8</link>
+		<info>Quando um culto terrorista internacional ameaça a estabilidade política global e sequestra um colega agente, Ace Sniper Brandon Beckett e a recém-formada Equipe de Resposta e Inteligência Global – ou GRIT – liderada pelo Coronel Stone devem viajar pelo mundo até Malta, infiltrar-se no culto e elimine seu líder para libertar Lady Death e deter a ameaça global.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>O Espadachim [COLOR gray](2020)[/COLOR] [Leg]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r08U3dwiOeStXcjYmfnRyumgKyq.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/5lmhjGvg5ddXbTXzeNJfU4qpIeh.jpg</fanart>
+		<genre>Ação, Drama, História</genre>
+		<date>23.09.2020</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef83772733c234a0a1992d4baf67cd68008ca34c</link>
+		<info>Tae-yeul, um espadachim na casa dos trinta sai para encontrar sua única filha depois de perder um de seus olhos. MIN Seung-ho, o melhor espadachim da Dinastia Joseon escolhe uma vida simples e comum depois de perceber a natureza transitória do poder. Gurutai, o melhor espadachim da Dinastia Qing, aspira a se tornar o melhor mesmo na Dinastia Joseon.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Ressurreição do Mal [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7q6OFowMWFABPY7fyJMuHI0upBj.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/qCiZ46Kzd2xbE5TuAVPEExxNeRQ.jpg</fanart>
+		<genre>Terror, Ficção científica</genre>
+		<date>27.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2dd7166963a1a5af1ef3b441528c4ee99a6547</link>
+		<info>Em um futuro distópico, o Vaticano possui o conhecimento de ressuscitar pessoas. No entanto, um padre descobre uma teia de conspiração e assassinatos ligada a estes aparentes milagres.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Viva: A Vida é uma Festa [COLOR gray](2017)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/askg3SMvhqEl4OL52YuvdtY40Yb.jpg</fanart>
+		<genre>Família, Animação, Fantasia, Música, Comédia, Aventura</genre>
+		<date>04.01.2017</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69c68d516348be7ed355437e1680cea191baeddd</link>
+		<info>O aspirante a músico Miguel, deve lidar com sua família que desaprova seu sonho, acaba entrando na Terra dos Mortos para encontrar seu trisavô, um cantor lendário.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>John Wick 4: Baba Yaga [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fgw4rFs4XMWdJTWp1eMacHKQqbZ.jpg</fanart>
+		<genre>Ação, Thriller, Crime</genre>
+		<date>23.03.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:655e12bc64229f2345be2258a8080142ba460d68</link>
+		<info>Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.</info>
+	</item>
+	-------------------------------------------
+	 <item>
+		<title>Cercados [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/53zYYgWqxxmTaMlsIfiCWCLRwJf.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jCZufaJZpgrujKLjzH6HfgQf0de.jpg</fanart>
+		<genre>Faroeste, Ação, Drama</genre>
+		<date>20.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a72341e7d5c34b64f22410e4760ec2b5acff09e</link>
+		<info>Em busca de uma mina de ouro, a ex-soldado Mo Washington vai ao oeste americano. Quando uma emboscada a faz sequestrar um bandido, uma batalha no ambiente selvagem se inicia.</info>
+	</item>
+	-------------------------------------------
+	<item>
+		<title>The Flash [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aba3727b2ea3539d635346e397e32c20970c41d5</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itYONYDHpJqTuu8BCXAtHxgpglq.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/yF1eOkaYvwiORauRCPWznV9xVvi.jpg</fanart>
+		<genre>Ficçao científica, Açao, Aventura</genre>
+		<rate>7.5</rate>
+		<date>15.06.2023</date>
+		<duration>8580</duration>
+		<info>Acompanhe as aventuras do homem mais veloz do planeta, o cientista da Central City Police Barry Allen, que após um tragico acidente adquire o poder da velocidade.</info>
+	</item>
+---------------------------
 
-Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.</info>
-		</item>
----------------------------------------------------------------------------- 
-         <item>
-			<title>Barbie</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad812e83054324ebdc9ed2560889a1a4571bb4fd</link>
-			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg</thumbnail>
-			<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg</fanart>
-			<genre>Comédia, Aventura, Fantasia</genre> / <rate>7.8</rate> / <aired>2023/07/20</aired> / <duration>6720</duration>
-				<info>"[I]Ela é tudo. Ele é só o Ken.[/I]
-
-No mundo mágico das Barbies, "Barbieland", uma das bonecas começa a perceber que não se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no "mundo real", onde descobre que a beleza está no interior de cada um.</info>
-			</item>
----------------------------- 
 <item>
-				<title>Megatubarão 2</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0fdefff808fcdb4cbcd0f8ce11a4c78e82fb55d</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sTEPkhEZVKP6Aptr4Mh6EEIU1Zb.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/zN41DPmPhwmgJjHwezALdrdvD0h.jpg</fanart>
-				<genre>Ação, Ficção científica, Terror</genre> / <rate>5.5</rate> / <aired>2023/08/03</aired> / <duration>6960</duration>
-				<info>"[I]Novo mega. Mesma presa.[/I]"
-
-Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.</info>
-			</item>
-----------------------------------------------------------------------------
+		<title>O Assassino [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/mkEQgdQcvmxSYvY4bMhabxLjjXY.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/tJtPeE1fR6VQot8Fg1pg852ESJU.jpg</fanart>
+		<genre>Crime, Thriller</genre>
+		<date>10.11.2023</date>
+		<year>2023</year>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06591a15b2e79b588f3f66c22efb9c0f5d300052</link>
+		<info>Depois de um erro desastroso, um assassino enfrenta quem o contratou e a si mesmo em uma caçada internacional por vingança. Mas ele jura que nada disso é pessoal.</info>
+	</item>
+---------------------------------
 <item>
-				<title>Homem-Aranha: Através do Aranhaverso</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac411085e7d000c683b84399c28842df1ed3e880</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6a7NItazspSV8Fl7u46ccxwPKk4.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/dlebyCnmdwXtJfHNicBYhudz5EJ.jpg</fanart>
-				<genre>Ação, Aventura, Animação, Ficção científica</genre> / <rate>9.1</rate> / <aired>2023/06/01</aired> / <duration>8400</duration>
-				<info>"[I]É como você usa a máscara que importa[/I]"
-
-Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.</info>
-			</item>
----------------------------- 
-<item>
-				<title>Guardiões da Galáxia: Vol. 3</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5YQU4V4VSTLJSUYKBFLKCUW6KKKZXDVX&dn=Guardi%C3%B5es%20da%20Gal%C3%A1xia%20Vol.%203%202023%20WEB-DL%201080p%20x264%20IMAX%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/kFT75BloJlTFIxWZ6xHdpVysVKW.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg</fanart>
-				<genre>Ficção científica, Aventura, Ação</genre> / <rate>8.3</rate> / <aired>2023/05/04</aired> / <duration>9000</duration>
-				<info>"[I]Mais uma vez com sentimento.[/I]"
-
-Peter Quill, que ainda está a recuperar da perda de Gamora, tem que reunir a sua equipa para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.</info>
-			</item>
+		<title>O Padeiro [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lsKpCe7lZtDP2XoVVBrt5jDsEka.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/usKCKmo1UcVsz0t3NNbkPXCmyk1.jpg</fanart>
+		<genre>Ação, Drama, Crime, Thriller</genre>
+		<date>27.07.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0a0beb5cd173bfe42209008d44c31eff22d6807</link>
+		<info>Um homem quieto e estóico, vive uma existência de monge em um exílio auto-imposto. Quando seu filho afastado é morto em um negócio de drogas que deu errado, ele fica encarregado de cuidar de uma neta que ele nunca soube que existia e é forçado a voltar a uma vida que tentou deixar para trás.</info>
+	</item>
+	<item>
+		<title>A Noite das Bruxas [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9UAc4DF4oEObQk4sz4sNeHI4waY.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/kHlX3oqdD4VGaLpB8O78M25KfdS.jpg</fanart>
+		<genre>Mistério, Thriller, Crime</genre>
+		<date>14.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:127e6a10f0839460c32e522a7b812a53ff6ee4e2</link>
+		<info>O célebre detetive Hercule Poirot, agora aposentado e vivendo em exílio auto imposto em Veneza, relutantemente participa de uma sessão de Halloween em um palazzo decadente e mal-assombrado. Quando um dos convidados é assassinado, o detetive é lançado em um mundo sinistro de sombras e segredos.</info>
+	</item>
+	-------------------------------------------
+	<item>
+		<title>A Pequena Sereia [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d30787b4d6b1d8020e72fff9a1539613c9655b0c</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/znUYFf0Sez5lUmxPr3Cby7TVJ6c.jpg</fanart>
+		<genre>Aventura, Família, Fantasia, Romance</genre>
+		<date>25.05.2023</date>
+		<duration>8100</duration>
+		<info>Ariel é uma curiosa sereia que deseja experimentar a vida em terra firme e, contra a vontade de seu pai, visita a superfície. Ariel se vê em uma inesperada jornada de autodescoberta ao encontrar um príncipe, uma bruxa do mar e um novo mundo incrível.</info>
+	</item>
+----------------------------------------------------------------------------  
+	<item>
+		<title>As Ladras [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wnLJ7nVObgbAD7cgF87XW1t9JT2.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9TNJvSIbK7s6jNKFZYvZcUM8rBM.jpg</fanart>
+		<genre>Comédia, Ação, Drama</genre>
+		<date>01.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e6cc1b037f1d2d65917610f1d6b5ac425faab4e</link>
+		<info>Cansada de viver se escondendo, uma ladra profissional decide se aposentar. Mas só depois de um último roubo com a parceira no crime e uma nova motorista para a fuga.</info>
+	</item>
+	-------------------------------------------------
+	<item>
+		<title>Guardioes da Galaxia: Vol. 3 [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5UJMYEG2B3N547KNN74WWWLSCCQUXQHX&dn=Guardi%C3%B5es%20da%20Gal%C3%A1xia%20Vol.%203%202023%20BluRay%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttkTwdSx21AB1EDastR6xwMC2PT.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg</fanart>
+		<genre>Ficçao científica, Aventura, Açao</genre>
+		<rate>8.3</rate>
+		<date>04.05.2023</date>
+		<duration>9000</duration>
+	</item>
 ------------------------------- 
-<item>
-				<title>Transformers: O Despertar das Feras</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N6URQGIY6ISUVGGJT4GPFOGRSX2AJ2MR&dn=Transformers%20-%20O%20Despertar%20das%20Feras%202023%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/woJbg7ZqidhpvqFGGMRhWQNoxwa.jpg</fanart>
-				<genre>Ação, Aventura, Ficção científica</genre> / <rate>7.1</rate> / <aired>2023/06/08</aired> / <duration>7800</duration>
-				<info>"[I]O poder é primordial.[/I]"
+   <item>
+		<title>Avatar: O Caminho da Água [COLOR gray](2022)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61e10c8e238c96c8d19a80d853c90a574602323a</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/94xxm5701CzOdJdUEdIuwqZaowx.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg</fanart>
+		<genre>Ficção científica, Ação, Aventura</genre>
+		<rate>8.4</rate>
+		<date>14.12.2022</date>
+		<duration>11520</duration>
+		<info>12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.</info>
+	</item>
+----------------------------
+	
+	<item>
+		<title>Homem-Aranha: Sem Volta Para Casa [COLOR gray](2021)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afa26f6a979036145055809dd016f25f1c5571a4</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t0fSUE2KsFNGXwui9knxd3XsW8n.jpg</thumbnail>
+		<info>Peter Parker e desmascarado e nao consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...</info>
+		<genre>Açao, Aventura, Ficçao científica</genre>
+		<date>16.12.2021</date>
+		<duration>8940</duration>
+	</item>
+-------------------------------------------------------------------------------
+	 <item>
+		<title>Gato de Botas 2: O Último Pedido [COLOR gray](2022)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4591ae7fcb08294c656305636c49aeda2e83adea</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65NBNqJiaHeCmqDqkCmrRplJXw.jpg</thumbnail>
+		<genre>Animaçao, Aventura</genre>
+		<rate>7.6</rate>
+		<date>07.12.2022</date>
+		<info>O Gato de Botas descobre que sua paixao pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada epica para encontrar o mítico Último Desejo e restaurar suas nove vidas.O Gato de Botas descobre que sua paixao pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada epica para encontrar o mítico Último Desejo e restaurar suas nove vidas.</info>
+	</item>
+-----------------------------------------
+	 <item>
+		<title>Liga da Justiça: Mundo Belico [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5DXBIOH6ZD6NTDTFJMUCF32BPAVCFR7&dn=Liga%20da%20Justi%C3%A7a%20-%20Mundo%20B%C3%A9lico%202023%20BluRay%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yxXOMGosmqgjFicfmde61wnwQQ4.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/kIMYSzp1fH1H9adKplekLD9BuNi.jpg</fanart>
+		<genre>Animaçao, Açao, Ficçao científica</genre>
+		<rate>7.7</rate>
+		<date>25.07.2023</date>
+		<duration>5400</duration>
+	</item>
+----------------------------------------------------------------------------
+	 <item>
+		<title>Missão de Sobrevivência [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1f8c7a1ab6e9b77cf61b3991f0938c37c60afe9</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ArDXxgsELJanwYDXd60MLTZDiSj.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg</fanart>
+		<genre>Ação, Suspense</genre>
+		<rate>6.7</rate>
+		<date>27.07.2023</date>
+		<duration>7200</duration>
+		<info>Um agente disfarçado da CIA chamado Tom Harris, que está designado para o Oriente Médio. Um vazamento de inteligência expõe perigosamente sua missão secreta e revela sua identidade secreta. Preso no coração de um território hostil, Harris e seu tradutor devem lutar para sair do deserto e chegar a um ponto de extração em Kandahar, no Afeganistão, enquanto escapam das forças especiais de elite que os caçam.</info>
+	</item>
+----------------------------------------------------------------------------
+      <item>
+		<title>As Tartarugas Ninja: Caos Mutante [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a68e8ce70865fbfac988368d91dd6213f1eb141</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg</fanart>
+		<genre>Animação, Comédia, Ação</genre>
+		<rate>7.5</rate>
+		<date>31.08.2023</date>
+		<duration>6000</duration>
+		<info>"[I]Uma nova geração de heróis vai surgir... direto do esgoto.[/I]"
 
-Transformers: O Despertar das Feras traz mais uma aventura épica pelo universo dos transformers. Ambientada nos anos 1990, o filme apresentará os Maximals, Predacons e Terrorcons à batalha existente na Terra entre Autobots e Decepticons.</info>
-			</item>
----------------  
-<item>
-				<title>The Flash</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11f2deb07c2593af1250251715f321ba1f6fc7bd</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itYONYDHpJqTuu8BCXAtHxgpglq.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/yF1eOkaYvwiORauRCPWznV9xVvi.jpg</fanart>
-				<genre>Ficção científica, Ação, Aventura</genre> / <rate>7.5</rate> / <aired>2023/06/15</aired> / <duration>8580</duration>
-				<info>"[I]Os mundos colidem...[/I]"
-
-Acompanhe as aventuras do homem mais veloz do planeta, o cientista da Central City Police Barry Allen, que após um trágico acidente adquire o poder da velocidade.</info>
-			</item>
------------------------------
+Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para ganhar os corações dos nova yorkinos e serem aceitos como adolescentes normais através de seus atos heroicos. Sua nova amiga, April O’Neil, vai ajudá-los a derrotar um misterioso sindicado do crime, mas eles logo se veem em maus lençóis quando um exército de mutantes vai atrás deles.</info>
+	</item>
+----------------------------------
+     <item>
+		<title>Guerreiro Virtual [COLOR gray](2021)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f4de45f90d90be5c13c5289357b3817038f0fc3</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5ITRvcMqKUETNskzw2mcU6C9k6d.jpg</thumbnail>
+		<genre>Açao</genre>
+		<date>17.09.2021</date>
+		<duration>4920</duration>
+		<info>Após a morte de sua esposa, o guarda-costas profissional Lung Wei foi para o exterior para encontrar médicos para sua filha, mas em vez disso encontrou um novo emprego como testador de realidade virtual.</info>
+	</item>
+---------------------------------------------------------------------------------------
+      <item>
+		<title>Ruby Marinho: Monstro Adolescente [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b480d979f59c828e2d6576eae5612fc0b5d476c</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ioCuhiUs0SW5UgembG0UiQZWPLY.jpg</fanart>
+		<genre>Animaçao, Família, Fantasia, Comedia</genre>
+		<rate>7.7</rate>
+		<date>29.06.2023</date>
+		<duration>5460</duration>
+		<info>Uma adolescente tímida descobre que faz parte de uma lendária linhagem real dos míticos krakens do mar e que seu destino, nas profundezas dos oceanos, é maior do que ela jamais sonhou.</info>
+	</item>
+----------------------------------------------------------------------------
+     <item>
+		<title>Drácula: A Última Viagem do Deméter [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb9680316e37c25041e168a74deb98f431d3c77e</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail>
+		<genre>Suspense, Terror</genre>
+		<rate>7.3</rate>
+		<date>24.08.2023</date>
+		<duration>7200</duration>
+		<info>inspirado na icônica lenda do vampiro Drácula, acompanhamos a terrível história do navio Deméter, que foi fretado para transportar cargas particulares. Estranhos eventos acontecem à tripulação, que tenta sobreviver à viagem oceânica, perseguidos todas as noites por uma presença impiedosa a bordo do navio. Quando o Deméter finalmente chega à costa, é apenas um navio carbonizado e abandonado. Não há vestígios da tripulação. A trama se baseia em um único capítulo do livro clássico de Bram Stoker.</info>
+	</item>
+------------------------
  <item>
-				<title>A Última Fonte</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QEJJ6TK5J3GKI467BU54TGI3WJC2OU3Z&dn=A%20%C3%9Altima%20Fonte%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q2SPbWtkYdB7k5YZlJ6J4vjr1yO.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/wbNm4ShryprgwY9QIlEZU6JIcr1.jpg</fanart>
-				<genre>Crime, Mistério, Suspense</genre> / <rate>7.7</rate> / <aired>2023/07/06</aired> / <duration>7020</duration>
-				<info>Baseado nos romances do escritor colombiano Mario Mendoza e no personagem do detetive Frank Molina, as filmagens de Los Initiados aconteceram em Bogotá. Na saga de Frank Molina, que utiliza os livros Lady Massacre, La melancolia de los feos, El diario del fin del mundo e Akelarre, é contada a história de um investigador particular alcoólatra que desvenda tramas sinistras no submundo de Bogotá.</info>
-			</item>
----------------------------------------------------------------------------- 
-<item>
-				<title>Sisu</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A24ZOBP4D3YS2QNMOFA75R2G4YD5MQTU&dn=Sisu%202023%20BluRay%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lEEemfOwbQMddF4qXtcAXyuxYcV.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg</fanart>
-				<genre>Ação, Guerra</genre> / <rate>7.5</rate> / <aired>2023/01/27</aired> / <duration>5460</duration>
-				<info>"[I]A vingança é de ouro.[/I]"
-
-Nas profundezas do deserto da Lapônia, Aatami Korpi está em busca de ouro. De vez em quando, o sobrevoo de bombardeiros e os sons distantes da guerra podem ser ouvidos na noite de outono. Finalmente, o trabalho árduo é recompensado e o pó de ouro na panela se transforma em pedaços de ouro, e Aatami sai para levar seu tesouro de ouro para a cidade mais próxima. Depois que ele se depara com a patrulha nazista liderada pelo SS Obersturmführer Bruno Helldorf, começa uma perseguição de tirar o fôlego e faminta por ouro através do deserto destruído e minado da Lapônia.</info>
-			</item>
+		<title>Terror nas Profundezas [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZZFTMqbQaP59yGTqKOcfqVE7NC.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dvNrgldueQciabkYmlCnyhmaPoO.jpg</fanart>
+		<genre>Terror, Thriller, Ação</genre>
+		<date>03.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:718fdd6c569c6b7413a9a5a6d9a552d220af7f5e</link>
+		<info>Navegando sozinha pelo Caribe num barco a vela, uma mulher enfrenta perigos dentro e fora d'água quando sua viagem se torna uma luta por sobrevivência.</info>
+	</item>
+	<item>
+		<title>Divertida Mente [COLOR gray](2015)[/COLOR]</title>
+		<genre>Animaçao</genre>
+		<date>18.06.2015</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afd873000770c4a7054c999d83f49a3d2303ff9c</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg</thumbnail>
+		<info>Com a mudança para uma nova cidade, as emoçoes de Riley, que tem apenas 11 anos de idade, ficam extremamente agitadas. Uma confusao na sala de controle do seu cerebro deixa a Alegria e a Tristeza de fora, afetando a vida de Riley radicalmente.</info>
+	</item>
+	<item>
+		<title>Miraculous: As Aventuras de Ladybug – O Filme [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WQYAKLL2OX6R5BOED7VIHCLKLVVJARSR&dn=Miraculous%20-%20As%20Aventuras%20de%20Ladybug%20-%20O%20Filme%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eZEKKCNW0vI7B7AZNdCAeq2mMAw.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/zstT0SRr6TZtfuj6WTigEGda9P1.jpg</fanart>
+		<genre>Animaçao, Família, Açao, Fantasia, Romance</genre>
+		<rate>6.2</rate>
+		<date>28.07.2023</date>
+		<duration>6420</duration>
+	</item>
 ----------------------------------------------------------------------------
 <item>
-				<title>O Pacto</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90628fff1f7cc4f330db2850f6ed979c530db222</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/eTvN54pd83TrSEOz6wbsXEJktCV.jpg</fanart>
-				<genre>Guerra, Ação, Thriller</genre> / <rate>7.5</rate> / <aired>2023/06/23</aired> / <duration>7380</duration>
-				<info>"[I]Um vínculo. Uma promessa. Um compromisso.[/I]"
-
-Um sargento do Exército é resgatado de uma missão no Afeganistão pelo seu intérprete. Naquela que seria a sua última missão no estrangeiro, Kinley fica à beira da morte mas sobrevive graças a Ahmed, que o protege e o carrega por quilometros a fim de garantir a sua segurança. Sem se lembrar muito bem do que aconteceu, o sargento apenas sabe que quando o homem se encontra em risco de vida, como a sua família, é a sua verdadeira missão retribuir o favor e ajudá-lo a sobreviver.</info>
-			</item>
-----------------------------------------------------------------------------
- 
-<item>
-				<title>Frio nos Ossos</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:R46FKCA4Y4IIHWA35XXV76PASFR4THKG&dn=Frio%20nos%20Ossos%202023%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttPNKyqXv3kK92tCw4zI7tjOaOn.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/uqyjO3wzR7Kj2WL4bMiUljiEM29.jpg</fanart>
-				<genre>Terror, Crime, Thriller</genre> / <rate>6.9</rate> / <aired>2023/03/11</aired> / <duration>5580</duration>
-				<info>"[I]Uma mãe sempre protege sua família.[/I]"
-
-Uma mãe, seu marido deficiente e sua filha adolescente têm seu cotidiano simples e isolado perturbado quando dois criminosos em fuga tentam se refugiar em sua casa. Mas mal sabem eles dos segredos escondidos nesta casa.</info>
-			</item>
+		<title>Que Horas Eu Te Pego? [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38e470e539a2e8d7272edc173a3fc73b6381e9c1</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/en47PkDX8IhtQA3i1MYslx8eH91.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/cKE9qZqYtF4jimf0GFOqKfy7NEU.jpg</fanart>
+		<genre>Comédia, Romance</genre>
+		<rate>6.9</rate>
+		<date>15.06.2023</date>
+		<duration>6180</duration>
+		<info>Uma jovem falida é contratada para namorar um adolescente introvertido e socialmente desajeitado, que está se preparando para a faculdade.</info>
+	</item>
 ---------------------------------------------------------------------------- 
- 
 <item>
-				<title>Resgate 2</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdb75b2a2afc66971a2f0f797a0e04bc1cd89767</link>
-				<thumbnail>https://www.themoviedb.org/t/p/original/oGkAWRPg3dqG2HMUyWfdEI5jgkf.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/wRxLAw4l17LqiFcPLkobriPTZAw.jpg</fanart>
-				<genre>Ação, Thriller, Crime</genre> / <rate>8.1</rate> / <aired>2023/06/16</aired> / <duration>7380</duration>
-				<info>"[I]Prepare-se para a missão da sua vida[/I]"
-  
-Depois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma missão perigosa: resgatar a família de um criminoso implacável. </info>
-			</item>
+		<title>Dungeons & Dragons: Honra Entre Rebeldes [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QJA7IFZ5UUUFR5NEU3475LQBVP32YVQU&dn=Dungeons%20%26%20Dragons%20-%20Honra%20Entre%20Rebeldes%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6LuXaihVIoJ5FeSiFb7CZMtU7du.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fh7aM10THQzivGU7kAkgKrgzot4.jpg</fanart>
+		<genre>Ação, Aventura, Fantasia, Comédia</genre>
+		<date>13.04.2023</date> / <duration>8040</duration>
+		<info>Em um mundo repleto de dragões, elfos, anões, orcs e outras criaturas fantásticas, sobreviver é sempre um grande desafio. Raven Hightower é um humano que se arrisca entre os lugares mais perigosos e misteriosos desse universo, sempre com a ajuda de outros aventureiros que, assim como ele, estão dispostos a combater o mal e a derrotar as mais terríveis criaturas que surgem em seus caminhos.</info>
+	</item>
+---------------------------------------------------------------------------- 
+<item>
+		<title>Resgate 2 [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdb75b2a2afc66971a2f0f797a0e04bc1cd89767</link>
+		<thumbnail>https://www.themoviedb.org/t/p/original/oGkAWRPg3dqG2HMUyWfdEI5jgkf.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wRxLAw4l17LqiFcPLkobriPTZAw.jpg</fanart>
+		<genre>Ação, Thriller, Crime</genre> / <rate>8.1</rate> / <date>16.06.2023</date> / <duration>7380</duration>
+		<info>Depois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma missão perigosa: resgatar a família de um criminoso implacável. </info>
+	</item>
 ---------------------------
  <item>
-				<title>John Wick 4: Baba Yaga</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:655e12bc64229f2345be2258a8080142ba460d68</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ns9CNHY25J18rEsTjGTPd0Ui9tf.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/shaz5Y1GA1hy9BtgHij6gd0AcY0.jpg</fanart>
-				<genre>Ação, Thriller, Crime</genre> / <rate/> / <aired>2023/03/23</aired> / <duration>9540</duration>
-				<info>"[I]Sem caminho de volta, uma saída[/I]"
-
-Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.</info>
-			</item>
--------------------------------
- <item>
-				<title>Desaparecida</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f0eb0c19225b5ff82777595d1c10f733287fa24</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fcJmqffmemRv9Eb2ZOkeqM5h5MO.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/A5JyEZvXHbPLN2cU65oB9NaIuYH.jpg</fanart>
-				<genre>Suspense, Misterio</genre> / <rate>7.5</rate> / <aired>2023/03/02</aired> / <duration>6660</duration>
-				<info>"[I]Ninguém desaparece sem deixar vestígios.[/I]"
-
-Quando sua mãe desaparece durante uma viagem de férias na Colômbia com seu novo namorado, a busca de June por respostas. Presa há milhares de quilômetros em Los Angeles, June faz uso dos recursos tecnológicos para tentar encontrá-la. Mas quanto mais fundo ela cava, mais questões surgem; e quando se depara com segredos de sua mãe, descobre que talvez nunca tenha conhecido sua mãe de verdade.</info>
-			</item>
+		<title>Encanto [COLOR gray](2021)[/COLOR]</title>
+		<genre>Animaçao</genre>
+		<date>25.11.2021</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:810057628863215d5d8eb7acc2e660308673dbcc</link>
+		<thumbnail>https://br.web.img3.acsta.net/pictures/21/09/29/18/02/2861381.jpg</thumbnail>
+		<info>O filme e centrado em uma jovem garota e sua familia na America Latina, em que todos tem poderes magicos, infelizmente a garota nao tem poderes. Uma garota chamada Mirabel Madrigal cresce como o unico membro nao magico de sua familia, que vivem escondidos em uma vibrante casa encantada nas montanhas da Colombia.</info>
+	</item>
+	<item>
+		<title>Agente Stone [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BI22JXXB442DQSGRGWMVADTTSF4FH5L&dn=Agente%20Stone%202023%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EpaPaKozP2b8L1hJekBFI75gCm.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xVMtv55caCEvBaV83DofmuZybmI.jpg</fanart>
+		<genre>Suspense, Ação</genre> / <rate>5.2</rate> / <date>09.08.2023</date> / <duration>7500</duration>
+		<info>Rachel Stone é uma agente de inteligência, a única mulher que se interpõe entre sua poderosa organização global de manutenção da paz e a perda de seu ativo mais valioso - e perigoso.</info>
+	</item>
 ----------------------------------------------------------------------------
  <item>
-				<title>Renfield: Dando o Sangue Pelo Chefe</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb1f188618250c8969fcc307f947e12360f6283a</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nnryxxmgS17IBKvu23Hpg1mimZU.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/e7FzphKs5gzoghDotAEp2FeP46u.jpg</fanart>
-				<genre>Terror, Comédia, Fantasia</genre> / <rate>6.7</rate> / <aired>2023/04/27</aired> / <duration>5580</duration>
-				<info>Renfield, o sofrido ajudante do chefe mais narcisista da história, Drácula, é forçado a encontrar as vítimas para seu mestre e fazer tudo o que ele lhe pede, qualquer que seja o grau de degradação da ordem recebida. Mas agora, depois de séculos de servidão, Renfield está pronto para descobrir se há vida lá fora, para além da sombra do Príncipe das Trevas. Se pelo menos ele puder descobrir como dar fim à sua dependência dele.</info>
-			</item>
-----------------------------------------------------------------------------  
- 
- <item>
-				<title>Super Mario Bros.: O Filme</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ad8dabec387da716d75bc9b2f41d302c4d7b136</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg</fanart>
-				<genre>Animação, Aventura, Família, Fantasia, Comédia</genre> / <rate>7.5</rate> / <aired>2023/04/05</aired> / <duration>5520</duration>
-				<info>Mario é um encanador junto com seu irmão Luigi. Um dia, eles vão parar no reino dos cogumelos, governado pela Princesa Peach, mas ameaçado pelo rei dos Koopas, que faz de tudo para conseguir reinar em todos os lugares.</info>
-			</item>
------------------------------
-<item>
-				<title>A Mãe</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7IEHT3DUDVA537YYB7KUHVVWI757FRL3&dn=A%20M%C3%A3e%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5VrZJdiSduRuCkFcJlNDM2uaZEr.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/v3Xjb8Nhf2CLC3MQr9a6rXmvQG6.jpg</fanart>
-				<genre>Ação, Thriller</genre> / <rate>7.3</rate> / <aired>2023/05/12</aired> / <duration>6900</duration>
-				<info>Perseguida por inimigos perigosos, uma assassina foragida sai do esconderijo para proteger a filha que abandonou anos atrás.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Air: A História Por Trás do Logo</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7YWL4C45TMRRSFPQ4MPZPKPE5ENZEUDV&dn=Air%20-%20A%20Hist%C3%B3ria%20Por%20Tr%C3%A1s%20do%20Logo%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8OGQCOp6BxwvekhZBQCzVd77Y6l.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/z7IE0Le0g6sRnzuB2VnR2QbbIcP.jpg</fanart>
-				<genre>Drama, Historia</genre> / <rate>7.7</rate> / <aired>2023/05/12</aired> / <duration>6720</duration>
-				<info>A história do esforço da Nike para contratar o astro do basquete em ascensão Michael Jordan para sua empresa de calçados em meados da década de 1980, um endosso que parecia impossível na época, mas que, graças ao vendedor de tênis independente Sonny Vaccarro, se tornaria o relacionamento mais significativo entre uma marca atlética e um atleta de todos os tempos.</info>
-			</item>
-----------------------------------------------------------------------------
-  
-  <item>
-				<title>A Morte do Demônio: A Ascensão</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4CXSDBWOSW2LY6EZ7NRWE4DMRZV5LYM&dn=A%20Morte%20do%20Dem%C3%B4nio%20-%20A%20Ascens%C3%A3o%202023%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg</fanart>
-				<genre>Terror, Thriller</genre> / <rate>7.5</rate> / <aired>2023/04/20</aired> / <duration>5760</duration>
-				<info>"[I]Mamãe te ama até morrer.[/I]"
-
-Duas irmãs distantes cujo reencontro é interrompido por demônios devoradores de carne que aparecem de repente, levando-as a uma batalha primal pela sobrevivência, enfrentando a versão mais assustadora que se possa imaginar de uma família.</info>
-			</item>
-----------------------------------------------------------------------------  
-  
-<item>
-				<title>Pânico VI</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XN5V6TYYAI57G6LY5UBQI5VSV7EB7WES&dn=P%C3%A2nico%20VI%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oWPBXgmRxFIeo9Ad4EUye8JWs7v.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/b4bqBLvP0qdoWaarPGHMlnNznKD.jpg</fanart>
-				<genre>Terror, Mistério, Thriller</genre> / <rate>7.1</rate> / <aired>2023/03/09</aired> / <duration>7380</duration>
-				<info>"[I]Nova York. Novas regras.[/I]"
-  
-Sam, Tara, Chad e Mindy, os quatro sobreviventes do massacre realizado pelo Ghostface, decidem deixar Woodsboro para trás em busca de um novo começo em uma cidade diferente. Mas não demora muito para eles se tornarem alvo de um novo serial killer mascarado.</info>
-			</item>
-----------------------------------------------------------------------------  
-<item>
-				<title>Pânico</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d40ee8e9c947ae804289ca1b81d51f425bdacd2</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oadFpqhJ26yxqIlYcGioZ2W3EHN.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/v1PuxThVwlpaxP3s99XuuZA5HX0.jpg</fanart>
-				<genre>Terror, Mistério, Thriller</genre> / <rate>6.6</rate> / <aired>2022/01/13</aired> / <duration>6840</duration>
-				<info>"[I]É sempre alguém que você conhece.[/I]"
-
-Vinte e cinco anos após uma série de crimes brutais chocar a tranquila Woodsboro, um novo assassino se apropria da máscara de Ghostface e começa a perseguir um grupo de adolescentes para trazer à tona segredos do passado mortal da cidade.</info>
-			</item>
----------------------------------------------------------------------------- 
-<item>
-				<title>Esquema de Risco: Operação Fortune</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62d4bdd0810ba09ae25f05ea42c1a62c299fae95</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fLxXvMcpsK8fGKguP3wZ7Urb2ao.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/7TdVWAO7vV9j1OLDq1hQJS3pb4U.jpg</fanart>
-				<genre>Ação, Thriller, Comédia</genre> / <rate>6.7</rate> / <aired>2023/01/12</aired> / <duration>6840</duration>
-				<info>O agente secreto Orson Fortune e seus companheiros recrutam uma das maiores estrelas de Hollywood para ajudá-los em uma missão importante - e arriscada. Quando a venda de uma nova tecnologia de armamento mortal ameaça perturbar a ordem mundial, todos os recursos se mostram necessários para combater esse inimigo.</info>
-			</item>
----------------------------------  
-<item>
-				<title>Ghosted: Sem Resposta</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5RI26DO4VFI5RJVWP6U6YZ52L5FPMIVD&dn=Ghosted%20-%20Sem%20Resposta%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/9ynjn4vuWxBtGSpTrzf69demjhv.jpg</fanart>
-				<genre>Romance, Ação, Comédia</genre> / <rate>7.2</rate> / <aired>2023/04/20</aired> / <duration>7200</duration>
-				<info>O corretíssimo Cole se apaixona pela enigmática Sadie, mas logo enfrenta a chocante descoberta de que ela é uma agente secreta. Antes que eles possam decidir se terão ou não um segundo encontro, Cole e Sadie são arrastados para uma aventura internacional para salvar o mundo.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Não! Não Olhe!</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIDKFUVRT2VOQOBBB3YIGNQU23S3JUFT&dn=N%C3%A3o%20N%C3%A3o%20Olhe%202022%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg</fanart>
-				<genre>Terror, Mistério, Ficção científica, Thriller</genre> 2022 <rate>7.5</rate>
-				<aired>2022/07/20</aired>
-				<duration>7200</duration>
-				<originaltitle>NOPE</originaltitle>
-				<info>Os residentes de uma ravina solitária do interior da Califórnia testemunham uma descoberta estranha e assustadora vinda do céu.</info>
-			</item>
---------------------------------------------------
-<item>
-				<title>Sorria</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65726944c9f5adc33a7d4331d2930482779b1409</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/mVNPfpydornVe4H4UCIk7WevWjf.jpg</fanart>
-				<genre>Terror, Mistério, Thriller</genre>
-				<aired>2022/09/23</aired>
-				<duration>6900</duration>
-				<info>Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dra. Rose Cotter começa a vivenciar eventos assustadores que ela não consegue explicar.</info>
-			</item>
------------------------------------
-<item>
-				<title>M3GAN </title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb2b3e8e7d743ef0ed481f18936f9d29e0fea301</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7CNCv9uhqdwK7Fv4bR4nmDysnd9.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/dlxzUj7z1MqEcFiwvvrj0bvBKDY.jpg</fanart>
-				<genre>Terror/Ficção científica/Thriller</genre> / <rate>7.0</rate> / <aired>2023/01/06</aired> / <duration>6120</duration>
-				<info>Uma brilhante roboticista de uma empresa de brinquedos usa inteligência artificial para desenvolver M3GAN, uma boneca realista programada para se relacionar emocionalmente com sua sobrinha recém-órfã. Mas quando a programação da boneca funciona muito bem, ela se torna superprotetora de sua nova amiga... com resultados aterrorizantes.</info>
-			</item>
-----------------------------------------------------------------------------   
-<item>
-				<title>A Baleia</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08f050071fa310795a7b0dbb129cf2902cc16a28</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/pux5yTjmL1yGjBuhzdBStuQb6jc.jpg</fanart>
-				<genre>Drama</genre> / <rate>7.5</rate> / <aired>2023/02/23</aired> / <duration>6960</duration>
-				<info>Um professor de inglês recluso que sofre de obesidade severa tenta se reconectar com sua filha adolescente distante para uma última chance de redenção.</info>
-			</item>
+		<title>Ruim pra Cachorro [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hfSkDDJiCf6cJpd4R9O9lM1T6hz.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/1HzL603WOer58xtnrRYdSIL5K04.jpg</fanart>
+		<genre>Comédia, Aventura</genre>
+		<date>28.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f495c7b78c878236c66e5292865a9e176debc675</link>
+		<info>Quando Reggie, um Border Terrier ingênuo e implacavelmente otimista, é abandonado nas ruas da cidade por seu dono, Doug, Reggie tem certeza de que seu amado dono nunca o deixaria de propósito.</info>
+	</item>
 -------------------------------------------
 <item>
-				<title>A Queda</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d4fd38127758ab0ba795647e2895c7cd3d4e752</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sjnijtgU3Khzou1S9412V30pP7L.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/1DBDwevWS8OhiT3wqqlW7KGPd6m.jpg</fanart>
-				<genre>Thriller</genre>
-				<aired>2022/08/11</aired>
-				<duration>6420</duration>
-				<info>Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.</info>
-			</item>
----------------------------------------------------------------------------- 
+		<title>O Sequestro [COLOR gray](2023)[/COLOR]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k5vgkmlaOSDOMqgKPUhWBXEYTpR.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/uvB7yVdkFXiij0A3vE8xPb0N51y.jpg</fanart>
+		<genre>Drama, Thriller</genre>
+		<date>03.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5f38f31f1351d61fac9f6e1efe3ac189a4b42d9</link>
+		<info>Julio Levy retorna do exílio político para assumir um cargo nos grandes negócios da família quando seu irmão mais velho, como outros argentinos, é sequestrado. Encarregado de organizar o resgate e com todo o peso da família sobre os ombros, Julio descobre as forças que ainda operam por trás da recém-recuperada democracia argentina. Ele então inicia uma luta desfavorecida contra o sistema vigente.</info>
+	</item>
+	<item>
+		<title>O Protetor [COLOR gray](2014)[/COLOR]</title>
+		<duration>7800</duration>
+		<genre>Açao, Suspense</genre>
+		<date>25.09.2014</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0549da92dc3af0352f4701aec449b959a655d4ff</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/xTSOdJ0Ljs439lnKB7NsWlTibZN.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wHytVsfAZsVDAcABd6iQGmE2j29.jpg</fanart>
+		<info>O ex-agente secreto Robert McCall acredita que seu passado ficou para tras e tenta viver uma nova vida. Porem, quando ele conhece Teri, uma jovem que esta em poder de uma quadrilha russa, ele simplesmente nao consegue ignora-la. Munido de suas extraordinarias habilidades, ele ressurge como um verdadeiro anjo vingador. Fora da aposentadoria e com um novo desejo de fazer justiça, McCall decide ajudar quem foi brutalizado e oprimido.</info>
+	</item>
+---------------------------------------
 <item>
-				<title>Shazam! Fúria dos Deuses</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8302a774f06023fb38bd443dacae8cfb2fa0f44</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5D0piyKxJMDd7h4zR5sQU72dUzI.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/vn4vwKXiqpcmThenluyWhxMvTQK.jpg</fanart>
-				<genre>Ação, Comédia, Fantasia</genre> / <rate>6.8</rate> / <aired>2023/03/16</aired> / <duration>7800</duration>
-				<info>"[I]Ó. Meus. Deuses![/I]"
-
-Continua a história do adolescente Billy Batson que, ao recitar a palavra mágica “SHAZAM!”, é transformado em seu alto ego adulto de super-herói, Shazam.</info>
-			</item>
-----------------------------------------------------------------------------
+		<title>Homem-Formiga e a Vespa: Quantumania [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feffd8044594b2663198a8f1bc479f411e32947c</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg</fanart>
+		<genre>Aventura, Ficção científica, Comédia</genre> / <rate>7.0</rate> / <date>10.02.2023</date> / <duration>7500</duration>
+		<info>Scott Lang e Hope van Dyne em suas jornadas como super-heróis. Scott e sua família são puxados para o Reino Quântico, onde eles precisarão enfrentar um novo e terrível vilão: Kang, o Conquistador e M.O.D.O.K..</info>
+	</item>
+------------------------------------
 <item>
-				<title>Tudo Em Todo O Lugar Ao Mesmo Tempo</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c490f97f49055af4927b2b23197eecc15c7d014&dn=Tudo%20em%20Todo%20o%20Lugar%20ao%20Mesmo%20Tempo%202022%20BluRay%201080p%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fd0SHLE9xQD2odct8OBxt4r7cSu.jpg</thumbnail>
-				<genre>Ação, Aventura, Comédia</genre>
-				<rate>8.8</rate>
-				<aired>2022/05/17</aired>
-				<duration>8340</duration>
-				<info>Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisará salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.</info>
-			</item>
-----------------------  
-<item>
-				<title>A Lenda do Cavaleiro Verde</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ec6527d3874d61be50ffd3e990c07c7a95346b1</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uEBz75PgdWLZ6KvVyzYn4xKJnrK.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/al0aXl47cWkf4jnKuPiEZtjWT8j.jpg</fanart>
-				<genre>Aventura, Drama, Fantasia</genre> / <rate>7.1</rate> / <aired>2022/01/21</aired> / <duration>7500</duration>
-				<info>"[I]Quando a honra era tudo.[/I]"
-
-Gawain embarca em uma missão ousada para enfrentar o Cavaleiro Verde, um ser misterioso que apareceu em Camelot com um desafio enigmático. Arriscando sua cabeça, ele encontra fantasmas, gigantes, ladrões e enganadores em uma aventura épica.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>O Pior Vizinho do Mundo</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b08c274a06a80b4e9bd14a6b81fb0fbac479e8d7</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/v2LilmCylr3bL9TCZSj6syjowZh.jpg</fanart>
-				<genre>Comédia, Drama</genre> / <rate>7.3</rate> / <aired>2022/12/30</aired> / <duration>7500</duration>
-				<info>A história de Otto Anderson, um viúvo mal-humorado que está muito preso aos seus hábitos. Quando uma jovem família animada se muda ao lado, ele conhece sua igual em Marisol, esperta e grávida, o que leva a uma amizade improvável que vai deixar o mundo de Otto de cabeça para baixo.</info>
-			</item>
-----------------------------------------------------------------------------  
-<item>
-				<title>Gato de Botas 2: O Último Pedido</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a473ca64418feff64808ebe17474e785b3ebc416</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65NBNqJiaHeCmqDqkCmrRplJXw.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg</fanart>
-				<genre>Animação/Aventura</genre> / <rate>7.6</rate> / <aired>2022/12/07</aired> / <duration>6120</duration>
-				<info>O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.</info>
-			</item>
------------------------------------------
-<item>
-				<title>Mistério em Paris</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69f5bc7d5ad1990737471e2e8df422ac079e2630</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pf1dQDb55mJ13KQMEYa4O0fni64.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/AwB7HGeDTrBGkP2WEnNwg8Wa0E4.jpg</fanart>
-				<genre>Comédia, Mistério, Ação</genre> / <rate>6.6</rate> / <aired>2023/03/31</aired> / <duration>5400</duration>
-				<info>Agora detetives particulares e donos de uma agência, Nick e Audrey Spitz se envolvem em uma investigação internacional após o sequestro de um amigo.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>O Menu</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9e57df142c8ae555366cfd8d8229eb88fa2e654</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qE4FZQiaQcKo9mYuqu2SwLIgbwG.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/1AVgrULJOujYOCu1PzbhPeWCADk.jpg</fanart>
-				<genre>Suspense/Terror/Comédia</genre> / <rate>7.5</rate> / <aired>2022/11/17</aired> / <duration>6420</duration>
-				<info>Um casal viaja para uma ilha costeira para comer em um restaurante exclusivo onde o chef preparou um cardápio farto, com algumas surpresas chocantes.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Avatar: O Caminho da Água</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61e10c8e238c96c8d19a80d853c90a574602323a</link>
-				<thumbnail>https://www.themoviedb.org/t/p/original/94xxm5701CzOdJdUEdIuwqZaowx.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg</fanart>
-				<genre>Ficção científica, Ação, Aventura</genre> / <rate>8.4</rate> / <aired>2022/12/14</aired> / <duration>11520</duration>
-				<info>"[I]Aonde nós formos, esta família é a nossa fortaleza.[/I]"
-
-12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.</info>
-			</item>
-----------------------------
-<item>
-				<title>Aterrorizante 2</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa9aa0eb08ba91623fdeeb23d6d3ca4335ab6313</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNdlzMaWQXDr85G3usSwwg6wYmJ.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/2Ft4xmWa1Edgj2P1OYmoSAoYRqz.jpg</fanart>
-				<genre>Terror</genre> / <rate>6.2</rate> / <aired>2022/12/29</aired> / <duration>8400</duration>
-				<info>Terrifier 2 se passa um ano depois do primeiro filme. Acordando no necrotério após seu massacre na noite de Halloween do ano passado, Art the Clown (David Howard Thornton) está de volta no tempo para o Dia da Reforma! Desta vez, ele está de olho na jovem Sienna (Lauren LaVera) e seu irmão mais novo, Jonathan (Elliott Fullam). Porque é Halloween mais uma vez e a sede de assassinato do sinistro malabarista deve ser satisfeita. A fantasia caseira de Halloween de Sienna e sua trágica história familiar têm uma conexão misteriosa com os assassinatos que o homem de pesadelo com a fantasia de palhaço cometerá novamente naquela noite.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>O Telefone Preto</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac155b8f60d1cdc6cff4a392a78c07f40577c570</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cIh164JVqUGwVc5fkHsMKkfi9aV.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/h9zyS1LrufwLI9FyhiPjPWsppEK.jpg</fanart>
-				<genre>Terror, Thriller</genre>
-				<rate>7.4</rate>
-				<aired>2022/05/29</aired>
-				<duration>6120</duration>
-				<info>Finney Shaw, um menino tímido, mas inteligente, de 13 anos, é sequestrado por um assassino sádico e preso em um porão à prova de som, onde gritar é de pouca utilidade. Quando um telefone desconectado na parede começa a tocar, Finney descobre que pode ouvir as vozes das vítimas anteriores do assassino. E eles estão determinados a garantir que o que aconteceu com eles não aconteça com Finney.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Tetris</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82d9a4ff51b7989881cce476cb135fea957656cb</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/4avmIRBBOs9b4DKoenf8SWWJJP7.jpg</fanart>
-				<genre>História, Drama, Thriller</genre> / <rate>7.4</rate> / <aired>2023/03/15</aired> / <duration>7020</duration>
-				<info>Em 1988, o vendedor americano de vídeo games Henk Rogers descobre o Tetris. Quando ele se propõe a levar o jogo para o mundo e se depara com uma perigosa teia de mentiras e corrupção por trás da Cortina de Ferro</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>X: A Marca da Morte</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:139e83864245731f67fd74adee27f9bc1cfdddd1</link>
-				<thumbnail>https://www.themoviedb.org/t/p/original/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/70Rm9ItxKuEKN8iu6rNjfwAYUCJ.jpg</fanart>
-				<genre>Terror</genre>  6.6 <aired>2022/04/13</aired>
-				<duration>6900</duration>
-				<info>‎Em 1979, um grupo de jovens cineastas começou a fazer um filme adulto na zona rural do Texas, mas quando seus anfitriões reclusos e idosos os pegam no ato, o elenco se encontra‎ lutando por suas vidas.‎</info>
-			</item>
------------------------
-<item>
-				<title>Trem-Bala</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:644a730ee0cbc4b66a6c1578b5ad04716f10dff0</link>
-				<thumbnail>https://www.themoviedb.org/t/p/original/6moyjAEMV9OZ3EurotIX0mPiK6y.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/pdD47rPAYKVdPasoyhSAFPIFIWo.jpg</fanart>
-				<genre>Ação, Comédia, Crime</genre>
-				<rate>7.5</rate>
-				<aired>2022/07/03</aired>
-				<duration>7620</duration>
-				<info>5 assassinos da máfia japonesa se encontram à bordo de um trem-bala que faz o trajeto entre as cidades Tóquio até Morioka com poucas paradas. Assim, a tensão entre esse grupo de habilidosos e mortais profissionais só aumentam quando eles descobrem a presença um do outro e começam a entrar em conflito em si.</info>
-			</item>
--------------------------------------
-<item>
-				<title>Creed III</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UP62MPRSQX65EACHVVSTDJWGVMRUIBBL&dn=Creed%20III%202023%201080p%20FULL%20WEB-DL%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1qvuETSpeB02PvwUhwt2HwKAbbp.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/26YLjaC1udGEmSvlM1P5eBGWO5h.jpg</fanart>
-				<genre>Drama, Ação</genre> / <rate>7.5</rate> / <aired>2023/03/02</aired> / <duration>6960</duration>
-				<info>"[I]Você não pode fugir do seu passado.[/I]"
-
-Depois de dominar o mundo do boxe, Adonis Creed tem prosperado em sua carreira e vida familiar. Quando um amigo de infância e ex-prodígio do boxe, Damien Anderson, ressurge depois de cumprir uma longa sentença na prisão, ele está ansioso para provar que merece sua chance no ringue. O confronto entre ex-amigos é mais do que apenas uma briga. Para acertar as contas, Adonis deve colocar seu futuro em risco para lutar contra Damien - um lutador que não tem nada a perder.</info>
-			</item>
+		<title>Creed III [COLOR gray](2023)[/COLOR]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UP62MPRSQX65EACHVVSTDJWGVMRUIBBL&dn=Creed%20III%202023%201080p%20FULL%20WEB-DL%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1qvuETSpeB02PvwUhwt2HwKAbbp.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/26YLjaC1udGEmSvlM1P5eBGWO5h.jpg</fanart>
+		<genre>Drama, Ação</genre> / <rate>7.5</rate> / <date>02.03.2023</date> / <duration>6960</duration>
+		<info>Depois de dominar o mundo do boxe, Adonis Creed tem prosperado em sua carreira e vida familiar. Quando um amigo de infância e ex-prodígio do boxe, Damien Anderson, ressurge depois de cumprir uma longa sentença na prisão, ele está ansioso para provar que merece sua chance no ringue. O confronto entre ex-amigos é mais do que apenas uma briga. Para acertar as contas, Adonis deve colocar seu futuro em risco para lutar contra Damien - um lutador que não tem nada a perder.</info>
+	</item>
 -------------------------------------------
-<item>
-				<title>Adão Negro</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8483ba53d4ecf509442073b493f7168e9f2f1a7a</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg</fanart>
-				<genre>Ação, Ficção</genre> / 2022 / <rate>7.3</rate> / <aired>2022/10/20</aired> / <duration>7500</duration>
-				<info>Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.</info>
-			</item>
-----------------------------------------
-<item>
-				<title>Anônimo</title> -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:470b8a934f1448e9dba3d2bb62668bad6e2a5f05</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8ooU1cMApznZmMps6UCRsuSQPg6.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg</fanart>
-				<info>Quando dois ladrões invadem sua casa no subúrbio uma noite, Hutch se recusa a defender a si mesmo ou a sua família, na esperança de evitar violência grave. Seu filho adolescente, Blake, está desapontado com ele e sua esposa, Becca, parece se afastar ainda mais. Em consequência, o incidente acerta a raiva latente de Hutch, desencadeando instintos adormecidos e impulsionando-o em um caminho brutal que revelará segredos obscuros e habilidades letais para salvar sua família.</info>
-				<genre>Drama, Mistério, Suspense</genre>
-				<aired>2021/05/12</aired>
-				<duration>5520</duration>
-			</item>
-------------------------------------------
-<item>
-				<title>Top Gun: Maverick</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32b37bf92b92028f53c5aedffe9928239a2684d7</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/vvfjmGd4iypwE89e3ZkhEsTNQyH.jpg</fanart>
-				<genre>Ação, Drama</genre>
-				<aired>2022/05/23</aired>
-				<duration>7860</duration>
-				<info>Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.</info>
-			</item>
----------------------------------------------
-<item>
-				<title>65: Ameaça Pré-Histórica</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c72cb3249593f02af40602531673d4b719d6768</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uwAUZ2yD6mgQl2lhuEkRDpl5lmR.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/t1zhTutMcIaBh5WkWIUgnGeAcMV.jpg</fanart>
-				<genre>Thriller, Ficção científica, Ação</genre> / <rate>5.7</rate> / <aired>2023/03/09</aired> / <duration>5580</duration>
-				<info>Após um acidente catastrófico em um planeta desconhecido, o piloto Mills rapidamente descobre que está preso na Terra há 65 milhões de anos. Agora, com apenas uma chance de resgate, Mills e o único outro sobrevivente, Koa, devem atravessar um terreno desconhecido cheio de perigosas criaturas pré-históricas (incluindo dinossauros) em uma luta épica para sobreviver.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Velozes & Furiosos 9</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e10f70bc59f12be083c62583f60faf70860143a</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnAzaxRSiveFafudJtByxA7I2xT.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/sPcEMfuBifT2pfvc9eKf96ZS21Z.jpg</fanart>
-				<genre>Ação, Aventura, Crime, Thriller</genre> / <rate>5.1</rate> / <aired>2021/06/24</aired> / <duration>8700</duration>
-				<info>Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Batman</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e33cfee01191628e44c41e48f207cca3983dc1df</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/IYUD7rAIXzBM91TT3Z5fILUS7n.jpg</fanart>
-				<genre>Ação, Drama</genre>
-				<rate>9.1</rate>
-				<votes>9.1</votes>
-				<aired>2022/03/03</aired>
-				<duration>10200</duration>
-				<info>Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como a personificação da vingança para a população.</info>
-			</item>
-------------------------------------------------------------------------------
-<item>
-				<title>#Alive</title>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df1928015ab3467a5cc5d8d0ad1cf5de07915540</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/fUEv9INjh1HEdbD9BAExioSO65a.jpg</thumbnail>
-				<genre>Ação, Terror, Suspense</genre>
-				<aired>2020/06/24</aired>
-				<duration>5880</duration>
-				<info>Um vírus terrível destrói a cidade, e um homem se tranca no apartamento para sobreviver. Desconectado do mundo, ele tenta desesperadamente encontrar uma saída.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Homem-Aranha: Sem Volta Para Casa - Extendido</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afa26f6a979036145055809dd016f25f1c5571a4</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg</fanart>
-				<genre>Ação, Aventura, Ficção científica</genre> / 2021 / <rate>8.0</rate> / <aired>2021/12/16</aired> / <duration>8940</duration>
-				<studio>HBO MAX</studio>
-				<info>Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Noites Brutais</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:add57b8fb6a130a9fbf94da6ac1b07f2073fd149</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tA5OE1P8GAEuASNtus5zhJrooI4.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/67kTU8DU5YZYrBybH4gppqptZK9.jpg</fanart>
-				<genre>Terror, Mistério, Thriller</genre> / 2022 / <rate>7.5</rate> / <aired>2022/09/09</aired> / <duration>6180</duration>
-				<info>Chegando a Detroit para uma entrevista de emprego, uma jovem aluga uma casa. Mas quando chega tarde da noite, ela descobre que a casa já havia sido alugada e ocupada por um homem estranho. Contrariando seu bom senso, ela decide passar a noite, mas logo descobre que há muito mais a temer do que um simples inquilino inesperado.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Emancipation: Uma História de Liberdade</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4e85f65416f1fa30d8dd89b69418ddd93ac1462</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izTIOynukDcN9dp7uPlwBjHr8f5.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/jYFoJyZpuqRC2MrPiLY0pHDTxAZ.jpg</fanart>
-				<genre>Ação, Thriller, História, Drama</genre> 7.2 / <aired>2022/12/02</aired> / <duration>7920</duration>
-				<info>Peter, um escravo em fuga é forçado a despistar caçadores implacáveis e os pântanos impiedosos da Louisiana numa tortuosa jornada em direção ao Norte.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Órfã 2: A Origem</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08eea5c5a6e1e0e423afd42d8c0ceea257bd1dd7</link>
-				<thumbnail>https://www.themoviedb.org/t/p/original/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg </thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/ft1jH9Zrjx48obILr8NpgfvLYku.jpg</fanart>
-				<genre>Drama, Suspense, Terror</genre>
-				<aired>2022/08/19</aired>
-				<duration>5940</duration>
-				<info>Lena Klammer orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como "Esther" vem com uma ruga inesperada e a coloca contra uma mãe que protegerá sua família a qualquer custo. </info>
-			</item>
-------------------------  
-<item>
-				<title>Sing 2</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c90ef78db8b3a5164c4faaa30003e83eab7d26a8</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg</fanart>
-				<info>Buster Moon e seus amigos devem persuadir o astro do rock recluso Clay Calloway a se juntar a eles para a abertura de um novo show.</info>
-				<genre>Animation , Adventure , Comedy , Family , Musical</genre>
-				<aired>2022/01/06</aired>
-				<duration>6600</duration>
-			</item>
----------------------------------------------------------------------------
-<item>
-				<title>Red: Crescer é uma Fera</title>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca8d853ce4599092a5d8157630d33e91dc203384</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/iPhDToxFzREctUA0ZQiYZamXsMy.jpg</fanart>
-				<genre>Animação, Aventura, Comédia</genre>
-				<info>Conheça Mei: uma jovem que experiencia a estranheza de ser uma adolescente ao se transformar em um panda vermelho gigante toda vez que fica muito animada.</info>
-				<aired>2022/03/10</aired>
-				<duration>6000</duration>
-			</item>
-------------------------------------------------------------------------------
-<item>
-				<title>Luca</title>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e88d7e02bf184aab8760055ee01b2c64166ac5f7</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lk7QISmTam2iOzzUAQYs6voeFg.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg</fanart>
-				<info>Na Rivera Italiana, Luca vive aventuras com seu novo melhor amigo, mas a diversao e ameaçada por um segredo: seu amigo e um monstro marinho de outro mundo que fica abaixo da superficie da agua. A historia de um menino e seu amigo que parecem completamente humanos e normais quando estao fora d’agua, mas na verdade sao criaturas marinhas misteriosas. Suas vidas começam a mudar quando eles fazem amizade com uma jovem na superficie.</info>
-				<aired>2021/06/17</aired>
-				<duration>6060</duration>
-			</item>
----------------------------------------------------------------------------
-<item>
-				<title>Nós</title>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:932a98ff4483c953ce4eed11cde7a360cba16f18</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/5ncjQfUDr0oRKnfpdAXobJFbnao.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/ADJ6V8W96It4KElY2SPZvkKPBR.jpg</fanart>
-				<genre>Terror, Suspense</genre>
-				<aired>2019/03/21</aired>
-2019
-<duration>7200</duration>
-				<info>Adelaide e Gabe levam a família para passar um fim de semana na praia e descansar. Eles começam a aproveitar o ensolarado local, mas a chegada de um grupo misterioso muda tudo e a família se torna refém de seres com aparências iguais às suas.</info>
-			</item>
---------------------------------------------------------------------------
-<item>
-				<title>Fragmentado</title>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f787ff9933ff508f29201e5a94367ca2f7f6dfa</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ztYvYWpSpFtzM2w5MwsmNzzQbJg.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg</fanart>
-				<genre>Suspense</genre>
-				<aired>2017/03/12</aired>
-				<duration>7020</duration>
-				<info>Embora Kevin tenha revelado 23 personalidades a seu psiquiatra, uma ainda permanece submersa, pronta para se materializar e dominar todas as outras. Quando sua compulsão o força a raptar três adolescentes, Kevin vive uma guerra para sobreviver dentre os que habitam dentro dele, além dos outros em tono dele, à medida que as divisões que separam seus compartimentos começam a se despedaçar.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Minions</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:635ef188f23a8f54105232ffbe48c4741777878a</link>1
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/caq9Xi6b1sZNREfzFBO2tRIBzWn.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/pnUSd4ILEp5pYChRNxznuaupGrN.jpg</fanart>
-				<info> Seres amarelos milenares, os minions têm uma missao: servir os maiores viloes. Em depressao desde a morte de seu antigo mestre, eles tentam encontrar um novo chefe. Três voluntarios, Kevin, Stuart e Bob, vao ate uma convençao de viloes nos Estados Unidos e la se encantam com Scarlet Overkill (Sandra Bullock), que ambiciona ser a primeira mulher a dominar o mundo.</info>
-				<genre>Família, Animação, Aventura, Comédia</genre>
-				<aired>2015/07/26</aired>
-				<duration>5460</duration>
-			</item> 
------------------------------------------------------------------------------
-<item>
-				<title>Sonic: O Filme</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:190493835b9150df9199482d6ed7042d899f1ab8</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eOC0FSGqyzcnnx7XFgLazI9nACT.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg</fanart>
-				<info>Sonic, o porco-espinho azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs.</info>
-				<genre>Família, Animação, Aventura, Comédia</genre>
-				<aired>2020/02/13</aired>
-				<duration>6000</duration>
-			</item>
------------------------------------------------------------------------------
-<item>
-				<title>Demon Slayer: Mugen Train O Filme</title>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27844a520eb9cf8363e88c1d9007db179a9dc552</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m9cn5mhW519QKr1YGpGxNWi98VJ.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/qjGrUmKW78MCFG8PTLDBp67S27p.jpg</fanart>
-				<genre>Animação, Ação, Aventura, Fantasia</genre>
-				<info> Tanjiro Kamado, junto com Inosuke Hashibira, um garoto criado por javalis que usa uma cabeça de javali, e Zenitsu Agatsuma, um garoto assustado que revela seu verdadeiro poder quando dorme, embarca no Trem Infinito em uma nova missão com o Hashira de Fogo, Kyojuro Rengoku, para derrotar um demônio que tem atormentado o povo e matado os caçadores de oni que se opõem a ele!</info>
-				<aired>2020/10/16</aired>
-				<duration>7020</duration>
-			</item>
--------------------------------------------------------------------------------
-<item>
-				<title>Coringa</title>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/f5F4cRhQdUbyVbB5lTNCwUzD6BP.jpg</fanart>
-				<genre>Crime, Thriller, Drama</genre>
-				<info>Arthur Fleck (Joaquin Phoenix) e palhaço de profissao. Vive sozinho com a mae. Sonha ser comediante. Mas Gotham e uma cidade de caos e confusao, que ignora os solitarios. Arthur sente-se assim, ate conhecer a sensaçao de ser visto e admirado.</info>
----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9c8d0146ee3e92df7dfae4f4c2902915f3bdb1c</link>
-				<aired>2019/10/03</aired>
-				<duration>7320</duration>
-			</item>
---------------------------------------------------------------------------------
-<item>
-				<title>Superação: O Milagre da Fé</title>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/6jaNHf9ja84YG3KWMDK1nOnvGDg.jpg</fanart>
-				<info> John Smith, um menino de 14 anos, passeava com a familia em uma manha de inverno no Lago St Louis, no Missouri, quando, acidentalmente, sofreu uma queda e se afogou. Chegando ao hospital, John foi considerado morto por mais de 60 minutos ate que sua mae, Joyce Smith, juntou todas as suas forças e pediu a Deus para que seu filho sobrevivesse. Sua prece poderosa foi responsavel por um milagre inedito.</info>
----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ddd90b921fb1f9d0756267e23d9d3c68b625643</link>
-				<genre>Drama</genre>
-				<aired>2019/04/11</aired>
-				<duration>6960</duration>
-			</item>
-			<item>
-				<title>Alerta Máximo</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:520b14a98f08e203a09432823de693ac16624232</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w2E642MXqwQZkww4qiafIQcaJCE.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/jy82OESqwC1dtT406IHtRUbkrRZ.jpg</fanart>
-				<genre>Ação, Aventura, Thriller</genre> / <rate>6.8</rate> / <aired>2023/01/13</aired> / <duration>6420</duration>
-				<info>O piloto Brodie Torrance salva seus passageiros de um raio pousando em uma ilha. Os moradores rebeldes e perigosos do local fazem a tripulação refém e Torrance procura ajuda de um passageiro acusado de assassinato.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Observador</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9236285452ab119212f0d35f368ca28998f3e39</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/grEpsXD8Mwj5CGn5iWzDCNqZm2D.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/5s5WwghhCNna1Z3f6bje7Jpy8Uc.jpg</fanart>
-				<genre>Suspense/Misterio</genre> / <rate>6.3</rate> / <aired>2023/03/02</aired> / <duration>5760</duration>
-				<info>Julia abandonou a carreira de atriz para ir com o marido para um novo país. Ele conseguiu um emprego no país de onde veio. Indo atrás do marido, Julia acaba por se sentir deslocada e frequentemente sozinha, isso até que uma noite ela vê pela janela uma estranha figura no prédio a frente do dela. Ela pega a figura também olhando de volta a ela. Ela ignora. Em outro dia ela vai a um cinema local para assistir a um filme, mas o sentimento de estar sendo vigiada aumenta e começa a ter certeza que está sendo seguida por alguém.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Pantera Negra: Wakanda para Sempre</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dd755b18290338d7d069a204aa61961ffefa197</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tb0qiqLN9szHPA4i0kY38oaWew.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg</fanart>
-				<genre>Ação, Aventura, Ficção científica</genre> / <rate/> / <aired>2022/11/10</aired> / <duration>9120</duration>
-				<info>"[I]Para Sempre[/I]"
 
-Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje, lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa. Enquanto os wakandanos se esforçam para abraçar seu próximo capítulo, os heróis devem se unir com a ajuda de War Dog Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda.</info>
-			</item>
---------------------------------------------
-<item>
-				<title>Lou</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8147a3f8fb1df4dd0f41924ce5fb0d532d81f796</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/r2bjq5nrwb9Qtc13KXyDNTsBePY.jpg</fanart>
-				<genre>Ação, Thriller</genre>
-2022
-<rate>7.3</rate>
-				<aired>2022/09/23</aired>
-				<duration>6420</duration>
-				<info>Lou leva uma vida tranquila, acreditando ter abandonado seu passado perigoso. Até que uma mulher desesperada implora a ajuda dela para salvar a filha sequestrada. Em meio a uma grande tempestade, as duas se arriscam em uma missão de resgate que coloca seus limites à prova e revela terríveis segredos do passado.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>A Fera</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e73a542525a93ae63ce59f535de5cd6d915e980</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/8TUb2U9GN3PonbXAQ1FBcJ4XeXu.jpg</fanart>
-				<genre>Thriller, Terror</genre>
-2022
-<rate/>
-				<aired>2022/08/11</aired>
-				<duration>5580</duration>
-				<info>Em A Fera, Dr. Nate Daniels (Idris Elba) é um homem que perdeu a mulher recentemente. Para viver o luto, ele decide retornar à África do Sul, local onde conheceu sua falecida esposa, para passar férias há muito planejadas com suas duas filhas (Iyana Halley e Leah Jeffries) em uma reserva natural administrada pelo velho amigo da família Martin Battles (Sharlto Copley), um biólogo da vida selvagem. Mas esse descanso há muito tempo esperado e tranquilo se transformará em um teste de sobrevivência quando um leão sedento de vingança, o único sobrevivente da caça sanguinária de caçadores furtivos, que mataram toda sua manada, começa a devorar qualquer humano em seu caminho, já que considera todos os humanos como um inimigo e persegue o médico e sua família por toda a savana. Agora, o único jeito de escapar das garras da fera é lutando e sobrevivendo, ou matar o leão de uma vez por todas.</info>
-			</item>
--------------------------------------------- 
-
-<item>
-				<title>Thor: Amor e Trovão</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16807b6342e6ffd077ac4039978a31eda470f0d1</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/p1F51Lvj3sMopG948F5HsBbl43C.jpg</fanart>
-				<genre>Ação, Aventura, Comédia</genre>
-2022
-<rate>7.2</rate>
-				<aired>2022/07/07</aired>
-				<duration>7140</duration>
-				<info>Thor parte em uma jornada diferente de tudo que já enfrentou – uma busca pela paz interior. Mas sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr, o Carniceiro de Deus, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda do Rei Valquíria, Korg e da ex-namorada Jane Foster, que – para surpresa de Thor – inexplicavelmente empunha seu martelo mágico, Mjolnir, como o Poderoso Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do God Butcher e detê-lo antes que seja tarde demais.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Samaritano</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30a83abd20b1681049ebdabb94217af5c54d860e</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z0de9eo5QznG9KEijDvROHrYSfo.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg</fanart>
-				<genre>Ficção científica, Drama, Ação, Fantasia</genre>
-2022
-<rate>6.4</rate>
-				<aired>2022/08/26</aired>
-				<duration>5940</duration>
-				<info>25 anos após uma batalha insana, todos acreditavam que o super-herói Samaritano estava morto. Mas agora um garotinho começa uma investigação para procurar o paradeiro do super-herói e a sua principal pista é Joe, um trabalhador que parece comum, mas esconde sua verdadeira identidade heróica.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>365 Dias Finais</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14f39fdd1918c131eb4c0919b7c7595c9ea9905f</link>
-				<thumbnail>https://www.themoviedb.org/t/p/original/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/luN8SoFuDxxXitmFItkL435BSzk.jpg</fanart>
-				<genre>Drama, Romance</genre>
-2022
-<aired>2022/08/19</aired>
-				<duration>6780</duration>
-				<info>O relacionamento de Laura e Massimo está na balança enquanto eles tentam superar os problemas de confiança enquanto um Nacho tenaz trabalha para separá-los.</info>
-			</item>
-------------------------
-
-<item>
-				<title>Elvis</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b11099bc7c05b516b4113bbf0e1ee4ba484bb62</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4CYhJ9WNHIc1WRrQ5kYwBtmMvNB.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/rLo9T9jEg67UZPq3midjLnTUYYi.jpg</fanart>
-				<genre>Drama, História, Música</genre>
-2022
-<rate>7.8</rate>
-				<aired>2022/07/14</aired>
-				<duration>9540</duration>
-				<info>"[I]‎O Homem. O Rei do Rock & Roll.‎[/I]"
-
-A história de vida de Elvis Presley vista através do relacionamento complicado com seu empresário enigmático, o coronel Tom Parker.</info>
-			</item>
-----------------------------------------------------------------------------
-
-<item>
-				<title>O Predador: A Caçada</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY&dn=O%20Predador%20-%20A%20Ca%C3%A7ada%202022%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-				<thumbnail>https://www.themoviedb.org/t/p/original/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/sNhzcUw5cg4JwICjnHZ5XhTKNrU.jpg</fanart>
-				<genre>Ação, Ficção, Suspense</genre>
-2022
-<aired>2022/08/05</aired>
-				<duration>6000</duration>
-				<info>Ambientado no mundo da Nação Comanche no início de 1700, "O Predador: A Caçada" é a história não contada de uma jovem guerreira altamente qualificada, desesperada para proteger seu povo do perigo iminente. Ela persegue e finalmente confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado, resultando em um confronto brutal e aterrorizante entre os adversários.</info>
-			</item>
-------------------------
-
-<item>
-				<title>Dupla Jornada</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c6823d111defc454f2de7e2c7d306b66f7eb628</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gmY6yEyvLlkqrgqYNXPp1llPZeT.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/qpH6z1e4Lm9O4vWClSfDzSxPnqd.jpg</fanart>
-				<genre>Ação, Fantasia, Terror</genre>
-2022
-<rate>7.5</rate>
-				<aired>2022/08/12</aired>
-				<duration>6780</duration>
-				<info>Um caçador de vampiros tem uma semana para conseguir dinheiro para pagar as despesas da filha. E ele vai lutar com unhas e dentes para garantir o sustento da família.</info>
-			</item>
-----------------------------------------------------------------------------
-
-<item>
-				<title>Minions 2: A Origem de Gru</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b64a027eba2b85f187d0f3a544b0c06e6eac09ed</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tzFAboMUGJKoPQEtlxfxbbYsSWa.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/nmGWzTLMXy9x7mKd8NKPLmHtWGa.jpg</fanart>
-				<genre>Família, Animação, Aventura, Comédia</genre>
-2022
-<rate>7</rate>
-				<aired>2022/06/30</aired>
-				<duration>5220</duration>
-				<info>A continuação das aventuras dos Minions, sempre em busca de um líder tirânico. Dessa vez, eles ajudam um Gru ainda criança, descobrindo como ser vilão.</info>
-			</item>
-			<item>
-				<title>Lightyear</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9979dd8d9b6d9d4ef4697be86ff78acaf7661ec</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wc3cGQUF4P2Jetawf7YqzaWQsNc.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/tqUD26YGjKmFqOJAgbNBah1gX0N.jpg</fanart>
-				<genre>Animação, Ficção científica, Aventura, Ação, Família</genre>
-2022
-<rate>4.6</rate>
-				<aired>2022/06/16</aired>
-				<duration>6420</duration>
-				<info>A aventura de ação e ficção científica apresenta a história de origem definitiva de Buzz Lightyear - o herói que inspirou o brinquedo - apresentando o lendário Space Ranger que conquistaria gerações de fãs.</info>
-			</item>
-			<item>
-				<title>Águas Profundas</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2ced9a633554b39523d87583d2799793b0709f2</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oGhSy2ao59xJDbCXyABofNhsV3o.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/lcITbesmy0IBO6TXTAgQHJE6Asx.jpg</fanart>
-				<info>Em Águas Profundas nos leva para dentro do casamento perfeito de Vic (Affleck) e Melinda (de Armas) Van Allen para descobrir os perigosos jogos mentais que eles jogam e o que acontece com as pessoas que são apanhadas neles.</info>
-				<genre>Drama, Mistério, Suspense</genre>
-2022
-<aired>2022/03/18</aired>
-				<duration>6960</duration>
-			</item>
------------------------------------------------------------------------------
-
-
-
-<item>
-				<title>Jurassic World: Dominio</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d301ccb078b82ca01ec35ce1388cd1f41ed9821</link>
-				<thumbnail>https://www.themoviedb.org/t/p/original/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/wo3l9p0S7pcvwlzlndtKgq0peRJ.jpg</fanart>
-				<genre>Ação, Aventura, Ficção científica</genre>
-2022
-<rate>5.9</rate>
-				<aired>2022/06/01</aired>
-				<duration>8820</duration>
-				<info>Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.</info>
-			</item>
-----------------------------------------------------------------------------
-
-
-<item>
-				<title>Uncharted: Fora do Mapa</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3656c620865c1a0279e7fae4375772caebe97efe</link>
-				<thumbnail>https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg</thumbnail>
-				<fanart>https://i0.wp.com/www.theperiodictableofawesome.com/wp-content/uploads/2022/03/uncharted-website.jpeg?fit=840%2C560&ssl=1</fanart>
-				<genre>Ação | Aventura</genre>
-2021
-<rate>6.6</rate>
-				<aired>2022/02/17</aired>
-				<duration>6900</duration>
-				<info>Nathan Drake e seu parceiro canastrão Victor "Sully" Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem levar ao irmão perdido de Nathan.</info>
-			</item>
-----------------
-<item>
-				<title>Doutor Estranho no Multiverso da Loucura</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a743ae07fce27d1888ba10c9268ecdfa6642445c</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hq2igFqb31fDqGotz8ZuUfwKgn8.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg</fanart>
-				<genre>Fantasia, Ação, Aventura</genre>
-2022
-<rate>7.3</rate>
-				<aired>2022/05/05</aired>
-				<duration>7560</duration>
-				<info>Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as perigosas realidades alternativas e alucinantes do Multiverso para enfrentar um novo adversário misterioso.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>O Homem do Norte</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f59714bf27638b97dc6b9d4928cc93d8c966c947</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/fqw8nJLPRgKRyFSDC0xBsC06NGC.jpg</fanart>
-				<genre> Ação/Aventura</genre>
-2022
-<rate>7.8</rate>
-				<aired>2022/04/22</aired>
-				<duration>8220</duration>
-				<info>“O Homem do Norte” é um thriller épico de vingança que explora quão longe um príncipe Viking é capaz de ir para fazer justiça pelo assassinato do seu pai.</info>
-			</item>
--------------------------------------------------------------------------
-<item>
-				<title>Cidade Perdida</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68d5e3196ecfd91671e75018092db3e162d9e40a</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vsX9gj7t56ZlMYKNYccskeW5adT.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/1Ds7xy7ILo8u2WWxdnkJth1jQVT.jpg</fanart>
-				<genre>Ação, Aventura, Comédia</genre>
-2022
-<rate>6.5</rate>
-				<aired>2022/04/21</aired>
-				<duration>6720</duration>
-				<info>A brilhante, porém reclusa autora Loretta Sage (Sandra Bullock) escreve sobre lugares exóticos em seus romances populares de aventura, cujas capas são estreladas pelo belo modelo Alan (Channing Tatum), que tem dedicado sua vida a personificar o personagem herói, Dash. Durante a turnê de promoção de seu novo livro com Alan, Loretta é raptada por um bilionário excêntrico (Daniel Radcliffe), para que ela o guie ao tesouro da cidade perdida descrita em seu livro recente. Para provar que é possível ser um herói na vida real, não somente nas páginas de seus livros, Alan parte para resgatá-la. Forçados a viver uma aventura épica na selva, o par improvável precisa trabalhar junto para sobreviver e encontrar o antigo tesouro, antes que seja perdido para sempre.</info>
-			</item>
--------------------------------------------------------------------------
-<item>
-				<title>O Homem de Toronto</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6697c5807aaf79177dc50791d2676572255c9b4d</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A7WtrzlvLAhdmXObY9aZCRhtAMs.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/afQ6TOyRHDcmG9y0awCeDJVjs2V.jpg</fanart>
-				<genre>Ação, Comédia</genre>
-2022
-<rate>7.4</rate>
-				<aired>2022/06/24</aired>
-				<duration>6600</duration>
-				<info>Um caso de identidade trocada obriga um homem desastrado a se unir a um famoso assassino na esperança de continuar vivo.</info>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>Sonic 2: O Filme</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7537e534aa8a075e3e848854e5861606cbe669f9</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/50DSlLDTB9l99A26vpEeyjWic14.jpg</fanart>
-				<genre>Ação, Aventura, Comédia</genre>
-2022
-<rate>7.1</rate>
-				<aired>2022/04/07</aired>
-				<duration>7200</duration>
-				<info>Depois de se estabelecer em Green Hills, Sonic está pronto para mais liberdade e deixar sua marca como um herói, e Tom e Maddie concordam em deixá-lo em casa enquanto vão de férias. Mas, assim que eles se foram, Dr. Robotnik volta, desta vez com um novo parceiro, Knuckles, em busca de uma esmeralda que tem o poder de construir e destruir civilizações. Sonic se une a um novo companheiro, Tails, e juntos eles embarcam em uma jornada para encontrar a esmeralda antes que ela caia nas mãos erradas.</info>
-			</item>
----------------------------------------------------
-<item>
-				<title>Moonfall: Ameaça Lunar</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6886c78c9ce22557e1f0f1d458d366e1b29ab718</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/8QpzqK3nPGxpqpKqhe6QasTGBWQ.jpg</fanart>
-				<info>‎Uma força misteriosa derruba a lua de sua órbita ao redor da Terra e a envia em rota de colisão com a vida como a conhecemos.‎</info>
-				<rate>5.3</rate>
-				<aired>2022/04/01</aired>
-				<duration>7200</duration>
-				<description>Uma força misteriosa derruba a lua de sua órbita ao redor da Terra e a envia em rota de colisão com a vida como a conhecemos.</description>
-				<userrating>63</userrating>
-				<votes>63</votes>
-				<genre>‎Ação‎‎ , ‎‎Aventura‎‎, ‎‎Sci-Fi‎</genre>
-			</item>
-----------------------------------------------------
-<item>
-				<title>Assassino Sem Rastro</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3557a802e73d05d550cc129c01174a4fa65fe23d</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/kiH3KPWi7BaRMvdAigcwrUFViHl.jpg</fanart>
-				<genre>Ação, Thriller, Crime</genre>
-2022
-<rate>5.6</rate>
-				<aired>2022/06/23</aired>
-				<duration>6840</duration>
-				<info>Em Assassino Sem Rastro, Alex Lewis é um assassino experiente com reputação de precisão discreta. Preso em um dilema moral, Alex se recusa a concluir um trabalho que viola seu código de ética e deve rapidamente caçar e matar as pessoas que o contrataram antes que eles e o agente do FBI Vincent Serra o encontrem primeiro. Alex tinha o objetivo de se vingar, mas, com uma memória que começa a vacilar, ele é forçado a questionar todas as suas ações, se perdendo na linha entre o certo e o errado.</info>
-			</item>
----------------------------------------------------------
-<item>
-				<title>Morbius</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8849c87a3cc9d0b9a6ba6d181946faafcb32b316</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/gG9fTyDL03fiKnOpf2tr01sncnt.jpg</fanart>
-				<info>Baseado no personagem de mesmo nome da Marvel Comics, Michael Morbius (Jared Letto) sempre sofreu com uma condição rara em seu sangue que o faz andar de bengala e desde criança ser excluído por outros, mas sua vida solitária foi preenchida por livros. Após se formar na faculdade, Doutor Morbius é renomado na área de biomedicina e tenta achar uma cura para sua rara condição, afim de não apenas se ajudar, mas ajudar outras pessoas que também sofrem como ele. Experimentando com o DNA de morcegos, Morbius espera achar a cura e se usa como teste para o soro. Usando o DNA que isolou e uma mistura de eletrochoque, a cura foi um sucesso temporário, mas os efeitos colaterais acabaram transformando-o em um pseudo-vampiro e que agora precisa sobreviver como um. Apesar de ganhar capacidades iguais a de um morcego, Morbius precisa de sangue humano para sobreviver, os efeitos colaterais também o fez mudar fisicamente, ganhando presas e uma pele pálida. Além disso, a cada pessoa que ele morde, ela também vira um ser igual a ele.</info>
-				<genre>Ação, Ficção, Terror</genre>
-2022
-<rate>5.1</rate>
-				<aired>2022/03/31</aired>
-				<duration>6240</duration>
-			</item>
----------------------------------------------------------
-<item>
-				<title>Encanto</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:810057628863215d5d8eb7acc2e660308673dbcc</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/fst9hM26nIJMF4FTkFLasUwmBC.jpg</fanart>
-				<info>O filme e centrado em uma jovem garota e sua familia na America Latina, em que todos têm poderes magicos, infelizmente a garota nao tem poderes. Uma garota chamada Mirabel Madrigal cresce como o unico membro nao magico de sua familia, que vivem escondidos em uma vibrante casa encantada nas montanhas da Colômbia.</info>
-				<genre>Animaçao, Comedia, Drama</genre>
-				<aired>2021/11/24</aired>
-				<duration>6120</duration>
-			</item>
-----------------------------------------------------------
-<item>
-				<title>Resident Evil: Bem-Vindo a Raccoon City</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f7f86794fee1440c5f356e1fe701c25107cbe98</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnKi8Vx9mRvOGrmzBOOh5wHEbQI.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/o76ZDm8PS9791XiuieNB93UZcRV.jpg</fanart>
-				<info>‎Ambientada em 1998, esta historia de origem explora os segredos da misteriosa Mansão Spencer e da malfadada Cidade do Guaxinim.‎</info>
-				<genre>Terror, Ação, Ficção científica</genre>
-				<aired>2021/11/24</aired>
-				<duration>6420</duration>
-			</item>
----------------------------------------------------------------
-<item>
-				<title>Duna</title>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3179901c4f92c830526bae984cbcabeb48d5fec</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uzERcfV2rSHNhW5eViQiO9hNiA7.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg</fanart>
-				<genre>Ficção Científica, Aventura</genre>
-				<aired>2021/10/22</aired>
-2021
-<duration>9300</duration>
-				<info>Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar.</info>
-			</item>
---------------------------------------------------------------
-<item>
-				<title>Os Eternos</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b0cafdf328375d865380a63e6495f0deba0481b0</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg</fanart>
-				<info>A saga dos Eternos, uma raça de seres imortais que viveram na Terra e moldaram sua historia e civilizações.</info>
-				<genre>Action , Adventure , Fantasy , Sci-Fi</genre>
-				<aired>2021/11/04</aired>
-				<duration>9420</duration>
-			</item>
-----------------------------------------------------------------------------
-<item>
-				<title>A Fera do Mar</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae72f3f0993977ce77a343fc41450760096223f4</link>
-				<thumbnail>https://www.themoviedb.org/t/p/original/ynHncD1HQZEQA2r747uv3eL3XDY.jpg</thumbnail>
-				<fanart>https://www.themoviedb.org/t/p/original/esBSjRyUg3E66uFOrsQDjPcbWMY.jpg</fanart>
-				<genre>Animação, Aventura, Família, Fantasia</genre>
-                <rate>7.4</rate>
-				<aired>2022/06/24</aired>
-				<duration>6900</duration>
-				<info>A vida de um caçador de monstros marinhos vira de cabeça para baixo depois que uma menina se esconde em seu navio.</info>
-			</item>
-----------------------------------------------------------------------------
-
-</items>
+	
+	</items>
