@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<SetViewMode>54</SetViewMode>
+
+<item>
+	<title>O Assassino (2023)</title>
+	<thumbnail>https://www.themoviedb.org/t/p/original/mkEQgdQcvmxSYvY4bMhabxLjjXY.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/tJtPeE1fR6VQot8Fg1pg852ESJU.jpg</fanart>
+	<genre>Crime, Thriller</genre>
+	<date>10.11.2023</date>
+	<year>2023</year>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06591a15b2e79b588f3f66c22efb9c0f5d300052</link>
+	<info>[I]A execução é tudo.[/I]
+		
+Depois de um erro desastroso, um assassino enfrenta quem o contratou e a si mesmo em uma caçada internacional por vingança. Mas ele jura que nada disso é pessoal.</info>
+</item>
+<item>
+	<title>O Padeiro (2023)</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lsKpCe7lZtDP2XoVVBrt5jDsEka.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/usKCKmo1UcVsz0t3NNbkPXCmyk1.jpg</fanart>
+	<genre>Ação, Drama, Crime, Thriller</genre>
+	<date>27.07.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0a0beb5cd173bfe42209008d44c31eff22d6807</link>
+	<info>Um homem quieto e estóico, vive uma existência de monge em um exílio auto-imposto. Quando seu filho afastado é morto em um negócio de drogas que deu errado, ele fica encarregado de cuidar de uma neta que ele nunca soube que existia e é forçado a voltar a uma vida que tentou deixar para trás.</info>
+</item>
+<item>
+		<title>Resgate em 12 Horas</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m19SDzdaCwcO6p7S5q0YP335x1Z.jpg</thumbnail>
+		<genre>Ação, Suspense</genre>
+		<date>20.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40d922e0c3af76d9bbaa90f00268796673b3abf8</link>
+		<info>Durante uma viagem em família, a filha de uma agente do FBI é sequestrada por uma organização criminosa especializada em traficar órgãos de crianças. Agora ela precisará se juntar a um criminoso e correr contra o tempo para salvar a garota.</info>
+	</item>
+	
+	<item>
+		<title>Snag</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nhj4Q39qMSk6X5Ly9j9Yqyjrg5A.jpg</thumbnail>
+		<genre>Ação, Suspense</genre>
+		<date>28.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69bb0f6dc059f44534b647d3724bf07a6efc1f07</link>
+		<info>A existência silenciosa de um lobo solitário australiano é destruída quando ele descobre que a mulher que amou e pensou estar morta está viva e é mantida em cativeiro por gângsteres implacáveis. Agora, para enfrentar esta perigosa organização criminosa, ele deve procurar aliados e invadir um mundo de violência para resgatar o amor de sua vida neste violento conto de fadas moderno e realista.</info>
+	</item>
+<item>
+	<title>Mercy: Golpe de Misericórdia</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dXqeLm3Eq0HYKLfp9AeVdtd3eId.jpg</thumbnail>
+	<genre>Ação, Mistério, Thriller</genre>
+	<date>12.05.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4e50b99e23cdce2527dc85cce8ce9f01c45ffd7</link>
+	<info>Uma ex-médica militar se vê em uma batalha mortal pela sobrevivência quando a máfia irlandesa assume o controle do hospital em que ela trabalha. Quando seu filho é feito refém, ela é forçada a confiar em seu passado endurecido pela batalha e habilidades letais depois de perceber que não há mais ninguém para salvar o dia além dela.</info>
+</item>
+
 <item>
         <title>O Protetor: Capítulo Final </title>
         <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6f28c1db53c66e8fc12eb41453216be49761e41</link>
