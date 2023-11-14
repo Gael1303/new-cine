@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <SetViewMode>502</SetViewMode>
+
+<item>
+	<title>Todas as Formas de Amor</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r5tZx6s8vrkBVjuJO5UNnrZEdxO.jpg</thumbnail>
+	<genre>Drama, Comédia, Romance</genre>
+	<date>16.06.2022</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:851f70fd9e0cfdc42427902052482149786e9866</link>
+	<info>Um conto entrelaçado de três histórias, todas unidas pelo amor, perdão, comprometimento e lealdade entre casais, parentes e amigos. Enquanto novas jornadas começam, o amor persiste e evoluiu, tomando várias formas.</info>
+</item>
+<item>
+	<title>Conectados pelo Amor</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9ZKauRkxwRnlhzXCfntJDWlrUEQ.jpg</thumbnail>
+	<genre>Drama, Romance</genre>
+	<date>21.05.2021</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:adb5a44ca2bfc9bed8fd4427fbc913ff64d0a787</link>
+	<info>Lucky e Miles se conhecem em um aeroporto da Itália antes de voltarem aos seus países de origem. De volta a sua casa, Miles recebe uma ligação por vídeo de Lucky e eles começam um relacionamento a distância, enquanto são obrigados a permanecerem em quarentena.</info>
+</item>
+<item>
+	<title>Coincidências da Vida e Grandes Amores</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2rOrmUqsdFoMQjKb93UPw6i9Gv.jpg</thumbnail>
+	<genre>Romance, Drama</genre>
+	<date>05.05.2022</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b93e55bae83d2d4b7f9a505b72d9b9fe571dc7ab</link>
+	<info>Nessa versão atualizada de um romance do século XIX, uma mulher vive uma batalha entre razão e paixão. Os temas universais de amor, honestidade e saudade aparecem na vida das pessoas que vivem numa longínqua ilha de um arquipélago da Finlândia, isolada do mundo afetado por uma pandemia.</info>
+</item>
+	
+	<item>
+	<title>Verdades Dolorosas</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h0nB00M7n1jjKc0PHXF3cSZPbb8.jpg</thumbnail>
+	<genre>Comédia, Drama, Romance</genre>
+	<date>26.05.2022</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:904b43ab0beea7a4434e30e6afb0aea704c05539</link>
+	<info>O casamento de longa data de uma romancista é repentinamente abalado quando ela ouve seu marido dando sua reação honesta ao seu último livro.</info>
+</item>
 <item>  <title>Amor Esquecido</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d97eecf5fceca94101c8ea4a0be88484a59705c4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jYzBx0ii5k2IxdEFcjZRErbqQQc.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/j1bOCozOQOxJpk0iAQbJDS2w8OJ.jpg</fanart>
 <genre>Drama, Romance</genre> / <rate>7.0</rate> / <aired>2023/09/27</aired> / <duration>8400</duration>
