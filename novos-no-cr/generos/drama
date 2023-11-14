@@ -4,6 +4,14 @@
 <SetViewMode>500</SetViewMode>
 
 <item>
+		<title>O Preço do Poder</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dtDfNAUoCPJVKexcRx2JlT2JAxI.jpg</thumbnail>
+		<genre>Drama, Suspense</genre>
+		<date>20.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fb51ee3999b79c77be9c9831f591692f7f847fc</link>
+		<info>Renzo Petrucci é um obstinado diretor de uma empresa multinacional de petróleo, que é obrigado a deixar o cargo após acusações de corrupção. Convencido de que foi traído pela mulher que assumiu o seu cargo, ele decide se vingar matando-a e reconquistando o seu lugar na empresa.</info>
+	</item>
+<item>
 		<title>Aprisionados</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nIjb23q0qKTrXpac4vf3Q7eP1CD.jpg</thumbnail>
 		<genre>Drama, Suspense</genre>
