@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<SetViewMode>54</SetViewMode>
+<SetViewMode>500</SetViewMode>
+
+<item>
+		<title>Aprisionados</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nIjb23q0qKTrXpac4vf3Q7eP1CD.jpg</thumbnail>
+		<genre>Drama, Suspense</genre>
+		<date>24.07.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e804f0a95a313a101ffd73dc5e2e11257c1a33a</link>
+		<info>Em 1951, a polícia secreta da União Soviética bate na porta de uma família comum de Budapeste. Mas ao invés de prendê-los, os policiais decidem se mudar e manter a família em cativeiro dentro de sua própria casa.</info>
+	</item>
+	
+	<item>
+		<title>Vítima 3/19</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zr6CYGPRajDdcbXJreaUfJfqCOB.jpg</thumbnail>
+		<genre>Drama, Suspense</genre>
+		<date>27.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66848b4fe0c39c313c24502031b78734ac121daa</link>
+		<info>Camila é uma advogada de sucesso que se envolve em um acidente de trânsito que resulta na morte de um jovem. Na tentativa de descobrir a identidade da vítima, ela conhecerá Bruno, o diretor do necrotério, descobrirá lugares que não costuma frequentar e começará uma jornada de autoconhecimento.</info>
+	</item>
+<item>
+		<title>Pecados da Máfia</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2EIBBacO6Jw7mw2UFvMT2bjL8Uz.jpg</thumbnail>
+		<genre>Drama, Suspense</genre>
+		<date>21.09.2017</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe67a5719ac96d323d38632b78c56bfa50476cf2</link>
+		<info>Nas ruas de Nápoles, dominadas pelo crime, um padre recém-chegado enfrenta a máfia local e desafia o seu domínio sobre a comunidade.</info>
+	</item>
+	
+	<item>
+		<title>Ligações do Passado</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A4AERoe4Mh5dtJDCaBQJqopP6UA.jpg</thumbnail>
+		<genre>Suspense, Drama</genre>
+		<date>18.09.2020</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05d4f0260c23fc39892840959dcec2567f2a12b3</link>
+		<info>Violeta é uma psiquiatra que começa a atender Rita, uma mulher que quer reconquistar o amor de seu marido. Mas Violeta descobre que o marido de sua nova paciente é Jan, seu antigo namorado que a abandonou quando os dois ainda eram adolescentes.</info>
+	</item>
 
 <item>
 	<title>Lamborghini: O Homem Por Trás da Lenda</title>
