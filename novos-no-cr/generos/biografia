@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <SetViewMode>502</SetViewMode>
+
+<item>
+	<title>Sly (2023)</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/flnrKe85SfgcRCW2KgUhz2Bn9yE.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/tna4oKYMQ8GjTJ2IPSXB4FhS1Y8.jpg</fanart>
+	<genre>Documentário</genre>
+	<date>03.11.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b28129750765ea4cdb5c213f0cbffbd8e2fb468</link>
+	<info>O amor pelo cinema foi o passaporte de saída da infância traumática. De jovem sem futuro a lenda de Hollywood, Sylvester Stallone conta sua história neste documentário.</info>
+</item>
+	<item>
+	<title>Lamborghini: O Homem Por Trás da Lenda</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kchdd5IbZzUursmoDOB7ztn6CSs.jpg</thumbnail>
+	<genre>Drama, Biografia</genre>
+	<date>18.11.2022</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:376c83de05296502eb162d036250def7bcd5849b</link>
+	<info>O italiano Ferruccio Lamborghini (Frank Grillo) começou sua longa carreira fabricando tratores e, durante a Segunda Guerra Mundial, passou a projetar veículos militares, ganhando destaque na indústria automobilística. No entanto, sua trajetória como empreendedor atingiu o ponto máximo quando ele se dedicou, exclusivamente, a produção de carros esportivos batizados com o seu sobrenome e que, até hoje, são cobiçados mundialmente.</info>
+</item>
+<item>
+	<title>NYAD (2023)</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/kDTEmw9KAN3AkSuCToMTc45Jyk5.jpg</fanart>
+	<genre>Drama, Biografia</genre>
+	<date>03.11.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:623115e964d7cc720f04d232d705450dfbe67c20</link>
+	<info>Aos 60 anos, a atleta Diana Nyad se prepara para realizar o sonho da sua vida: nadar de Cuba até a Flórida, uma travessia em águas abertas de mais de 160 km.</info>
+</item>
 <item> <title>A Arma Secreta</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e05af8d69a49a00e39c46d15983bdf2c5eecbece</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a6TTj8rNPaS6GhcQFdgKO3w2DnS.jpg</thumbnail>
