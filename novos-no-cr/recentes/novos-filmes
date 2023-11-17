@@ -4,7 +4,42 @@
   
 <SetViewMode>500</SetViewMode>
 
-	
+	<item>
+		<title>Um Chamado Natalino (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hRKyfZoHndndMbvUGqjVbmuuOT9.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vBw0NoCLpaakNDq1J6fG4jTXo5P.jpg</fanart>
+		<genre>Comédia, Família, Fantasia</genre>
+		<date>17.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c48c66ada87fd07c9b4911fd2a78a2b2cadf3fc</link>
+		<info>filme acompanha Eddie Garrick, interpretado por Chris “Ludacris” Bridges. Eddie é um homem bondoso que, devido a um evento traumático de sua infância, se afastou do espírito natalino. Em um determinado Natal, a pedido de sua esposa Allison Garrick, vivida por Teyonah Parris, da qual ele está separado, Eddie leva sua filha Charlotte, de nove anos, ao trabalho. É neste contexto que eles cruzam com um homem misterioso vestido de vermelho, Nick, papel de Lil Rel Howery.</info>
+	</item>
+	<item>
+		<title>Novos Ricos (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jfEuk5VdwaDN4UAGBPqUwZWAteg.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/cCmGKWhZbRsPyDTfRXTViflk9Wr.jpg</fanart>
+		<genre>Comédia, Romance</genre>
+		<date>17.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd7ece4996162ce9c4c4b6c69b2bdc0039abad38</link>
+		<info>Um golpista precisando de grana e uma mulher cheia de criptomoedas se encontram. Será que ela é o alvo perfeito ou desta vez quem vai levar o golpe é ele?</info>
+	</item>
+	<item>
+		<title>Rustin (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dFmp1KIGdSVDhIhy0yQNmCDTjav.jpg</fanart>
+		<genre>Drama, Biografia</genre>
+		<date>17.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4de2b3c4628627abaea5f17a6dd05329b8a49c2f</link>
+		<info>Mesmo com o racismo e a homofobia, o ativista Bayard Rustin ajudou a mudar o curso da história dos Direitos Civis ao orquestrar a Marcha sobre Washington em 1963.</info>
+	</item>
+	<item>
+		<title>Believer 2 (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jAW3L7N5ePEnIsBQP5vnmhw1qbl.jpg</fanart>
+		<genre>Crime, Ação, Thriller</genre>
+		<date>05.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29a904d20ed370421c555ed1a9cb3c81f379bb22</link>
+		<info>Um detetive determinado procura a verdade por detrás da maior organização de tráfico de droga da Ásia e do seu esquivo cabecilha, com quem tem contas a acertar.</info>
+	</item>
         <item>
 		<title>Clube da Luta para Meninas (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oNvVSBe24LTtCKGSSbrvo1oskbo.jpg</thumbnail>
