@@ -1,43 +1,150 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 	<SetViewMode>500</SetViewMode>
-
-<channel>
-	<name>Monarch: Legado de Monstros [COLOR yellow]8.3[/COLOR]</name>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/lghMCJJ7u2fIHMVtsrsMCV9OTsI.jpg</fanart>
-	<date>16.11.2023</date>
-	<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
-	<info>Após sobreviver ao ataque do Godzilla em São Francisco, Cate é abalada novamente por um segredo chocante. Em meio a ameaças monstruosas, ela embarca em uma aventura pelo mundo para descobrir a verdade sobre sua família—e a organização misteriosa conhecida como Monarch.</info>
-	<studio>APPLE TV+</studio>
-	<items>
-		<item>
-			<title>Monarch: Legado de Monstros T01 E01-2</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9467109f62df8f161ba46440c56fe860e63f6cef$nome=Monarch: Legado de Monstros T01 E01-2 [1080P]</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1323345cf9eebe69c507d0bc457f65f85aea31cf$nome=Monarch: Legado de Monstros T01 E01-2 [4K Leg]</link>
-			<fanart>https://www.themoviedb.org/t/p/original/lghMCJJ7u2fIHMVtsrsMCV9OTsI.jpg</fanart>
-			<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
-		</item>
+	<channel>
+		<name>Monarch: Legado de Monstros [COLOR yellow]8.3[/COLOR]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/lghMCJJ7u2fIHMVtsrsMCV9OTsI.jpg</fanart>
+		<date>16.11.2023</date>
+		<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+		<info>Após sobreviver ao ataque do Godzilla em São Francisco, Cate é abalada novamente por um segredo chocante. Em meio a ameaças monstruosas, ela embarca em uma aventura pelo mundo para descobrir a verdade sobre sua família—e a organização misteriosa conhecida como Monarch.</info>
+		<studio>APPLE TV+</studio>
+		<items>
+			<item>
+				<title>Monarch: Legado de Monstros T01 E01-2</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9467109f62df8f161ba46440c56fe860e63f6cef$nome=Monarch: Legado de Monstros T01 E01-2 [1080P]</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1323345cf9eebe69c507d0bc457f65f85aea31cf$nome=Monarch: Legado de Monstros T01 E01-2 [4K Leg]</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
+				<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+			</item>
 		</items>
-		</channel>
+	</channel>
 		-----------------------------------------------
 		<channel>
-	<name>Anderson Spider Silva [COLOR yellow]7.2[/COLOR]</name>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c8oWkxrcjnFl9weOhkTBrhkC1hQ.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/5zNUtBLdgkarUCSyx1XCu5sr0jD.jpg</fanart>
-	<date>16.11.2023</date>
-	<genre>Drama</genre>
-	<info>Quantas barreiras um campeão precisa superar para se tornar o ícone negro de sua geração? A trajetória de Anderson SPIDER Silva através das vitórias e derrotas, dentro e fora do ringue.</info>
-	<studio>PARAOUNT+</studio>
-	<items>
-		<item>
-			<title>Anderson Spider Silva - Minissérie</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b003e0e20441f4d86d5df2839b0ab1fe54b28892</link>
-			<fanart>https://www.themoviedb.org/t/p/original/5zNUtBLdgkarUCSyx1XCu5sr0jD.jpg</fanart>
-			<genre>Drama</genre>
-		</item>
+		<name>Anderson Spider Silva [COLOR yellow]7.2[/COLOR]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c8oWkxrcjnFl9weOhkTBrhkC1hQ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/5zNUtBLdgkarUCSyx1XCu5sr0jD.jpg</fanart>
+		<date>16.11.2023</date>
+		<genre>Drama</genre>
+		<info>Quantas barreiras um campeão precisa superar para se tornar o ícone negro de sua geração? A trajetória de Anderson SPIDER Silva através das vitórias e derrotas, dentro e fora do ringue.</info>
+		<studio>PARAOUNT+</studio>
+		<items>
+			<item>
+				<title>Anderson Spider Silva - Minissérie</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b003e0e20441f4d86d5df2839b0ab1fe54b28892</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c8oWkxrcjnFl9weOhkTBrhkC1hQ.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
 		</items>
-		</channel>
+	</channel>
+		-----------------------------------------------
+<channel>
+		<name>DNA DO CRIME [COLOR yellow]6.9[/COLOR]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xzuUDxZqT2Y1faH0XHXjTzplAMR.jpg</fanart>
+		<date>1.11.2023</date>
+		<genre>Drama, Crime, Action & Adventure</genre>
+		<info>Um grupo de agentes federais vai ter que arregaçar as mangas e desenrolar a investigação de um roubo esp</info>
+		<studio>NETFLIX</studio>
+		<items>
+			<item>
+				<title>DNA DO CRIME - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:726bba982d19dc01419afc698f7501381576e6fe</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/xzuUDxZqT2Y1faH0XHXjTzplAMR.jpg</thumbnail>
+				<genre>Drama, Crime, Action & Adventure</genre>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
+		<channel>
+		<name>Onimusha [COLOR yellow]7.0[/COLOR]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rDjR4tInAxqPGuBEg6IxkEzYSdI.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wSwq6SiUgR6veSltgS7mebs7n5b.jpg</fanart>
+		<date>02.11.2022</date>
+		<genre>Animação, Action & Adventure, Sci-Fi & Fantasy</genre>
+		<info>De posse de uma arma demoníaca que consome almas, um espadachim lendário e uma irmandade de samurais tentam deter uma insurreição de zumbis sedentos por sangue.</info>
+		<studio>NETFLIX</studio>
+		<items>
+			<item>
+				<title>Onimusha - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c5505f04ea6e867ef5d7c26ca49241900c116f9</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/wSwq6SiUgR6veSltgS7mebs7n5b.jpg</thumbnail>
+				<genre>Animação, Action & Adventure, Sci-Fi & Fantasy</genre>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
+		<channel>
+		<name>A Garota do Cigarro [COLOR yellow]8.2[/COLOR]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/h4Ms3DOvSCDVjXEBd6ve6H1TC62.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fXd5l0694ri63umUefWmoHxqqsr.jpg</fanart>
+		<date>02.11.2023</date>
+		<genre>Drama</genre>
+		<info>Ao desafiar a tradicional indústria dos cigarros de cravo na Indonésia dos anos 1960, uma talentosa artesã vive uma jornada de amor e autodescoberta.</info>
+		<studio>NETFLIX</studio>
+		<items>
+			<item>
+				<title>A Garota do Cigarro - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55c3d1571a641a55829b030f96fe37a08786ad8c</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/fXd5l0694ri63umUefWmoHxqqsr.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
+		<channel>
+		<name>Toda Luz Que Não Podemos Ver [COLOR yellow]7.6[/COLOR]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hDKUj98FmSkje7i4VGnt0ah1XdO.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/5OQEDTtB32RAjzyT1Q28TdPUtyM.jpg</fanart>
+		<date>02.11.2023</date>
+		<genre>Drama</genre>
+		<info>Nos últimos dias da Segunda Guerra, os caminhos de uma garota francesa cega e um soldado alemão se cruzam.</info>
+		<studio>NETFLIX</studio>
+		<items>
+			<item>
+				<title>Toda Luz Que Não Podemos Ver - Minissérie</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:841127d0a5dae914834be7d2a6c3fc796b7cb31a</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/5OQEDTtB32RAjzyT1Q28TdPUtyM.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
+		<channel>
+		<name>Capitão Laserhawk: Remix Blood Dragon [COLOR yellow]7.1[/COLOR]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nxwTumumx8Eenksdw8xm4iWKbGD.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/4udjjH52TQEEiTZpw0FSZwvhK69.jpg</fanart>
+		<date>19.10.2023</date>
+		<genre>Animação, Ação e Aventura</genre>
+		<info>Considerado inimigo do Estado, um supersoldado ciborgue tenta encontrar uma causa para lutar em meio a uma sociedade distópica cheia de segredos e mentiras.</info>
+		<studio>NETFLIX</studio>
+		<items>
+			<item>
+				<title>Capitão Laserhawk: Remix Blood Dragon - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:457434d8c4c3bfd8e1a4d9389c5e73561403f269</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/4udjjH52TQEEiTZpw0FSZwvhK69.jpg</thumbnail>
+				<genre>Animação, Ação e Aventura</genre>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
+		<channel>
+		<name>A Queda da Casa de Usher [COLOR yellow]8.0[/COLOR]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5MzNAgs1baKi32ln3yQoaKIsgZ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/4qDlkEAKFb4pgIUbeJMLyHX2Xym.jpg</fanart>
+		<date>12.10.2021</date>
+		<genre>Crime, Drama, Mistério</genre>
+		<info>Para proteger a fortuna e o futuro, um casal de irmãos constrói uma dinastia familiar que começa a ruir quando cada um dos herdeiros morre misteriosamente.</info>
+		<studio>NETFLIX</studio>
+		<items>
+			<item>
+				<title>A Queda da Casa de Usher - Minissérie</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc7b09cd6f68b53a35e03e027f0c028e51e1e655</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/4qDlkEAKFb4pgIUbeJMLyHX2Xym.jpg</thumbnail>
+				<genre>Crime, Drama, Mistério</genre>
+			</item>
+		</items>
+	</channel>
 		-----------------------------------------------
 
 
