@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+	<SetViewMode>500</SetViewMode>
+
+<channel>
+	<name>Monarch: Legado de Monstros [COLOR yellow]8.3[/COLOR]</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/lghMCJJ7u2fIHMVtsrsMCV9OTsI.jpg</fanart>
+	<date>16.11.2023</date>
+	<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+	<info>Após sobreviver ao ataque do Godzilla em São Francisco, Cate é abalada novamente por um segredo chocante. Em meio a ameaças monstruosas, ela embarca em uma aventura pelo mundo para descobrir a verdade sobre sua família—e a organização misteriosa conhecida como Monarch.</info>
+	<studio>APPLE TV+</studio>
+	<items>
+		<item>
+			<title>Monarch: Legado de Monstros T01 E01-2</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9467109f62df8f161ba46440c56fe860e63f6cef$nome=Monarch: Legado de Monstros T01 E01-2 [1080P]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1323345cf9eebe69c507d0bc457f65f85aea31cf$nome=Monarch: Legado de Monstros T01 E01-2 [4K Leg]</link>
+			<fanart>https://www.themoviedb.org/t/p/original/lghMCJJ7u2fIHMVtsrsMCV9OTsI.jpg</fanart>
+			<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+		</item>
+		</items>
+		</channel>
+		-----------------------------------------------
+		<channel>
+	<name>Anderson Spider Silva [COLOR yellow]7.2[/COLOR]</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c8oWkxrcjnFl9weOhkTBrhkC1hQ.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/5zNUtBLdgkarUCSyx1XCu5sr0jD.jpg</fanart>
+	<date>16.11.2023</date>
+	<genre>Drama</genre>
+	<info>Quantas barreiras um campeão precisa superar para se tornar o ícone negro de sua geração? A trajetória de Anderson SPIDER Silva através das vitórias e derrotas, dentro e fora do ringue.</info>
+	<studio>PARAOUNT+</studio>
+	<items>
+		<item>
+			<title>Anderson Spider Silva - Minissérie</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b003e0e20441f4d86d5df2839b0ab1fe54b28892</link>
+			<fanart>https://www.themoviedb.org/t/p/original/5zNUtBLdgkarUCSyx1XCu5sr0jD.jpg</fanart>
+			<genre>Drama</genre>
+		</item>
+		</items>
+		</channel>
+		-----------------------------------------------
+
+
+</channels>
