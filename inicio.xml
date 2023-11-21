@@ -21,6 +21,14 @@
 		<info>Conteudos Recem-lançados no mundo</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/recentes/Abas</externallink>
     </channel>
+
+	<channel>
+        <name>[COLOR red]•[/COLOR]Nos Cinemas</name>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Filmes com imagem em HDCAM</info>
+		<externallink>https://</externallink>
+   </channel>
 	
 	<channel>
         <name>[COLOR green]•[/COLOR]Populares</name>
@@ -62,6 +70,15 @@
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/melhor%20qualidade/abas.xml</externallink>
    </channel>
 
+
+	<channel>
+        <name>[COLOR red]•[/COLOR]Streamings</name>
+        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
+        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Filmes e Séries mais vistos em cada streaming</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/Top-catalogo/abas</externallink>
+   </channel>
+	
 <channel>
         <name>[COLOR yellow]•[/COLOR]Oscar</name>
         <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
