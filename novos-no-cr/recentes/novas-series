@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 	<SetViewMode>500</SetViewMode>
+
+        <channel>
+	<name>A Mão do Eurico [COLOR yellow]8.5[/COLOR]</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8fwWjlsZB0nFH7yJxpyRgcPZg9.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/ziQfPZSeTuj4jaDvr89342eNOim.jpg</fanart>
+	<date>13.11.2023</date>
+	<genre>Documentário</genre>
+	<info>Nenhum cartola foi mais amado e odiado do que ele. Eurico Miranda colecionou títulos, muitas críticas e se tornou o dirigente mais polêmico da história do futebol brasileiro.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>A Mão do Eurico - Minissérie</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05d10e2d41d036cafd8656352a3565454c96fdc3</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8fwWjlsZB0nFH7yJxpyRgcPZg9.jpg</thumbnail>
+			<genre>Documentário</genre>
+		</item>
+		</items>
+		</channel>
+		-----------------------------------------------
+		<channel>
+	<name>Scott Pilgrim: A Série [COLOR yellow]8.1[/COLOR]</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7a19flEGR16GCWNk53SaZHMC2nu.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/gUJzW87AXPqb4LVMJx3qQ5VWILP.jpg</fanart>
+	<date>17.11.2023</date>
+	<genre>Animação, Action & Adventure, Comédia, Sci-Fi & Fantasy</genre>
+	<info>Scott Pilgrim conhece Ramona Flowers, a garota dos seus sonhos, mas logo descobre que há sete ex-namorados do mal no meio do caminho.</info>
+	<studio>NETFLIX</studio>
+	<items>
+		<item>
+			<title>Scott Pilgrim: A Série - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4da9f1f6d06deccc187983d1202370fc01b46b89</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7a19flEGR16GCWNk53SaZHMC2nu.jpg</thumbnail>
+			<genre>Animação, Action & Adventure, Comédia, Sci-Fi & Fantasy</genre>
+		</item>
+		</items>
+		</channel>
+		-----------------------------------------------
 	<channel>
 		<name>Monarch: Legado de Monstros [COLOR yellow]8.3[/COLOR]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
