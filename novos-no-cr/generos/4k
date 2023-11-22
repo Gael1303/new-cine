@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<SetViewMode>500</SetViewMode>
+
+        <item>
+		<title>Oppenheimer - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvaI1gezzvhkKid00goKxz9fAso.jpg</thumbnail>	<fanart>https://www.themoviedb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg</fanart>
+		<genre>Drama, História</genre>	<date>20.07.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RRVESYMH3KWRMEHJ2CAHDSUL5JZQAWQ2&dn=VAMOSTORRENT.COM..MKV.Oppenheimer%202023%20BluRay%202160p%20x265%20IMAX%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+	</item>
 	<item>
 		<title>Os Mercenários 4 - 4K</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c5097b8b696fdd54155ce80aa2548f77df4a0be</link>
