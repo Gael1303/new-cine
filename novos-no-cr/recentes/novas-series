@@ -54,6 +54,13 @@
 				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
 				<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
 			</item>
+                        <item>
+				<title>Monarch: Legado de Monstros T01 E03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:efe5ad815c304cb20392b468f5f9a2c32db2ff6b$nome=Monarch: Legado de Monstros T01 E03 [1080P]</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98d7a64d8ff194143f605f8543f4f4f05c820026$nome=Monarch: Legado de Monstros T01 E03 [4K Leg]</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
+				<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+			</item>
 		</items>
 	</channel>
 		-----------------------------------------------
