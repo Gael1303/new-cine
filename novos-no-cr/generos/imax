@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-
 <SetViewMode>500</SetViewMode>
+
+<item>
+		<title>Oppenheimer - IMAX</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvaI1gezzvhkKid00goKxz9fAso.jpg</thumbnail>	<fanart>https://www.themoviedb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg</fanart>
+		<genre>Drama, História</genre>	<date>20.07.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e48ca0b9c9b45324af18d62081b43ef267dde0d&dn=Oppenheimer.2023.1080p.BluRay.FULL.HD.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+	</item>
+
 <item>  <title>Guardiões da Galáxia: Vol. 3 - IMAX</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZOPC57JB374CBKPQNEWKQUMCOH7TO34R&dn=Guardi%C3%B5es%20da%20Gal%C3%A1xia%20Vol.%203%202023%20WEB-DL%201080p%20x264%20IMAX%20FULLHD%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kFT75BloJlTFIxWZ6xHdpVysVKW.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg</fanart>
