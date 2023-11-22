@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-	<SetViewMode>54</SetViewMode>
+	<SetViewMode>502</SetViewMode>
     
 	<channel>
         <name>[COLOR green]•[/COLOR]Ação</name>
@@ -9,6 +9,7 @@
         <fanart>https://manualdohomemmoderno.com.br/files/2021/06/30-filmes-de-acao-que-voce-precisa-ver-antes-de-morrer-30-filmes-de-acao-que-voce-precisa-ver-antes-de-morrer.jpeg</fanart>
 		<info>ATUALIZADO EM: </info>
 		<date>20.10.2023</date>
+		<SetViewMode>500</SetViewMode>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/a%C3%A7ao</externallink>
     </channel>
 	
@@ -18,6 +19,7 @@
         <fanart>https://proximonivel.pt/wp-content/uploads/2017/06/filmes-animacao-disney-pixar-sony-sequels-pn-n.jpg</fanart>
 		<info>ATUALIZADO EM: </info>
 		<date>20.10.2023</date>
+		<SetViewMode>54</SetViewMode>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/animacao</externallink>
     </channel>
 
@@ -29,6 +31,7 @@
         <fanart>https://assets.papodehomem.com.br/2015/12/01/14/25/22/ec854ec5-1c51-49b9-aa3c-eac347308ef4/2.jpg</fanart>
 		<info>ATUALIZADO EM: </info>
 		<date>20.10.2023</date>
+		<SetViewMode>505</SetViewMode>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/biografia</externallink>
     </channel>
 
