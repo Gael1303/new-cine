@@ -8,6 +8,7 @@
         <fanart>https://conversationsabouther.net/wp-content/uploads/2015/09/netflix.jpg</fanart>
 		<info>Filmes Populares</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/populares/Filmes</externallink>
+    <SetViewMode>500</SetViewMode>
     </channel>
 	
 	<channel>
@@ -16,6 +17,7 @@
         <fanart>https://149356117.v2.pressablecdn.com/wp-content/uploads/2019/09/series-muito-longas.jpg</fanart>
 		<info>Séries Populares</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/populares/Series</externallink>
+    <SetViewMode>502</SetViewMode>
     </channel>
 	
    <channel>
