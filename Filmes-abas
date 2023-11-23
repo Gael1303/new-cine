@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+	<SetViewMode>500</SetViewMode>
+	
+	<channel>
+		<name>[COLOR green]•[/COLOR]Novo No Cine Room</name>
+		<thumbnail>https://archive.org/download/1700740365761/1700740365522.png</thumbnail>
+		<fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Conteudos Recem-lançados no mundo</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/recentes/novos-filmes</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR green]•[/COLOR]Nos Cinemas (HDCam)</name>
+		<thumbnail>https://archive.org/download/1700740365761/1700740365522.png</thumbnail>
+		<fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Filmes com imagem em HDCAM</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/hdcam</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR green]•[/COLOR]Populares</name>
+		<thumbnail>https://ia600501.us.archive.org/2/items/1700740365761/1700740365590.png</thumbnail>
+		<fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Filmes e series Populares</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/populares/Filmes</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR green]•[/COLOR]Top IMDb</name>
+		<thumbnail>https://ia800501.us.archive.org/2/items/1700740365761/1700740365517.png</thumbnail>
+		<fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Filmes e Séries mais bem avaliados</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/melhor-avaliacao/filmes-top100</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR green]•[/COLOR]Sagas</name>
+		<thumbnail>https://archive.org/download/1700740365761/1700740365522.png</thumbnail>
+		<fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Melhores coletaneas</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/sagas</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR green]•[/COLOR]Generos</name>
+		<thumbnail>https://archive.org/download/1700740365675/1700740365675.png</thumbnail>
+		<fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Filmes Separados por genero</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/abas.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR green]•[/COLOR]Melhor Qualidade</name>
+		<thumbnail>https://archive.org/download/1700740365761/1700740365522.png</thumbnail>
+		<fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Quando a qualidade é PRIORIDADE.</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/melhor%20qualidade/abas.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR yellow]•[/COLOR]Oscar</name>
+		<thumbnail>https://archive.org/download/1700740365761/1700740365522.png</thumbnail>
+		<fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<info>Filmes Indicados e vencedores</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/Top-catalogo/abas</externallink>
+	</channel>
+	
+</channels>	
