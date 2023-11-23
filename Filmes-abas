@@ -22,7 +22,7 @@
 		<name>[COLOR green]•[/COLOR]Populares</name>
 		<thumbnail>https://ia600501.us.archive.org/2/items/1700740365761/1700740365590.png</thumbnail>
 		<fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Filmes e series Populares</info>
+		<info>Filmes Populares</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/populares/Filmes</externallink>
 	</channel>
 	
@@ -30,7 +30,7 @@
 		<name>[COLOR green]•[/COLOR]Top IMDb</name>
 		<thumbnail>https://ia800501.us.archive.org/2/items/1700740365761/1700740365517.png</thumbnail>
 		<fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Filmes e Séries mais bem avaliados</info>
+		<info>Filmes mais bem avaliados</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/melhor-avaliacao/filmes-top100</externallink>
 	</channel>
 	
@@ -46,7 +46,7 @@
 		<name>[COLOR green]•[/COLOR]Generos</name>
 		<thumbnail>https://archive.org/download/1700740365675/1700740365675.png</thumbnail>
 		<fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Filmes Separados por genero</info>
+		<info>Filmes Separados por generos</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/abas.xml</externallink>
 	</channel>
 	
