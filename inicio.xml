@@ -4,10 +4,12 @@
 <SetViewMode>500</SetViewMode>
 
 	<channel>
-		<name>[COLOR green]•[/COLOR]Recomendaçoes</name>
+		<name>[COLOR yellow]•[/COLOR]Recomendaçoes do Mes</name>
 		<thumbnail>https://archive.org/download/1700740365761/1700740365761.png</thumbnail>
 		<fanart>https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg?fit=1060%2C596&ssl=1</fanart>
-		<info>Filmes e Séries mais bem avaliados</info>
+		<info>25 Filmes recomendados no mes 
+		
+		2 filmes de cada genero</info>
 		<externallink>https://</externallink>
 	</channel>
 	<channel>
