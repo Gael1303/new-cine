@@ -14,21 +14,21 @@
 		<name>[COLOR green]•[/COLOR]Filmes</name>
 		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
 		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
-		<info>Conteudos Recem-lançados no mundo</info>
-		<externallink>https://</externallink>
+		<info>Aba destinada a filmes</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/Filmes-abas</externallink>
 	</channel>
 	<channel>
 		<name>[COLOR green]•[/COLOR]Séries</name>
 		<thumbnail>https://archive.org/download/1700740365761/1700740365699.png</thumbnail>
 		<fanart>https://d2d7ho1ae66ldi.cloudfront.net/ArquivoNoticias/55ac55c4-5bb0-11ed-aa6e-9587410378a2/Fgpu17hWQAUmJ5n.jpeg</fanart>
-		<info>Filmes com imagem em HDCAM</info>
-		<externallink>https://</externallink>
+		<info>Aba destinada a series</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/Series-abas</externallink>
 	</channel>
 	<channel>
 		<name>[COLOR red]•[/COLOR]Animes</name>
 		<thumbnail>https://ia601200.us.archive.org/12/items/1700740365675/1700740365741.png</thumbnail>
 		<fanart>https://proxy.olhardigital.com.br/wp-content/uploads/2021/08/netflix-1024x524.png</fanart>
-		<info>Filmes e series Populares</info>
+		<info>Aba destinada a animes</info>
 		<externallink>https://</externallink>
 	</channel>
 	
