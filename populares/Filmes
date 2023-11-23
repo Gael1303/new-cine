@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+ <SetViewMode>500</SetViewMode>
+
 	<item>
-		<title>Missão: Impossível – Acerto de Contas Parte 1 [COLOR gray](2023)[/COLOR]</title>
+		<title>Missão: Impossível – Acerto de Contas Parte 1 (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a6ddf53745d7c105491ae85214a1dd3716b8532</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/628Dep6AxEtDxjZoGP78TsOxYbK.jpg</fanart>
@@ -12,7 +14,7 @@
 	</item>	
 	-------------------------------------------
 	 <item>
-		<title>Five Nights at Freddy’s: O Pesadelo Sem Fim [COLOR gray](2023)[/COLOR] [COLOR gray][Leg][/COLOR]</title>
+		<title>Five Nights at Freddy’s: O Pesadelo Sem Fim (2023) [Leg]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z4OvWTJY56fOyuQWfbZhNPMWX9N.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg</fanart>
 		<genre>Terror, Suspense</genre>
@@ -22,7 +24,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Som da Liberdade [COLOR gray](2023)[/COLOR]</title>
+		<title>Som da Liberdade (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab6c010e6daf13149ef3dd4b0b83672c536f8046</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/w1000_and_h563_face/o4SBV32WdZZOd9mV9ng7zUUWG70.jpg</fanart>
@@ -35,7 +37,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Os Mercenários 4 [COLOR gray](2023)[/COLOR]</title>
+		<title>Os Mercenários 4 (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98e7cfe00a8ebbc028fbf71e093f97eb459b69b8</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQxlUkhKGILgq9jbVEe3WPaiW2q.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg</fanart>
@@ -48,7 +50,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Velozes e Furiosos 10 [COLOR gray](2023)[/COLOR]</title>
+		<title>Velozes e Furiosos 10 (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:814e0c7a62d9a225074f852a75eb35a0c8375111</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nxrmpkwVdmiVAiRTqSSC2SateN2.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/cEyhk8tZWubni71M6plwLMQFOIX.jpg</fanart>
@@ -60,7 +62,7 @@
 	</item>
     -------------------------------------------
 	 <item>
-		<title>Jogos Mortais X [COLOR gray](2023)[/COLOR]</title>
+		<title>Jogos Mortais X (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74cc65461f07acc5f529578284e7a637843d4786&dn=Jogos.Mortais.X.2023.1080p.WEB-DL.EAC3.AAC.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/dZbLqRjjiiNCpTYzhzL2NMvz4J0.jpg</fanart>
@@ -71,7 +73,7 @@
 		<duration>7200</duration>
 	</item>
 	<item>
-		<title>O Protetor: Capitulo Final [COLOR gray](2023)[/COLOR]</title>
+		<title>O Protetor: Capitulo Final (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3206a0e3bcfc625c8327fdbb1b3e943dbdb56760&dn=O%20Protetor%20-%20Capitulo%20Final%202023%201080p%20WEB-DL%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xVHBEX96zMjMw0YExFWsKW9Er1i.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg</fanart>
@@ -83,7 +85,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>A Freira 2 [COLOR gray](2023)[/COLOR]</title>
+		<title>A Freira 2 (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39db6bb3bada15e9958228a6f6a8fd924a6d2856</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/2yjrmdQwYIVWlhCSWD5ZeI7F6zK.jpg</fanart>
@@ -96,7 +98,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>A Chamada [COLOR gray](2023)[/COLOR]</title>
+		<title>A Chamada (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6f9e700bd0ca5202f56c710343efa6d16502a1c</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cvWrqNrCeoaqBm2ST5hAP2igngA.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/tUlUdP04nDWsy372myIHuA2qdNv.jpg</fanart>
@@ -118,7 +120,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>After: Para Sempre [COLOR gray](2023)[/COLOR]</title>
+		<title>After: Para Sempre (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jxb7NBx8jjqxiz3MIE3KMyqp45d.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/zzK0HDEswyhHFDFWlPz6HdgXKH5.jpg</fanart>
 		<genre>Romance, Drama</genre>
@@ -128,7 +130,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Gran Turismo: De Jogador a Corredor [COLOR gray](2023)[/COLOR]</title>
+		<title>Gran Turismo: De Jogador a Corredor (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P5UKTEOC6K3ZM62VTIJHM6HXPX3LHPL3&dn=Gran%20Turismo%20-%20De%20Jogador%20a%20Corredor%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5ma2TOWO9BkK7zyc0R2dZOIWuaA.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/3wtifTCVwqSyXF924FLkRpVRjYw.jpg</fanart>
@@ -141,7 +143,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Elementos [COLOR gray](2023)[/COLOR]</title>
+		<title>Elementos (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed20ebd0a4950d10b79fe018268502055084c98a</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cveXFCRCrxdARM3Gel0pRCKsssJ.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/it7yPSgca2VEJyXAqgjfaccgvJm.jpg</fanart>
@@ -153,7 +155,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Patrulha Canina: Um Filme Superpoderoso [COLOR gray](2023)[/COLOR]</title>
+		<title>Patrulha Canina: Um Filme Superpoderoso (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uzqjYjnnA3fpXFvd4JfMEc1fBhj.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/zgQQF04u3OgNBJqClRNby1FPz9s.jpg</fanart>
 		<genre>Animação, Família, Ação, Ficção científica</genre>
@@ -163,7 +165,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Besouro Azul [COLOR gray](2023)[/COLOR]</title>
+		<title>Besouro Azul (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81ba02dd4e9b4971ae8be003ba5643932c8d8c73</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gA6sEygZlszxZZZTR5jD9rfleZO.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg</fanart>
@@ -175,7 +177,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Ninguém Vai Te Salvar [COLOR gray](2023)[/COLOR]</title>
+		<title>Ninguém Vai Te Salvar (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91d6bc9a5956bc50d0fa91d3b1d1d6322db884a6</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hkIwPpdmGI1BaZeR2yrPSnNcv4v.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/zYlgqIpqJ1VAbvFhRhktAzIybVs.jpg</fanart>
@@ -187,7 +189,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Barbie [COLOR gray](2023)[/COLOR]</title>
+		<title>Barbie (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad812e83054324ebdc9ed2560889a1a4571bb4fd</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg</fanart>
@@ -199,7 +201,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Homem-Aranha: Através do Aranhaverso [COLOR gray](2023)[/COLOR]</title>
+		<title>Homem-Aranha: Através do Aranhaverso (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4CwKj1fw33BXYzxvrpM3GlAhK4L.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg</fanart>
 		<genre>Animação, Ação, Aventura</genre>
@@ -209,7 +211,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Desperation Road [COLOR gray](2023)[/COLOR] [Leg]</title>
+		<title>Desperation Road (2023) [Leg]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/original/tPyj6Gii1HrnzCbJXEF7JdSFkQ8.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/aOQvHB4cWx8MREpbJ963tvUuYW4.jpg</fanart>
 		<genre>Ação, Crime, Drama, Thriller</genre>
@@ -219,7 +221,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Transformers: O Despertar das Feras [COLOR gray](2023)[/COLOR]</title>
+		<title>Transformers: O Despertar das Feras (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg</fanart>
 		<genre>Ação, Aventura, Ficção científica</genre>
@@ -229,7 +231,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Megatubarão 2 [COLOR gray](2023)[/COLOR]</title>
+		<title>Megatubarão 2 (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/klGKGITBYYyTiHrph1VDSgGULOR.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg</fanart>
 		<genre>Ação, Ficção científica, Terror</genre>
@@ -239,7 +241,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Super Mario Bros.: O Filme [COLOR gray](2023)[/COLOR]</title>
+		<title>Super Mario Bros.: O Filme (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg</fanart>
 		<genre>Animação, Família, Aventura, Fantasia, Comédia</genre>
@@ -249,7 +251,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Fale Comigo [COLOR gray](2023)[/COLOR]</title>
+		<title>Fale Comigo (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tIhfkc52XQnxzbMYeV9XK90NTG.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/iIvQnZyzgx9TkbrOgcXx0p7aLiq.jpg</fanart>
 		<genre>Terror, Thriller</genre>
@@ -259,7 +261,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Mortal Kombat Legends: Cage Bom de Luta [COLOR gray](2023)[/COLOR]</title>
+		<title>Mortal Kombat Legends: Cage Bom de Luta (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qx6DPthpaAZEUfcKaAoP3OL3aW2.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/p0IejE15lzXBGhRTpKoHPsSrHf7.jpg</fanart>
 		<genre>Animação, Ação, Fantasia</genre>
@@ -269,7 +271,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Destinos à Deriva [COLOR gray](2023)[/COLOR]</title>
+		<title>Destinos à Deriva (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJonRBSvmX3TEGhxSHooGmJa4GG.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/lUIAlOzNVKunMHo7lFDqH8eGsWK.jpg</fanart>
 		<genre>Thriller, Drama</genre>
@@ -279,7 +281,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Quando O Mal Chega [COLOR gray](2023)[/COLOR] [Leg]</title>
+		<title>Quando O Mal Chega (2023) [Leg]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iQ7G9LhP7NRRIUM4Vlai3eOxBAc.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/92LX2nflnkxHtmV2WRb4I4lSXsY.jpg</fanart>
 		<genre>Terror</genre>
@@ -289,7 +291,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>O Atirador: Resposta Global e Equipe Tática [COLOR gray](2023)[/COLOR]</title>
+		<title>O Atirador: Resposta Global e Equipe Tática (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v7mXgXpNZYYPVBo6sqdxjIhQIsb.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/bGQyu8H6q20ZRxqr3z65kE17QPA.jpg</fanart>
 		<genre>Ação, Thriller</genre>
@@ -309,7 +311,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Ressurreição do Mal [COLOR gray](2023)[/COLOR]</title>
+		<title>Ressurreição do Mal (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7q6OFowMWFABPY7fyJMuHI0upBj.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/qCiZ46Kzd2xbE5TuAVPEExxNeRQ.jpg</fanart>
 		<genre>Terror, Ficção científica</genre>
@@ -329,7 +331,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>John Wick 4: Baba Yaga [COLOR gray](2023)[/COLOR]</title>
+		<title>John Wick 4: Baba Yaga (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/fgw4rFs4XMWdJTWp1eMacHKQqbZ.jpg</fanart>
 		<genre>Ação, Thriller, Crime</genre>
@@ -339,7 +341,7 @@
 	</item>
 	-------------------------------------------
 	 <item>
-		<title>Cercados [COLOR gray](2023)[/COLOR]</title>
+		<title>Cercados (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/53zYYgWqxxmTaMlsIfiCWCLRwJf.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/jCZufaJZpgrujKLjzH6HfgQf0de.jpg</fanart>
 		<genre>Faroeste, Ação, Drama</genre>
@@ -349,7 +351,7 @@
 	</item>
 	-------------------------------------------
 	<item>
-		<title>The Flash [COLOR gray](2023)[/COLOR]</title>
+		<title>The Flash (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aba3727b2ea3539d635346e397e32c20970c41d5</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itYONYDHpJqTuu8BCXAtHxgpglq.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/yF1eOkaYvwiORauRCPWznV9xVvi.jpg</fanart>
@@ -362,7 +364,7 @@
 ---------------------------
 
 <item>
-		<title>O Assassino [COLOR gray](2023)[/COLOR]</title>
+		<title>O Assassino (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/original/mkEQgdQcvmxSYvY4bMhabxLjjXY.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/tJtPeE1fR6VQot8Fg1pg852ESJU.jpg</fanart>
 		<genre>Crime, Thriller</genre>
@@ -373,7 +375,7 @@
 	</item>
 ---------------------------------
 <item>
-		<title>O Padeiro [COLOR gray](2023)[/COLOR]</title>
+		<title>O Padeiro (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lsKpCe7lZtDP2XoVVBrt5jDsEka.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/usKCKmo1UcVsz0t3NNbkPXCmyk1.jpg</fanart>
 		<genre>Ação, Drama, Crime, Thriller</genre>
@@ -382,7 +384,7 @@
 		<info>Um homem quieto e estóico, vive uma existência de monge em um exílio auto-imposto. Quando seu filho afastado é morto em um negócio de drogas que deu errado, ele fica encarregado de cuidar de uma neta que ele nunca soube que existia e é forçado a voltar a uma vida que tentou deixar para trás.</info>
 	</item>
 	<item>
-		<title>A Noite das Bruxas [COLOR gray](2023)[/COLOR]</title>
+		<title>A Noite das Bruxas (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9UAc4DF4oEObQk4sz4sNeHI4waY.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/kHlX3oqdD4VGaLpB8O78M25KfdS.jpg</fanart>
 		<genre>Mistério, Thriller, Crime</genre>
@@ -392,7 +394,7 @@
 	</item>
 	-------------------------------------------
 	<item>
-		<title>A Pequena Sereia [COLOR gray](2023)[/COLOR]</title>
+		<title>A Pequena Sereia (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d30787b4d6b1d8020e72fff9a1539613c9655b0c</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85u2q8iUBDq2gj5iJrdD4lzckRq.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/znUYFf0Sez5lUmxPr3Cby7TVJ6c.jpg</fanart>
@@ -403,7 +405,7 @@
 	</item>
 ----------------------------------------------------------------------------  
 	<item>
-		<title>As Ladras [COLOR gray](2023)[/COLOR]</title>
+		<title>As Ladras (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wnLJ7nVObgbAD7cgF87XW1t9JT2.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/9TNJvSIbK7s6jNKFZYvZcUM8rBM.jpg</fanart>
 		<genre>Comédia, Ação, Drama</genre>
@@ -413,7 +415,7 @@
 	</item>
 	-------------------------------------------------
 	<item>
-		<title>Guardioes da Galaxia: Vol. 3 [COLOR gray](2023)[/COLOR]</title>
+		<title>Guardioes da Galaxia: Vol. 3 (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5UJMYEG2B3N547KNN74WWWLSCCQUXQHX&dn=Guardi%C3%B5es%20da%20Gal%C3%A1xia%20Vol.%203%202023%20BluRay%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttkTwdSx21AB1EDastR6xwMC2PT.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg</fanart>
@@ -457,7 +459,7 @@
 	</item>
 -----------------------------------------
 	 <item>
-		<title>Liga da Justiça: Mundo Belico [COLOR gray](2023)[/COLOR]</title>
+		<title>Liga da Justiça: Mundo Belico (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5DXBIOH6ZD6NTDTFJMUCF32BPAVCFR7&dn=Liga%20da%20Justi%C3%A7a%20-%20Mundo%20B%C3%A9lico%202023%20BluRay%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yxXOMGosmqgjFicfmde61wnwQQ4.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/kIMYSzp1fH1H9adKplekLD9BuNi.jpg</fanart>
@@ -468,7 +470,7 @@
 	</item>
 ----------------------------------------------------------------------------
 	 <item>
-		<title>Missão de Sobrevivência [COLOR gray](2023)[/COLOR]</title>
+		<title>Missão de Sobrevivência (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1f8c7a1ab6e9b77cf61b3991f0938c37c60afe9</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ArDXxgsELJanwYDXd60MLTZDiSj.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/c6Splshb8lb2Q9OvUfhpqXl7uP0.jpg</fanart>
@@ -480,7 +482,7 @@
 	</item>
 ----------------------------------------------------------------------------
       <item>
-		<title>As Tartarugas Ninja: Caos Mutante [COLOR gray](2023)[/COLOR]</title>
+		<title>As Tartarugas Ninja: Caos Mutante (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a68e8ce70865fbfac988368d91dd6213f1eb141</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/w2nFc2Rsm93PDkvjY4LTn17ePO0.jpg</fanart>
@@ -504,7 +506,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 	</item>
 ---------------------------------------------------------------------------------------
       <item>
-		<title>Ruby Marinho: Monstro Adolescente [COLOR gray](2023)[/COLOR]</title>
+		<title>Ruby Marinho: Monstro Adolescente (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b480d979f59c828e2d6576eae5612fc0b5d476c</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/ioCuhiUs0SW5UgembG0UiQZWPLY.jpg</fanart>
@@ -516,7 +518,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 	</item>
 ----------------------------------------------------------------------------
      <item>
-		<title>Drácula: A Última Viagem do Deméter [COLOR gray](2023)[/COLOR]</title>
+		<title>Drácula: A Última Viagem do Deméter (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb9680316e37c25041e168a74deb98f431d3c77e</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail>
 		<genre>Suspense, Terror</genre>
@@ -527,7 +529,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 	</item>
 ------------------------
  <item>
-		<title>Terror nas Profundezas [COLOR gray](2023)[/COLOR]</title>
+		<title>Terror nas Profundezas (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZZFTMqbQaP59yGTqKOcfqVE7NC.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/dvNrgldueQciabkYmlCnyhmaPoO.jpg</fanart>
 		<genre>Terror, Thriller, Ação</genre>
@@ -544,7 +546,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 		<info>Com a mudança para uma nova cidade, as emoçoes de Riley, que tem apenas 11 anos de idade, ficam extremamente agitadas. Uma confusao na sala de controle do seu cerebro deixa a Alegria e a Tristeza de fora, afetando a vida de Riley radicalmente.</info>
 	</item>
 	<item>
-		<title>Miraculous: As Aventuras de Ladybug – O Filme [COLOR gray](2023)[/COLOR]</title>
+		<title>Miraculous: As Aventuras de Ladybug – O Filme (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WQYAKLL2OX6R5BOED7VIHCLKLVVJARSR&dn=Miraculous%20-%20As%20Aventuras%20de%20Ladybug%20-%20O%20Filme%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eZEKKCNW0vI7B7AZNdCAeq2mMAw.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/zstT0SRr6TZtfuj6WTigEGda9P1.jpg</fanart>
@@ -555,7 +557,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 	</item>
 ----------------------------------------------------------------------------
 <item>
-		<title>Que Horas Eu Te Pego? [COLOR gray](2023)[/COLOR]</title>
+		<title>Que Horas Eu Te Pego? (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38e470e539a2e8d7272edc173a3fc73b6381e9c1</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/en47PkDX8IhtQA3i1MYslx8eH91.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/cKE9qZqYtF4jimf0GFOqKfy7NEU.jpg</fanart>
@@ -567,7 +569,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 	</item>
 ---------------------------------------------------------------------------- 
 <item>
-		<title>Dungeons & Dragons: Honra Entre Rebeldes [COLOR gray](2023)[/COLOR]</title>
+		<title>Dungeons & Dragons: Honra Entre Rebeldes (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QJA7IFZ5UUUFR5NEU3475LQBVP32YVQU&dn=Dungeons%20%26%20Dragons%20-%20Honra%20Entre%20Rebeldes%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6LuXaihVIoJ5FeSiFb7CZMtU7du.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/fh7aM10THQzivGU7kAkgKrgzot4.jpg</fanart>
@@ -577,7 +579,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 	</item>
 ---------------------------------------------------------------------------- 
 <item>
-		<title>Resgate 2 [COLOR gray](2023)[/COLOR]</title>
+		<title>Resgate 2 (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdb75b2a2afc66971a2f0f797a0e04bc1cd89767</link>
 		<thumbnail>https://www.themoviedb.org/t/p/original/oGkAWRPg3dqG2HMUyWfdEI5jgkf.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/wRxLAw4l17LqiFcPLkobriPTZAw.jpg</fanart>
@@ -594,7 +596,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 		<info>O filme e centrado em uma jovem garota e sua familia na America Latina, em que todos tem poderes magicos, infelizmente a garota nao tem poderes. Uma garota chamada Mirabel Madrigal cresce como o unico membro nao magico de sua familia, que vivem escondidos em uma vibrante casa encantada nas montanhas da Colombia.</info>
 	</item>
 	<item>
-		<title>Agente Stone [COLOR gray](2023)[/COLOR]</title>
+		<title>Agente Stone (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BI22JXXB442DQSGRGWMVADTTSF4FH5L&dn=Agente%20Stone%202023%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EpaPaKozP2b8L1hJekBFI75gCm.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/xVMtv55caCEvBaV83DofmuZybmI.jpg</fanart>
@@ -603,7 +605,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 	</item>
 ----------------------------------------------------------------------------
  <item>
-		<title>Ruim pra Cachorro [COLOR gray](2023)[/COLOR]</title>
+		<title>Ruim pra Cachorro (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hfSkDDJiCf6cJpd4R9O9lM1T6hz.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/1HzL603WOer58xtnrRYdSIL5K04.jpg</fanart>
 		<genre>Comédia, Aventura</genre>
@@ -613,7 +615,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 	</item>
 -------------------------------------------
 <item>
-		<title>O Sequestro [COLOR gray](2023)[/COLOR]</title>
+		<title>O Sequestro (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k5vgkmlaOSDOMqgKPUhWBXEYTpR.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/uvB7yVdkFXiij0A3vE8xPb0N51y.jpg</fanart>
 		<genre>Drama, Thriller</genre>
@@ -633,7 +635,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 	</item>
 ---------------------------------------
 <item>
-		<title>Homem-Formiga e a Vespa: Quantumania [COLOR gray](2023)[/COLOR]</title>
+		<title>Homem-Formiga e a Vespa: Quantumania (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feffd8044594b2663198a8f1bc479f411e32947c</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg</fanart>
@@ -642,7 +644,7 @@ Depois de anos sendo protegidos do mundo humano, os irmãos tartarugas saem para
 	</item>
 ------------------------------------
 <item>
-		<title>Creed III [COLOR gray](2023)[/COLOR]</title>
+		<title>Creed III (2023)</title>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UP62MPRSQX65EACHVVSTDJWGVMRUIBBL&dn=Creed%20III%202023%201080p%20FULL%20WEB-DL%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1qvuETSpeB02PvwUhwt2HwKAbbp.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/26YLjaC1udGEmSvlM1P5eBGWO5h.jpg</fanart>
