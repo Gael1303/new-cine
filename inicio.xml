@@ -1,96 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <channels>
-	
-	<!-- opicional -->
-    <channels_info> <!-- this is opitonal -->
-      <title>Para Amantes de Cinema</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>News</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>20.10.2023</date>
-      <credits>Gael</credits>
-    </channels_info>
-	<!-- opicional -->
-    
-    <channel>
-        <name>[COLOR green]•[/COLOR]Novo No Cine Room</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Conteudos Recem-lançados no mundo</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/recentes/Abas</externallink>
-    </channel>
+
+<SetViewMode>500</SetViewMode>
 
 	<channel>
-        <name>[COLOR green]•[/COLOR]Nos Cinemas (HDCam)</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Filmes com imagem em HDCAM</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/hdcam</externallink>
-   </channel>
-	
-	<channel>
-        <name>[COLOR green]•[/COLOR]Populares</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Filmes e series Populares</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/populares/abas</externallink>
-    </channel>
-
-	<channel>
-        <name>[COLOR green]•[/COLOR]Top IMDb</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
+		<name>[COLOR green]•[/COLOR]Recomendaçoes</name>
+		<thumbnail>https://archive.org/download/1700740365761/1700740365761.png</thumbnail>
+		<fanart>https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg?fit=1060%2C596&ssl=1</fanart>
 		<info>Filmes e Séries mais bem avaliados</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/melhor-avaliacao/abas</externallink>
-   </channel>
-   
-   <channel>
-        <name>[COLOR green]•[/COLOR]Sagas</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Melhores coletaneas</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/sagas</externallink>
-   </channel>
-    
-   <channel>
-        <name>[COLOR green]•[/COLOR]Generos</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Filmes Separados por genero</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/abas.xml</externallink>
-   </channel>
-
+		<externallink>https://</externallink>
+	</channel>
 	<channel>
-        <name>[COLOR green]•[/COLOR]Melhor Qualidade</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Quando a qualidade é PRIORIDADE.</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/melhor%20qualidade/abas.xml</externallink>
-   </channel>
-
-
+		<name>[COLOR green]•[/COLOR]Filmes</name>
+		<thumbnail>https://ia801200.us.archive.org/12/items/1700740365675/1700740365651.png</thumbnail>
+		<fanart>https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2023-01/LAUD%20Dia-del-cine-.jpg</fanart>
+		<info>Conteudos Recem-lançados no mundo</info>
+		<externallink>https://</externallink>
+	</channel>
 	<channel>
-        <name>[COLOR yellow]•[/COLOR]Streamings</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Filmes e Séries mais vistos em cada streaming</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/streamings/1.abas</externallink>
-   </channel>
+		<name>[COLOR green]•[/COLOR]Séries</name>
+		<thumbnail>https://archive.org/download/1700740365761/1700740365699.png</thumbnail>
+		<fanart>https://d2d7ho1ae66ldi.cloudfront.net/ArquivoNoticias/55ac55c4-5bb0-11ed-aa6e-9587410378a2/Fgpu17hWQAUmJ5n.jpeg</fanart>
+		<info>Filmes com imagem em HDCAM</info>
+		<externallink>https://</externallink>
+	</channel>
+	<channel>
+		<name>[COLOR red]•[/COLOR]Animes</name>
+		<thumbnail>https://ia601200.us.archive.org/12/items/1700740365675/1700740365741.png</thumbnail>
+		<fanart>https://proxy.olhardigital.com.br/wp-content/uploads/2021/08/netflix-1024x524.png</fanart>
+		<info>Filmes e series Populares</info>
+		<externallink>https://</externallink>
+	</channel>
 	
-<channel>
-        <name>[COLOR yellow]•[/COLOR]Oscar</name>
-        <thumbnail>https://img.freepik.com/vetores-premium/ilustracao-de-icones-do-cinema-3d_187241-104.jpg</thumbnail>
-        <fanart>https://as1.ftcdn.net/v2/jpg/02/16/41/58/1000_F_216415885_1cxNMgbQ82klWzYv2TP7bTuRkt9UI1fA.jpg</fanart>
-		<info>Filmes Indicados e vencedores</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/top-streamings/Top-catalogo/abas</externallink>
-   </channel>
-	
-   <channel>
+	<channel>
 	<name>[COLOR blue]•[/COLOR]Informações!</name>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Info_icon_002.svg/800px-Info_icon_002.svg.png</thumbnail>
+	<thumbnail>https://ia601200.us.archive.org/12/items/1700740365675/1700740365681.png</thumbnail>
 	<info>Duvidas sobre doaçoes, contato e status do addon</info>
+	<SetViewMode>502</SetViewMode>
 	<items>
 		<item>
 			<title>[COLOR cyan]Doaçoes Pix[/COLOR]: cineroom.ofc@gmail.com</title>
@@ -98,7 +44,7 @@
 			<thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Screenshots_2022-09-06-12-08-28.png</thumbnail>
 			<info>Colabore livremente, e não se esqueça que não obrigamos isso de nenhum modo!
 			
-			Ressaltando que você não está doando ou pagando pelo Conteudo e sim com os custos do aparelho para compartilharmos todo esse material para o seu entretenimento.</info>
+Ressaltando que você não está doando ou pagando pelo Conteudo e sim com os custos do aparelho para compartilharmos todo esse material para o seu entretenimento.</info>
 		</item>
 		<item>
 			<title>[COLOR cyan]Contato[/COLOR]: em breve!</title>
@@ -112,7 +58,7 @@
 		</item>
 		</items>
 	</channel>
-
-
-
-</channels>	
+	
+	
+	
+</channels>
