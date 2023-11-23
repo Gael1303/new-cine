@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+	
+
+    <channel>
+        <name>[COLOR green]•[/COLOR]Novo No Cine Room</name>
+        <thumbnail>https://ia600501.us.archive.org/2/items/1700740365761/1700740365699.png</thumbnail>
+        <fanart>https://assets.b9.com.br/wp-content/uploads/2019/05/netflix-library-1280x720.jpg</fanart>
+		<info>Conteudos Recem-lançados no mundo</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/recentes/novas-series</externallink>
+    </channel>
+
+<channel>
+        <name>[COLOR yellow]•[/COLOR]Streamings</name>
+        <thumbnail>https://ia600501.us.archive.org/2/items/1700740365761/1700740365699.png</thumbnail>
+        <fanart>https://assets.b9.com.br/wp-content/uploads/2019/05/netflix-library-1280x720.jpg</fanart>
+		<info>Filmes e Séries mais vistos em cada streaming</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/streamings/1.abas</externallink>
+   </channel>
+
+	<channel>
+        <name>[COLOR green]•[/COLOR]Populares</name>
+        <thumbnail>https://ia600501.us.archive.org/2/items/1700740365761/1700740365590.png</thumbnail>
+        <fanart>https://assets.b9.com.br/wp-content/uploads/2019/05/netflix-library-1280x720.jpg</fanart>
+		<info>Filmes e series Populares</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/populares/Series</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR green]•[/COLOR]Top IMDb</name>
+        <thumbnail>https://ia600501.us.archive.org/2/items/1700740365761/1700740365517.png</thumbnail>
+        <fanart>https://assets.b9.com.br/wp-content/uploads/2019/05/netflix-library-1280x720.jpg</fanart>
+		<info>Filmes e Séries mais bem avaliados</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/melhor-avaliacao/series-bem-avaliadas</externallink>
+   </channel>
+  
+   <channel>
+        <name>[COLOR red]•[/COLOR]Generos</name>
+        <thumbnail>https://archive.org/download/1700740365675/1700740365675.png</thumbnail>
+        <fanart>https://assets.b9.com.br/wp-content/uploads/2019/05/netflix-library-1280x720.jpg</fanart>
+		<info>Filmes Separados por genero</info>
+		<externallink>https://</externallink>
+   </channel>
+
+</channels>	
