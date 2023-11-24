@@ -3,6 +3,27 @@
 <SetViewMode>502</SetViewMode>
 
 <item>
+		<title>Rustin</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dFmp1KIGdSVDhIhy0yQNmCDTjav.jpg</fanart>
+		<genre>Drama, Biografia</genre>
+		<date>17.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4de2b3c4628627abaea5f17a6dd05329b8a49c2f</link>
+		<info>Mesmo com o racismo e a homofobia, o ativista Bayard Rustin ajudou a mudar o curso da história dos Direitos Civis ao orquestrar a Marcha sobre Washington em 1963.</info>
+	</item>
+	<item>
+		<title>Oppenheimer</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvaI1gezzvhkKid00goKxz9fAso.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg</fanart>
+		<genre>Drama, História</genre>
+		<date>20.07.2023</date>
+		<director>Christopher Nolan</director>
+		<actors>Cillian Murphy / Emily Blunt / Matt Damon / Robert Downey Jr. / Florence Pugh / Josh Hartnett / Casey Affleck / Rami Malek / Kenneth Branagh</actors>
+		<note>8,2</note>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fe29883af17567a6e92d927875c0e9fd7fe2887</link>
+		<info>A história do físico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial, e o quanto isso mudaria a história do mundo para sempre.</info>
+	</item>
+<item>
 	<title>Sly (2023)</title>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/flnrKe85SfgcRCW2KgUhz2Bn9yE.jpg</thumbnail>
 	<fanart>https://www.themoviedb.org/t/p/original/tna4oKYMQ8GjTJ2IPSXB4FhS1Y8.jpg</fanart>
