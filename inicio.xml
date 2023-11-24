@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
-<SetViewMode>500</SetViewMode>
-
 	<channel>
-		<name>[COLOR yellow]•[/COLOR]Recomendaçoes do Mes</name>
+		<name>[COLOR green]•[/COLOR]Recomendaçoes do Mes</name>
 		<thumbnail>https://archive.org/download/1700740365761/1700740365761.png</thumbnail>
 		<fanart>https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg?fit=1060%2C596&ssl=1</fanart>
-		<info>25 Filmes recomendados no mes 
-		
-		2 filmes de cada genero</info>
-		<externallink>https://</externallink>
+		<info>Filmes recomendados no mes </info>
+		<date>23.11.2023</date>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/recomendados-abas</externallink>
 	</channel>
 	<channel>
 		<name>[COLOR green]•[/COLOR]Filmes</name>
@@ -38,7 +35,7 @@
 	<name>[COLOR blue]•[/COLOR]Informações!</name>
 	<thumbnail>https://ia601200.us.archive.org/12/items/1700740365675/1700740365681.png</thumbnail>
 	<info>Duvidas sobre doaçoes, contato e status do addon</info>
-	<SetViewMode>502</SetViewMode>
+	<SetViewMode>1</SetViewMode>
 	<items>
 		<item>
 			<title>[COLOR cyan]Doaçoes Pix[/COLOR]: cineroom.ofc@gmail.com</title>
