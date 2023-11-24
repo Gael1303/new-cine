@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
 <item>
-	<title>O Assassino (2023)</title>
+		<title>Believer 2</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jAW3L7N5ePEnIsBQP5vnmhw1qbl.jpg</fanart>
+		<genre>Crime, Ação, Thriller</genre>
+		<date>05.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29a904d20ed370421c555ed1a9cb3c81f379bb22</link>
+		<info>Um detetive determinado procura a verdade por detrás da maior organização de tráfico de droga da Ásia e do seu esquivo cabecilha, com quem tem contas a acertar.</info>
+	</item>
+	
+<item>
+	<title>O Assassino</title>
 	<thumbnail>https://www.themoviedb.org/t/p/original/mkEQgdQcvmxSYvY4bMhabxLjjXY.jpg</thumbnail>
 	<fanart>https://www.themoviedb.org/t/p/original/tJtPeE1fR6VQot8Fg1pg852ESJU.jpg</fanart>
 	<genre>Crime, Thriller</genre>
@@ -14,7 +25,7 @@
 Depois de um erro desastroso, um assassino enfrenta quem o contratou e a si mesmo em uma caçada internacional por vingança. Mas ele jura que nada disso é pessoal.</info>
 </item>
 <item>
-	<title>O Padeiro (2023)</title>
+	<title>O Padeiro</title>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lsKpCe7lZtDP2XoVVBrt5jDsEka.jpg</thumbnail>
 	<fanart>https://www.themoviedb.org/t/p/original/usKCKmo1UcVsz0t3NNbkPXCmyk1.jpg</fanart>
 	<genre>Ação, Drama, Crime, Thriller</genre>
