@@ -115,6 +115,12 @@
 			<thumbnail>https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg</thumbnail>
 			<genre>Animação, Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
 		</item>
+                <item>
+			<title>Invencivel T02 E04</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c0b348fa62f9db499f4dd51da5305d845d74385</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg</thumbnail>
+			<genre>Animação, Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
+		</item>
 	</items>
 </channel>
 
