@@ -4,7 +4,21 @@
 <SetViewMode>54</SetViewMode>
 
         <item>
-		<title>Tire 5 Cartas (2023)</title>
+	<title>S.O.S do Divórcio</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tFShacQN5wVtmLTP4TSpEUSnFMj.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/3mthoPxC27m2LZ7twu2fEIca9mw.jpg</fanart>
+	<genre>Romance, Comédia</genre> <date>02.02.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30e19367c93e2f9fe306165c3a1033de3622caa5</link>
+	<info>Richard e Alice brigam em férias exóticas porque Richard quer se divorciar. Eles decidem voltar para casa mais cedo, mas seu pequeno avião cai em uma ilha deserta, forçando Richard e Alice a esperarem juntos pelo resgate.</info>
+        </item>
+        <item>
+		<title>Clube da Luta para Meninas</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oNvVSBe24LTtCKGSSbrvo1oskbo.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/f9ErVXAyR9EP5WOOp4i5ivBKsKC.jpg</fanart>
+		<genre>Comédia</genre> <date>21.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ea0d9340fb57a3b25e5e47366279fec55740662</link>
+		<info>Duas alunas não populares do último ano do ensino médio criam um clube da luta para tentar impressionar e conquistar líderes de torcida. E o plano bizarro delas funciona! Mas será que elas vão se meter em encrenca?</info>
+	</item>
+        <item>
+		<title>Tire 5 Cartas</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/seWAFVnbZZZQQIzLpOvMf07sT3o.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/aAzHV7VzlbSPlopwnqOeoqkP2iB.jpg</fanart>
 		<genre>Comédia</genre> <date>14.09.2023</date>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c84420957fa8758b326fff283611169b807cebb</link>
