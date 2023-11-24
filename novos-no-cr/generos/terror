@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 	<SetViewMode>54</SetViewMode>
+
+        <item>
+	<title>TOC TOC TOC: Ecos do Além</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lI1sqGtJM3PRGVuXvCUPbqeKJGQ.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/nYDPmxvl0if5vHBBp7pDYGkTFc7.jpg</fanart>
+	<genre>Terror</genre> <date>31.08.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb532fcf6c9b07d9a5ca60ae8525111db330647c</link>
+	<info>[I]Cedo ou tarde os segredos de família serão desenterrados.[/I]
+		
+O filho de um casal é atormentado por sons de batidas vindos de dentro das paredes, até que ele começa a suspeitar que seus pais escondem um terrível segredo.</info>
+</item>
 <item>
 		<title>As 7 Bruxas</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z4Jub9n4p7Eqicoh9RHrrYgiWIO.jpg</thumbnail>
@@ -18,8 +28,6 @@
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:593a2195f4c4d91d8a38c05387acf16acdaebfda</link>
 		<info>Durante uma viagem para o Havaí, três estudantes decidem participar de um jogo para ver quem consegue contar a melhor história de terror. Os estudantes contam três histórias diferentes sobre fantasmas japoneses, mas conforme o jogo avança, as coisas começam a ficar cada vez mais sinistras.</info>
 	</item>
-	
-	
 	
 	<item>
 		<title>Não Durma</title>
