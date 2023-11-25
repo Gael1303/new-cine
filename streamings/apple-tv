@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+	
+<SetViewMode>502</SetViewMode>
+
+ <channel>
+		<name>Ted Lasso</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg</thumbnail>
+		<fanart>Ted Lasso, um técnico de futebol americano que se muda para a Inglaterra para treinar um time de futebol, apesar da falta de experiência. Com jogadores e cidade desconfiados, será que ele vai conseguir conquistá-los?</fanart>
+		<date>14.08.2020</date>
+		<genre>Comédia, Drama</genre>
+		<info>Ted Lasso, um técnico de futebol americano que se muda para a Inglaterra para treinar um time de futebol, apesar da falta de experiência. Com jogadores e cidade desconfiados, será que ele vai conseguir conquistá-los?</info>
+		<studio>APPLE TV+</studio>
+		<items>
+			<item>
+				<title>[COLOR yellow][B]1ª Temporada[/B][/COLOR] </title>ted lasso
+                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oX7QdfiQEbyvIvpKgJHRCgbrLdK.jpg</thumbnail>
+			</item>
+			<item>
+				<title>Ted Lasso T01 E01 ao 05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e93bd1375cc64534af480991ee5b666eff9de40</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oX7QdfiQEbyvIvpKgJHRCgbrLdK.jpg</thumbnail>
+				<genre>Comédia, Drama</genre>
+			</item>
+			<item>
+				<title>Ted Lasso T01 E06 e 07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d9dc3a6f876c957922f12cc0d80e87b0c76c4e3</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oX7QdfiQEbyvIvpKgJHRCgbrLdK.jpg</thumbnail>
+				<genre>Comédia, Drama</genre>
+			</item>
+			<item>
+				<title>Ted Lasso T01 E08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2741528f4f6390937925db146f18468e30c8f8f9</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oX7QdfiQEbyvIvpKgJHRCgbrLdK.jpg</thumbnail>
+				<genre>Comédia, Drama</genre>
+			</item>
+			<item>
+				<title>Ted Lasso T01 E09</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b17c1d6c18ae4cacc5aaf324ce3dcbea584c0f1</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oX7QdfiQEbyvIvpKgJHRCgbrLdK.jpg</thumbnail>
+				<genre>Comédia, Drama</genre>
+			</item>
+			<item>
+				<title>Ted Lasso T01 E010</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2784c427669b98a5824f5c89f14422460eeced1c</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oX7QdfiQEbyvIvpKgJHRCgbrLdK.jpg</thumbnail>
+				<genre>Comédia, Drama</genre>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
+        <channel>
+		<name>Ruptura</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg</thumbnail>
+		<fanart>https://flxt.tmsimg.com/assets/p21271543_b_h8_ab.jpg</fanart>
+		<genre>Drama, Ficção, Mistério</genre>
+		<date>17.02.2022</date>
+		<studio>APPLE TV+</studio>
+		<info>Em Severance, cinco funcionários de uma empresa chamada Lumen aceitam participar de um procedimento experimental onde suas memórias pessoais e de trabalho são permanentemente separadas. Quando estão no escritório, só terão as lembranças referentes ao trabalho e em casa, não lembraram das situações profissionais. Mas por trás desse estranho procedimento, se escondem vários segredos obscuros que a empresa quer manter guardados. O funcionário Mark S (Adam Scott) é um dos primeiros a ser cobaia do experimento. Quando seu amigo de escritório, Petey (Yul Vazquez), é demitido, ele começa a perceber a grande conspiração por trás daquela corporação. Mas quando sai de dentro do escritório, Mark esquece completamente dos acontecimentos. Ele acaba sendo abordado por Petey que começa a informar o que há de errado com a empresa e insiste que ele deve investigar o que realmente está por trás do trabalho que fazem lá dentro.</info>
+		<items>
+			<item>
+				<title>Ruptura T01 E01-02</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cf4b504adf871fadc06d88bd83a5fa50f0d52b5</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg</thumbnail>
+				<genre>[I]Drama, Ficção, Mistério[/I]</genre>
+			</item>
+			<item>
+				<title>Ruptura T01 E03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73239ed9da1cc3c63a4c3c110f8bfb0509236730</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg</thumbnail>
+				<genre>[I]Drama, Ficção, Mistério[/I]</genre>
+			</item>
+			<item>
+				<title>Ruptura T01 E04</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce96d25aec0710e01816cffa05f3009fa0c3e014</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg</thumbnail>
+				<genre>[I]Drama, Ficção, Mistério[/I]</genre>
+			</item>
+			<item>
+				<title>Ruptura T01 E05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecd0eca1271d7e1fe5861244d8ca339651715682</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg</thumbnail>
+				<genre>[I]Drama, Ficção, Mistério[/I]</genre>
+			</item>
+			<item>
+				<title>Ruptura T01 E06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0571dc6ac00224bb3253fda3617e30485dc6f0a8</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg</thumbnail>
+				<genre>[I]Drama, Ficção, Mistério[/I]</genre>
+			</item>
+			<item>
+				<title>Ruptura T01 E07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:897136af89790f603d7988bd571fd1064a961fff</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg</thumbnail>
+				<genre>[I]Drama, Ficção, Mistério[/I]</genre>
+			</item>
+			<item>
+				<title>Ruptura T01 E08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e63ba74335fa62b0b349530362c7c8771c4528e6</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg</thumbnail>
+				<genre>[I]Drama, Ficção, Mistério[/I]</genre>
+			</item>
+			<item>
+				<title>Ruptura T01 E09</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:beecef50eea6af02c3862cbcdbef635700e19db3</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d09X5AzxBq4GkHL6j8pmkDPySfA.jpg</thumbnail>
+				<genre>[I]Drama, Ficção, Mistério[/I]</genre>
+			</item>
+		</items>
+	</channel>
+		--------------------------------------------
+		<channel>
+		<name>See</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/2YQcWTJnyVYqwtj3eIgMtHvxGGE.jpg</fanart>
+		<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+		<date>01.11.2019</date>
+		<studio>APPLE TV+</studio>
+		<info>Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes cegos. Baba Voss, pai de gêmeos nascidos séculos mais tarde com o mítico dom da visão. Com a ajuda de Paris, ele deve proteger sua tribo contra uma poderosa rainha.</info>
+		<items>
+			<item>
+				<title>See - T01 EP 01-05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9b7ba116b71a5c832bbe73625d788eca8656f79</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+				<genre/>
+			</item>
+			<item>
+				<title>See - T01 EP 06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a59824a1d737c408c2738099cacf41b9ecc1f96</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+				<genre/>
+			</item>
+			<item>
+				<title>See - T01 EP 07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11e500e0c63375e17bdfb975f0b77a77da8b8049</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+				<genre/>
+			</item>
+			<item>
+				<title>See - T01 EP 08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c63d2617c77aa88dbb17a7e895823801bf4a2afa</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+				<genre/>
+			</item>
+			<item>
+				<title>[COLOR yellow][B]2ª Temporada[/B][/COLOR] </title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+				<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+				<fanart>https://www.vodster.de/db/v4/series/361565/backgrounds/6103dd73cacc2.jpg</fanart>
+			</item>
+			<item>
+				<title>See - T02 EP 01</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4aa218b1cf7ea4391ca6a827467f7f3934472f1</link>
+				<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T02 EP 02</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:137afa572d85190d77e771997cb2b393f189d278</link>
+				<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T02 EP 03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47c96aaee73920bfbcdd08f243c23be19008c115</link>
+				<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T02 EP 04</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3272a2c0c8ad59fc44122006c70950cd003b86c9</link>
+				<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T02 EP 05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06d3ce5f20295801e08bd27e2304d883b3054248</link>
+				<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T02 EP 06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9c43b16b70faf86b5c6e8b54fffa3b71f2e3564</link>
+				<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T02 EP 07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:014d00d811963e1bf10beb6ffb6004d0ada3752c</link>
+				<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T02 EP 08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9bbf4536f3ac0b9e9874038d21fc0a526b1d263</link>
+				<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>[COLOR yellow][B]3ª Temporada[/B][/COLOR] </title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+				<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+				<fanart>https://www.vodster.de/db/v4/series/361565/backgrounds/6103dd73cacc2.jpg</fanart>
+			</item>
+			<item>
+				<title>See - T03 EP 01</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e601644979fc6bf9506d96ce77bff0bdd1f03454$nome=See - T03 EP 01 1080P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9945af0218edda0bbbbe9db5f507b9632c085f68$nome=See - T03 EP 01 4K - Leg</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx_6bqKEbQAXlR8qHQdCanf7_NsXJF6vHj_SZ7dFIegP-ucuglrobsxi-YIZcgDUPEZdsYh7Ew2We09tbbfGXjpIL3EdWeZRQXIezix9c55CKhYLbMclZxIGxOw5ldedr60X5h0krCIVPQil2mxIxbljx4-GEKWssN99g56GcSUJLDLBeHnFYjcyMLZw/s350/See%20s3.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T03 EP 02</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:960af41655e316f208d9bcbb622074ee286c364f$nome=See - T03 EP 02 1080P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30fa3949de10f27cd7676594926e16c0b5f3b70a$nome=See - T03 EP 02 4K - Leg</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx_6bqKEbQAXlR8qHQdCanf7_NsXJF6vHj_SZ7dFIegP-ucuglrobsxi-YIZcgDUPEZdsYh7Ew2We09tbbfGXjpIL3EdWeZRQXIezix9c55CKhYLbMclZxIGxOw5ldedr60X5h0krCIVPQil2mxIxbljx4-GEKWssN99g56GcSUJLDLBeHnFYjcyMLZw/s350/See%20s3.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T03 EP 03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1da3da2ff9adaa26bf7534672e7064d7c6e67fb6$nome=See - T03 EP 03 1080P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3275f4831af7d6f36a6102ac8f535f501958b6bd$nome=See - T03 EP 03 4K - Leg</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx_6bqKEbQAXlR8qHQdCanf7_NsXJF6vHj_SZ7dFIegP-ucuglrobsxi-YIZcgDUPEZdsYh7Ew2We09tbbfGXjpIL3EdWeZRQXIezix9c55CKhYLbMclZxIGxOw5ldedr60X5h0krCIVPQil2mxIxbljx4-GEKWssN99g56GcSUJLDLBeHnFYjcyMLZw/s350/See%20s3.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T03 EP 04</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78affa87da667a4fa3c8ec590f701ea24149453e$nome=See - T03 EP 04 1080P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4591cc08bc446cddaf884cac42229708e76b357$nome=See - T03 EP 04 4K - Leg</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx_6bqKEbQAXlR8qHQdCanf7_NsXJF6vHj_SZ7dFIegP-ucuglrobsxi-YIZcgDUPEZdsYh7Ew2We09tbbfGXjpIL3EdWeZRQXIezix9c55CKhYLbMclZxIGxOw5ldedr60X5h0krCIVPQil2mxIxbljx4-GEKWssN99g56GcSUJLDLBeHnFYjcyMLZw/s350/See%20s3.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T03 EP 05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fb116f4ed9b409e42f5d7585dfcbc47db9785f5$nome=See - T03 EP 05 720P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93eb54b729e692956b0500883d06984a138ab257$nome=See - T03 EP 05 4K - Leg</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx_6bqKEbQAXlR8qHQdCanf7_NsXJF6vHj_SZ7dFIegP-ucuglrobsxi-YIZcgDUPEZdsYh7Ew2We09tbbfGXjpIL3EdWeZRQXIezix9c55CKhYLbMclZxIGxOw5ldedr60X5h0krCIVPQil2mxIxbljx4-GEKWssN99g56GcSUJLDLBeHnFYjcyMLZw/s350/See%20s3.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T03 EP 06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d78cb7e920d3c40823872fdae3f5e39f84322561$nome=See - T03 EP 06 720P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b58caccd91f45d0b0c51829552e2c109caf5a9c$nome=See - T03 EP 06 4K - Leg</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx_6bqKEbQAXlR8qHQdCanf7_NsXJF6vHj_SZ7dFIegP-ucuglrobsxi-YIZcgDUPEZdsYh7Ew2We09tbbfGXjpIL3EdWeZRQXIezix9c55CKhYLbMclZxIGxOw5ldedr60X5h0krCIVPQil2mxIxbljx4-GEKWssN99g56GcSUJLDLBeHnFYjcyMLZw/s350/See%20s3.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T03 EP 07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b8ded8fce8fd6a3a4840dec3813f9f9466b67cc$nome=See - T03 EP 07 720P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04af8b076b34442e50140b4d4ca79a7bb1a3e604$nome=See - T03 EP 07 4K - Leg</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx_6bqKEbQAXlR8qHQdCanf7_NsXJF6vHj_SZ7dFIegP-ucuglrobsxi-YIZcgDUPEZdsYh7Ew2We09tbbfGXjpIL3EdWeZRQXIezix9c55CKhYLbMclZxIGxOw5ldedr60X5h0krCIVPQil2mxIxbljx4-GEKWssN99g56GcSUJLDLBeHnFYjcyMLZw/s350/See%20s3.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+			<item>
+				<title>See - T03 EP 08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d1d22c0044168be2391212daab8a77f6d4acdf8$nome=See - T03 EP 08 720P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4908da79a9436e2c241ed91d7b47e627ca2d7d6c$nome=See - T03 EP 08 4K - Leg</link>
+				<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx_6bqKEbQAXlR8qHQdCanf7_NsXJF6vHj_SZ7dFIegP-ucuglrobsxi-YIZcgDUPEZdsYh7Ew2We09tbbfGXjpIL3EdWeZRQXIezix9c55CKhYLbMclZxIGxOw5ldedr60X5h0krCIVPQil2mxIxbljx4-GEKWssN99g56GcSUJLDLBeHnFYjcyMLZw/s350/See%20s3.jpg</thumbnail>
+				<duration>3300</duration>
+				<genre>Ação, Drama, Ficção</genre>
+			</item>
+		</items>
+	</channel>
+       ----------------------------------------
+	   <channel>
+		<name>Silo</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j9wyX1KxM9GDH3BRTaAe9MGTldj.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+		<genre>Sci-Fi & Fantasy, Drama</genre>
+		<date>04.05.2023</date>
+		<studio>APPLE TV+</studio>
+		<info>Em um futuro destruído e tóxico, existe uma comunidade que vive dentro de um gigantesco silo subterrâneo com centenas de andares de profundidade. Lá, homens e mulheres vivem numa sociedade cheia de regras que acreditam existir para protegê-los.</info>
+		<items>
+			<item>
+				<title>Silo: T01 EP 01-2</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LVS6ANWHV25X4VH35VWZYNTDR75D2ZBW&dn=Silo%20S01E01-02%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+				<genre>Sci-Fi, Drama</genre>
+			</item>
+			<item>
+				<title>Silo: T01 EP 03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65c703ae4f45e0fbf295a98b725a196d347a1066</link>
+				<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+				<genre>Sci-Fi, Drama</genre>
+			</item>
+			<item>
+				<title>Silo: T01 EP 04</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62d471545e39dacbefe7686878ef8e5da0298d9b</link>
+				<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+				<genre>Sci-Fi, Drama</genre>
+			</item>
+			<item>
+				<title>Silo: T01 EP 05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GOSEEOIOAIGNJKXELRQUFVLMPETGWT2V&dn=Silo%20S01E05%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+				<genre>Sci-Fi, Drama</genre>
+			</item>
+			<item>
+				<title>Silo: T01 EP 06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5feb3d66cde0966eca526803fc95ce81ee52f18f</link>
+				<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+				<genre>Sci-Fi, Drama</genre>
+			</item>
+			<item>
+				<title>Silo: T01 EP 07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f26a9c3a217cd7f1e3cca948e4ce2dc56407bbe</link>
+				<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+				<genre>Sci-Fi, Drama</genre>
+			</item>
+			<item>
+				<title>Silo: T01 EP 08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35MVZMEX43FQIIRRJDWJZEYQSOEM4PX5&dn=Silo%20S01E08%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+				<genre>Sci-Fi, Drama</genre>
+			</item>
+			<item>
+				<title>Silo: T01 EP 09</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RR5QICKLBCQO4HBOEFSCQAECEUCOIMWX&dn=Silo%20S01E09%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+				<genre>Sci-Fi, Drama</genre>
+			</item>
+			<item>
+				<title>Silo: T01 EP 10</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKGYCEXZXNIQO2PH3JSOHV65FEZWSDXX&dn=Silo%20S01E10%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<fanart>https://www.themoviedb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+				<genre>Sci-Fi, Drama</genre>
+			</item>
+		</items>
+	</channel>
+	---------------------------------------------------------------
+	<channel>
+		<name>Black Bird</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/1pBGNgO2g15FKzWfLCVKlKyVU7w.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/o2C222QdW4dmoyd2dgPlnCcI3cW.jpg</fanart>
+		<genre>Drama, Crime</genre>
+		<date>06.07.2022</date>
+		<studio>APPLE TV+</studio>
+		<info>Inspirado em uma história real. Quando Jimmy Keene começa a cumprir uma sentença de 10 anos de prisão, ele recebe uma oferta incrível: se ele conseguir obter uma confissão do suspeito de assassinato Larry Hall, Jimmy será libertado. Completar esta missão torna-se o desafio de sua vida. </info>
+		<items>
+			<item>
+				<title>S01: Black Bird - Completo [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:994ccd2e2c8fb413261bbe70f0b90ea6db7aba9c$nome=Black Bird 1080P</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83b12b6d32420483496a3c1112859f3df23589ee$nome=Black Bird 2160P</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/79M2yNSmkh4CCMrWNV6b2xvIeNn.jpg</thumbnail>
+				<duration>3600</duration>
+				<genre>Drama, Crime</genre>
+			</item>
+		</items>
+	</channel>
+        ------------------------
+		<channel>
+		<name>Dickinson</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/srMiwQ6jzepCekGkFN8fkGrPvYU.jpg</fanart>
+		<date>01.11.2019</date>
+		<genre>Comédia, Drama</genre>
+		<info>Poetisa. Filha. Completa rebelde. Ela está determinada a tornar-se a maior poetisa do mundo e superar os limites impostos pela sociedade e por sua família.</info>
+		<studio>APPLE TV+</studio>
+		<items>
+			<item>
+				<title>Dickinson T01 EP01-06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad138b8c8eaa4cc243032bc64802ad37cf24e093</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/jn12eB2GK3X8OLBgXlfscfWqzL1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>Dickinson T01 EP07-10</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cca66f6d439bdf4adc4568e0142ffd1fc0c15e27</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/jn12eB2GK3X8OLBgXlfscfWqzL1.jpg</thumbnail>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
+		<channel>
+	<name>The Changeling: Sombras de Nova York</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aVrvd2niih1qzQa21deKt5R03cA.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/butQYwQvXZDDT9vatV3oO0ZAMhe.jpg</fanart>
+	<genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
+	<date>07.09.2023</date>
+	<studio>APPLE TV+</studio>
+	<info>A história de amor de Apollo e Emma é um conto de fadas — até que Emma some misteriosamente. Desolado, Apollo se vê em uma odisseia que desafia a morte por uma Nova York que ele não sabia que existia.</info>
+	<items>
+		<item>
+			<title>T01:E01-3 - The Changeling: Sombras de Nova York </title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76955be2661c369ae026dc43731f5366389c9bfc</link>
+			<fanart>https://www.themoviedb.org/t/p/original/butQYwQvXZDDT9vatV3oO0ZAMhe.jpg</fanart>
+			<genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
+		</item>
+		<item>
+			<title>T01:E04 - The Changeling: Sombras de Nova York </title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8136fbbd9bea9a76f168ed93ee7c640781a4596e</link>
+			<fanart>https://www.themoviedb.org/t/p/original/butQYwQvXZDDT9vatV3oO0ZAMhe.jpg</fanart>
+			<genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
+		</item>
+		<item>
+			<title>T01:E05 - The Changeling: Sombras de Nova York </title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac80adaca048c34f18b5932353b1377705637c72</link>
+			<fanart>https://www.themoviedb.org/t/p/original/butQYwQvXZDDT9vatV3oO0ZAMhe.jpg</fanart>
+			<genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
+		</item>
+		<item>
+			<title>T01:E06 - The Changeling: Sombras de Nova York </title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c1890f1b9bda4e09a51ce9e075f12ba951bb90e</link>
+			<fanart>https://www.themoviedb.org/t/p/original/butQYwQvXZDDT9vatV3oO0ZAMhe.jpg</fanart>
+			<genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
+		</item>
+		<item>
+			<title>T01:E07 - The Changeling: Sombras de Nova York </title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b9b3ca13167685fff5d6c57f2b559d25a855f66</link>
+			<fanart>https://www.themoviedb.org/t/p/original/butQYwQvXZDDT9vatV3oO0ZAMhe.jpg</fanart>
+			<genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
+		</item>
+	</items>
+</channel>
+         -----------------------------------------------
+
+
+
+	
+	
+	</channels>	
