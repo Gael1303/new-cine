@@ -22,7 +22,7 @@
     </channel>
     
 	<channel>
-        <name>[COLOR red]•[/COLOR] APPLE TV+</name>
+        <name>[COLOR green]•[/COLOR] APPLE TV+</name>
         <thumbnail>https://tv.apple.com/assets/knowledge-graph/tv.png</thumbnail>
         <fanart>https://cdn.mos.cms.futurecdn.net/AmZvvyjQYaKgEhfNtdXJf3-1200-80.png</fanart>
 		<info>ATUALIZADO EM:</info>
@@ -31,7 +31,7 @@
     </channel>
     
 	<channel>
-        <name>[COLOR red]•[/COLOR] DISNEY+</name>
+        <name>[COLOR green]•[/COLOR] DISNEY+</name>
         <thumbnail>https://m.media-amazon.com/images/I/712ui3rj1RL.png</thumbnail>
         <fanart>https://seriesemcena.com.br/wp-content/uploads/2022/05/disney-plus-logo_1.jpg</fanart>
 		<info>ATUALIZADO EM:</info>
@@ -54,7 +54,7 @@
         <fanart>https://t2.tudocdn.net/562644?w=1920&h=1080</fanart>
 		<info>ATUALIZADO EM:</info>
 		<date>22.11.2023</date>
-		<externallink>https://</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/streamings/paramount</externallink>
     </channel>
     
 	<channel>
@@ -63,17 +63,10 @@
         <fanart>https://t.ctcdn.com.br/L1djrxG6wGvpZvQsHkEXms-AXVE=/1920x1080/smart/i557001.png</fanart>
 		<info>ATUALIZADO EM:</info>
 		<date>22.11.2023</date>
-		<externallink>https://</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/streamings/globoplay</externallink>
     </channel>
     
-	<channel>
-        <name>[COLOR red]•[/COLOR] CRUNCHYROLL</name>
-        <thumbnail>https://play-lh.googleusercontent.com/CjzbMcLbmTswzCGauGQExkFsSHvwjKEeWLbVVJx0B-J9G6OQ-UCl2eOuGBfaIozFqow</thumbnail>
-        <fanart>https://t.ctcdn.com.br/p2ndc26OLy0S_bkwjwiCAdabFSY=/1600x900/smart/i417261.png</fanart>
-		<info>ATUALIZADO EM:</info>
-		<date>22.11.2023</date>
-		<externallink>https://</externallink>
-    </channel>
+	
 
 
     </channels>
