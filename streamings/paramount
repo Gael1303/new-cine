@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+	
+	<channel>
+		<name>Twin Peaks</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg</thumbnail>
+		<fanart>https://</fanart>
+		<date>08.04.1990</date>
+		<genre>Drama, Mistério</genre>
+		<info>A misteriosa morte de Laura Palmer na pacata cidade de Twin Peaks dá início a uma série de problemas ao agente do FBI Dale Cooper e ao xerife Harry Truman. Eles são os responsáveis pela investigação do crime e acabam percebendo que várias pessoas da cidade estão envolvidas e que segredos obscuros estão por trás do caso.</info>
+		<studio>PARAMOUNT+</studio>
+		<items>
+			<item>
+				<title>Twin Peaks - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51b4eb1ebd66461e431dc3b3af3110db079a2468</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg</thumbnail>
+				<genre>Policial, Drama, Mistério, Suspense, Clássico</genre>
+			</item>
+			<item>
+				<title>Twin Peaks - 2ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8ca2efddd41b02b746cb006e2805db40a15e064</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg</thumbnail>
+				<genre>Policial, Drama, Mistério, Suspense, Clássico</genre>
+			</item>
+		</items>
+	</channel>
+		--------------------------------------------
+		<channel>
+		<name>South Park</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iiCY2QIGSnmtVkIdjkKAfwDs0KF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/41neXsH222hV2zrsTyw8h7javon.jpg</fanart>
+		<date>13.08.1997</date>
+		<genre>Animção, Comédia</genre>
+		<info>Série animada que satiriza com muito humor negro a sociedade estadounidense ao apresentar situações bizarras e surreais protagonizadas por Stan, Kyle, Eric e Kenny, as crianças mais travessas de South Park.</info>
+		<studio>PARAMOUNT+</studio>
+		<items>
+			<item>
+				<title>South Park - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:726bb731414e1f0c302dcbad6e30b790975cf02d</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/sxCj0Iun46sUUsF5I2NQY6rml4c.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 2ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54334f5968fa14d6c0aaaaca8fb95dc89c11b96f</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oIDheshe9DYsviYn0qVy4yutrRp.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 3ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b8324a4624a234f0c883f6101fcd538b9c35c0d</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/x3jdSHgjyps2VQPmJ6KKgZqVEcE.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 4ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46b7b01d6cbf0ef28c936c12033087e75a35ff28</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/hAnKP4GRgOVx4XxA8OgSxmiyXNr.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 5ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa20a4e3e095a21e19a33f04b5ba66c0bc56a6cf</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/mbNzB0ji7QpHAMNnf0xpAJYoQWJ.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 6ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1be7a7685d9d8909ac8f010061f88400a27aee4</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/7nKjCuBH0tGkLwBwxDgxbBrNj5F.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 7ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53b471c0a8e40506595e5f02960bc5b8648db248</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/zYHoEtNxkdAa4g8wPdBdGq8VOzC.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 8ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:deb64120e5a0e29e7ef97c6522fabed480ac6ab8</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/xQRy02kpQHUpy1dD33hmM6QjpCb.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 9ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a96eab7b881f527e14c1ba77db1511dadbc813da</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/5cCxlgStfCVaaZtBuxmIVlHeoli.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 10ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64fcb834f3545c992fc34516dfab0a71e3e1e8be</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/brFCz0wW2bRyOyK81OqwDiJDmFA.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 11ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e1a54948d1c256839cfcd0d7ab7ba52f6d8dd5d</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/cVfhCT2wZq3hHCp8i2II8hHjOOg.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 12ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ba378b48a0c814492eae069d6d9ba3bce46b85f</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/wVDJyjekgMXqkVAmvplwkVfL9qX.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 13ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6bb80307fd966c38ba23adcf2563b4c9389211b</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/15Lszg1L3w6vGGqFFoTN0asxj5C.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 14ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db86a19986f44e298dcd3dd5fe2c3082bc923e58</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/6Xik83L9tCmLqh0cdxoopOsQm69.jpg</thumbnail>
+				<genre>Animção, Comédia</genre>
+			</item>
+			<item>
+				<title>South Park - 15ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65287c3f45f0d9d0bc49f492965e0fe4f9e952ea</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/6T31LPecW0wIB05VOExvaAssd4f.jpg</thumbnail>
+				<genre>Animção, Comédia</genre>
+			</item>
+			<item>
+				<title>South Park - 16ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a55375b1c82d748577d00c543ff1bac34aad5233</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/rYIXqHRPDKMhyx6fPi5DosDGniq.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 17ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea0ad0f3a84e97f40987c42c6c076a83d71fe3d3</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/spuqYJjCgZZyk0d9OTIRHAyeDaF.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 18ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a44a03fcce74e6c039acf40c71c221a81d87a1ee</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/5IMCLoCtNOyHHYS4dZqMNkwELhU.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 19ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83ab8f4eb053482e3522799d6bc843d709d57c8c</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/7iMBDcRWcCLjeDiZa6Dd3MGgSIm.jpg</thumbnail>
+			</item>
+			<item>
+				<title>South Park - 20ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b12383aa6a7f06393deaccbe9fd137b7f6d4d19</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/tQvfdzJFMV70grQBB9ylv35ChGW.jpg</thumbnail>
+			</item>
+		</items>
+	</channel>
+		--------------------------------------------
+		<channel>
+		<name>Oz</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oTQ9PUnCgf9CimYeWuDGp8iaT07.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/4xVe8V43eg95ydfqsgtcIPXKV2e.jpg</fanart>
+		<date>12.07.1997</date>
+		<genre>Crime, Drama</genre>
+		<info>Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados. Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+		<studio>PARAMOUNT+</studio>
+		<items>
+			<item>
+				<title>OZ - 1ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ab070645b0ebba4a83af5e86df5157385e8cc83</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/mtz5Pnql5ZiBKncxh7m7whf9jfB.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+			<item>
+				<title>OZ - 2ª Temporada</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3338ad393234ccba8a31918a02b74a60c04430a5</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/4vVhQvXw2s8VUOvxzsBI9zZGYhB.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+			<item>
+				<title>OZ - 3ª Temporada - Legendado</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0401ce11647cd93c77a3892caa84ccd9fda54882</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/oSnGYf7jq29Or74JcTbvq6Q4CJo.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+			<item>
+				<title>OZ - 4ª Temporada - Legendado</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:461b7c7ae4a00609af58945b17436a563c0721f9</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/kRCuEHXjOWS7uoKt4jLIxli1Ezr.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+			<item>
+				<title>OZ - 5ª Temporada - Legendado</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e451661b933608bdcfdc37ad355f2df8375c78b4</link>
+				<thumbnail>https://image.tmdb.org/t/p/w342/ovvzFg1rm1K6Osj3ZoMOCgvTZhr.jpg</thumbnail>
+				<genre>Crime, Drama</genre>
+			</item>
+		</items>
+	</channel>
+		--------------------------------------------
+		<channel>
+		<name>1883</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg</fanart>
+		<date>19.12.2021</date>
+		<genre>Drama, Faroeste</genre>
+		<info>Uma prequela de "Yellowstone", "1883" segue a família Dutton enquanto eles fogem da pobreza no Texas e embarcam em uma jornada pelas Grandes Planícies em busca de um futuro melhor em Montana.</info>
+		<studio>PARAMOUNT+</studio>
+		<items>
+			<item>
+				<title>1883 S01 E01 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d347f81c543f7d83f4a8ac63b3d1f445089a5cd</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E02 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc0943fa42006937fad62f58bee538f76ccd3bfd</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E03 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30e6030fd1645ad1add07c3aaf2a52fdceaf8ec5</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E04 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16465eccef4f7d868b55501d42fba37ec9364548</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E05 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:640971af21b6513a971afb09c454cceda5892f81</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E06 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c12a733c5e671697c0b056bcaf7b73369ab65d6d</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E07 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89d586fede321ffab60e036c567f7dfa74389f04</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E08 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38138b5c8c507c495878ed1e952459d2ad9c24cc</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E09 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fce32e7f34fd9b520908673c481a26531b605406</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+			<item>
+				<title>1883 S01 E10 [Leg]</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fee08a707516b32e29d1bd74176dc38df5915e0</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+				<genre>Drama, Faroeste</genre>
+			</item>
+		</items>
+	</channel>
+		--------------------------------------------
+		<channel>
+		<name>Tulsa King</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</fanart>
+		<genre>Crime, Drama</genre>
+		<date>13.11.2023</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Logo após ser libertado da prisão após 25 anos, o capo da máfia de Nova York Dwight “O General” Manfredi é exilado sem cerimônia por seu chefe para se estabelecer em Tulsa, Oklahoma. Percebendo que sua família mafiosa pode não ter seus melhores interesses em mente, Dwight lentamente constrói uma “equipe” de um grupo de personagens improváveis, para ajudá-lo a estabelecer um novo império do crime em um lugar que para ele poderia ser outro planeta.</info>
+		<items>
+			<item>
+				<title>Tulsa King - T01.E01-2</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0369318e134d70a20d8407c36952f04befeb1e7c</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94c2af9c4bdfcc937972725d6e9cd92015f4ddda</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E04</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e076eeb5a02d8b436c1643e8710a972352a69f9f</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c46e4ce122aef50fbd1343933ef774f523ab718</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a474d81c4f3733ea5b8837448894ba1f1f52f08</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b221127ff3054d77b08957b63577e7af56d67d25</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecf266bc0a321b20a62368a05050a3cca61f1733</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+			<item>
+				<title>Tulsa King - T01.E09</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e06e39e9a2be73048aa61440a179790b9a7bef28</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/o5fynWCt3sd7EnL1kq0hpGJKYEw.jpg</thumbnail>
+				<genre>Crime/Drama</genre>
+			</item>
+		</items>
+	</channel>
+            ----------------------------------------------------
+			<channel>
+		<name>Rabbit Hole: Jogo de Mentiras</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gUXPI4ss2gxfxCgW6W0C00v5X5A.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</fanart>
+		<genre>Drama</genre>
+		<date>24.03.2023</date>
+		<studio>Paramount+</studio>
+		<info>O agente espião James Weir se vê no meio de uma batalha pela preservação da democracia em um mundo confrontado com desinformação, manipulação comportamental, estado de vigilância, controle de interesses e poderes extraordinários.</info>
+		<items>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 01-2</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q5EHRXYMCSMXJ6BXT7PSUI5VKUTEEXO6&dn=Rabbit%20Hole%20S01E01-02%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:461642073ea7bd9c75351b3aa2914c8e4d03dcdf&dn=Rabbit.Hole.Jogo.de.Mentiras.S01E03.1080p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 04</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LWVOTTBAZLAQVXSNJ5VWNP3NKGSEQFJE&dn=Rabbit%20Hole%20S01E04%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 05</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QGUY5FL2LOBAXQZ7WGGRJEDLYLXKHWVM&dn=Rabbit%20Hole%20S01E05%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 06</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F3HMTN3VVHT5B75DEMS3NY763HZ5XAW&dn=Rabbit%20Hole%20S01E06%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 07</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYEU46BQ53LISLPLCQHFWOJKZ2W2DJPA&dn=Rabbit%20Hole%20S01E07%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+			<item>
+				<title>Rabbit Hole: Jogo de Mentiras: T01 EP 08</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5J5KUIIEOXEUC6EUM3UYZ323Z5NQQ5YP&dn=Rabbit%20Hole%20S01E08%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+				<thumbnail>https://www.themoviedb.org/t/p/original/ejEIt6TmywGov56dWDx0XWPP2NR.jpg</thumbnail>
+				<genre>Drama</genre>
+			</item>
+		</items>
+	</channel>
+           -------------------------------------------------
+
+	
+	<channel>
+        <name>Zzz [COLOR yellow]MAIS SÉRIES EM BREVE[/COLOR] zzZ</name>
+        <thumbnail>https://www.ergocorp.com.br/uploads/images/bra_treinamentos/cortar-500-500-carregando-novidades.png</thumbnail>
+		<date></date>
+		<externallink>https://</externallink>
+    </channel>
+	
+	</channels>	
