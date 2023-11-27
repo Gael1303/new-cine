@@ -2103,7 +2103,36 @@
 	</items>
 </channel>
 		-
-
+<channel>
+	<name>O.C.: Um Estranho no Paraíso</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zDUSI7yo71ehMOTUdQNeYDcxNS0.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/p7xr2EArPEv5aI4QPYIQhQ8MNfj.jpg</fanart>
+	<date>05.08.2003</date>
+	<genre>Drama</genre>
+	<info>Nas mansões por trás dos muros, tudo parece ser perfeito. Quando Ryan Atwood, um adolescente problemático que vive se metendo em roubadas, chega em Orange County com o advogado Sandy Cohen, ele começa a descobrir que nem tudo ali naquele lugar é tão perfeito como aparenta.</info>
+	<studio>HBO</studio>
+	<items>
+		<item>
+			<title>O.C. Um Estranho no Paraíso - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90c892eef96da1391b580505cc87308b206cab85</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/cxL0oMDAr2dWSuQr5DsloHEO8c1.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>The O.C. Um Estranho no Paraíso - 2ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9786961e20a6017b23dd36b04ae88280500e2ff8</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/xTSNGBf7yNGOteUl6TeIof4e5yV.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>O.C. Um Estranho no Paraíso - 3ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2476e15742aa6ff51ef4f6584e18e28f70da8c11</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/epgjs08lRgOSEwIceqqmnnvHkWp.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+	</items>
+</channel>
+		-
 
 
 
