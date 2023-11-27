@@ -2133,7 +2133,17 @@
 	</items>
 </channel>
 		-
-
+<channel>
+	<name>As Seguidoras</name>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20as%20seguidoras</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e1WgEUT6GWMrPAq9RSrssBcOeSA.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/4mpUHbIk5GsCOCjXQECpJIWRZB5.jpg</fanart>
+	<genre>Comédia, Nacional, Suspense</genre>
+	<studio>PARAMOUNT+</studio>
+	<date>06.03.2022</date>
+	<info>A série acompanha a história de Liv, uma influenciadora digital que leva sua obsessão por ganhar seguidores às últimas consequências, transformando-se em uma serial killer no processo. Contudo, o que ela não conta é que está sendo seguida pela dona de um podcast criminal, Antonia, que pode acabar colocando a jovem atrás das grades.</info>
+</channel>
+		-
 
 
 
