@@ -783,5 +783,140 @@
 	</item>
 </items>
 </channel>
+
+        <channel>
+	<name>A Química da Morte</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2g19fjcnnAJyBl0VmcfKCGS8rbr.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iDWYp9fFuSdKw0W7VLmsRQ2jFLZ.jpg</fanart>
+	<genre>Crime</genre>
+	<date>12.01.2023</date>
+	<studio>PARAMOUNT+</studio>
+	<info>Quando corpos começam a aparecer no tranquilo campo inglês que ele recentemente transformou em lar, um antropólogo forense ajuda a polícia local em uma corrida contra o tempo.</info>
+	<items>
+		<item>
+			<title>A Química da Morte</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b285cab707f92b8937524c172937d07a9b4b42a&dn=The.Chemistry.of.Death.S01.1080p.WEB-DL.DUAL-TDFHD&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/iDWYp9fFuSdKw0W7VLmsRQ2jFLZ.jpg</thumbnail>
+			<genre>Crime</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>Operação: Lioness</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fAd0dCaoSvJdGi4K4RxDfzhqXL7.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</fanart>
+	<genre>Drama</genre>
+	<date>23.07.2023</date>
+	<studio>PARAMOUNT+</studio>
+	<info>Em Operação Lioness, uma fuzileira naval marcada por traumas está determinada a fazer de tudo para derrubar uma organização terrorista. Na série produzida por Nicole Kidman e Zoe Saldana, Cruz Manuelos (Laysla de Oliveira) é recrutada pela CIA para se infiltrar entre as mulheres de terroristas. Para sobreviver a diversas situações de vida ou morte e evitar ao máximo erros que podem custar sua própria segurança, e do país, ela é treinada e orientada por Joe (Zoe Saldana), a chefe da Operação Lioness.</info>
+	<items>
+		<item>
+			<title>T01 E01-2 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:997c5d39b2b78da4eddd757aff9d9c6fc27b645c</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E03 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42880e943174db99236036c69a964943de795532</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E04 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caaeeaaf54c2e5cf6414beab4be66814b2b18028</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E05 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:189cc18719d6791ba70ad73428076b078765c9aa</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E06 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ebef2b45edd6c1af89c4bdfe56ba3797fb23f42</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E07 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dcc94200f03fcccabfce0adc2cd23cbf5475801</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+		<item>
+			<title>T01 E08 - Operação: Lioness</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5db073dd3ac32d617ee291b4e457570aa8e3c01a</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/7n3ZuENO3p3wDMS8lwz81i93Uq4.jpg</thumbnail>
+			<genre>Drama</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	    <name>Espíritos na Escola</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eb7ZJYZjed1bBQ8a4aMDwp5nvjF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/bpWj3r7lxZTWrm1ns2yooc6d0SM.jpg</fanart>
+		<genre>Drama</genre>
+		<date>09.03.2023</date>
+		<studio>PARAMOUNT+</studio>
+		<info>"[I]O que aconteceu com Maddie?[/I]"
+
+Uma adolescente presa na vida após a morte decide investigar seu desaparecimento com um grupo de outros alunos que também estão presos no limbo em sua escola.</info>
+	<items>
+	<item>
+		<title>Espíritos na Escola [T01]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f26aaacd53d80b00db4080c806dd8c07366b477$nome=Espíritos na Escola 1080P DUBLADO</link>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dfac573effa98bc7e0abb1458138b75469ac89a$nome=Espíritos na Escola 4K LEGENDADO</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/bpWj3r7lxZTWrm1ns2yooc6d0SM.jpg</thumbnail>
+		<genre>Drama</genre>
+	</item>
+</items>
+</channel>
+		-
+		<channel>
+	    <name>A Família Stallone</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hwdgvw8H459HVxE6htcrEUTQzlS.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/794vnApbMd8XJONLEL0MuAK5CnU.jpg</fanart>
+		<genre>Reality</genre>
+		<date>03.07.2023</date>
+		<studio>PARAMOUNT+</studio>
+		<info>"[I]Não há lugar como Stallone.[/I]"
+
+Super astro da ação, indicado ao Oscar e Ícone, Sylvester Stallone em seu papel mais importante: a Paternidade.</info>
+	<items>
+	<item>
+		<title>A Família Stallone [T01]</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9097fb88f6b9e070c0362e7b04e050b71486e579</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w500_and_h282_face/794vnApbMd8XJONLEL0MuAK5CnU.jpg</thumbnail>
+		<genre>Reality Show</genre>
+	</item>
+</items>
+</channel>
+		-
+<channel>
+	<name>Wolf Pack</name>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/wolf-pack</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/oV0nqWfFLJW8qH8FSHaTbNGdwuE.jpg</fanart>
+	<genre>Sci-Fi & Fantasy, Drama</genre>
+	<date>23.01.2023</date>
+	<studio>PARAMOUNT+</studio>
+	<info>Baseada no livro de mesmo nome, Wolf Pack é uma série sobrenatural que acompanha uma série de eventos bizarros na vida de quatro adolescentes após um misterioso incêndio florestal na Califórnia. No presente, Everett e Blake são atacados por uma criatura enorme que acorda quando o fogo se espalha pela floresta. Ao fugirem, a dupla encontra Luna e Harlan, que há 16 anos tiveram a vida transformada por um incêndio semelhante. Luna e Harlan são irmãos gêmeos que foram adotados por um guarda florestal após um terrível incêndio, além de não serem adolescentes comuns. Com a lua cheia, o grupo percebe que todos compartilham a mesma mordida e sangue de lobisomem. Agora, o quarteto se une para descobrir sua origem e o motivo por trás dos incêndios que têm causado destruição na região por anos.</info>
+</channel>
+		-
+		<channel>
+	<name>Adriano Imperador</name>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/adriano-imperador</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cUdrdFH1EuPPMdf1mcvGY5MpQZK.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/3apZ9TfDnT7tS9KBLiujFQ1RstQ.jpg</fanart>
+	<genre>Documentário</genre>
+	<date>21.07.2022</date>
+	<studio>PARAMOUNT+</studio>
+	<info>No auge de sua carreira, Adriano Leite Ribeiro, jogador consagrado Imperador pela torcida da Inter de Milão, abre mão de contratos milionários para ir em busca de seu bem mais valioso: a felicidade.</info>
+</channel>
 	
 	</channels>	
