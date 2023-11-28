@@ -918,5 +918,105 @@ Super astro da ação, indicado ao Oscar e Ícone, Sylvester Stallone em seu pap
 	<studio>PARAMOUNT+</studio>
 	<info>No auge de sua carreira, Adriano Leite Ribeiro, jogador consagrado Imperador pela torcida da Inter de Milão, abre mão de contratos milionários para ir em busca de seu bem mais valioso: a felicidade.</info>
 </channel>
+
+    <channel>
+		<name>Deixe Ela Entrar</name>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/deixe-ela-entrar</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aRsmGF1AVuMY26ArRxMpKJ8S8NL.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/5JdF29QhzAa7RkMzsJ1vrr9Y0xX.jpg</fanart>
+		<genre>Drama</genre>
+		<date>09.10.2022</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Após ser mordida por uma criatura misteriosa, Eleanor é transformada em vampira e leva uma vida de solidão por conta dos perigos de ser descoberta. Mark, seu pai, está disposto a fazer de tudo para que ela sobreviva (até mesmo alimentá-la com seu próprio sangue).</info>
+	</channel>
+		-
+	<channel>
+		<name>Beavis and Butt-Head</name>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/Beavis-and-Butt-Head</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e46ZGqLKtrNRoFVt8bkTwR4UChH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ueqsAFUcwNOgUxFnLd7RRj0FnDC.jpg</fanart>
+		<genre>Animação, Comédia</genre>
+		<date>04.08.2022</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Beavis e Butt-Head estão de volta e mais estúpidos do que nunca.</info>
+	</channel>
+		-
+	<channel>
+		<name>As Seguidoras</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20as%20seguidoras</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e1WgEUT6GWMrPAq9RSrssBcOeSA.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/4mpUHbIk5GsCOCjXQECpJIWRZB5.jpg</fanart>
+		<genre>Comédia, Nacional, Suspense</genre>
+		<studio>PARAMOUNT+</studio>
+		<date>06.03.2022</date>
+		<info>A série acompanha a história de Liv, uma influenciadora digital que leva sua obsessão por ganhar seguidores às últimas consequências, transformando-se em uma serial killer no processo. Contudo, o que ela não conta é que está sendo seguida pela dona de um podcast criminal, Antonia, que pode acabar colocando a jovem atrás das grades.</info>
+	</channel>
+		-
+<channel>
+		<name>Gigolô Americano</name>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/gigolo-americano</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/original/m0nRFOLYUju4XHG7v2jZZf3n6vs.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/3Kqs0JE07sWdK1Hp3uvooy6FKuB.jpg</fanart>
+		<genre>Drama</genre>
+		<date>11.09.2022</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Libertado após quinze anos de prisão por um assassinato que não cometeu, o ex-gigolô Julian Kaye enfrenta o desafio de se reerguer enquanto o detetive que o colocou atrás das grades tenta desvendar o mistério que o levou à prisão.</info>
+	</channel>
+		-
+		<channel>
+		<name>Halo </name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20halo</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/original/nJUHX3XL1jMkk8honUZnUmudFb9.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wXmGEipC1bI6uP4sVC3BNEFtb3x.jpg</fanart>
+		<genre>Ação, Aventura, Ficção</genre>
+		<studio>PARAMOUNT+</studio>
+		<date>24.03.2022</date>
+		<info>Em Halo, uma épica batalha acontece no durante o século XXVI entre a raça humana e uma espécie alienígena conhecida como Covenant. Após anos de domínio, quando colônias começam a se rebelar, a liderança da raça Covenant declara que humanos são hereges perante seus deuses e inicia uma onda genocida contra a raça humana. Após a redescoberta dos anéis de Halo, o líder Master Chief (Pablo Schreiber) ao lado de sua equipe e a inteligência artificial Cortana, irão tentar destruir o que para os Covenant é um instrumento poderoso. Em contrapartida, a espécie Covenant também passa por conflitos internos próprios quando um de seus comandantes é exilado e se alia junto com outros divergentes ao lado dos humanos. A trama explora a complexidade dessa nova sociedade em conflito e o passado de seus personagens, além de trazer incríveis cenas de ação.</info>
+	</channel>
+		-
+		<channel>
+		<name>Star Trek: Strange New Worlds</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20star%20trek%20new%20world</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/original/7Cp5w4X8xH2x4xDk67C5kMC5ePA.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/627K48naKH2Y3Rz47Ydra4qktdI.jpg</fanart>
+		<genre>Aventura</genre>
+		<date>05.05.2022</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Em Star Trek: Strange New Worlds, o capitão Christopher Pike (Anson Mount) lidera a equipe do USS Enterprise pelos confins do universo em aventuras perigosas e intensas. Passando-se antes da trama da série original, Strange New Worlds explora mais profundamente o universo Star Trek antes da chegada do icônico Capitão Kirk (William Shatner). Pike, ainda inexperiente em liderar toda a Enterprise por conta própria, se apoia na ajuda de seus companheiros da nave, em especial Una Chin-Riley (Rebecca Romjin), segunda em comando depois dele. Além disso, ele conta a inteligência ímpar do popular personagem Spock (Ethan Peck), um alienígena meio humano meio vulcano. Os passageiros da USS Enterprise irão se aventurar por lugares inimagináveis e viverão uma jornada intensa pela galáxica, encontrando aliados fiéis, mas também fazendo inúmeros inimigos perigosos pelo caminho. Mas com o apoio de cada um, poderão completar suas missões com sucesso.</info>
+	</channel>
+		-
+		<channel>
+		<name>iCarly: Revival</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20icarly%20revival</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ooQbYPupFxyvzEaJreuAUkcjqUA.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/yDPPqVVxEXlinYtvyefXLNWYpM4.jpg</fanart>
+		<genre>Comédia, Drama</genre>
+		<date>29.10.2021</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Carly, Spencer e Freddie exploram novas aventuras em seus vinte e poucos anos.</info>
+	</channel>
+		-
+		<channel>
+		<name>Além da Imaginação</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20Al%C3%A9m%20da%20Imagina%C3%A7%C3%A3o</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5OYHoUEKE3RJMqiHcJ8XA5kB7bw.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fy9fhl09shpTLjw4IEqqmVMYM28.jpg</fanart>
+		<genre> Ficção Científica, Fantasia, Drama</genre>
+		<date>27.09.1985</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Uma coleção de histórias que vão do cômico ao trágico, mas geralmente têm um senso de humor perverso e uma reviravolta inesperada.</info>
+	</channel>
+		-
+		<channel>
+		<name>Compulsion</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie-compulsion</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bdUvSiw0t6G86FRAP2CGYh0ReD6.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jwLYjv4fx8IVJyqpgRyqta8rauM.jpg</fanart>
+		<genre>Crime, Drama</genre>
+		<date>12.04.2022</date>
+		<studio>PARAMOUNT+</studio>
+		<info>Depois de sobreviver a uma tragédia, a paramédica Jenny Challoner luta contra o PTSD. Escondendo seu sofrimento do marido Chris, da amiga Alison e da filha Rosie, a vida de Jenny fica fora de controle.</info>
+	</channel>
+		-
 	
 	</channels>	
