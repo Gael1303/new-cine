@@ -429,7 +429,100 @@
 	</items>
 </channel>
          -----------------------------------------------
+        <channel>
+		<name>Real Madrid: Até o Fim</name>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/real-madrid</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9L9m4NGYuOJ6t0JZgBMvAjaUxCL.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/6P74cBfvbwziExuzVKuEOclmOXR.jpg</fanart>
+		<genre>Documentario</genre>
+		<date>09.03.2023</date>
+		<studio>APPLE TV+</studio>
+		<info>"[I]O caminho do clube para a grandeza.[/I]"
 
+Entre em campo e conheça os bastidores da incrível temporada de 2021-2022 do icônico clube de futebol. Incentivados por seus fãs fervorosos, eles desafiam as probabilidades e silenciam os céticos.</info>
+	</channel>
+         -
+<channel>
+		<name>Sequestro no Ar</name>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/sequestro-no-ar</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ve9nizFrjgIcuoceapsVbPYt5jM.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/kfua5A0ZUHRRf1UxiQeoIVlkfSI.jpg</fanart>
+		<genre>Drama</genre>
+		<date>27.07.2023</date>
+		<studio>APPLE TV+</studio>
+		<info>"[I]Deixe-os pensar que estão no controle.[/I]"
+
+Quando o voo KA29 é sequestrado durante uma viagem de sete horas de Dubai a Londres, Sam Nelson—um talentoso negociador corporativo—tenta usar suas habilidades profissionais para salvar todos a bordo. Essa estratégia de alto risco será sua ruína?</info>
+	</channel>
+         -
+		 <channel>
+		<name>Entre Estranhos</name>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/entre-estranhos</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kjgM6baJMb4889MxHLwFAePowcb.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/bvvgnuFZk6NhFZrrA519hCSI6IS.jpg</fanart>
+		<genre>Drama, Crime, Mistério</genre>
+		<date>06.08.2023</date>
+		<studio>APPLE TV+</studio>
+		<info>Na série antológica The Crowded Room, baseada no livro biográfico The Minds of Billy Milligan, escrito por Daniel Keyes, entendemos como Billy Milligan, na série chamado Danny Sullivan (Tom Holland), se tornou a primeira pessoa a ser absolvida de um crime por causa de transtorno de personalidade múltipla (hoje conhecido como transtorno dissociativo de identidade). O mistério por trás do caso e do passado do garoto envolvido em um tiroteio em Nova York é desvendado através de entrevistas e interrogatórios conduzidos por Rya (Amanda Seyfried), uma psicóloga clínica dedicada à causa mas que precisa conciliar a vida profissional com a de mãe solteira.</info>
+	</channel>
+         -
+		 <channel>
+		<name>Falando a Real</name>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/falando-a-real</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hFm2BotenkhcLwrOXp8JlwcKw4O.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/8lWcmMKvIbilcIMaTNTk5nEcYYS.jpg</fanart>
+		<genre>Comédia</genre>
+		<date>26.01.2023</date>
+		<studio>APPLE TV+</studio>
+		<info>Jimmy está enfrentando o luto pela perda de sua esposa enquanto é pai, amigo e terapeuta. Ele decide tentar uma nova abordagem com todos em seu caminho: honestidade brutal e sem filtros. Ele pode ajudar a si mesmo ajudando os outros? Será que isso vai trazê-lo de volta para a luz?</info>
+	</channel>
+	        -
+	<channel>
+	<name>Querido Edward</name>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/querido-edward</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2JnN6HjMHGPwrw3HEf0NWUdyKDt.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/xMilmpC6uDOf5KLCndzQNsCKCpT.jpg</fanart>
+	<genre>Drama</genre>
+	<date>02.02.2023</date>
+	<studio>APPLETV+</studio>
+	<info>Um menino de 12 anos é o único sobrevivente de um acidente de avião. Enquanto ele e outras pessoas afetadas pela tragédia tentam entender o que a aconteceu, amizades, romances e ligações inesperadas são formadas.</info>
+</channel>
+	        -
+	<channel>
+	<name>A Serpente de Essex</name>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20serpente%20essex</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6qCCbuJ5jn6MNH8oxV0LgK5T3qL.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/wXPDaCGosh1BTHggpsoUQn2gBZi.jpg</fanart>
+	<genre>Drama</genre>
+	<date>13.05.2022</date>
+	<studio>APPLE TV+</studio>
+	<info>Baseada na obra de Sarah Perry, A Serpente de Essex acompanha Cora Seaborne (Claire Danes), uma mulher que, após a morte do marido abusivo, decide abraçar seu interesse pela paleontologia. Ela sai em uma viagem exploratória com o filho Francis, um garotinho curioso de 11 anos, e Martha (Hayley Squires), a babá do menino e sua melhor amiga. Durante a intensa jornada, Cora se torna intrigada pelas ruínas de uma antiga caverna causada por um grande terremoto. Logo, Cora descobre rumores de que, depois de quase três séculos, a serpente mítica de Essex pode ter retornado. Quando um homem morre de um jeito misterioso na véspera de ano novo, a comunidade da região entra em pânico. Os moradores acreditam que a serpente é um ser mágico, mas Cora não é supersticiosa. Cora busca entender os mistérios que envolvem Essex e, quem sabe, ter contato com uma espécie nunca antes vista.</info>
+</channel>
+          -
+	<channel>
+		<name>Planeta Pré-Histórico</name>
+        <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20planeta%20pr%C3%A9%20historico</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iO7MX4bFkufcCYgGZNpLbnJLDU8.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/tjXXXRnEI3rxzTsrs4FvhjhPlQt.jpg</fanart>
+		<genre>Documentário</genre>
+		<date>25.05.2022</date>
+		<studio>APPLE TV+</studio>
+		<info>Experimente como nunca antes as maravilhas do nosso mundo nesta série documental épica de Jon Favreau e dos produtores de Planeta Terra. Viaje 66 milhões de anos para quando dinossauros majestosos e criaturas extraordinárias habitavam terras, mares e céus.</info>
+	</channel>
+	       -
+	
+	<channel>
+		<name>Iluminadas</name>
+        <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20iluminadas</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1oFhTXVp1u8oNB9WacQMYd8s362.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/6Tyx6ztUb7XZjRYh5R63obQ5JHI.jpg</fanart>
+		<genre>Drama</genre>
+		<date>24.04.2022</date>
+		<studio>APPLE TV+</studio>
+		<info>Anos depois que um ataque brutal a deixou traumatizada, Kirby Mazrachi (Elisabeth Moss) descobre que um assassinato recente está ligado ao seu ataque.
+Ela se une ao repórter veterano Dan (Wagner Moura), que cobriu o caso no passado. Agora os dois partem em uma caçada contra esse agressor, encontrando diversos casos semelhantes ao crime sofrido por Kirby.
+</info>
+	</channel>
 
 
 	
