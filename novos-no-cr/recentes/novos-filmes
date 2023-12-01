@@ -3,7 +3,15 @@
 <items>
 <SetViewMode>500</SetViewMode>
 
-
+        <item>
+		<title>Ninguém é de Ninguém (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wBkP0yXOywAAU9tcqgXaJJjtfqz.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/1ZVKtDiLe1SgThCeAmjCgRyP5RD.jpg</fanart>
+		<genre>Drama</genre>
+		<date>20.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a3646ca49ad70baa146d4d697fad323ee9acc65</link>
+		<info>Gabriela, esposa de Roberto, é chamada para trabalhar no escritório de Renato, advogado bem-sucedido casado com Gioconda. Após a vida dos casais se entrelaçarem, o quarteto passa a sofrer com mentiras, relacionamentos desgastantes e tragédias.</info>
+	</item>
        
         <item>
 	<title>O Exorcista: O Devoto (2023)</title>
