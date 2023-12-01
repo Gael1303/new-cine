@@ -4,6 +4,39 @@
 	
 <SetViewMode>502</SetViewMode>
 
+
+             <channel>
+		<name>Monarch: Legado de Monstros</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/lghMCJJ7u2fIHMVtsrsMCV9OTsI.jpg</fanart>
+		<date>16.11.2023</date>
+		<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+		<info>Após sobreviver ao ataque do Godzilla em São Francisco, Cate é abalada novamente por um segredo chocante. Em meio a ameaças monstruosas, ela embarca em uma aventura pelo mundo para descobrir a verdade sobre sua família—e a organização misteriosa conhecida como Monarch.</info>
+		<studio>APPLE TV+</studio>
+		<items>
+			<item>
+				<title>Monarch: Legado de Monstros T01 E01-2</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9467109f62df8f161ba46440c56fe860e63f6cef$nome=Monarch: Legado de Monstros T01 E01-2 [1080P]</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1323345cf9eebe69c507d0bc457f65f85aea31cf$nome=Monarch: Legado de Monstros T01 E01-2 [4K Leg]</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
+				<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+			</item>
+                        <item>
+				<title>Monarch: Legado de Monstros T01 E03</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:efe5ad815c304cb20392b468f5f9a2c32db2ff6b$nome=Monarch: Legado de Monstros T01 E03 [1080P]</link>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98d7a64d8ff194143f605f8543f4f4f05c820026$nome=Monarch: Legado de Monstros T01 E03 [4K Leg]</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
+				<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+			</item>
+                        <item>
+				<title>Monarch: Legado de Monstros T01 E04</title>
+				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aea0c55f853b948be263f74430ca19e2ed884be2</link>
+				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
+				<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+			</item>
+		</items>
+	</channel>
+		-----------------------------------------------
  <channel>
 		<name>Ted Lasso</name>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg</thumbnail>
