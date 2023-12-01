@@ -3,6 +3,26 @@
 <items>
 <SetViewMode>500</SetViewMode>
 
+
+
+        <item>
+		<title>Indiana Jones e a Relíquia do Destino (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9m161GawbY3cWxe6txd1NOHTjd0.jpg</fanart>
+		<genre>Aventura, Ação</genre>
+		<date>28.06.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63b79e02e389e461e780136ef850578372e8ab09</link>
+		<info>Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece tê-lo superado. Mas quando os tentáculos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chapéu e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato não caia nas mãos erradas.</info>
+	</item>
+	<item>
+		<title>A Batalha de Natal (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7xz7evAsp4wqwSBSZLnNd13wBZt.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/sp6egj5NHHRGmCMdIoTNdbLwACR.jpg</fanart>
+		<genre>Comédia, Fantasia, Família</genre>
+		<date>29.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72309e321d2dad66cbcc101fdba777cf1b30fcc1</link>
+		<info>Depois que Chris faz um acordo com uma elfo travessa chamada Pepper para aumentar suas chances de vitória, ela lança um feitiço que dá vida aos 12 dias de Natal e causa estragos em toda a cidade. Correndo o risco de arruinar as férias de sua família, Chris, sua esposa Carol e seus três filhos devem correr contra o relógio para quebrar o feitiço de Pepper, lutar contra personagens mágicos e salvar o Natal para todos.</info>
+	</item>
         <item>
 		<title>Ninguém é de Ninguém (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wBkP0yXOywAAU9tcqgXaJJjtfqz.jpg</thumbnail>
