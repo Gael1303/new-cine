@@ -2,6 +2,15 @@
 <items>
 	<SetViewMode>5</SetViewMode>
 
+
+        <item type="movie">
+		<title>Indiana Jones e a Relíquia do Destino - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9m161GawbY3cWxe6txd1NOHTjd0.jpg</fanart>
+		<genre>Aventura, Ação</genre>
+		<date>28.06.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08746c260b3d10cf3c90c1a236a2e6f23f9ce586</link>
+	</item>
         <item>
 		<title>Oppenheimer - 4K</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jvaI1gezzvhkKid00goKxz9fAso.jpg</thumbnail>	<fanart>https://www.themoviedb.org/t/p/original/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg</fanart>
