@@ -4,7 +4,60 @@
 <SetViewMode>500</SetViewMode>
 
 
-
+        <item>
+		<title>Assassinos da Lua das Flores (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wCte7A4O2L7CAiw70fbFuvkngA7.jpg</fanart>
+		<genre>Crime, Drama, História</genre>
+		<date>19.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8c3b9878ef4c872e0c824cc118e887faa55fa7b</link>
+		<info>Na década de 1920, em Oklahoma, o povo da nação Osage começa a ser assassinado após petróleo ser descoberto sob suas terras, até que o FBl entra em cena para desvendar o mistério.</info>
+	</item>
+	<item>
+		<title>O Livro dos Sonhos (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vhTJqpZbr3AmuqTRjLpux62JgRI.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vmLBMvDCz3wqoEjHy986bo1BeYg.jpg</fanart>
+		<genre>Drama</genre>
+		<date>15.03.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d68086b8d6093a4bbe5b9345e6f8dbdf01f46c9</link>
+		<info>Depois que o filho entra em coma após um atropelamento, sua mãe encontra seu diário, que contém uma lista de dez coisas que ele queria fazer antes do fim do mundo. Com a intenção de cumprir os desejos do filho, ela começa a seguir a lista.</info>
+	</item>
+	<item>
+		<title>Um Palmo (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xkmcRI2BzuWP9lltlsB4x420O8d.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ozO9cl2hL0GCA4hb8FALs22DVa1.jpg</fanart>
+		<genre>Thriller, Mistério, Drama</genre>
+		<date>03.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08b4ed066985f7e7d569f5a5a43f777b86bc65d4</link>
+		<info>Por causa de uma falta de energia, Diogo fica preso dentro do elevador do prédio onde mora quando ia sair. Depois de muito tentar ligar para portaria e para números aleatórios pelo celular e não conseguir ajuda ou resposta, se vê aceitando sua situação e se conforma em ficar preso no elevador até que descubram que está lá dentro.</info>
+	</item>
+	<item>
+		<title>Tempos De Barbárie – Ato I: Terapia Da Vingança (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fB4SsQK4OW1CZYGySRfJmMs2hhx.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/q5CVt1HSD0Y8JeMqfhtOKfl4nhz.jpg</fanart>
+		<genre>Drama, Thriller</genre>
+		<date>17.08.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dee8bbdded763dee7f7015589a8ee352b39c7be2</link>
+		<info>Durante uma tentativa de assalto, a filha da advogada Carla é baleada e fica em estado grave. Sem respostas, Carla tenta seguir a vida buscando ajuda em grupos de apoio. Sem conseguir aceitar o destino da filha e a falta de soluções por parte da polícia, transforma a busca por justiça em uma procura por vingança e testa o seu próprio limite para ver até onde poderia ir.</info>
+	</item>
+	<item>
+		<title>Não Enche! (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jX8vNKif3C8UPc5pNHnyCz0sr5X.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/i05i2mDQb3fm0PW8xyItolulHAx.jpg</fanart>
+		<genre>Comedia</genre>
+		<date>21.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e784a98cd12ccb66bb8f1a57511f89f38f1c1c7</link>
+		<info>Após se conhecerem em um grupo de controle da raiva, duas mulheres se unem para expor um cirurgião plástico picareta e se tornam amigas em uma jornada transformadora.</info>
+	</item>
+	<item>
+		<title>George Foreman: Sua História (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65k7FeAQfYCUXml5vT1vvHAYJoD.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xLsMxgMjko1rWbIUbvf6UBjToBE.jpg</fanart>
+		<genre>Drama, História</genre>
+		<date>27.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1ff81a162d8b0ebbe50505eb65dea74b9822af8</link>
+		<info>Após uma infância pobre, Foreman canaliza sua raiva e se torna medalhista de ouro olímpico e campeão mundial de pesos-pesados. Logo após, vive uma experiência de quase morte que o leva dos ringues de boxe aos púlpitos. No entanto, ao ver sua comunidade lutando espiritual e financeiramente, Foreman volta aos ringues e faz história reivindicando seu título e tornando-se o mais velho e improvável Campeão Mundial de Boxe Peso-Pesado de todos os tempos.</info>
+	</item>
         <item type="movie">
 		<title>Indiana Jones e a Relíquia do Destino (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg</thumbnail>
