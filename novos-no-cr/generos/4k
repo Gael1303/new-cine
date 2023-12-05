@@ -2,7 +2,14 @@
 <items>
 	<SetViewMode>5</SetViewMode>
 
-
+        <item>
+		<title>Assassinos da Lua das Flores - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wCte7A4O2L7CAiw70fbFuvkngA7.jpg</fanart>
+		<genre>Crime, Drama, História</genre>
+		<date>19.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb23e237e6e9b1aaccb594e11f8b4c1ae981e0b7</link>
+	</item>
         <item type="movie">
 		<title>Indiana Jones e a Relíquia do Destino - 4K</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg</thumbnail>
