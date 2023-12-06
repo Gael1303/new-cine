@@ -2,14 +2,7 @@
 <items>
 	<SetViewMode>500</SetViewMode>
 
-        <item>
-		<title>A Chegada - 4K</title>
-		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3rDwbFpn6z5HJUgDjpfhEePx8VI.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/uKPbFF08QkRMvIAsgCh1soeyPhZ.jpg</fanart>
-		<genre>Drama, Ficção científica, Mistério</genre>
-		<date>10.11.2016</date>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B5743E1A8CEC34A92A45FCCCDFAFA6AB26874B8</link>
-	</item>
+        
         <item>
 		<title>Jogador Nº 1 - 4K</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2LVitl8xzLi11ibfzgsmjGF6GGc.jpg</thumbnail>
