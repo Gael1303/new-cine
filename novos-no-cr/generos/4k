@@ -2,6 +2,15 @@
 <items>
 	<SetViewMode>5</SetViewMode>
 
+
+        <item>
+		<title>Jogador Nº 1 - 4K</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2LVitl8xzLi11ibfzgsmjGF6GGc.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg</fanart>
+		<genre>Aventura, Ação, Ficção científica</genre>
+		<date>28.03.2018</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a686598aea1739c047cbe66fb60d9af166a509e</link>
+	</item>
         <item>
 		<title>Assassinos da Lua das Flores - 4K</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg</thumbnail>
