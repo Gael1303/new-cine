@@ -3,7 +3,15 @@
 <items>
 <SetViewMode>500</SetViewMode>
 
-
+        <item>
+		<title>Trolls 3: Juntos Novamente (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7mC4iunNnWrHIBamKqiHkpFI32X.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xgGGinKRL8xeRkaAR9RMbtyk60y.jpg</fanart>
+		<genre>Animação, Família, Música, Fantasia, Comédia</genre>
+		<date>12.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7470b7592b9bd2acc0a504464b99daead8431221</link>
+		<info>Depois de dois filmes de amizade verdadeira e paquera implacável, Poppy e Tronco agora são oficialmente, finalmente, um casal! À medida que se aproximam, Poppy descobre que Tronco tem um passado secreto.</info>
+	</item>
         <item>
 		<title>Assassinos da Lua das Flores (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg</thumbnail>
@@ -281,15 +289,6 @@
 		<date>21.09.2023</date>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f37d0756f858457410a37ff91800a69473cbd1c7</link>
 		<info>A cinebiografia de Claudinho e Buchecha, dupla de maior sucesso do funk melody nacional em todos os tempos e ícone máximo do gênero na música popular brasileira. A história de uma amizade que se transforma em força de superação e conquista. Um filme que mostra como o ritmo e a poesia da periferia conquistaram o Brasil. Uma história real repleta de fantasia. Um longa-metragem musical, emocionante e divertido, feito de drama e tragédias, mas também de muito humor, surpresas e redenção.</info>
-	</item>
-	<item>
-		<title>Trolls 3: Juntos Novamente (2023) [Leg]</title>
-		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7mC4iunNnWrHIBamKqiHkpFI32X.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/xgGGinKRL8xeRkaAR9RMbtyk60y.jpg</fanart>
-		<genre>Animação, Família, Música, Fantasia, Comédia</genre>
-		<date>12.10.2023</date>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:748e1db1b2d3635fb643a64c94c4506c366e76ee</link>
-		<info>Depois de dois filmes de amizade verdadeira e paquera implacável, Poppy e Tronco agora são oficialmente, finalmente, um casal! À medida que se aproximam, Poppy descobre que Tronco tem um passado secreto.</info>
 	</item>
 	<item>
 		<title>Jogos Entre Amigos: Eulogia Atrapalhada (2023)</title>
