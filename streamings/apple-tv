@@ -557,7 +557,136 @@ Ela se une ao repórter veterano Dan (Wagner Moura), que cobriu o caso no passad
 </info>
 	</channel>
 
-
+<channel>
+		<name>Slow Horses</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20slow%20horses</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vJI9OcHFHxDy6ZeEmXfM5zhApXV.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/fg9psAEDJXX0svqSd3h6KNiWPBE.jpg</fanart>
+		<genre>Drama, Suspense</genre>
+		<date>01.04.2022</date>
+		<studio>APPLE TV+</studio>
+		<info>Em Slow Horses, somos apresentados ao departamento de despejo do MI5 (Serviço de Inteligência Britânica) chamado Slough House. O setor é liderado pelo brilhante Jackson Lamb ( Gary Oldman), um chefe de gênio forte. Lamb é responsável por comandar os agentes que cometeram infrações em serviço e precisam encerrar suas carreiras no departamento menos prestigiado da instituição para que não causem mais problemas. Porém, ao juntar tantos desajustados em um mesmo lugar, é natural que as coisas não saiam completamente como o esperado. Jackson acredita que, apesar de todos estarem ali por um motivo, nenhum deles foi treinado para cuidar da parte burocrática. A partir disso, ele e sua equipe encontram meios para voltarem à atividade e viverem um pouco da ação do serviço de espionagem novamente, trabalhando diversas horas ao longo da madrugada.</info>
+	</channel>
+		-
+	<channel>
+		<name>Noite Na Terra Em Cores</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20Earth%20at%20Night</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zabRFOr7LHzZdDKEdKDK3NooYD4.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wsAk4Str0iyRRlQ20MiCsUxxoQx.jpg</fanart>
+		<genre>Documentario</genre>
+		<date>04.12.2020</date>
+		<studio>APPLE TV+</studio>
+		<info>Narrada por Tom Hiddleston e filmada em seis continentes, esta série documental usa tecnologia de ponta para registrar a vida noturna dos animais, revelando novos comportamentos captados em cores de maneira inédita.</info>
+	</channel>
+		-
+		<channel>
+		<name>Swagger</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20swagger</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nASkt8izgpR4toMYgiAnxfjWcE2.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/2nOxcNlvjlLyQK3JT5hSCfNMQzS.jpg</fanart>
+		<genre>Drama, Esporte</genre>
+		<date>29.10.2021</date>
+		<studio>APPLE TV+</studio>
+		<info>A série acompanhará jogadores, famílias e treinadores na liga de basquete da "União Atlética Amadora", em Washington, nos Estados Unidos, que terá que equilibrar seus sonhos e ambições, assim como o potencial de corrupção e oportunismo. - A série será produzida pelo jogador americano de basquete, Kevin Durant. - Original Apple.</info>
+	</channel>
+		-
+		<channel>
+		<name>Dr. Brain</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20dr.%20brain</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3bYYLQAFWHsTtJyZb0vIReJJv07.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/87IhSzFxzvZIFmLOzfl4HJPe4p2.jpg</fanart>
+		<genre>Drama, Ficção, Suspense</genre>
+		<date>04.11.2021</date>
+		<studio>APPLE TV+</studio>
+		<info>Do visionário cineasta Kim Jee-woon. Sewon, um brilhante cientista com um cérebro único, (Lee Sun-kyun) sofre uma terrível tragédia pessoal. Desesperado para descobrir o que aconteceu com sua família, ele realiza “sincronizações cerebrais” com os mortos para acessar suas memórias em busca de pistas.</info>
+	</channel>
+		-
+		<channel>
+		<name>Invasão</name>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20invasion</externallink>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2faxNZj5iHQOiDdPzCHCDvjTEnW.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/iMUp44Tr7QrGidu1ldHF0NuG0h2.jpg</fanart>
+		<genre>Drama, Fantasia, Ficção Cientifica</genre>
+		<studio>APPLE TV+</studio>
+		<date>21.10.2021</date>
+		<info>A Terra é visitada por uma espécie alienígena que ameaça a existência da humanidade. Os eventos se desenrolam em tempo real através dos olhos de cinco pessoas comuns em todo o mundo enquanto lutam para entender o caos que se desenrola ao seu redor.</info>
+	</channel>
+		-
+		<name>Fundação</name>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20foundation</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n1rTxKQkT80ZwG8jIQRxvSDeapo.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/oUisxaYRPuIehH6hkUIMcZNIuTA.jpg</fanart>
+	<genre>Sci-Fi & Fantasia, Drama</genre>
+	<date>23.09.2021</date>
+	<studio>APPLE TV+</studio>
+	<info>Inspirada nos premiados romances de Isaac Asimov, Fundação retrata a épica jornada espacial de um grupo de exilados tentando salvar a humanidade durante a queda do Império Galáctico.</info>
+</channel>
+		-
+		<channel>
+	<name>Servant</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/7nsRpSCYcDGLcDmFAISHC8zMQ0D.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20servant</externallink>
+	<date>28.11.2019</date>
+	<genre>Terror</genre>
+	<studio>APPLE TV+</studio>
+	<info> A série de M. Night Shyamalan mostra o luto de um casal da Filadélfia depois que uma grande tragédia abala o casamento e permite que uma força misteriosa entre na casa da família.</info>
+</channel>
+		-
+		<channel>
+	<name>Em Defesa de Jacob</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3v81RJtpfFh9VrOq9n3L88N2nP2.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/9wCsImxDW4MCVP47vVjny0Wa06s.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20em%20defesa%20jacob</externallink>
+	<date>24.04.2020</date>
+	<studio>APPLE TV+</studio>
+	<genre>Drama</genre>
+	<info>Uma família sofre um grande baque quando o filho é acusado de matar um colega de classe.</info>
+</channel>
+		-
+		<channel>
+	<name>Teerã</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l7V6xd2JX4Wihd4FWNC4PNafVyd.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/n1KezePqzeY5449V9HppWek2tpO.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20teer%C3%A3</externallink>
+	<date>22.06.2020</date>
+	<studio>APPLE TV+</studio>
+	<genre>Suspense</genre>
+	<info> Tamar é uma agente e hacker infiltrada em Teerã tentando destruir um reator nuclear. Quando a missão falha e ela fica presa em sua nova vida, Tamar deve planejar uma operação que colocará seus entes queridos em perigo.</info>
+</channel>
+		-
+		<channel>
+	<name>For All Mankind</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/vi0TpQbbZ8FWTRBmawbvegMRbtc.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20for%20all%20makinds</externallink>
+	<date>01.11.2019</date>
+	<studio>APPLE TV+</studio>
+	<genre>Drama, Ficção Cientifica</genre>
+	<info>Imagine um mundo em que a corrida espacial global nunca chegou ao fim. Essa série dramática de Ronald D. Moore é contada através das vidas dos astronautas da NASA e de suas famílias.</info>
+</channel>
+		-
+		<channel>
+	<name>Snoopy No Espaço</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i2paY29KtHEnUgL6KGG3BwIuwTz.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/rKAMgHfUpT7Xc5jFMOuG9G6jumG.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20snoopy%20no%20espa%C3%A7o</externallink>
+	<date>01.11.2019</date>
+	<studio>APPLE TV+</studio>
+	<genre>Animação</genre>
+	<info>Embarque com Snoopy em sua aventura de se tornar um astronauta da NASA. Junto com Charlie Brown e o resto da equipe Peanuts, Snoopy assume o controle da Estação Espacial Internacional e explora a Lua e além.</info>
+</channel>
+		-
+		<channel>
+	<name>The Morning Show</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oTfAheayTCWoselYuty8D6Lem2t.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/xVMVIetkeKgdqKmROK1tBjxivYG.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20the%20mornig%20show</externallink>
+	<date>01.11.2019</date>
+	<studio>APPLE TV+</studio>
+	<genre>Drama</genre>
+	<info>Entre no universo do noticiário da manhã na TV. Estrelando Reese Witherspoon, Jennifer Aniston e Steve Carell, este drama autêntico mostra os bastidores da TV sob a perspectiva de quem ajuda a América a acordar.</info>
+</channel>
 	
 	
 	</channels>	
