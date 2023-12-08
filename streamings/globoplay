@@ -903,4 +903,425 @@ Um grupo de seis estranhos vai-se unir para tentar sobreviver às primeiras 24 h
 		</item>
 	</items>
 </channel>
+
+<channel>
+	<name>Mar do Sertão</name>
+	<rate>8.1</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ixgnqO8xhFMb1zr8RRFsyeZ9CdD.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/o8zk3QmHYMSC7UiJgFk81OFF1sc.jpg</fanart>
+	<genre>Soap, Drama</genre>
+	<date>22.08.2022</date>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie-mar-do-sertao</externallink>
+	<info>Na pequena Canta Pedra, o amor de Candoca e Zé Paulino é interrompido quando ele sofre um acidente e é dado como morto. Anos depois, ele volta em busca de justiça e antes do casamento de sua ex-noiva com Tertulinho.</info>	
+</channel>
+		-
+		<channel>
+	<name>Turma da Mônica - A Série</name>
+	<rate>N/A</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lQmJRW6vwKSAROylB3JrrGJGccj.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/t7K3xMZlhBiXD1ogIUoJrDxfPyz.jpg</fanart>
+	<genre>Action & Adventure, Família, Kids, Drama, Mistério</genre>
+	<date>21.07.2022</date>
+	<studio>GLOBOPLAY</studio>
+	<info>Quando a festa da popular Carminha Frufru é misteriosamente sabotada, Mônica e seus amigos se tornam os principais suspeitos, e vão precisar superar suas inseguranças e revelar seus segredos para decifrar o mistério.</info>
+	<items>
+	<item>
+		<title>Turma da Mônica - A Série</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abb3bb731af326884c1042d00b1a00ff976c5094</link>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lQmJRW6vwKSAROylB3JrrGJGccj.jpg</thumbnail>
+		<duration>1380</duration>
+		<genre>Action & Adventure, Família, Kids, Drama, Mistério</genre>
+	</item>
+</items>
+</channel>
+		-
+		<channel>
+	<name>Gaslit</name>
+	<rate>7.6</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/original/o8LBdstmN18UapAojYSzIxSIAxs.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iKP3QEN2yK6bs8zURf17rN4UE8g.jpg</fanart>
+	<genre>Drama</genre>
+	<date>18.06.2022</date>
+	<info>Uma visão moderna do escândalo político de Watergate dos anos 1970, centrado em histórias não contadas e personagens esquecidos da época.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>Gaslit - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d29e93a8449976fb3158a73c80e5f1b0864ca6dc</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o8LBdstmN18UapAojYSzIxSIAxs.jpg</thumbnail>
+			<duration>3600</duration>
+			<genre>Drama</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>La Brea: A Terra Perdida </name>
+	<rate>5.6</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iAX52erb2JD660VAw3Jvi9SAVTR.jpg</fanart>
+	<genre>Aventura | Drama | Ficção</genre>
+	<date>28.09.2021</date>
+	<info>Quando um buraco gigante se abre misteriosamente em Los Angeles, uma família é dividida, separando mãe e filho do pai e filha. Uma metade desta família é transportada inexplicavelmente a um mundo primitivo junto com um grupo de estranhos. Juntos, eles precisam sobreviver, enquanto acham uma forma de voltar para casa.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20la%20brea</externallink>
+</channel>
+		-
+		<channel>
+	<name>Um Milhão de Coisas</name>
+	<rate>7.8</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tAXZvYajTRWEYcvc40w0SIwmyqi.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/nz7wluvOuF8zwePBp2WydDEShOB.jpg</fanart>
+	<genre>Drama</genre>
+	<date>26.09.2018</date>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20um%20milhao%20de%20coisas</externallink>
+	<info>Um grupo de amigos percebe que precisa aproveitar mais a vida quando um deles morre de repente. No caminho, eles veem que a amizade pode ser o único modo de salvá-los deles mesmos.</info>
+	<studio>GLOBOPLAY</studio>
+</channel>
+		-
+		<channel>
+	<name>O Caso Evandro</name>
+	<rate>9.2</rate>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/90xXYiJ8BxCVsJkt3r8b0KVFZaM.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/AhJ0DZavpUUduWvU1q9R07dpTOW.jpg</fanart>
+	<genre>Documentario</genre>
+	<date>13.05.2021</date>
+	<info>Confira a história do desaparecimento de um menino no Paraná e da investigação do caso.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+	<item>
+		<title>O Caso Evandro: O Crime - 01</title>
+		<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/S%C3%A9ries/O%20Caso%20Evandro/O.Caso.Evandro.S01E01.O.Crime.1080p.GLBO.WEB-DL.AAC2.0.H.264-SiGLA.mkv</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzM2ZiMDItZjU3Yy00MWQyLWE1YzUtZDE5ZDNjZWViMTRhXkEyXkFqcGdeQXVyMTk2NDE3Mzc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+		<genre>Documentario</genre>
+		<duaration>3600</duration>
+	</item>
+	<item>
+		<title>O Caso Evandro: Os Acusados - 02</title>
+		<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/S%C3%A9ries/O%20Caso%20Evandro/O.Caso.Evandro.S01E02.Os.Acusados.1080p.GLBO.WEB-DL.AAC2.0.H.264-SiGLA.mkv</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzM2ZiMDItZjU3Yy00MWQyLWE1YzUtZDE5ZDNjZWViMTRhXkEyXkFqcGdeQXVyMTk2NDE3Mzc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+		<genre>Documentario</genre>
+		<duaration>3600</duration>
+	</item>
+	<item>
+		<title>O Caso Evandro: O Caçador de Bruxas - 03</title>
+		<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/S%C3%A9ries/O%20Caso%20Evandro/O.Caso.Evandro.S01E03.O.Ca%C3%A7ador.De.Bruxas.1080p.GLBO.WEB-DL.AAC2.0.H.264-SiGLA.mkv</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzM2ZiMDItZjU3Yy00MWQyLWE1YzUtZDE5ZDNjZWViMTRhXkEyXkFqcGdeQXVyMTk2NDE3Mzc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+		<genre>Documentario</genre>
+		<duaration>3600</duration>
+	</item>
+	<item>
+		<title>O Caso Evandro: As Torturas - 04</title>
+		<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/S%C3%A9ries/O%20Caso%20Evandro/O.Caso.Evandro.S01E04.As.Torturas.1080p.GLBO.WEB-DL.AAC2.0.H.264-SiGLA.mkv</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzM2ZiMDItZjU3Yy00MWQyLWE1YzUtZDE5ZDNjZWViMTRhXkEyXkFqcGdeQXVyMTk2NDE3Mzc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+		<genre>Documentario</genre>
+		<duaration>3600</duration>
+	</item>
+	<item>
+		<title>O Caso Evandro: Os alibis - 05</title>
+		<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/S%C3%A9ries/O%20Caso%20Evandro/O.Caso.Evandro.S01E05.Os.%C3%81libis.1080p.GLBO.WEB-DL.AAC2.0.H.264-SiGLA.mkv</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzM2ZiMDItZjU3Yy00MWQyLWE1YzUtZDE5ZDNjZWViMTRhXkEyXkFqcGdeQXVyMTk2NDE3Mzc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+		<genre>Documentario</genre>
+		<duaration>3600</duration>
+	</item>
+	<item>
+		<title>O Caso Evandro: O Corpo - 06</title>
+		<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/S%C3%A9ries/O%20Caso%20Evandro/O.Caso.Evandro.S01E06.O.Corpo.1080p.GLBO.WEB-DL.AAC2.0.H.264-SiGLA.mkv</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzM2ZiMDItZjU3Yy00MWQyLWE1YzUtZDE5ZDNjZWViMTRhXkEyXkFqcGdeQXVyMTk2NDE3Mzc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+		<genre>Documentario</genre>
+		<duaration>3600</duration>
+	</item>
+	<item>
+		<title>O Caso Evandro: As Fitas - 07</title>
+		<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/S%C3%A9ries/O%20Caso%20Evandro/O.Caso.Evandro.S01E07.As.Fitas.1080p.GLBO.WEB-DL.AAC2.0.H.264-SiGLA.mkv</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzM2ZiMDItZjU3Yy00MWQyLWE1YzUtZDE5ZDNjZWViMTRhXkEyXkFqcGdeQXVyMTk2NDE3Mzc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+		<genre>Documentario</genre>
+		<duaration>3600</duration>
+	</item>
+	<item>
+		<title>O Caso Evandro: Episódio Extra O Caso Leandro - 08</title>
+		<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/S%C3%A9ries/O%20Caso%20Evandro/O.Caso.Evandro.S01E08.Epis%C3%B3dio.Extra.O.Caso.Leandro.1080p.GLBO.WEB-DL.AAC2.0.H.264-SiGLA.mkv</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzM2ZiMDItZjU3Yy00MWQyLWE1YzUtZDE5ZDNjZWViMTRhXkEyXkFqcGdeQXVyMTk2NDE3Mzc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+		<genre>Documentario</genre>
+		<duaration>3600</duration>
+	</item>
+	<item>
+		<title>O Caso Evandro: Consequencias - 09</title>
+		<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/S%C3%A9ries/O%20Caso%20Evandro/O.Caso.Evandro.S01E09.Consequencias.1080p.GLBO.WEB-DL.AAC2.0.H.264-alfaHD.mkv</link>
+		<thumbnail>https://m.media-amazon.com/images/M/MV5BMTAzM2ZiMDItZjU3Yy00MWQyLWE1YzUtZDE5ZDNjZWViMTRhXkEyXkFqcGdeQXVyMTk2NDE3Mzc@._V1_FMjpg_UX1000_.jpg</thumbnail>
+		<genre>Documentario</genre>
+		<duaration>3600</duration>
+	</item>
+</items>
+</channel>
+		-
+		<channel>
+	<name>Pantanal</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xHBDCDYI6HOXJBRS1SSw4nvnHHV.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/g5LkJJCBXxULsY7s48U5VAeWg2I.jpg</fanart>
+	<date>28.03.2022</date>
+	<genre>Drama, Novela</genre>
+	<info>Após o misterioso desaparecimento de seu pai, Joventino, o vaqueiro José Leôncio torna-se um rico proprietário de uma fazenda no Pantanal. Mais de vinte anos se passaram e, amargurado com o desaparecimento do pai e a fuga da esposa para o Rio de Janeiro com o bebê, José Leôncio tem a chance de se reconciliar com o menino, agora um jovem criado na cidade grande com valores e hábitos muito diferentes dos seus.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20pantan4l_globoplay</externallink>
+</channel>
+		-
+		<channel>
+	<name>FBI: Os Mais Procurados</name>
+	<thumbnail>https://www.themoviedb.org/t/p/original/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/tE55HywLgM7fvvlmiMaWPOTjAqc.jpg</fanart>
+	<date>07.01.2020</date>
+	<genre>Crime, Drama</genre>
+	<info>Uma equipe do FBI se dedica a rastrear e capturar criminosos que estão no topo da lista de foragidos da organização.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20FBI%20Os%20Mais%20Procurados</externallink>
+</channel>
+
+-
+		<channel>
+	<name>Hebe</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bm2lhjTwx924r7VW8V7qvEkZA2t.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/mpCrOOo3Cgx5zCAmzJ5SJa4t5xx.jpg</fanart>
+	<date>13.12.2019</date>
+	<genre>Drama</genre>
+	<info>Entre idas e vindas no tempo, ao longo de 8 décadas, a história da menina pobre do interior que realiza o sonho de se tornar uma grande estrela sempre em busca de sua verdade.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+	<item>
+		<title>Hebe - 1ª Temporada</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbfe4ed79d4529fae6dbdc9a8a929af6ca88e430</link>
+		<thumbnail>https://image.tmdb.org/t/p/w342/4dtJrEmGpy8EjYR1w6YIPOKqj6s.jpg</thumbnail>
+		<genre>Drama</genre>
+	</item>
+</items>
+</channel>
+		-
+		<channel>
+	<name>Toma La, Da Ca</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d00Hpwh70yAapKSmaIhBhTFn3HN.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/j46YBxcV9LiOY2eKgbSHuAvaJpI.jpg</fanart>
+	<date>07.08.2007</date>
+	<genre>Comédia, Família</genre>
+	<info>Duas famílias separadas por um corredor, mas que participam ativamente da vida uns dos outros.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>Toma Lá, Dá Cá - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0279e753d3fe499ae7fb7f75918fb4c841e2906a</link>
+			<thumbnail>https://m.media-amazon.com/images/M/MV5BODA2NjU2ZTgtY2U0ZS00OWZmLThiNmUtMzRlZjFmNmY0N2Q5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_FMjpg_UX1000_.jpg</thumbnail>
+			<genre>Comedia, Familia</genre>
+		</item>
+		<item>
+			<title>Toma Lá, Dá Cá - 2ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f40e4d1fc6be3bd13f23e2f6560f8e5a45aa42a1</link>
+			<thumbnail>https://m.media-amazon.com/images/M/MV5BODA2NjU2ZTgtY2U0ZS00OWZmLThiNmUtMzRlZjFmNmY0N2Q5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_FMjpg_UX1000_.jpg</thumbnail>
+			<genre>Comedia, Familia</genre>
+		</item>
+		<item>
+			<title>Toma Lá, Dá Cá - 3ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e65fb078323e9bab2a33e36157de441dea3e47b1</link>
+			<thumbnail>https://m.media-amazon.com/images/M/MV5BODA2NjU2ZTgtY2U0ZS00OWZmLThiNmUtMzRlZjFmNmY0N2Q5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_FMjpg_UX1000_.jpg</thumbnail>
+			<genre>Comedia, Familia</genre>
+		</item>
+		</items>
+		</channel>
+		-
+		<channel>
+	<name>Chicago Med: Atendimento de Emergência</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nu6RzHO4QahyICKJPkK7xYgUfzM.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/sHjNS2lYyEjwjjQXTZmdyMJ29bI.jpg</fanart>
+	<date>17.11.2015</date>
+	<genre>Drama</genre>
+	<info>A série acompanha o dia-a-dia de um corajoso grupo de médicos e enfermeiros de um hospital de Chicago. Juntos, eles confrontam os casos médicos mais desafiadores de Chicago e enfrentam dilemas éticos com coragem, paixão e cuidado incomparável.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20Chicago_med</externallink>
+</channel>
+		-
+		<channel>
+	<name>Pingu</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nLE7NR3EsEbv2NfG0bLIaOEhGfY.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/10UOUxOjmLCwGOvNXNaiIdWXav.jpg</fanart>
+	<date>28.05.1986</date>
+	<genre>Animação, Comédia, Kids</genre>
+	<info>Exibido em pequenos filmes de 5 minutos, a animação conta a história de um pinguim que vive no Pólo Sul com seu pai, que trabalha como carteiro, sua mãe e sua pequena irmã, Pingá.</info>
+	<studio>AMAZON</studio>
+	<items>
+		<item>
+			<title>Pingu - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e3c96a871c163fdf530ea4c8c360d6969d54df5</link>
+			<thumbnail>https://image.tmdb.org/t/p/w342/mjN7WW4JHkFfaMKUDcN8hmgJvh5.jpg</thumbnail>
+			<genre>Animação, Comédia</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>Justiça</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2Jit3hR4CY4LrU06fiLdF0L7SPS.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/dY24bRRqvSjOacyV127z35j2gKv.jpg</fanart>
+	<date>22.08.2016</date>
+	<genre>Drama, Crime</genre>
+	<info>Traição, desejo de vingança, assassinatos e armações são alguns dos temas de quatro histórias nas quais há sempre um dilema moral envolvido.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>Justiça - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:888f8f4b58dea20ca78edb4745955d2bbbf4dd2b$nome=[B]Justiça.Episodio 01[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9edf8a15f3cc9eb9320ce44ee949a097f95b8253$nome=[B]Justiça.Episodio 02[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7960bb52dfcd7267f870cc9a425c95ef46ec5a9$nome=[B]Justiça.Episodio 03[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad4c4c9bb2ec402c621aec99dd2723b288a6abb1$nome=[B]Justiça.Episodio 04[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60a63f7b60f48e99172ac6727a02336f2dd9d962$nome=[B]Justiça.Episodio 05[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:101bd49f361652b20bafb9c08510ec44e3faffe6$nome=[B]Justiça.Episodio 06[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c71902405610c89f52f50e7e94a4552a984c88f1$nome=[B]Justiça.Episodio 07[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:304f2879e300a4d5dabb11bb5703d2016888dadb$nome=[B]Justiça.Episodio 08[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a6587df73c205e4f638a89416d47bacbab37019$nome=[B]Justiça.Episodio 09[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17a48e50f75ccf40e0c34bfe6b25d1c878106485$nome=[B]Justiça.Episodio 10[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3bb0a8fb5bba37a1203a90c1aef695d7f6135b4$nome=[B]Justiça.Episodio 11[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b14ac25cf6da59f28395b110ff265df94f86732$nome=[B]Justiça.Episodio 12[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42a21481f2d364510971d0e8d4b519c06eb85b89$nome=[B]Justiça.Episodio 13[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95f256b24d3b7bc00fbff44650ba39febbbc77ae$nome=[B]Justiça.Episodio 14[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c83d5da60874e62174666b591e0336c59fd63f1$nome=[B]Justiça.Episodio 15[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dc082173e6aff19a57768def21aa0c8e397b2a4$nome=[B]Justiça.Episodio 16[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:196f72011fc3759f428736db94fa017b90ea0dbc$nome=[B]Justiça.Episodio 17[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ba49771b2ff8049fc06b9d485eb75bef936a090$nome=[B]Justiça.Episodio 18[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10e3935eced97a5b51de2c5879274d0dbcb5ed0d$nome=[B]Justiça.Episodio 19[/B]</link>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e74c569914cfd964a3fde703602096954bd2d481$nome=[B]Justiça.Episodio 20[/B]</link>
+			<thumbnail>https://media.fstatic.com/YUxNdpNZrRWPR9hMv2dQ2HVALlQ=/210x312/smart/media/movies/covers/2018/07/131848343SZ.jpg</thumbnail>
+			<genre> Policial, Drama, Suspense, Nacional</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>A Grande Família</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/draJzGrnfB8gEqCGJrPhNORu0nz.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/vZ9wnD0A4RnplxKR8jI2JkkIWFS.jpg</fanart>
+	<date>29.03.2021</date>
+	<genre>Comédia, Família</genre>
+	<info>Um retrato bem-humorado do cotidiano repleto de conflitos, crises conjugais, dificuldades profissionais e financeiras e também de muito amor e união de uma família suburbana.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>A Grande Família - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ae4f1469105147b4cef8a704d54d8320ea7551a</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/vZ9wnD0A4RnplxKR8jI2JkkIWFS.jpg</thumbnail>
+			<genre>Comédia, Clássico, Nacional</genre>
+		</item>
+	</items>
+</channel>
+		-
+		<channel>
+	<name>Águas do Norte</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/RpmxKrYoW8RBA1orEoa1EJsiiA.jpg</fanart>
+	<date>14.07.2021</date>
+	<genre>Drama, Misterio</genre>
+	<info>Patrick Sumner é um ex-cirurgião das Forças Armadas. Esperando fugir dos traumas seu passado, ele vai a uma expedição no Ártico. Porém, descobre novos horrores que não imaginava.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>Águas do Norte - Completo [Leg]</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5faadbfd46b4359e6889bda96e507bae9af9c011</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lLxkJ3nn5UEGF3urCYndD1DmlIq.jpg</thumbnail>
+			<genre>Drama, Misterio</genre>
+		</item>
+		</items>
+		</channel>
+		-
+		
+		<channel>
+	<name>Havaí Cinco-0</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGTE1SRuVB1xNfP63URLBQ7hwTd.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/ej5VNvBy4VqCqsuamY4oe4EiwFb.jpg</fanart>
+	<date>20.09.2010</date>
+	<genre>Crime, Drama, Action & Adventure</genre>
+	<info>A equipe especial de policiais, liderada pelo comandante Steve McGarret, recebeu carta branca da governadora do Havaí para fazer o que for preciso para erradicar o crime na ilha.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20hawaii%20five-0</externallink>
+</channel>
+		-
+		
+		<channel>
+	<name>Charmed: Jovens Bruxas</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lVpoG2ILzS4njYNx3Wiv50rHAnt.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iU6XAlXlG9GTIRkRYEcQoJYInDf.jpg</fanart>
+	<date>07.10.1998</date>
+	<genre>Comédia, Drama, Mistério, Sci-Fi & Fantasy</genre>
+	<info>Um grupo de irmãs descobre que são bruxas. Felizmente, para o mundo, eles são boas. Unindo-se em sua antiga casa em São Francisco, eles trabalham juntos para combater o mal, cada uma possuindo um poder especial específico.</info>
+	<studio>AMAZON</studio>
+	<items>
+	<item>
+		<title>Charmed.S01</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10958f57d7ac1ed81e0986a345d02817ef222108</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S02</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f01dd5be3f8948b6d669db3bbdd78e55d491b389</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S04</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6abdd6b2cf44500d16e872cb9eb939f8fddf04ad</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S05</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:342c15120c2977a8bc98e8274ed4618b8fe47aa7</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S06</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be3ccd3943bc13e3d32a27132b5208d750096e6c</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S07</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f99979be38e7152295e8ee18c13d9ff40e27363</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S08</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2434382a5d3976fd37e3fd370ff13c8605381e6</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+</items>
+</channel>
+		-
+		<channel>
+	<name>Pica-Pau e Seus Amigos</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/7lihWjgpyCiy79VFPafT37su3Z.jpg</fanart>
+	<date>07.07.1941</date>
+	<genre>Animação, Comédia</genre>
+	<info>O programa gira em torno do Pica-Pau, um pássaro maluco que vive se metendo em confusões e vivendo aventuras, com seus diversos amigos e inimigos.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>Pica-Pau e Seus Amigos - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccdbf1bc0aa30686370f036d1f152b7260afb15d</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/7lihWjgpyCiy79VFPafT37su3Z.jpg</thumbnail>
+			<genre>Animação</genre>
+		</item>
+		</items>
+		</channel>
+		-
+		<channel>
+	<name>O Novo Pica-Pau</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQFOlAGgNQRn0rXa1sZZH1pLcYY.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/vdcuZ7YHLemlTZ5NPfbctumWIg2.jpg</fanart>
+	<date>18.05.1999</date>
+	<genre>Animação, Comédia</genre>
+	<info>Acompanhe as aventuras de um pássaro muito engraçado que sempre se envolve em situações divertidas.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>O Novo Pica-Pau - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dab1422f4dc3138335549e700f0f45e04ac548a1</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQFOlAGgNQRn0rXa1sZZH1pLcYY.jpg</thumbnail>
+			<genre>Animação, Comédia</genre>
+		</item>
+		</items>
+		</channel>
 		</channels>
