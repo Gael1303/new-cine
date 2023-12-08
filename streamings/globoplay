@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
+
+        <channel>
+		<name>Origem</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/pQvqGK6KQDILL7SJrhMQsRvJfLB.jpg</fanart>
+		<genre>Suspense, Terror</genre>
+		<date>20.02.2022</date>
+		<studio>GLOBOPLAY</studio>
+		<info>Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe.</info>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20from</externallink>
+	</channel>
 	<channel>
 		<name>Spartacus</name>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kAUI0oOWZbGAQMmv7WM6scvoE34.jpg</thumbnail>
@@ -141,91 +152,7 @@
 		</items>
 	</channel>
 		-----------------------------------------------
-		<channel>
-		<name>Origem</name>
-		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/pQvqGK6KQDILL7SJrhMQsRvJfLB.jpg</fanart>
-		<genre>Suspense, Terror</genre>
-		<date>20.02.2022</date>
-		<studio>GLOBOPLAY</studio>
-		<info>Desvende o mistério de uma cidade no centro dos EUA. Enquanto os moradores lutam para manter um senso de normalidade, eles também devem sobreviver às ameaças da floresta ao redor, incluindo as criaturas aterrorizantes que surgem quando o sol se põe.</info>
-		<items>
-			<item>
-				<title>Origem: 1ª Temporada Completa</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a56d60701384fd01b2efcbf6fa0606db330db66f$nome=Origem: 1ª Temporada Completa - 1080P DUAL</link>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:729156993342d18385961f887483c5561d255d89$nome=Origem: 1ª Temporada Completa - 4K LEGENDADO</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-			<item>
-				<title>[COLOR yellow]2ª Temporada - Legendada[/COLOR]</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-			<item>
-				<title>From: S02.E01: Strangers in a Strange Land</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d7d02bc57831a2ef5a72524ec44652c177f1beb</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-			<item>
-				<title>From: S02.E02: The Kindness of Strangers</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:910b9600000bb520252bcc60a405790f34359ea9</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-			<item>
-				<title>From: S02.E03: Tether</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b907cac091a08117017e54a3dbec9e2a819f017d</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-			<item>
-				<title>From: S02 -  E04: This Way Gone</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3fe8ee9e27484653958f60cf3512da84d6d7ee</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-			<item>
-				<title>From: S02 -  E05: Lullaby</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:994a739971da88e19f41093c00023b6b10185c52</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-			<item>
-				<title>From: S02 -  E06: Pas De Deux</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d79f97d0bbe71e9254277d18fd38c85f308a7186</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-			<item>
-				<title>From: S02 -  E07: Belly of the Beast</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8c17b02475a5faa27db37b9a5acd5726e2abd7c</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-			<item>
-				<title>From: S02 -  E08: Forest For the Trees</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5df189843df0f5e4623a81aeee26644d735debbd</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-			<item>
-				<title>From: S02 -  E09: Ball of Magic Fire</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de1eb9d3c1536b974c20dfe9fc382796b45fceb5</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-			<item>
-				<title>From: S02 -  E10: Once Upon a Time…</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30ef1a91dde287022fc22540e212a268ec804647</link>
-				<thumbnail>https://image.tmdb.org/t/p/w342/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg</thumbnail>
-				<genre>Drama, Terror, Mistério</genre>
-			</item>
-		</items>
-	</channel>
-           -------------------------------------
+		
 		   <channel>
 		<name>Os 12 Macacos</name>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
@@ -1161,5 +1088,111 @@ Um grupo de seis estranhos vai-se unir para tentar sobreviver às primeiras 24 h
 		</item>
 		</items>
 		</channel>
+<channel>
+	<name>Havaí Cinco-0</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGTE1SRuVB1xNfP63URLBQ7hwTd.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/ej5VNvBy4VqCqsuamY4oe4EiwFb.jpg</fanart>
+	<date>20.09.2010</date>
+	<genre>Crime, Drama, Action & Adventure</genre>
+	<info>A equipe especial de policiais, liderada pelo comandante Steve McGarret, recebeu carta branca da governadora do Havaí para fazer o que for preciso para erradicar o crime na ilha.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20hawaii%20five-0</externallink>
+</channel>
+		-
+		
+		<channel>
+	<name>Charmed: Jovens Bruxas</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lVpoG2ILzS4njYNx3Wiv50rHAnt.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iU6XAlXlG9GTIRkRYEcQoJYInDf.jpg</fanart>
+	<date>07.10.1998</date>
+	<genre>Comédia, Drama, Mistério, Sci-Fi & Fantasy</genre>
+	<info>Um grupo de irmãs descobre que são bruxas. Felizmente, para o mundo, eles são boas. Unindo-se em sua antiga casa em São Francisco, eles trabalham juntos para combater o mal, cada uma possuindo um poder especial específico.</info>
+	<studio>AMAZON</studio>
+	<items>
+	<item>
+		<title>Charmed.S01</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10958f57d7ac1ed81e0986a345d02817ef222108</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S02</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f01dd5be3f8948b6d669db3bbdd78e55d491b389</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S04</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6abdd6b2cf44500d16e872cb9eb939f8fddf04ad</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S05</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:342c15120c2977a8bc98e8274ed4618b8fe47aa7</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S06</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be3ccd3943bc13e3d32a27132b5208d750096e6c</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S07</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f99979be38e7152295e8ee18c13d9ff40e27363</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+	<item>
+		<title>Charmed.S08</title>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2434382a5d3976fd37e3fd370ff13c8605381e6</link>
+		<thumbnail>https://dyncdn.me/static/20/tvdb/2302_banner_optimized.jpg</thumbnail>
+	</item>
+</items>
+</channel>
+		-
+		<channel>
+	<name>Pica-Pau e Seus Amigos</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/50wVaJwXRV0xyDyeNgn5ZgAPNAv.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/7lihWjgpyCiy79VFPafT37su3Z.jpg</fanart>
+	<date>07.07.1941</date>
+	<genre>Animação, Comédia</genre>
+	<info>O programa gira em torno do Pica-Pau, um pássaro maluco que vive se metendo em confusões e vivendo aventuras, com seus diversos amigos e inimigos.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>Pica-Pau e Seus Amigos - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccdbf1bc0aa30686370f036d1f152b7260afb15d</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/7lihWjgpyCiy79VFPafT37su3Z.jpg</thumbnail>
+			<genre>Animação</genre>
+		</item>
+		</items>
+		</channel>
+		-
+		<channel>
+	<name>O Novo Pica-Pau</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQFOlAGgNQRn0rXa1sZZH1pLcYY.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/vdcuZ7YHLemlTZ5NPfbctumWIg2.jpg</fanart>
+	<date>18.05.1999</date>
+	<genre>Animação, Comédia</genre>
+	<info>Acompanhe as aventuras de um pássaro muito engraçado que sempre se envolve em situações divertidas.</info>
+	<studio>GLOBOPLAY</studio>
+	<items>
+		<item>
+			<title>O Novo Pica-Pau - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dab1422f4dc3138335549e700f0f45e04ac548a1</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dQFOlAGgNQRn0rXa1sZZH1pLcYY.jpg</thumbnail>
+			<genre>Animação, Comédia</genre>
+		</item>
+		</items>
+		</channel>
+		-
+		<channel>
+	<name>The Rookie</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jbMefmo6EjcvpOULP50nfMpGP70.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/2a4GNOnIIPoie3bn0zO8lfHLWLR.jpg</fanart>
+	<date>16.10.2018</date>
+	<genre>Crime, Drama</genre>
+	<info>John Nolan, de 40 anos, muda sua vida para ser um agente policial no Departamento de Polícia de Los Angeles.</info>
+	<studio>GLOBOPLAY</studio>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20the%20rookie</externallink>
+</channel>
+
 
 </channels>
