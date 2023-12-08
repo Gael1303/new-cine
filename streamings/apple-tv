@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-	
-<SetViewMode>502</SetViewMode>
 
 
              <channel>
@@ -612,6 +610,7 @@ Ela se une ao repórter veterano Dan (Wagner Moura), que cobriu o caso no passad
 		<info>A Terra é visitada por uma espécie alienígena que ameaça a existência da humanidade. Os eventos se desenrolam em tempo real através dos olhos de cinco pessoas comuns em todo o mundo enquanto lutam para entender o caos que se desenrola ao seu redor.</info>
 	</channel>
 		-
+		<channel>
 		<name>Fundação</name>
 	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20foundation</externallink>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n1rTxKQkT80ZwG8jIQRxvSDeapo.jpg</thumbnail>
