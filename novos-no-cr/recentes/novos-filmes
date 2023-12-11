@@ -3,7 +3,15 @@
 <items>
 <SetViewMode>500</SetViewMode>
 
-
+         <item>
+		<title>Nefasto (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/xwjWUAajQJPj5aik1tounPguZbz.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/q0AQDPlUaE9OCr9JtuYk6trdwrr.jpg</fanart>
+		<genre>Terror, Suspense</genre>
+		<date>02.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54eed8d694b723050169b67a7e0673c38bc21a70</link>
+		<info>No dia de sua execução, um assassino em série passa por uma avaliação psiquiátrica na qual ele afirma ser um demônio, e ainda alega que antes de seu tempo acabar, o psiquiatra cometerá três assassinatos.</info>
+	</item>
          <item>
 		<title>O Mundo Depois de Nós (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qwHZInQ0MBa1DxHV66ExCCUzBf5.jpg</thumbnail>
