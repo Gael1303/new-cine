@@ -32,10 +32,9 @@
 	</channel>
 	
 	<channel>
-	<name>[COLOR blue]•[/COLOR] Informações</name>
+	<name>[COLOR blue]•[/COLOR] Informaçoes</name>
 	<thumbnail>https://archive.org/download/1702405295665/1702405295665.jpg</thumbnail>
 	<info>Duvidas sobre doaçoes, contato e status do addon</info>
-	<SetViewMode>1</SetViewMode>
 	<items>
 		<item>
 			<title>[COLOR cyan]Doaçoes Pix[/COLOR]: cineroom.ofc@gmail.com</title>
@@ -43,9 +42,9 @@
 			<thumbnail>https://archive.org/download/1702405295665/1702405295665.jpg</thumbnail>
 			<info>Meta para novo PC
 		
-		[COLOR yellow[B]Arrecadado[/B][/COLOR]: R$ [B]25,00[/B]
-		[COLOR yellow[B]Meta[/B][/COLOR]: R$ [B]2.000[/B]</item>
-		
+		[COLOR yellow[B]Arrecadado[/B][/COLOR]:  [B]25,00[/B] Reais
+		[COLOR yellow[B]Meta[/B][/COLOR]: [B]2.000[/B] Reais
+		</item>
 		<item>
 			<title>[COLOR cyan]Contato[/COLOR]: em breve!</title>
 			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
