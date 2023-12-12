@@ -32,19 +32,20 @@
 	</channel>
 	
 	<channel>
-	<name>[COLOR blue]•[/COLOR] Ajude o Addon</name>
-	<thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Screenshots_2022-09-06-12-08-28.png</thumbnail>
+	<name>[COLOR blue]•[/COLOR] Informações</name>
+	<thumbnail>https://archive.org/download/1702405295665/1702405295665.jpg</thumbnail>
 	<info>Duvidas sobre doaçoes, contato e status do addon</info>
 	<SetViewMode>1</SetViewMode>
 	<items>
 		<item>
 			<title>[COLOR cyan]Doaçoes Pix[/COLOR]: cineroom.ofc@gmail.com</title>
 			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
-			<thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Screenshots_2022-09-06-12-08-28.png</thumbnail>
-			<info>Colabore livremente, e não se esqueça que não obrigamos isso de nenhum modo!
-			
-Ressaltando que você não está doando ou pagando pelo Conteudo e sim com os custos do aparelho para compartilharmos todo esse material para o seu entretenimento.</info>
-		</item>
+			<thumbnail>https://archive.org/download/1702405295665/1702405295665.jpg</thumbnail>
+			<info>Meta para novo PC
+		
+		[COLOR yellow[B]Arrecadado[/B][/COLOR]: R$ [B]25,00[/B]
+		[COLOR yellow[B]Meta[/B][/COLOR]: R$ [B]2.000[/B]</item>
+		
 		<item>
 			<title>[COLOR cyan]Contato[/COLOR]: em breve!</title>
 			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
