@@ -33,15 +33,7 @@
 		<info>Novos Episodios</info>
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/dolby-vision</externallink>
    </channel>
-    <channel>
-        <name>[COLOR green]•[/COLOR]4K [EXCLUSIVO]</name>
-        <thumbnail>https://img.freepik.com/premium-vector/4k-ultra-hd-icon_79145-197.jpg</thumbnail>
-        <fanart>https://i.pinimg.com/originals/f2/25/22/f22522194c2d94d402aabd9201bbdf46.jpg</fanart>
-		<info>Para ajudar na arrecadação para um novo PC, criei essa aba EXCLUSIVA para filmes em 4K Dual.
-			
-Por favor, se voce gosta do addon, me ajude a conseguir um novo Notebook para continuar. Sua ajuda é muito importante!</info>
-		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/4k-Exclusivo</externallink>
-	</channel>   
+   
   	
    
    </channels>
