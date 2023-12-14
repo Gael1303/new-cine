@@ -4,6 +4,54 @@
 <SetViewMode>500</SetViewMode>
 
          <item>
+		<title>Five Nights at Freddy’s: O Pesadelo Sem Fim (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z4OvWTJY56fOyuQWfbZhNPMWX9N.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg</fanart>
+		<genre>Terror, Suspense</genre>
+		<date>26.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70e87c303580b6007b68287d11b0c0a2a356a126</link>
+		<info>Enquanto passa sua primeira noite no trabalho, um problemático guarda de segurança da Pizzaria Freddy Fazbear logo percebe que não será uma tarefa fácil sobreviver ao seu primeiro turno.</info>
+	</item>
+         <item>
+		<title>Hypnotic: Ameaça Invisível (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yV8ppmyD2LiURZr8XGCQwMcqiZx.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/8FhKnPpql374qyyHAkZDld93IUw.jpg</fanart>
+		<genre>Mistério, Thriller, Ação, Ficção científica</genre>
+		<date>23.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74ee662a5ac8da5e7ea60e3cd671f35732cf653f</link>
+		<info>Um detetive se envolve em um mistério envolvendo sua filha desaparecida e um programa secreto do governo enquanto investiga uma série de crimes que distorcem a realidade.</info>
+	</item>
+	
+	<item>
+		<title>The Lesson (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/fW3eGituAr0NKY77WbuLREUYhm8.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jCtUrDSyo4yfd3bgqltFjQCIHkW.jpg</fanart>
+		<genre>Suspense</genre>
+		<date>22.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c7c060922020ae6f1f3c02ebac2217d24bcaa4e</link>
+		<info>Liam (Daryl McCormack), um jovem ambicioso aspirante a escritor, aceita ansiosamente uma posição de tutor na propriedade da família de seu ídolo, o renomado romancista, JM Sinclair, e sua esposa, Hélène (Richard E. Grant e Julie Delpy). Porém, Liam logo percebe que ele foi arrastado para uma teia de segredos familiares, ressentimentos e retaliação.</info>
+	</item>
+	
+	<item>
+		<title>Dentro (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/yQjcYCFfBLRQvnvkHy5rbHMUewH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/5deKXeVmu3G8821gV8DtKHmRd6r.jpg</fanart>
+		<genre>Drama, Thriller</genre>
+		<date>15.03.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b318737487e1d06b7dfff517c962b6f26fce6d79</link>
+		<info>Em seu território, ninguém chega aos pés de Nemo (Willem Dafoe). O ladrão profissional se especializou em roubo de arte e é considerado um verdadeiro gênio na indústria. Um dia, outro golpe é iminente: junto com seus cúmplices, ele quer roubar um renomado colecionador de suas obras. Mas assim que ele invade a luxuosa cobertura, algo completamente inesperado acontece: o sofisticado sistema de segurança do apartamento bloqueia todas as saídas e entradas e depois desmorona. Nemo agora está sozinho e, acima de tudo, preso.</info>
+	</item>
+	
+	<item>
+		<title>12 Horas Para o Fim do Mundo (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/8leDrFajsIuKe10tCNncfAqBct3.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/67ZElPHwAhW3ifQck38fCPwp88p.jpg</fanart>
+		<genre>Drama, Aventura, Ficção científica, Família</genre>
+		<date>22.12.2022</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c8ad9aa5d27b040db160bae74eb376bfd6f3724</link>
+		<info>Um pai que trabalha em uma estação espacial precisa salvar sua filha de 15 anos após uma devastadora chuva de meteoros atingir a Terra. Usando apenas telefones e câmeras via satélite, ele embarca numa jornada emocionante para resgatá-la.</info>
+	</item>
+         <item>
 		<title>Nefasto (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/original/xwjWUAajQJPj5aik1tounPguZbz.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/q0AQDPlUaE9OCr9JtuYk6trdwrr.jpg</fanart>
@@ -830,15 +878,7 @@ O filho de um casal é atormentado por sons de batidas vindos de dentro das pare
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0977296599b997ef3aa1938c07a656d405af40b3</link>
 		<info>Veja o que Suzane von Richthofen, Daniel Cravinhos e Cristian Cravinhos fizeram nos dias que sucederam o crime brutal que levou o casal Richthofen à morte. Este filme revela momentos cruciais da investigação policial, depoimentos e a confissão do crime.</info>
 	</item>
-	<item>
-		<title>Five Nights at Freddy’s: O Pesadelo Sem Fim (2023) (Leg)</title>
-		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z4OvWTJY56fOyuQWfbZhNPMWX9N.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/7NRGAtu8E4343NSKwhkgmVRDINw.jpg</fanart>
-		<genre>Terror, Suspense</genre>
-		<date>26.10.2023</date>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2d94833474e5afe13b9b7e2fdcb6c5efa26bccb</link>
-		<info>Enquanto passa sua primeira noite no trabalho, um problemático guarda de segurança da Pizzaria Freddy Fazbear logo percebe que não será uma tarefa fácil sobreviver ao seu primeiro turno.</info>
-	</item>
+	
 	<item>
 		<title>Golda: A Mulher de Uma Nação (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7nB9OWfLWbbyfk0MYv2czQCeKZ3.jpg</thumbnail>
