@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
 <channel>
         <name>[COLOR green]•[/COLOR]4K [TORRENT]</name>
         <thumbnail>https://img.freepik.com/premium-vector/4k-ultra-hd-icon_79145-197.jpg</thumbnail>
@@ -14,3 +18,4 @@
 		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/novos-no-cr/generos/4k-Exclusivo</externallink>
     </channel>
 	
+</channels>
