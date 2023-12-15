@@ -3,6 +3,52 @@
 <items>
 <SetViewMode>500</SetViewMode>
 
+         
+         <item>
+		<title>A Fuga das Galinhas: A Ameaça dos Nuggets (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3ZpbQ571GHAYIZl1zqZ3Non75Y7.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/aNG1BSIULxbHtUmBiar0i3fR1S4.jpg</fanart>
+		<genre>Animação, Aventura, Comédia, Família</genre>
+		<date>15.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f248808929ab5ea38b47538f440eac33c6939c44</link>
+		<info>Depois de desafiar a morte e conseguir fugir da fazenda de Tweedy, Ginger finalmente realizou seu sonho: encontrar uma tranquila ilha-santuário para todo o bando, longe dos perigos do mundo humano. Quando ela e Rocky chocam uma galinhazinha chamada Molly, o final feliz de Ginger parece completo. Mas, no continente, toda a espécie enfrenta uma nova e terrível ameaça. Agora, Ginger e sua turma vão fazer de tudo para ajudar as galinhas, mesmo se isso significar colocar em risco a liberdade conseguida a tanto custo.</info>
+	</item>
+	<item>
+		<title>Família (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/5LyiadeCXEsoqmph0fZZhoCBWJa.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7pp8UhAAmRUONG8DRJVNkjDOR4T.jpg</fanart>
+		<genre>Drama</genre>
+		<date>27.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcd00ce03b3fdf8092f670444e3db45e74498817</link>
+		<info>Enquanto a família discute o futuro do seu idílico olival durante uma refeição, a complexidade de suas relações vem à tona entre risadas e confissões.</info>
+	</item>
+	<item>
+		<title>Finestkind (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/idgnRNEHeMjXbvSJCt1IaVuJCFZ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/6ALXvuHzv5ZbqrEz05OHpjpZv19.jpg</fanart>
+		<genre>Crime, Drama, Thriller</genre>
+		<date>28.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f62682e657d4c504ba1cc95529895b2c4021581</link>
+		<info>Dois irmãos fecham um perigoso acordo com uma organização criminosa que os atrai para o submundo de Boston. À medida que as pressões aumentam, os sacrifícios devem ser feitos e os vínculos - entre irmão e irmão, e entre pai e filho - são colocados à prova.</info>
+	</item>
+	<item>
+		<title>Plano em Família (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3CezGI4ORSgVKk5Ch3UUWtL7SET.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/r9oTasGQofvkQY5vlUXglneF64Z.jpg</fanart>
+		<genre>Ação, Comédia</genre>
+		<date>14.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aef294bfc6a8cf051c6dbce96227a36254763ef</link>
+		<info>Dan Morgan é muitas coisas: um marido dedicado, um pai amoroso, um reconhecido vendedor de carros. Ele também é um ex-assassino. E quando seu passado encontra seu presente, ele é forçado a levar sua desavisada família em uma viagem diferente de qualquer outra.</info>
+	</item>
+	<item>
+		<title>Casamento Grego 3 (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/hVmsjW1QEIJ8ixG0H6ymqBqaxEc.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/eiIvFiqOClwNX3nUmRlEmNarFCk.jpg</fanart>
+		<genre>Comédia, Romance</genre>
+		<date>21.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:addb6a0bb1d4772512cb37f760668cc6a4ec8b97</link>
+		<info>Os membros da família Portokalos se reúnem na Grécia para uma viagem hilária e emocionante, cheia de amor e reviravoltas.</info>
+	</item>
          <item>
 		<title>Five Nights at Freddy’s: O Pesadelo Sem Fim (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z4OvWTJY56fOyuQWfbZhNPMWX9N.jpg</thumbnail>
