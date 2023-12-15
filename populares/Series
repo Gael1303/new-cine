@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
  <SetViewMode>502</SetViewMode>
+
+                <channel>
+	<name>Yu Yu Hakusho</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jrvYfWCcLqhekCbZuPF8o5k4Ryh.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/5XVWHz5yiRoij9pW3Gb7qaeEYuu.jpg</fanart>
+	<date>14.04.2023</date>
+	<genre>Drama, Sci-Fi & Fantasy</genre>
+	<info>Depois de perder a vida em um ato de bondade, o delinquente juvenil Yusuke Urameshi é chamado para ser detetive espiritual e investigar casos de Yokais perigosos.</info>
+	<items>
+		<item>
+			<title>Yu Yu Hakusho [T01] - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5I2ZYYRCTDP4HJDCVAMIBIJKIULNCY57&dn=Yu%20Yu%20Hakusho%20S01%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/5XVWHz5yiRoij9pW3Gb7qaeEYuu.jpg</thumbnail>
+			<genre>Drama, Sci-Fi & Fantasy</genre>
+		</item>
+	</items>
+</channel>
 <channel>
 		<name>Monarch: Legado de Monstros</name>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
