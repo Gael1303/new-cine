@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <items>
-<SetViewMode>500</SetViewMode>
-
+         <item>
+		<title>Resistência (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg</fanart>
+		<genre>Ação, Aventura, Drama</genre>
+		<date>27.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QYWWSMFVPMU5OEA4CNW36O7G6RDVPCH4&dn=Resist%C3%AAncia%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.</info>
+	</item>
          <item>
 		<title>Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes (2023)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nM9U99IKbG9saAAq3fWdL7ifgWk.jpg</thumbnail>
