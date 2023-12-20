@@ -2,7 +2,12 @@
    <items>
 	<SetViewMode>500</SetViewMode>   
 
-   
+        <item>
+		<title>Resistência [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg</fanart>
+		<genre>Ficção científica, Ação, Thriller</genre> <date>28.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VRBLCNJWOSSEYBXNSZ25MUDJECSRVL4Z&dn=Resist%C3%AAncia%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+	</item>
 	<item>
 		<title>Jogos Vorazes: A Cantiga dos Pássaros e das Serpentes [4K]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nM9U99IKbG9saAAq3fWdL7ifgWk.jpg</thumbnail>
@@ -46,13 +51,6 @@
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7mC4iunNnWrHIBamKqiHkpFI32X.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/xgGGinKRL8xeRkaAR9RMbtyk60y.jpg</fanart>
 		<genre>Animação, Família, Música, Fantasia, Comédia</genre> <date>12.10.2023</date>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83758d122f44cc08e512c6492d50299c9b44b4ee</link>
-	</item>
-	
-	<item>
-		<title>Resistência [4K] [Leg]</title>
-		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg</fanart>
-		<genre>Ficção científica, Ação, Thriller</genre> <date>28.09.2023</date>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bac2a51da5c2bac3d5feabd76391b806db213f3</link>
 	</item>
 	<item>
 		<title>Os Mercenários 4 [4K]</title>
