@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
+        <channel>
+		<name>Reacher</name>
+		<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg</fanart>
+		<genre>Ação, Drama, Policial</genre>
+		<date>03.02.2022</date>
+		<studio>AMAZON</studio>
+                <externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/serie%20reacher</externallink>
+		<info>A série acompanha a história de Jack Reacher, um veterano investigador da polícia militar que recentemente entrou na vida civil. Reacher agora vaga sem rumo, viajando pelo país sem telefone e sem o essencial enquanto explora a nação a que tanto serviu. Quando Reacher chega à pequena cidade de Margrave, Geórgia, ele encontra uma comunidade em choque com o primeiro homicídio em 20 anos. Os policiais o prendem imediatamente e testemunhas afirmam ter visto Reacher na cena do crime. Enquanto ele batalha para provar sua inocência, uma conspiração profundamente arraigada começa a emergir, o que exigirá a mente aguçada de Reacher e sua força física para lidar com ela. Acima de tudo, uma coisa é certa: eles escolheram o cara errado para incriminar.</info>
+		
+	</channel>
+        ----------------------------
 
         <channel>
 	<name>Percy Jackson e os Olimpianos</name>
@@ -2182,26 +2194,6 @@ Conheça a história de amor mais sórdida de Hollywood já contada.</info>
 		</item>
 	</items>
 </channel>
-<channel>
-	<name>Reacher</name>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/wrhLyiY7ksW0fQCqNpa52qiOAH8.jpg</fanart>
-	<genre>Ação, Drama, Policial</genre>
-	<date>03.02.2022</date>
-	<studio>AMAZON</studio>
-	<info>A série acompanha a história de Jack Reacher, um veterano investigador da polícia militar que recentemente entrou na vida civil. Reacher agora vaga sem rumo, viajando pelo país sem telefone e sem o essencial enquanto explora a nação a que tanto serviu. Quando Reacher chega à pequena cidade de Margrave, Geórgia, ele encontra uma comunidade em choque com o primeiro homicídio em 20 anos. Os policiais o prendem imediatamente e testemunhas afirmam ter visto Reacher na cena do crime. Enquanto ele batalha para provar sua inocência, uma conspiração profundamente arraigada começa a emergir, o que exigirá a mente aguçada de Reacher e sua força física para lidar com ela. Acima de tudo, uma coisa é certa: eles escolheram o cara errado para incriminar.</info>
-	<items>
-		<item>
-			<title>Reacher - 1ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e460ea6068b520fa6e96fe9f827a3f82972ad4f$nome=Reacher T01 1080p</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ed0a8cfff4cacde23e2f6c094cca26e7753ffbe$nome=Reacher S01 (4K) Leg</link>
-			<thumbnail>https://multiversonoticias.com.br/wp-content/uploads/2022/01/4833003.jpg</thumbnail>
-			<genre>[I]Ação, Drama, Policial[/I]</genre>
-		</item>
-	</items>
-</channel>
-
--
 
 <channel>
 	<name>Ruptura</name>
