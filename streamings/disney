@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-	
+	 <channel>
+	<name>Percy Jackson e os Olimpianos</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg</fanart>
+	<date>19.12.2023</date>
+	<genre>Action & Adventure, Sci-Fi & Fantasy, Drama, Família</genre>
+	<info>Percy Jackson terá uma missão perigosa. Enquanto enfrenta monstros e engana deuses, ele terá uma jornada através dos EUA para devolver o raio-mestre de Zeus e impedir uma guerra iminente. Com a ajuda de seus colegas de missão, Annabeth e Grover, a jornada de Percy o deixará mais próximo das respostas das seguintes perguntas: "como se encaixar num mundo onde ele se sente deslocado?" e "qual será o seu futuro?".</info>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/percy-jackson</externallink>
+</channel>
 
 <channel>
 	<name>Loki</name>
