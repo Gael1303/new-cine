@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+<item>
+	<title>Os Caras Malvados: Um Natal do Mal</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tHTEgWMPg7AdeotObEUqdOo98Zx.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/Aq01ronA2mBIVn003DeJQOLPKY8.jpg</fanart>
+	<genre>Animação, Comédia, Família</genre>
+	<date>30.11.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6942d35a1bc934ef59d5722356ffde49649970a5</link>
+	<info>Para manter o tradicional Natal da Malandragem, Sr. Lobo e seu bando precisam recuperar o espírito natalino na cidade. E tem que ser rápido!</info>
+</item>
+<item>
+		<title>O Natal do Pequeno Batman</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t2wpjvGFA9ZdQFZn4Phg6QKZRBH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/qA5S8YbCpj2VNyfLud31hKROt9z.jpg</fanart>
+		<genre>Animação, Ação, Família, Comédia</genre>
+		<date>08.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ef8728c4b8ebd57a9f2052f1f5e25d3202e9c8c</link>
+		<info>Neste Natal, Damian Wayne quer ser um super-herói igual ao pai dele - o primeiro e único Batman. Damian fica sozinho em casa enquanto o Batman sai para enfrentar os maiores supervilões de Gotham na Véspera de Natal, mas acaba descobrindo um plano maligno para roubar o Natal e aproveita a chance para salvar o dia.</info>
+	</item>
+<item>
+		<title>Urkel Salva o Papai Noel: O Filme!</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hSBIk1EQrt2DJHQHjYqQCHQeHRt.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/iaMua3MLv6KJse0MEjGy6NVbqIa.jpg</fanart>
+		<genre>Animação, Família, Comédia</genre>
+		<date>21.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d66c732a0a932f2a95ec56acc634f6cf8866014a</link>
+		<info>Steve Urkel, depois de um infeliz acidente onde ridiculariza o Papai Noel do shopping, cria uma invenção na esperança de consertar o espírito natalino com a ajuda do verdadeiro Papai Noel.</info>
+	</item>
+<item>
+		<title>A Fuga das Galinhas: A Ameaça dos Nuggets</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3ZpbQ571GHAYIZl1zqZ3Non75Y7.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/aNG1BSIULxbHtUmBiar0i3fR1S4.jpg</fanart>
+		<genre>Animação, Aventura, Comédia, Família</genre>
+		<date>15.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f248808929ab5ea38b47538f440eac33c6939c44</link>
+		<info>Depois de desafiar a morte e conseguir fugir da fazenda de Tweedy, Ginger finalmente realizou seu sonho: encontrar uma tranquila ilha-santuário para todo o bando, longe dos perigos do mundo humano. Quando ela e Rocky chocam uma galinhazinha chamada Molly, o final feliz de Ginger parece completo. Mas, no continente, toda a espécie enfrenta uma nova e terrível ameaça. Agora, Ginger e sua turma vão fazer de tudo para ajudar as galinhas, mesmo se isso significar colocar em risco a liberdade conseguida a tanto custo.</info>
+	</item>
+<item>
+		<title>South Park (Não Recomendado Para Menores)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/opc6DIkByOp9vOt14jzfu8oVjbM.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vTPgBrqEhIIqeZOCqrdNjyXzK4c.jpg</fanart>
+		<genre>Comédia, Animação</genre>
+		<date>20.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SP2GA7XQH7UNGO2FHVMR23VYVFKSMJQQ&dn=South%20Park%20-%20N%C3%A3o%20Recomendado%20Para%20Menores%202023%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Após descobrirem que uma professora da Escola de South Park possui uma página na rede social OnlyFans, Randy é levado a ver de perto o lado oculto do mundo dos influenciadores digitais.</info>
+	</item>
 <item>
 		<title>Leo</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqO5pla3aNOHLqawGbcRwMAyiri.jpg</thumbnail>
