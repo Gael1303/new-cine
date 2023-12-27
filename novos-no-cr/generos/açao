@@ -1,7 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-
+              <item>
+	<title>O Coletivo</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/araUzE6drxWABCMSKvnKHV11vr1.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/biRLtgt3t8MwxeLRRJkf1BsHoeq.jpg</fanart>
+	<genre>Ação, Thriller</genre>
+	<date>04.08.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89ae53e2e6f6f0894827eccf8dbe839f8b2957e9</link>
+	<info>Um jovem é recrutado para uma misteriosa agência de assassinos implacáveis. Com a ajuda de colegas, ele comete um ato de rebeldia e justiça ao rastrear uma rede de tráfico de pessoas que é apoiada por bilionários poderosos e intocáveis. Sua missão é destruir essas pessoas que causam tanto mal à vida inocentes ao redor do mundo.</info>
+</item>
+<item>
+	<title>Dias Difíceis</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4UpMPxy0K1XFdH6OgcnWZgCbqg3.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/eLVYG73Ig4SD192z4IY7nxKgCW8.jpg</fanart>
+	<genre> Ação, Thriller, Drama</genre>
+	<date>19.05.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b57964dffdd6b8492abbe18148ccbdd9d679d58</link>
+	<info>Cheio de problemas, um policial desesperado se envolve num acidente de trânsito e foge sem prestar socorro. Mas uma testemunha pode complicar a vida dele.</info>
+</item>
+<item>
+		<title>Indiana Jones e a Relíquia do Destino</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9m161GawbY3cWxe6txd1NOHTjd0.jpg</fanart>
+		<genre>Aventura, Ação</genre>
+		<date>28.06.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63b79e02e389e461e780136ef850578372e8ab09</link>
+		<info>Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece tê-lo superado. Mas quando os tentáculos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chapéu e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato não caia nas mãos erradas.</info>
+	</item>
+        <item>
+		<title>O Natal do Pequeno Batman</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t2wpjvGFA9ZdQFZn4Phg6QKZRBH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/qA5S8YbCpj2VNyfLud31hKROt9z.jpg</fanart>
+		<genre>Animação, Ação, Família, Comédia</genre>
+		<date>08.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ef8728c4b8ebd57a9f2052f1f5e25d3202e9c8c</link>
+		<info>Neste Natal, Damian Wayne quer ser um super-herói igual ao pai dele - o primeiro e único Batman. Damian fica sozinho em casa enquanto o Batman sai para enfrentar os maiores supervilões de Gotham na Véspera de Natal, mas acaba descobrindo um plano maligno para roubar o Natal e aproveita a chance para salvar o dia.</info>
+	</item>
+         <item>
+		<title>Tração</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/azMQZjuulbfaL8uahlA8cHY3EyJ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/trbLpKy16lYimbLHpibMfVSJuOd.jpg</fanart>
+		<genre>Ação</genre>
+		<date>29.06.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f7a6d3968a76cb948027368d75405cb83030c5a</link>
+		<info>Tração é uma história sobre competições em duas rodas, onde um grupo de pilotos é convidado para uma competição arriscada com diversas modalidades, o “Motoathlon," acompanhando o calendário nacional de motocross. E nesse ambiente, imerso em adrenalina, conflitos e intrigas podem surgir entre os competidores, sendo as motos sempre as protagonistas</info>
+	</item>
+         <item>
+		<title>Plano em Família</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3CezGI4ORSgVKk5Ch3UUWtL7SET.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/r9oTasGQofvkQY5vlUXglneF64Z.jpg</fanart>
+		<genre>Ação, Comédia</genre>
+		<date>14.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aef294bfc6a8cf051c6dbce96227a36254763ef</link>
+		<info>Dan Morgan é muitas coisas: um marido dedicado, um pai amoroso, um reconhecido vendedor de carros. Ele também é um ex-assassino. E quando seu passado encontra seu presente, ele é forçado a levar sua desavisada família em uma viagem diferente de qualquer outra.</info>
+	</item>
+	<item>
+		<title>Resistência</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg</fanart>
+		<genre>Ação, Aventura, Drama</genre>
+		<date>27.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QYWWSMFVPMU5OEA4CNW36O7G6RDVPCH4&dn=Resist%C3%AAncia%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.</info>
+	</item>
+         <item>
+		<title>Rebel Moon – Parte 1: A Menina do Fogo</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sPmGw8DOpH856QjhCfetSK9yzI5.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/sRLC052ieEzkQs9dEtPMfFxYkej.jpg</fanart>
+		<genre>Ficção científica, Ação, Aventura</genre>
+		<date>22.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SXKUUMHSNAKO5GBYRYBVCSBPIAC63F4F&dn=Rebel%20Moon%20-%20Parte%201%20-%20A%20Menina%20do%20Fogo%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Quando uma colônia pacífica na periferia da galáxia se vê ameaçada pelos exércitos do tirânico regente Balisarius, eles despacham Kora, uma jovem com um passado misterioso, para procurar guerreiros de planetas vizinhos para ajudá-los a se posicionar.</info>
+	</item>
+        <item>
+		<title>Hypnotic: Ameaça Invisível</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yV8ppmyD2LiURZr8XGCQwMcqiZx.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/8FhKnPpql374qyyHAkZDld93IUw.jpg</fanart>
+		<genre>Mistério, Thriller, Ação, Ficção científica</genre>
+		<date>23.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74ee662a5ac8da5e7ea60e3cd671f35732cf653f</link>
+		<info>Um detetive se envolve em um mistério envolvendo sua filha desaparecida e um programa secreto do governo enquanto investiga uma série de crimes que distorcem a realidade.</info>
+	</item>
 <item>
 		<title>Believer 2</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg</thumbnail>
