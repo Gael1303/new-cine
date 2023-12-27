@@ -1,8 +1,117 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<SetViewMode>54</SetViewMode>
 
+        
+        <item>
+		<title>Não Enche! (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jX8vNKif3C8UPc5pNHnyCz0sr5X.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/i05i2mDQb3fm0PW8xyItolulHAx.jpg</fanart>
+		<genre>Comedia</genre>
+		<date>21.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e784a98cd12ccb66bb8f1a57511f89f38f1c1c7</link>
+		<info>Após se conhecerem em um grupo de controle da raiva, duas mulheres se unem para expor um cirurgião plástico picareta e se tornam amigas em uma jornada transformadora.</info>
+	</item>
+        <item>
+		<title>O Primeiro Natal do Mundo (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jiJBmfxciWm9PFJgvOfOs8GM4ok.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/1ALeWh8dv7X1lu21DdQ9KUTGOQ3.jpg</fanart>
+		<genre>Comedia, Drama</genre>
+		<date>07.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68f07f57c5acbd956249c66c7d02861f8fd6ad5a</link>
+		<info>A família Pinheiro Lima – formada por Pepê, um professor de história viúvo pai de duas meninas e sua nova esposa, Tina, uma chefe de cozinha divorciada, mãe de dois filhos – tem uma véspera de Natal caótica, em que o desejo de uma das crianças de que o Natal desapareça se realiza. Em um mundo sem essa festividade, as pessoas perdem muitos dos prazeres da vida, além da capacidade de valorizar a união, perdoar e recomeçar. A família embarca numa jornada para recriar o feriado, seu espírito e suas tradições em um mundo em que ninguém ouviu falar do Natal.</info>
+	</item>
+	<item>
+		<title>No Seu Natal ou no Meu 2 (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHGyCnATtIc2tLS84sXDgDuJaQX.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/eZSuFauhIuTO9Rsa8jSGq9DmpZQ.jpg</fanart>
+		<genre>Romance, Comedia</genre>
+		<date>07.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c3635476c1ba0e42ff0bdc88f8fe7d8340a740e</link>
+		<info>They've swapped Christmas - again. Can Hayley and James' relationship survive another turbulent family Christmas or has their future together gone off-piste?!</info>
+	</item>
+	<item>
+		<title>O Natal do Pequeno Batman (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t2wpjvGFA9ZdQFZn4Phg6QKZRBH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/qA5S8YbCpj2VNyfLud31hKROt9z.jpg</fanart>
+		<genre>Animação, Ação, Família, Comédia</genre>
+		<date>08.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ef8728c4b8ebd57a9f2052f1f5e25d3202e9c8c</link>
+		<info>Neste Natal, Damian Wayne quer ser um super-herói igual ao pai dele - o primeiro e único Batman. Damian fica sozinho em casa enquanto o Batman sai para enfrentar os maiores supervilões de Gotham na Véspera de Natal, mas acaba descobrindo um plano maligno para roubar o Natal e aproveita a chance para salvar o dia.</info>
+	</item>
+	<item>
+		<title>The Archies (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2NIN5cuS3yRBnI7VDCtGiffX2r.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/8MDDAi8VnWKJdMmsxuJ1YL1wc21.jpg</fanart>
+		<genre>Romance, Comédia, Drama</genre>
+		<date>07.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db64c9d207b1f132ce5700d565dc10f81aaf44d9</link>
+		<info>Na Índia dos anos 1960, Archie e os amigos lidam com romances, amizades e o futuro de Riverdale, quando construtoras ameaçam um parque querido por todos</info>
+	</item>
+        <item>
+		<title>Urkel Salva o Papai Noel: O Filme!</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hSBIk1EQrt2DJHQHjYqQCHQeHRt.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/iaMua3MLv6KJse0MEjGy6NVbqIa.jpg</fanart>
+		<genre>Animação, Família, Comédia</genre>
+		<date>21.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d66c732a0a932f2a95ec56acc634f6cf8866014a</link>
+		<info>Steve Urkel, depois de um infeliz acidente onde ridiculariza o Papai Noel do shopping, cria uma invenção na esperança de consertar o espírito natalino com a ajuda do verdadeiro Papai Noel.</info>
+	</item>
+     
+	<item>
+		<title>A Fuga das Galinhas: A Ameaça dos Nuggets</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3ZpbQ571GHAYIZl1zqZ3Non75Y7.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/aNG1BSIULxbHtUmBiar0i3fR1S4.jpg</fanart>
+		<genre>Animação, Aventura, Comédia, Família</genre>
+		<date>15.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f248808929ab5ea38b47538f440eac33c6939c44</link>
+		<info>Depois de desafiar a morte e conseguir fugir da fazenda de Tweedy, Ginger finalmente realizou seu sonho: encontrar uma tranquila ilha-santuário para todo o bando, longe dos perigos do mundo humano. Quando ela e Rocky chocam uma galinhazinha chamada Molly, o final feliz de Ginger parece completo. Mas, no continente, toda a espécie enfrenta uma nova e terrível ameaça. Agora, Ginger e sua turma vão fazer de tudo para ajudar as galinhas, mesmo se isso significar colocar em risco a liberdade conseguida a tanto custo.</info>
+	</item>
+        <item>
+		<title>Plano em Família</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3CezGI4ORSgVKk5Ch3UUWtL7SET.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/r9oTasGQofvkQY5vlUXglneF64Z.jpg</fanart>
+		<genre>Ação, Comédia</genre>
+		<date>14.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aef294bfc6a8cf051c6dbce96227a36254763ef</link>
+		<info>Dan Morgan é muitas coisas: um marido dedicado, um pai amoroso, um reconhecido vendedor de carros. Ele também é um ex-assassino. E quando seu passado encontra seu presente, ele é forçado a levar sua desavisada família em uma viagem diferente de qualquer outra.</info>
+	</item>
+	<item>
+		<title>Casamento Grego 3</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/hVmsjW1QEIJ8ixG0H6ymqBqaxEc.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/eiIvFiqOClwNX3nUmRlEmNarFCk.jpg</fanart>
+		<genre>Comédia, Romance</genre>
+		<date>21.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:addb6a0bb1d4772512cb37f760668cc6a4ec8b97</link>
+		<info>Os membros da família Portokalos se reúnem na Grécia para uma viagem hilária e emocionante, cheia de amor e reviravoltas.</info>
+	</item>
+        <item>
+		<title>South Park (Não Recomendado Para Menores)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/opc6DIkByOp9vOt14jzfu8oVjbM.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vTPgBrqEhIIqeZOCqrdNjyXzK4c.jpg</fanart>
+		<genre>Comédia, Animação</genre>
+		<date>20.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SP2GA7XQH7UNGO2FHVMR23VYVFKSMJQQ&dn=South%20Park%20-%20N%C3%A3o%20Recomendado%20Para%20Menores%202023%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Após descobrirem que uma professora da Escola de South Park possui uma página na rede social OnlyFans, Randy é levado a ver de perto o lado oculto do mundo dos influenciadores digitais.</info>
+	</item>
+	<item>
+		<title>Perder é Ganhar um Pouco</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQgNvjmFlFFXHv82pIcVhaAPrNK.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/2ml6gXealHqUluJtTayJnRhy4YZ.jpg</fanart>
+		<genre>Comédia</genre>
+		<date>21.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BBEZ45MB4W3SKKGON4NTRYUGDD63LHNE&dn=Perder%20%C3%A9%20Ganhar%20um%20Pouco%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Miguel, homem bem-sucedido, acaba preso, acusado injustamente de lavagem de dinheiro. Com sua sentença cumprida, sem dinheiro e sem ter para onde ir, retorna ao seu antigo bairro. Lá, ele encontra seus amigos de infância, que continuam jogando futsal, e nunca ganham uma partida. Miguel decide treiná-los, levando-os à vitória. Ele descobre as consequências inesperadas do sucesso.</info>
+	</item>
+        <item>
+		<title>Saltburn</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vkJE484VnRdilB9IgKNly7HIifR.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/2DMdC72NF3len5VFEUzPKMvEzlW.jpg</fanart>
+		<genre>Comédia, Drama, Thriller</genre>
+		<date>21.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DYISZM4EWERVW6ZWSVD2LU7R6VIWJGTF&dn=Saltburn%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>A cineasta ganhadora de Oscar Emerald Fennell nos traz uma história perversa sobre privilégio e desejo. Lutando para encontrar seu lugar na Faculdade de Oxford, o aluno Oliver Quick (Barry Keoghan) é atraído para o mundo do encantador e aristocrata Felix Catton (Jacob Elordi), que o convida para Saltburn, a enorme mansão de sua família excêntrica, para passar um verão inesquecível.</info>
+	</item>
         <item>
 	<title>S.O.S do Divórcio</title>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tFShacQN5wVtmLTP4TSpEUSnFMj.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/3mthoPxC27m2LZ7twu2fEIca9mw.jpg</fanart>
