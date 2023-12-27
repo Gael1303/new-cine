@@ -32,14 +32,7 @@
 	<date>19.12.2023</date>
 	<genre>Action & Adventure, Sci-Fi & Fantasy, Drama, Família</genre>
 	<info>Percy Jackson terá uma missão perigosa. Enquanto enfrenta monstros e engana deuses, ele terá uma jornada através dos EUA para devolver o raio-mestre de Zeus e impedir uma guerra iminente. Com a ajuda de seus colegas de missão, Annabeth e Grover, a jornada de Percy o deixará mais próximo das respostas das seguintes perguntas: "como se encaixar num mundo onde ele se sente deslocado?" e "qual será o seu futuro?".</info>
-	<items>
-		<item>
-			<title>Percy Jackson e os Olimpianos T01 E01-2</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYRKRBJIOG47URSTKPSOGFBFEKQN4DII&dn=Percy%20Jackson%20e%20os%20Olimpianos%20S01E01-02%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg</thumbnail>
-			<genre>Action & Adventure, Sci-Fi & Fantasy, Drama, Família</genre>
-		</item>	
-	</items>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/percy-jackson</externallink>
 </channel>
 
                 <channel>
