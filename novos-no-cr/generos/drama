@@ -2,7 +2,53 @@
 <items>
 
 <SetViewMode>500</SetViewMode>
-
+      
+       <item>
+		<title>Última Chamada para Istambul</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2SUs5rHpId4bxiO0r8fXFZlDvUq.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/voHnZL3CY9bVNKIyksbOsn50nNi.jpg</fanart>
+		<genre>Romance, Drama</genre>
+		<date>24.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:039c47b0f79f7347205579e6394c74f878d6388d</link>
+		<info>Após um encontro casual no aeroporto, duas pessoas casadas vivenciam uma noite inesquecível, emocionante e cheia de desejo em Nova York.</info>
+	</item>
+	
+	<item>
+		<title>Elena Sabe</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nm90M4WPMXk9B4xjuaQQee4YvGF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7k8vxWWngrS63zCd2HFQCeZIXgs.jpg</fanart>
+		<genre>Drama</genre>
+		<date>16.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f31a1f06ac13625535959678b497528361bd119c</link>
+		<info>Elena quer descobrir quem é a pessoa responsável pela morte repentina da filha Rita. Sem respostas e ignorando seu diagnóstico terminal de doença de Parkinson, ela assume o papel de detetive e viaja de trem até o centro da cidade para pedir ajuda a uma antiga amiga da filha. Nessa busca pela verdade, as lembranças inevitavelmente a obrigam a confrontar o tipo de mãe que ela foi.</info>
+	</item>
+	<item>
+		<title>Doi Boy</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/79Fpqtpw1bpnzAkqz2vcxplzI84.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/AtuQVJDrmQQXtQfHJJD2JINHVg.jpg</fanart>
+		<genre>24.11.2023</genre>
+		<date>Drama, Thriller, Romance</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce88d118f028a1ae35fa12573452836d80dc0b1f</link>
+		<info>Na Tailândia, um refugiado cria uma nova identidade como profissional do sexo e se vê envolvido nos esquemas perigosos de um cliente, que podem levar a uma vida melhor.</info>
+	</item>
+        <item>
+		<title>Santuário</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mpVGR5tPhTmTiqSu8kvrSsNCQLl.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/hZ5r3hrbQ9uqXBxto1VpixOfqvj.jpg</fanart>
+		<genre>Suspense, Comédia, Drama</genre>
+		<date>19.05.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f17fe75c1174d34225615c11a024e3efe0fe60ef</link>
+		<info>Confinado em quarto de hotel claustrofóbico, o herdeiro de um império hoteleiro, Hal (Christopher Abbott), e sua dominatrix (Margaret Qualley), que o preparou para o sucesso, ficam presos em uma batalha de inteligência e vontade, enquanto ele tenta terminar seu relacionamento com ela.</info>
+	</item>
+         <item>
+		<title>Ninguém Precisa Acreditar em Mim</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jS8YfaaGFiqimhph4VCrsRaF42l.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/tvLSz04uSgNyRVdLb8hJDU5uFMB.jpg</fanart>
+		<genre>Comédia, Crime, Drama</genre>
+		<date>22.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbbf69707b107b9e74570d4873cf08fd7c69f0e7</link>
+		<info>A carreira de escritor sai dos trilhos depois que ele cai vítima de uma perigosa rede de criminosos. Tudo isso um pouco antes dele se mudar para Barcelona.</info>
+	</item>
        <item>
 		<title>Rustin</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg</thumbnail>
@@ -11,6 +57,206 @@
 		<date>17.11.2023</date>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4de2b3c4628627abaea5f17a6dd05329b8a49c2f</link>
 		<info>Mesmo com o racismo e a homofobia, o ativista Bayard Rustin ajudou a mudar o curso da história dos Direitos Civis ao orquestrar a Marcha sobre Washington em 1963.</info>
+	</item>
+        <item>
+	<title>Eulália</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vk09bOU0CM0FIzQZhnjURlQmcxs.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/qQjmQKSKujCZgGKwAPMSX1qHBTo.jpg</fanart>
+	<genre>Drama</genre>
+	<date>26.07.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a845064725b1ea704aabfca8611146713295ac4f</link>
+	<info>Uma mulher simples se vê presa a um casamento tóxico, vivendo uma jornada diária de submissão e infelicidade. Com poucos vínculos sociais e nenhuma perspectiva de futuro, ela busca um emprego para se tornar independente.</info>
+</item>
+<item>
+	<title>Meu Nome é Gal</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zWKWDxF2oCYvl7PoShG253oIp27.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/xQXArKi8taeQkGrYFiLl5SC58zu.jpg</fanart>
+	<genre>Drama, Música</genre>
+	<date>12.10.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd51114f854fa416d738efdf071bc9fc07f4988f</link>
+	<info>Retrata a trajetória de Maria da Graça Costa Penna Burgos, Gracinha, como era chamada pela mãe Mariah. Com 20 anos, Gal viaja para o Rio de Janeiro, onde se junta aos companheiros de vida Caetano Veloso, Maria Bethânia, Gilberto Gil e Dedé Gadelha.</info>
+</item>
+        <item>
+	<title>Dias Difíceis</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4UpMPxy0K1XFdH6OgcnWZgCbqg3.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/eLVYG73Ig4SD192z4IY7nxKgCW8.jpg</fanart>
+	<genre> Ação, Thriller, Drama</genre>
+	<date>19.05.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b57964dffdd6b8492abbe18148ccbdd9d679d58</link>
+	<info>Cheio de problemas, um policial desesperado se envolve num acidente de trânsito e foge sem prestar socorro. Mas uma testemunha pode complicar a vida dele.</info>
+</item>
+        <item>
+	<title>Jornada Para o Inferno</title>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yRJUdzPrqh1QcVBWEU54qQzB8sR.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/6gcXySbEdXC9V39chjcJ1ZxOi07.jpg</fanart>
+	<genre>Drama, Faroeste</genre>
+	<date>20.10.2023</date>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94f64c3bbd96d21e003b079ce3648b66676e8309</link>
+	<info>Na década de 1870, um jovem que abandonou Harvard busca seu destino no Oeste, vinculando seu destino a uma equipe de caçadores de búfalos liderada por um homem chamado Miller. Juntos, eles embarcam em uma jornada angustiante arriscando a vida e a sanidade.</info>
+</item>
+
+	<item>
+		<title>Ninguém é de Ninguém</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wBkP0yXOywAAU9tcqgXaJJjtfqz.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/1ZVKtDiLe1SgThCeAmjCgRyP5RD.jpg</fanart>
+		<genre>Drama</genre>
+		<date>20.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a3646ca49ad70baa146d4d697fad323ee9acc65</link>
+		<info>Gabriela, esposa de Roberto, é chamada para trabalhar no escritório de Renato, advogado bem-sucedido casado com Gioconda. Após a vida dos casais se entrelaçarem, o quarteto passa a sofrer com mentiras, relacionamentos desgastantes e tragédias.</info>
+	</item>
+        <item>
+		<title>Assassinos da Lua das Flores (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sz0HswdqLa6I5ialoyBvn5gm0r5.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wCte7A4O2L7CAiw70fbFuvkngA7.jpg</fanart>
+		<genre>Crime, Drama, História</genre>
+		<date>19.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8c3b9878ef4c872e0c824cc118e887faa55fa7b</link>
+		<info>Na década de 1920, em Oklahoma, o povo da nação Osage começa a ser assassinado após petróleo ser descoberto sob suas terras, até que o FBl entra em cena para desvendar o mistério.</info>
+	</item>
+	<item>
+		<title>O Livro dos Sonhos</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vhTJqpZbr3AmuqTRjLpux62JgRI.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vmLBMvDCz3wqoEjHy986bo1BeYg.jpg</fanart>
+		<genre>Drama</genre>
+		<date>15.03.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d68086b8d6093a4bbe5b9345e6f8dbdf01f46c9</link>
+		<info>Depois que o filho entra em coma após um atropelamento, sua mãe encontra seu diário, que contém uma lista de dez coisas que ele queria fazer antes do fim do mundo. Com a intenção de cumprir os desejos do filho, ela começa a seguir a lista.</info>
+	</item>
+        <item>
+		<title>Tempos De Barbárie – Ato I: Terapia Da Vingança</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fB4SsQK4OW1CZYGySRfJmMs2hhx.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/q5CVt1HSD0Y8JeMqfhtOKfl4nhz.jpg</fanart>
+		<genre>Drama, Thriller</genre>
+		<date>17.08.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dee8bbdded763dee7f7015589a8ee352b39c7be2</link>
+		<info>Durante uma tentativa de assalto, a filha da advogada Carla é baleada e fica em estado grave. Sem respostas, Carla tenta seguir a vida buscando ajuda em grupos de apoio. Sem conseguir aceitar o destino da filha e a falta de soluções por parte da polícia, transforma a busca por justiça em uma procura por vingança e testa o seu próprio limite para ver até onde poderia ir.</info>
+	</item>
+        <item>
+		<title>George Foreman: Sua História (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65k7FeAQfYCUXml5vT1vvHAYJoD.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xLsMxgMjko1rWbIUbvf6UBjToBE.jpg</fanart>
+		<genre>Drama, História</genre>
+		<date>27.04.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1ff81a162d8b0ebbe50505eb65dea74b9822af8</link>
+		<info>Após uma infância pobre, Foreman canaliza sua raiva e se torna medalhista de ouro olímpico e campeão mundial de pesos-pesados. Logo após, vive uma experiência de quase morte que o leva dos ringues de boxe aos púlpitos. No entanto, ao ver sua comunidade lutando espiritual e financeiramente, Foreman volta aos ringues e faz história reivindicando seu título e tornando-se o mais velho e improvável Campeão Mundial de Boxe Peso-Pesado de todos os tempos.</info>
+	</item>
+	<item>
+		<title>Silver e o Livro dos Sonhos</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mjCpMUo4VBFZhlLiqHUNXJwzuQ1.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/iFB5vm5OZNR9COZdhSwRPmTsZ9G.jpg</fanart>
+		<genre>Fantasia, Ficção científica, Romance, Drama</genre>
+		<date>30.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8f4dcba6ba13104ceebcc43fceddef79710f343</link>
+		<info>Quando Liv se muda para Londres, ela conhece o misterioso Henry e seu grupo de amigos, que a levam para o fascinante mundo das viagens dos sonhos. Ela e seu novo grupo de sonhadores realizam um ritual para tornar seu maior sonho em realidade, mas isso exige um grande sacrifício. Baseado no best-seller de Kerstin Gier.</info>
+	</item>
+	<item>
+		<title>Um Amor de Natal</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qicIxTvQNkMcx9CvQAKxos0A46m.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/w6cRR9j7ViEa6IMoM1noSIfMuhW.jpg</fanart>
+		<genre>Drama, Comédia, Romance</genre>
+		<date>07.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4746e7096a6b8a30ffc4946a6606fb3e9c739a27</link>
+		<info>Lúcia é mãe solteira de uma garotinha que adora o Natal, Léo. Uma noite ela se apaixona em um encontro às cegas por Sergio, desesperada para saber como contar a novidade para a filha; a engana dizendo que seu novo namorado é na verdade o Papai Noel. Agora o namorado tem que provar seu valor e convencê-la e ele o faz, mas eventualmente ela descobre. A ilusão se quebra, mas a magia permanece, então ela visita Sergio em seu restaurante para lhe entregar sua carta, pedindo não brinquedos, mas uma família, e ambos realizaram seu desejo.</info>
+	</item>
+	<item>
+		<title>O Primeiro Natal do Mundo</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jiJBmfxciWm9PFJgvOfOs8GM4ok.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/1ALeWh8dv7X1lu21DdQ9KUTGOQ3.jpg</fanart>
+		<genre>Comedia, Drama</genre>
+		<date>07.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68f07f57c5acbd956249c66c7d02861f8fd6ad5a</link>
+		<info>A família Pinheiro Lima – formada por Pepê, um professor de história viúvo pai de duas meninas e sua nova esposa, Tina, uma chefe de cozinha divorciada, mãe de dois filhos – tem uma véspera de Natal caótica, em que o desejo de uma das crianças de que o Natal desapareça se realiza. Em um mundo sem essa festividade, as pessoas perdem muitos dos prazeres da vida, além da capacidade de valorizar a união, perdoar e recomeçar. A família embarca numa jornada para recriar o feriado, seu espírito e suas tradições em um mundo em que ninguém ouviu falar do Natal.</info>
+	</item>
+	<item>
+		<title>Um Palmo</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xkmcRI2BzuWP9lltlsB4x420O8d.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ozO9cl2hL0GCA4hb8FALs22DVa1.jpg</fanart>
+		<genre>Thriller, Mistério, Drama</genre>
+		<date>03.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08b4ed066985f7e7d569f5a5a43f777b86bc65d4</link>
+		<info>Por causa de uma falta de energia, Diogo fica preso dentro do elevador do prédio onde mora quando ia sair. Depois de muito tentar ligar para portaria e para números aleatórios pelo celular e não conseguir ajuda ou resposta, se vê aceitando sua situação e se conforma em ficar preso no elevador até que descubram que está lá dentro.</info>
+	</item>
+        <item>
+		<title>The Archies</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2NIN5cuS3yRBnI7VDCtGiffX2r.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/8MDDAi8VnWKJdMmsxuJ1YL1wc21.jpg</fanart>
+		<genre>Romance, Comédia, Drama</genre>
+		<date>07.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db64c9d207b1f132ce5700d565dc10f81aaf44d9</link>
+		<info>Na Índia dos anos 1960, Archie e os amigos lidam com romances, amizades e o futuro de Riverdale, quando construtoras ameaçam um parque querido por todos</info>
+	</item>
+        <item>
+		<title>Família</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/5LyiadeCXEsoqmph0fZZhoCBWJa.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7pp8UhAAmRUONG8DRJVNkjDOR4T.jpg</fanart>
+		<genre>Drama</genre>
+		<date>27.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcd00ce03b3fdf8092f670444e3db45e74498817</link>
+		<info>Enquanto a família discute o futuro do seu idílico olival durante uma refeição, a complexidade de suas relações vem à tona entre risadas e confissões.</info>
+	</item>
+         <item>
+		<title>Resistência</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg</fanart>
+		<genre>Ação, Aventura, Drama</genre>
+		<date>27.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QYWWSMFVPMU5OEA4CNW36O7G6RDVPCH4&dn=Resist%C3%AAncia%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Em meio a uma futura guerra entre a raça humana e as forças da inteligência artificial, Joshua, um endurecido ex-agente das forças especiais que lamenta o desaparecimento de sua esposa, é recrutado para caçar e matar o Criador, o indescritível arquiteto da IA avançada que desenvolveu uma arma misteriosa com o poder de acabar com a guerra - e a própria humanidade.</info>
+	</item>
+        <item>
+		<title>O Mundo Depois de Nós</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qwHZInQ0MBa1DxHV66ExCCUzBf5.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/z6OkT7XjzSrgstiTlld0jUvME9y.jpg</fanart>
+		<genre>Mistério, Thriller, Drama</genre>
+		<date>24.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e858c5d45f65ecd7fd2a41b285c7791ea99fe034</link>
+		<info>As férias de uma família numa casa luxuosa sofrem uma reviravolta quando um ciberataque afeta todos os dispositivos e duas pessoas estranhas batem à porta.</info>
+	</item>
+	<item>
+		<title>Perdida no Deserto</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3kkXGyrpA1OzDXl9ubNn8R89YoM.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/nyytmlyI6tEYT2Iu6hKARiUcQug.jpg</fanart>
+		<genre>Drama, Thriller, Terror</genre>
+		<date>07.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c6cb165a4ea909d0c9fa223d75db8283f88d37c</link>
+		<info>Presa no deserto depois de uma festa secreta, uma jovem precisa enfrentar um camelo vingativo e outros desafios para chegar em casa no horário combinado.</info>
+	</item>
+        <item>
+		<title>Dentro</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/yQjcYCFfBLRQvnvkHy5rbHMUewH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/5deKXeVmu3G8821gV8DtKHmRd6r.jpg</fanart>
+		<genre>Drama, Thriller</genre>
+		<date>15.03.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b318737487e1d06b7dfff517c962b6f26fce6d79</link>
+		<info>Em seu território, ninguém chega aos pés de Nemo (Willem Dafoe). O ladrão profissional se especializou em roubo de arte e é considerado um verdadeiro gênio na indústria. Um dia, outro golpe é iminente: junto com seus cúmplices, ele quer roubar um renomado colecionador de suas obras. Mas assim que ele invade a luxuosa cobertura, algo completamente inesperado acontece: o sofisticado sistema de segurança do apartamento bloqueia todas as saídas e entradas e depois desmorona. Nemo agora está sozinho e, acima de tudo, preso.</info>
+	</item>
+	
+	<item>
+		<title>12 Horas Para o Fim do Mundo</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/8leDrFajsIuKe10tCNncfAqBct3.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/67ZElPHwAhW3ifQck38fCPwp88p.jpg</fanart>
+		<genre>Drama, Aventura, Ficção científica, Família</genre>
+		<date>22.12.2022</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c8ad9aa5d27b040db160bae74eb376bfd6f3724</link>
+		<info>Um pai que trabalha em uma estação espacial precisa salvar sua filha de 15 anos após uma devastadora chuva de meteoros atingir a Terra. Usando apenas telefones e câmeras via satélite, ele embarca numa jornada emocionante para resgatá-la.</info>
+	</item>
+	<item>
+		<title>Finestkind</title>
+		<thumbnail>https://www.themoviedb.org/t/p/original/idgnRNEHeMjXbvSJCt1IaVuJCFZ.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/6ALXvuHzv5ZbqrEz05OHpjpZv19.jpg</fanart>
+		<genre>Crime, Drama, Thriller</genre>
+		<date>28.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f62682e657d4c504ba1cc95529895b2c4021581</link>
+		<info>Dois irmãos fecham um perigoso acordo com uma organização criminosa que os atrai para o submundo de Boston. À medida que as pressões aumentam, os sacrifícios devem ser feitos e os vínculos - entre irmão e irmão, e entre pai e filho - são colocados à prova.</info>
+	</item>
+        <item>
+		<title>Saltburn</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vkJE484VnRdilB9IgKNly7HIifR.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/2DMdC72NF3len5VFEUzPKMvEzlW.jpg</fanart>
+		<genre>Comédia, Drama, Thriller</genre>
+		<date>21.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DYISZM4EWERVW6ZWSVD2LU7R6VIWJGTF&dn=Saltburn%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>A cineasta ganhadora de Oscar Emerald Fennell nos traz uma história perversa sobre privilégio e desejo. Lutando para encontrar seu lugar na Faculdade de Oxford, o aluno Oliver Quick (Barry Keoghan) é atraído para o mundo do encantador e aristocrata Felix Catton (Jacob Elordi), que o convida para Saltburn, a enorme mansão de sua família excêntrica, para passar um verão inesquecível.</info>
 	</item>
 	<item>
 		<title>Oppenheimer</title>
