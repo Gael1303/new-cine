@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<SetViewMode>500</SetViewMode>
+<item>
+		<title>Até o Limite da Honra</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7fZxEnhh8VY1N5ftRIkTMaC7xAA.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/gLCDW1velnpPkbYBbMg9EIJkbEx.jpg</fanart>
+		<genre>Ação, Guerra</genre> <date>21.04.2022</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B982DAAB48E30F9678CF230B9211AFD72BA77FE6&dn=Ate.o.Limite.da.Honra.2022.1080p.WEB-DL.x264.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
+		<info>Durante a Segunda Guerra Mundial, o tenente Adi Sharipov e o seu pelotão são atraídos pelo exército nazista até um pântano. O desânimo toma conta de todos, mas eles logo percebem que a inatividade os destruirá mais rápido do que as balas inimigas.</info>
+	</item>
+	<item>
+		<title>A Última Esperança Soviética</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dYAIG6RxtSRPcge3Rzw9fxPSUzE.jpg</thumbnail> <fanart></fanart>
+		<genre>Guerra, História</genre> <date>11.03.2021</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DH6YW3UMZWCHTKBWCSFHHRBJ3HIKP2I5&dn=A%20%C3%9Altima%20Esperan%C3%A7a%20Sovi%C3%A9tica%202021%20WEB-DL%201080p%20x264%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>No ápice da Segunda Guerra Mundial, os russos já não conseguem mais resistir à investida alemã.</info>
+	</item>
+	<item>
+		<title>3 Days in Malay</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hqnfqeCILvgKGWKOut5lVdxdeJh.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/fncJlTe7gCQulgau4LcGI467pCb.jpg</fanart>
+		<genre>Guerra, Ação</genre> <date>11.08.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0DE87C32B9F24054BC5166440038B1B0BB5A29A1&dn=3.Days.in.Malay.2023.1080p.BluRay.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+		<info>Fuzileiros estacionados em um aeródromo na Malásia durante a Segunda Guerra Mundial ficam sabendo de um ataque dos japoneses. Incapaz de obter reforços aprovados, eles se envolvem em uma angustiante batalha de 3 dias contra as forças inimigas.</info>
+	</item>
+	<item>
+		<title>Bunker</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jOA7chFPVzSyPp2DaRg8hqA1BHr.jpg</thumbnail> <fanart></fanart>
+		<genre>Terror, Thriller, Guerra</genre> <date>08.10.2022</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD0C825B383E88365A4D5B69ECE94D2897993BF6&dn=Bunker.2022.1080p.BluRay.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
+		<info>Presos em um bunker durante a Primeira Guerra Mundial, um grupo de soldados se depara com uma presença ímpia que lentamente os coloca uns contra os outros.</info>
+	</item>
+	<item>
+		<title>Traumas de Guerra</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jLSiWNnWYqIelgKRakUKruwEKi9.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/ru8PP76IOzyP3YmuBem47iV9TA3.jpg</fanart>
+		<genre>Guerra, Drama</genre> <date>02.10.2020</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d48a699683a74d534882fe946028e63535b87cbb&dn=Traumas.de.Guerra.2020.1080p.WEB-DL.DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+		<info>Jason Pate é um sargento do exército americano que retorna para casa depois do seu terceiro período servindo no Afeganistão. Acostumado aos efeitos da guerra, ele enfrenta dificuldade em se adaptar a sua nova vida, junto de sua esposa e de sua filha de quatro anos, até o dia em que ele decide buscar ajuda em um grupo de veteranos de guerra que sofrem de estresse pós-traumático e enfrentam os mesmos problemas que ele.</info>
+	</item>
 <item>
 <title>Coraçoes de Ferro</title>
 <thumbnail>https://www.themoviedb.org/t/p/w500/8WtUjpboPESZbabGbC4ryd81KcR.jpg</thumbnail>
