@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
+
+<channel>
+	<name>Assassinato no Fim do Mundo</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wfbJwh9o41VnGPlpSDTbIDPmekw.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/5caSC8v35IwURAByAh7WmXXEDSF.jpg</fanart>
+	<date>14.11.2023</date>
+	<genre>Mistério, Drama, Crime</genre>
+	<info>Darby Hart, uma detetive amadora da Geração Z e hacker especialista em tecnologia, é convidada a participar de um retiro num local remoto, mas quando um dos convidados é encontrado morto, Darby deve usar suas habilidades para provar que há assassino à solta antes que ele tire outra vida.</info>
+	<studio>DISNEY+</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/assassinato-no-fim-do-mundo</externallink>
+</channel>
+		-
+		
+
 	 <channel>
 	<name>Percy Jackson e os Olimpianos</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg</thumbnail>
