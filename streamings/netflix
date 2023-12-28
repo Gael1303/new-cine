@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+<channel>
+	<name>Samurai de Olhos Azuis</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/krl67Uz8J0ghm94AXzZrf2b8QSz.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/9PYzI9OOp2gnfVYaWDr0xThHmxA.jpg</fanart>
+	<date>03.11.2023</date>
+	<genre>Action & Adventure, Animação, Drama</genre>
+	<info>Movida pelo sonho de vingança contra as pessoas que a transformaram em excluída no Japão do período Edo, uma jovem guerreira decide trilhar um caminho sangrento.</info>
+	<studio>NETFLIX</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/samurai-dos-olhos-azuis</externallink>
+</channel>
+		-
+
          <channel>
 	<name>Yu Yu Hakusho</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jrvYfWCcLqhekCbZuPF8o5k4Ryh.jpg</thumbnail>
