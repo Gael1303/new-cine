@@ -1,23 +1,77 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+        <channel>
+	<name>Bookie</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lIefkOAbeoDPLsmiMpACrg5N6Ov.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/bMrmrKMisIz2w8FWzCRd2mViTFQ.jpg</fanart>
+	<date>30.11.2023</date>
+	<genre>Comédia</genre>
+	<info>Um agenciador de apostas veterano que luta para sobreviver à iminente legalização das apostas esportivas, clientes cada vez mais instáveis, família, colegas de trabalho e um estilo de vida que o leva para todos os cantos de Los Angeles.</info>
+	<studio>HBO</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/bookie</externallink>
+</channel>
+		-
+		<channel>
+	<name>A Concierge Pokémon</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ySSivX1z5n7ALFF0082sbsCasK2.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/hgM7T4zkkrvLPB6RDMEYeSMJSPO.jpg</fanart>
+	<date>28.12.2023</date>
+	<genre>Animação, Família</genre>
+	<info>Conheça o Pokémon Resort, o refúgio perfeito para Pokémons relaxarem e se divertirem. Qual será o hóspede fofo que vai ganhar o coração da nova concierge Haru?</info>
+	<studio>NETFLIX</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/a-concierge-pokemon</externallink>
+</channel>
 
         <channel>
+	<name>Berlim</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2HpT5UUYdhWnMh4eXnbUnuL9nQX.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/179sUCj5AcFKdQpvDhkIX15NRgy.jpg</fanart>
+	<date>29.12.2023</date>
+	<genre>Drama, Action & Adventure, Crime</genre>
+	<info>Berlim se encontra com um grupo em Paris para planejar uma de suas missões mais ambiciosas: roubar 44 milhões de euros em joias em uma noite.</info>
+	<studio>NETFLIX</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/berlim</externallink>
+</channel>
+		-
+         <channel>
+		<name>Monarch: Legado de Monstros</name>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/lghMCJJ7u2fIHMVtsrsMCV9OTsI.jpg</fanart>
+		<date>16.11.2023</date>
+		<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+                <externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/monarch</externallink>
+		<info>Após sobreviver ao ataque do Godzilla em São Francisco, Cate é abalada novamente por um segredo chocante. Em meio a ameaças monstruosas, ela embarca em uma aventura pelo mundo para descobrir a verdade sobre sua família—e a organização misteriosa conhecida como Monarch.</info>
+		<studio>APPLE TV+</studio>
+	</channel>
+		-----------------------------------------------
+<channel>
 	<name>Percy Jackson e os Olimpianos</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg</thumbnail>
 	<fanart>https://www.themoviedb.org/t/p/original/nI8uQAU8KFXYIIRz6jdL0pmC3eL.jpg</fanart>
 	<date>19.12.2023</date>
 	<genre>Action & Adventure, Sci-Fi & Fantasy, Drama, Família</genre>
 	<info>Percy Jackson terá uma missão perigosa. Enquanto enfrenta monstros e engana deuses, ele terá uma jornada através dos EUA para devolver o raio-mestre de Zeus e impedir uma guerra iminente. Com a ajuda de seus colegas de missão, Annabeth e Grover, a jornada de Percy o deixará mais próximo das respostas das seguintes perguntas: "como se encaixar num mundo onde ele se sente deslocado?" e "qual será o seu futuro?".</info>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/percy-jackson</externallink>
+</channel>
+
+                <channel>
+	<name>Yu Yu Hakusho</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jrvYfWCcLqhekCbZuPF8o5k4Ryh.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/5XVWHz5yiRoij9pW3Gb7qaeEYuu.jpg</fanart>
+	<date>14.04.2023</date>
+	<genre>Drama, Sci-Fi & Fantasy</genre>
+	<info>Depois de perder a vida em um ato de bondade, o delinquente juvenil Yusuke Urameshi é chamado para ser detetive espiritual e investigar casos de Yokais perigosos.</info>
 	<items>
 		<item>
-			<title>Percy Jackson e os Olimpianos T01 E01-2</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYRKRBJIOG47URSTKPSOGFBFEKQN4DII&dn=Percy%20Jackson%20e%20os%20Olimpianos%20S01E01-02%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg</thumbnail>
-			<genre>Action & Adventure, Sci-Fi & Fantasy, Drama, Família</genre>
-		</item>	
+			<title>Yu Yu Hakusho [T01] - Completo</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5I2ZYYRCTDP4HJDCVAMIBIJKIULNCY57&dn=Yu%20Yu%20Hakusho%20S01%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+			<thumbnail>https://www.themoviedb.org/t/p/original/5XVWHz5yiRoij9pW3Gb7qaeEYuu.jpg</thumbnail>
+			<genre>Drama, Sci-Fi & Fantasy</genre>
+		</item>
 	</items>
 </channel>
+
         <channel>
 	<name>A Mão do Eurico [COLOR yellow]8.5[/COLOR]</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8fwWjlsZB0nFH7yJxpyRgcPZg9.jpg</thumbnail>
@@ -54,38 +108,7 @@
 		</items>
 		</channel>
 		-----------------------------------------------
-	<channel>
-		<name>Monarch: Legado de Monstros [COLOR yellow]8.3[/COLOR]</name>
-		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/lghMCJJ7u2fIHMVtsrsMCV9OTsI.jpg</fanart>
-		<date>16.11.2023</date>
-		<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
-		<info>Após sobreviver ao ataque do Godzilla em São Francisco, Cate é abalada novamente por um segredo chocante. Em meio a ameaças monstruosas, ela embarca em uma aventura pelo mundo para descobrir a verdade sobre sua família—e a organização misteriosa conhecida como Monarch.</info>
-		<studio>APPLE TV+</studio>
-		<items>
-			<item>
-				<title>Monarch: Legado de Monstros T01 E01-2</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9467109f62df8f161ba46440c56fe860e63f6cef$nome=Monarch: Legado de Monstros T01 E01-2 [1080P]</link>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1323345cf9eebe69c507d0bc457f65f85aea31cf$nome=Monarch: Legado de Monstros T01 E01-2 [4K Leg]</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
-				<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
-			</item>
-                        <item>
-				<title>Monarch: Legado de Monstros T01 E03</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:efe5ad815c304cb20392b468f5f9a2c32db2ff6b$nome=Monarch: Legado de Monstros T01 E03 [1080P]</link>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98d7a64d8ff194143f605f8543f4f4f05c820026$nome=Monarch: Legado de Monstros T01 E03 [4K Leg]</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
-				<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
-			</item>
-                        <item>
-				<title>Monarch: Legado de Monstros T01 E04</title>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aea0c55f853b948be263f74430ca19e2ed884be2</link>
-				<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8L63mxR8Xqpa7dY5ENgC9WQ05fa.jpg</thumbnail>
-				<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
-			</item>
-		</items>
-	</channel>
-		-----------------------------------------------
+	
 		<channel>
 		<name>Anderson Spider Silva [COLOR yellow]7.2[/COLOR]</name>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c8oWkxrcjnFl9weOhkTBrhkC1hQ.jpg</thumbnail>
