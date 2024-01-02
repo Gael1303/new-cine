@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
+
+         <channel>
+	<name>Bookie</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lIefkOAbeoDPLsmiMpACrg5N6Ov.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/bMrmrKMisIz2w8FWzCRd2mViTFQ.jpg</fanart>
+	<date>30.11.2023</date>
+	<genre>Comédia</genre>
+	<info>Um agenciador de apostas veterano que luta para sobreviver à iminente legalização das apostas esportivas, clientes cada vez mais instáveis, família, colegas de trabalho e um estilo de vida que o leva para todos os cantos de Los Angeles.</info>
+	<studio>HBO</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/bookie</externallink>
+</channel>
+		-
 	<channel>
 		<name>Chernobyl</name>
 		<thumbnail>https://www.themoviedb.org/t/p/original/7vcwOySsqeyEdmfHQNT5jHCL2gb.jpg</thumbnail>
