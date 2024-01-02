@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+<channel>
+	<name>A Concierge Pokémon</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ySSivX1z5n7ALFF0082sbsCasK2.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/hgM7T4zkkrvLPB6RDMEYeSMJSPO.jpg</fanart>
+	<date>28.12.2023</date>
+	<genre>Animação, Família</genre>
+	<info>Conheça o Pokémon Resort, o refúgio perfeito para Pokémons relaxarem e se divertirem. Qual será o hóspede fofo que vai ganhar o coração da nova concierge Haru?</info>
+	<studio>NETFLIX</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/a-concierge-pokemon</externallink>
+</channel>
 
 <channel>
 	<name>Berlim</name>
