@@ -1,293 +1,133 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <items>
-	<SetViewMode>505</SetViewMode>
-
-    <item>
-	<title>Onde os Fracos Não Têm Vez (2007)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/mkXwF7FFWpf2dkOGCzQoeWX7M6R.jpg</fanart>
-	<genre>Crime, Drama, Thriller</genre>
-	<date>01.01.2008</date>
-	<info>[I]Não existe fuga sem rastro.[/I]
 	
-Quando um homem depara com a sangrenta cena de um crime, uma caminhonete carregada de heroína e irresistíveis dois milhões de dólares, sua decisão de levar o dinheiro deflagra uma interminável e violenta reação em cadeia, que nem a lei do Oeste do Texas pode deter.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ac03a5e4f46d45eaf6b682800b868461da5cd97</link>
+<item>
+		<title>Jogador Nº 1 (2018)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2LVitl8xzLi11ibfzgsmjGF6GGc.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg</fanart>
+		<genre>Aventura, Ação, Ficção científica</genre> <date>29.03.2018</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36a1e1378fdced36fa38e547cf5bd6583d960afb</link>
+		<info>Num futuro distópico, situado em 2044, Wade Watts, como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. No jogo, seus usuários devem descobrir a chave de um quebra-cabeça diabólico, baseado na cultura do final do século XX, para conquistar um prêmio de valor inestimável. Para vencê-lo, porém, Watts terá de abandonar a existência virtual e ceder a uma vida de amor e realidade da qual sempre tentou fugir.</info>
 	</item>
-	-------
 	<item>
-	<title>O Grande Truque (2006)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8wkZx4FbABuNyOFIb94DFDC3CcZ.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/t3kPGJT1khFBJqIWesNQj9Ny96W.jpg</fanart>
-	<genre>Suspense, Misterio</genre>
-	<date>02.11.2006</date>
-	<info>[I]Você está prestando atenção?[/I]
-
-No século 19, em Londres, dois amigos ilusionistas e mágicos, Alfred Borden e Rupert Angier, acabam construindo uma rivalidade, uma batalha por supremacia, que se estende ao longo dos anos e que se transforma em obsessão, cujos resultados serão inevitavelmente trágicos.	</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb65bff771114c4f5315a82d0328a1055cb61eaf</link>
+		<title>Tenet (2020)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg</fanart>
+		<genre>Ação, Thriller, Ficção científica</genre> <date>29.10.2020</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7402b50dfc196a0e3c008153796f2b094bae3d56</link>
+		<info>Armado com apenas uma palavra – Tenet – e lutando pela sobrevivência do mundo inteiro, o Protagonista viaja através de um mundo crepuscular de espionagem internacional em uma missão que irá desenrolar em algo para além do tempo real.</info>
 	</item>
-	-------
 	<item>
-	<title>O Código (2012)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oAW1cpxsJh4QS5nsS18VpVBeaKI.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/sNtRc8pq28UBjzcl0ty556UbDoO.jpg</fanart>
-	<genre>Suspense, Ação</genre>
-	<date>16.04.2012</date>
-	<info>[I]Ela tem o código. Ele é a chave.[/I]
-	
-Luke é um ex-policial durão que salvou uma menina oriental das mãos de bandidos dentro de um trem do metrô. O único problema é que ele não fazia ideia de que ela era portadora de uma informação extremamente importante, capaz de mobilizar a máfia russa, chinesa e ainda policiais corruptos. Agora, ele também tem o que todos querem e vai defender com a própria vida para que a justiça seja feita, nem que para isso seja necessário começar uma guerra urbana.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75d50702f873ccba3acd636edaa4b2e34a0ea914</link>
+		<title>Distrito 9 (2009)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xr8WbVPbDeK35TyP9K98FYMQJxs.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg</fanart>
+		<genre>Ficção científica</genre> <date>05.08.2009</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bfff48dc4afb4762e68d95c830a9c1e5efaed8e</link>
+		<info>Há 30 anos alienígenas chegam à Terra em busca de refúgio, pois seu planeta estava morrendo. Eles passam a viver separados dos humanos em uma área chamada Distrito 9, na África do Sul, comandada pela multinacional United, que não se importa com o bem-estar dos alienígenas, mas que está disposta a tudo para dominar a tecnologia que eles possuem. Quando um agente em campo contrai um vírus que altera o seu DNA, o Distrito 9 passa a ser o único lugar em que ele pode se esconder.</info>
 	</item>
-	-------
 	<item>
-	<title>Questão de Tempo (2013)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uqEzxvGDYNzoQE7rayv7gRXBomt.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/5ZoFGrFCKP0QrcfVwOIHiAwunBg.jpg</fanart>
-	<genre>Drama, Romance, Fantasia</genre>
-	<date>06.12.2013</date>
-	<info>[I]E se cada momento da vida viesse com uma segunda chance?[/I]
-	
-Ao completar 21 anos, Tim descobre que pode viajar no tempo e mudar o passado. Depois de usar o poder para conseguir uma namorada, ele precisa lidar com consequências inesperadas.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d1d9100e6faeb9be39487a5ed7947678bf9f078</link>
+		<title>Efeito Borboleta (2004)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tvBGnEzDMK09PvH0fESCnrhpAeo.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/9rMnbmxLt7nxGtLwJ3kdjeJNr0C.jpg</fanart>
+		<genre>Ficção científica, Thriller</genre> <date>17.01.2004</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34L2MO3A2SBIWOGCY6KWLXRQOJG5GY62&dn=Efeito.Borboleta.1.2004.FULLSCREEN.1080p.BluRay.AC3.2.0-5.1.TRIAL-MLD-BLUDV</link>
+		<info>Evan é um jovem que luta para esquecer fatos de sua infância. Para isso, ele decide realizar uma regressão onde volta também fisicamente ao seu corpo de criança, tendo condições de alterar seu próprio passado. Porém, ao tentar consertar seus antigos problemas, ele acaba criando novos, já que toda mudança que realiza gera consequências em seu futuro.</info>
 	</item>
-	-------
 	<item>
-	<title>Passageiros (2016)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ttmnglFa2WxDK3yBkMX1VlpkTo.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg</fanart>
-	<genre>Romance, Ficção científica</genre>
-	<date>05.01.2017</date>
-	<info>[I]Há uma razão pela qual eles acordaram.[/I]
-
-Uma nave espacial viajando para uma colônia em um distante planeta e transportando milhares de pessoas tem um mau funcionamento em suas câmaras do sono. Como resultado, dois passageiros são despertados 90 anos antes.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b89f11b77d5a6f13c9c38ed438b416702d09c791</link>
+		<title>Parasita (2019)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg</fanart>
+		<genre>Comédia, Thriller, Drama</genre> <date>07.11.2019</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CFY6MCHQ2MNX7GNETQ3FVEXKYR4P3UQX&dn=COMANDOTORRENTS.ORG%20-%20Parasita%202020%20%5B1080p%5D%20%5BDUAL%5D</link>
+		<info>Toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.</info>
 	</item>
-	-------
 	<item>
-	<title>Aliados (2016)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jN2Q3zbNKIVn9RhqUPC8JnIibhb.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/gMssbddpo4thHGHMpQEZC00Sq9.jpg</fanart>
-	<genre>Guerra, Romance, Thriller</genre>
-	<date>26.01.2017</date>
-	<info>[I]Nada é o que parece.[/I]
-	
-Em uma missão para eliminar um embaixador nazista em Casablanca, no Marrocos, os espiões Max Vatan e Marianne Beausejour se apaixonam perdidamente e decidem se casar. Os problemas começam anos depois, com suspeitas sobre uma conexão entre Marianne e os alemães. Intrigado, Max decide investigar o passado da companheira e os dias de felicidade do casal vão por água abaixo.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2caefdb0db4e1ffea44097552ebd9b12267ec5d</link>
+		<title>Expresso do Amanhã (2013)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9rtJNrpDuxHJiRormrY5S3GXwEu.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/33dV6HAnXBmwKl640gO3U4auqUN.jpg</fanart>
+		<genre>Ação, Ficção científica, Drama</genre> <date>01.08.2013</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec6ff054b3d8cfd43d3dc10890fe1675f9412125</link>
+		<info>Em um mundo pós-apocalíptico, uma nova onda de gelo causada por um experimento sem sucesso quase exterminou a vida na Terra. Os sobreviventes vivem em um trem máquina chamado Snowpiercer que separa os passageiros por classes sociais, mas nem todos estão satisfeitos com essa divisão.</info>
 	</item>
-	-------
 	<item>
-	<title>Sobre Meninos e Lobos (2003)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sKALnVXQpq4wQWCSB6QPjQXZCfH.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/ah9hRJhdMMLkntNDIatKwncNJra.jpg</fanart>
-	<genre>Thriller, Crime, Drama, Mistério</genre>
-	<date>05.12.2003</date>
-	<info>[I]Enterramos nossos pecados e os lavamos.[/I]
-	
-Três amigos de infância, Dave, Sean e Jimmy acabam se separando quando um deles, Dave, é sequestrado e sofre terríveis abusos sexuais. Agora adultos, o passado volta a assombrá-los quando a filha de Jimmy é assassinada. Sean é o policial que investiga o caso, Jimmy quer revanche e Dave é o principal suspeito.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33ff5853bc794077681f18551a2c14b161637562</link>
+		<title>Invasão Zumbi (2016)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/QqHtwk0oHYed26zra9WGQGyBSm.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/fVpFOcQyHJM2di9upgSIwWD5wac.jpg</fanart>
+		<genre>Terror, Thriller, Ação, Aventura</genre> <date>20.07.2016</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7ffec1c08ae52ede47619de877399c23c895c12</link>
+		<info>A Coreia do Sul decreta estado de emergência após um vírus desconhecido tomar conta do país. Algumas pessoas tentam fugir de zumbis e ficam presas em um trem-bala que está a caminho de Busan, a única cidade que não foi afetada pelo vírus.</info>
 	</item>
-	-------
 	<item>
-	<title>Corra! (2017)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/rCEmgjIM098d84R4heGHPM2vUSb.jpg</fanart>
-	<genre>Mistério, Thriller, Terror</genre>
-	<date>18.05.2017</date>
-	<info>[I]Só porque você foi convidado, não significa que você é bem-vindo.[/I]
-	
-Agora que Chris e sua namorada, Rose, chegaram à fase de conhecer os pais no namoro, ela o convida para um fim de semana no interior com Missy e Dean. A princípio, Chris acha que o comportamento excessivamente agradável dos dois como tentativas nervosas de lidar com o relacionamento inter-racial da filha, mas, conforme o fim de semana avança, uma série de descobertas cada vez mais perturbadoras o levam a uma verdade que ele jamais poderia ter imaginado.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b3fa8e49bce550eb163a6e15a9606d86177b560</link>
+		<title>A Gripe (2013)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pkft4eZxEmdswlZFZtv0pE3qI16.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/uFwnUQ3ZwE5EbBEDBzs1bRPlOx8.jpg</fanart>
+		<genre>Ação, Aventura, Ficção científica</genre> <date>15.08.2013</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57b063b256b37d5bf405f5eb71f49405b5a09025</link>
+		<info>Bundang, no subúrbio de Seul, está passando por uma epidemia devastadora . Byung Woo morre em decorrência de um vírus desconhecido. No início, o vírus não recebe importância e a população não se previne. Em pouco tempo, centenas de moradores da região são atingidos pelo vírus. O caos se instaura. O governo do país pede isolamento da área. Enquanto isso, um especialista procura o sangue que será capaz de desenvolver a vacina contra o vírus.</info>
 	</item>
-	-------
 	<item>
-	<title>Luta por Justiça (2019)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bFRVqGzWeHSNgddjpJh7L2iyAZB.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/4x2AKefQtj8TmzxyRJEEdAayj1V.jpg</fanart>
-	<genre>Drama, Crime, História</genre>
-	<date>20.02.2020</date>
-	<info>[I]Toda geração tem seu herói. Conheça o da nossa.[/I]
-
-Bryan Stevenson é um advogado recém-formado em Harvard que abre mão de uma carreira lucrativa em escritórios renomados da costa leste americana para se mudar para o Alabama e se dedicar a prisioneiros condenados à morte que jamais receberam assistência legal justa. Ao chegar lá, Bryan se depara com o caso de Walter McMillian, um homem negro falsamente acusado de um assassinato, mas que nunca teve uma defesa apropriada por conta do preconceito racial na região.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e43f62f7e9ff61246319cb3270fd181f3d5fea56</link>
+		<title>Contágio (2011)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vKCC5qNMJAdJwOKZoVSAzGJRO2x.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/jShqGRRlfvivIMEh7fceTHxEsXG.jpg</fanart>
+		<genre>Drama, Thriller, Ficção científica</genre> <date>28.10.2011</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5565476570ff3b2a24ea770e026d87670086a678</link>
+		<info>Pouco depois de voltar de uma viagem de negócios, Beth Emhoff morre de uma suposta gripe. Enquanto a epidemia mortal se espalha, os médicos precisam identificar o vírus para conseguir combatê-lo e acabar com o pânico da população.</info>
 	</item>
-	-------
 	<item>
-	<title>Gran Torino (2008)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9N0y2lQFMpkF2pNtyMYeyiga0m0.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/wmsePXV2z1b6ecXuKKrFbG0Q92P.jpg</fanart>
-	<genre>Drama</genre>
-	<date>20.03.2009</date>
-	<info>[I]Você já encontrou alguém com quem não deveria ter mexido?[/I]
-	
-Walt Kowalski é um inflexível veterano da Guerra da Coréia, agora aposentado. Para passar o tempo ele faz consertos, bebe cerveja e vai mensalmente ao barbeiro. Sua vida é alterada quando passa a ter como vizinhos imigrantes hmong, vindos do Laos. Ressentido e desconfiando de todos, Walt apenas deseja passar o tempo que lhe resta de vida. Até que Thao, seu tímido vizinho adolescente, é obrigado por uma gangue a roubar o carro do veterano, um Gran Torino retirado da linha de montagem pelo próprio.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36ed9f0c6f82737cd8ba227f32b31fc0a5143f0f</link>
+		<title>Tudo Bem no Natal Que Vem (2020)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7gCwW0My3JCjhXeqHnBrfZK3bbk.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/36xTkr5CxVGKqe55q6lxVa8LyK3.jpg</fanart>
+		<genre>Comédia, Família, Drama</genre> <date>03.12.2020</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4eeaaf42bfca1e8784ec7b216cd31046b0ea70a</link>
+		<info>Depois de levar um tombo na véspera de Natal, o rabugento Jorge desmaia e acorda um ano depois sem lembrar do que se passou. Ele logo percebe que está condenado a continuar acordando na véspera de Natal, ano após ano, tendo que lidar com as consequências do que seu outro “eu” fez nos demais 364 dias.</info>
 	</item>
-	-------
-	10
+	-
 	<item>
-	<title>Férias Frustradas (2015)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnt6zhUzarBNgO49KJDodbeSkhl.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/w0JzcX0UO2CUgQnO2kt2qtRQSMP.jpg</fanart>
-	<genre>Comedia</genre>
-	<date>10.09.2015</date>
-	<info>[I]O que poderia dar errado?[/I]
-	
-Rusty Griswold trabalha como piloto de avião na EconoAir, uma companhia de baixo custo. Ele é casado com Debbie e tem dois filhos, James e Kevin, que vivem brigando. Disposto a se divertir com a família, Rusty decide seguir os passos de seu pai e comandar uma ida ao parque de diversões Wally World, localizado a dias de viagem. Rusty logo aluga um carro albanês, sem imaginar que a viagem em família será bem mais complicada do que imaginava.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e412754e1c4add546e9d974a6ec9cfd31268947a</link>
+		<title>Bilhete de Loteria (2010)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c6zUhFMjZI63sHr3S9wIbddjAFC.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/aAKQntJN5NTeb0cjSrIypnuQFE2.jpg</fanart>
+		<genre>Comédia</genre> <date>20.08.2010</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b12de0ab945c43555fbb789dc9551058b618d74a</link>
+		<info>Kevin Carson é um homem que conta os centavos para sobreviver e por isso mesmo é hoslitilizado pelos vizinhos. Isso até a descoberta de que Kevin tem em mãos um bilhete premiado na loteria no valor de US$ 370 milhões.</info>
 	</item>
-	-------
 	<item>
-	<title>Zumbilândia (2009)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mXuFhb5U2FgVq8uu4k3luQVRwLK.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/oihWVx3imvRKujnGmSDYhfG1gI5.jpg</fanart>
-	<genre>Comedia, Terror</genre>
-	<date>08.10.2009</date>
-	<info>[I]Regra de Sobrevivência # 4: Não seja um herói.[/I]
-	
-A população foi infectada com um vírus que faz com que as pessoas se transformem em zumbis. Poucos são os humanos não infectados, entre eles Columbus, que deseja voltar para sua cidade natal na esperança de encontrar seus pais ainda vivos. No caminho, Columbus encontra Tallahassee, que está indo para a Flórida para aniquilar zumbis, e pega carona. Ao parar em uma mercearia, a dupla encontra Wichita e Little Rock, que aparenta ter sido mordida por um zumbi, o que divide o grupo sobre o que fazer.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99666de2b13cfbbc174f810be84fd241af73eff4</link>
+		<title>Superbad: É Hoje (2007)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rABcQMa8m67EJslknSlMfE3BP8L.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/giYuvpmpZbwkT3NtX4WdNYqGhxw.jpg</fanart>
+		<genre>Comédia</genre> <date>20.03.2007</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb6df2ab686ae24323cdbda52f11a87db8d5d95e</link>
+		<info>Os estudantes adolescentes Seth e Evan têm grandes esperanças para uma festa de formatura. Os adolescentes co-dependentes pretendem beber e conquistar garotas para que eles possam se tornar parte da multidão popular da escola, mas a ansiedade de separação e dois policiais entediados complicam a auto-missão proclamada dos amigos.</info>
 	</item>
-	-------
 	<item>
-	<title>Te Peguei! (2018)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gI6zwlVk1Bu3FnkcDkCYYHsBhTz.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/n8UzZ7gd3lmsBeYAH539pfnwGwu.jpg</fanart>
-	<genre>Comédia, Ação</genre>
-	<date>23.08.2018</date>
-	<info>[I]Baseado em uma história real. Não estamos brincando.[/I]
-	
-Desde a primeira série na escola um grupo de cinco amigos têm um hábito curioso, que realizam pelo menos uma vez ao ano: brincar enlouquecidamente de pega-pega, correndo em uma partida alucinante para ser o último homem de pé ao final da brincadeira, arriscando seus empregos e relacionamentos. Neste ano, que coincide com o casamento do jogador invicto da trupe, eles farão de tudo para derrubá-lo no momento de vulnerabilidade.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be0ce398974ad6176418b38873f4a32d9e0a8a99</link>
+		<title>Os Estagiários (2013)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sfQUBzcF0KSE9HVmH6gEARSUSkP.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/Ar5YOsWNmkotpRbl0iV0PpSOAGq.jpg</fanart>
+		<genre>Comédia</genre> <date>07.06.2013</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8dc7550f37a37e1e2fd128c8c4de416448eabaa</link>
+		<info>Billy (Vince Vaughn) e Nick (Owen Wilson) são grandes amigos e trabalham juntos como vendedores de relógios. Eles são pegos de surpresa quando seu chefe (John Goodman) fecha a empresa, por acreditar que o negócio esteja ultrapassado. Com problemas financeiros, eles conseguem a inscrição em uma seleção de estágio no Google. Mesmo sem terem a garantia que serão contratados, eles partem para a sede da empresa e lá precisam lidar com a diferença de idade entre eles e os demais competidores.</info>
 	</item>
-	-------
 	<item>
-	<title>Corações de Ferro (2014)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8WtUjpboPESZbabGbC4ryd81KcR.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/kdbLf3aTQsEXqYlH9vA4fzmnSFz.jpg</fanart>
-	<genre>Guerra, Drama, Ação</genre>
-	<date>05.02.2015</date>
-	<info>[I]Uma guerra nunca termina serenamente.[/I]
-	
-Durante o final da Segunda Guerra Mundial, um grupo de cinco soldados americanos é encarregado de atacar os nazistas dentro da própria Alemanha. Apesar de estarem em quantidade inferior e terem poucas armas, eles são liderados pelo enfurecido Wardaddy, sargento que pretende levá-los à vitória, enquanto ensina o novato Norman a lutar.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:914c0288e0eaf03d05ab50a44eaf55737c8e9800</link>
+		<title>Upgrade: Atualização (2018)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yVRDpj9wg6sYnBugfxUbnjBdHWo.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/rrlB47YNybk6JbNQyXu0dgjjnII.jpg</fanart>
+		<genre>Ação, Thriller, Ficção científica</genre> <date>01.06.2018</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69f97464d6b3afa1339b02503ee6702bfac4c641</link>
+		<info>No futuro próximo, a tecnologia controla quase todos os aspectos da vida. Mas quando Gray, um tecnofóbico, tem seu mundo virado de cabeça para baixo, sua única esperança de vingança é um implante experimental de chips de computador chamado Stem.</info>
 	</item>
-	-------
 	<item>
-	<title>O Menino do Pijama Listrado (2008)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t357hTyOhPK0yplp60U01waggAm.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/A63giQFJP4ABqNk4sLzegVeqVdl.jpg</fanart>
-	<genre>Drama, Guerra, História</genre>
-	<date>07.11.2008</date>
-	<info>[I]Uma história sobre a perda da inocência e a descoberta da realidade.[/I]
-	
-Durante a Segunda Guerra Mundial, Bruno, um garoto de oito anos, e sua família saem de Berlim para residir próximo a um campo de concentração, onde seu pai acaba de se tornar comandante. Infeliz e solitário, ele vagueia fora de sua casa e certo dia encontra Shmuel, um menino judeu de sua idade. Embora a cerca de arame farpado do campo os separem, os meninos começam uma amizade proibida.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f5cf20eef227e7652fb76d3e381c52847b41b92</link>
+		<title>Anônimo (2021)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8ooU1cMApznZmMps6UCRsuSQPg6.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg</fanart>
+		<genre>Ação, Thriller</genre> <date>12.05.2021</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:470b8a934f1448e9dba3d2bb62668bad6e2a5f05&dn=COMOEUBAIXO.COM..MKV.Anonimo.2021.1080p.BluRay.DUAL.5.1.COMANDO.TO&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce</link>
+		<info>Quando dois ladrões invadem sua casa no subúrbio uma noite, Hutch se recusa a defender a si mesmo ou a sua família, na esperança de evitar violência grave. Seu filho adolescente, Blake, está desapontado com ele e sua esposa, Becca, parece se afastar ainda mais. Em consequência, o incidente acerta a raiva latente de Hutch, desencadeando instintos adormecidos e impulsionando-o em um caminho brutal que revelará segredos obscuros e habilidades letais para salvar sua família.</info>
 	</item>
-	-------
 	<item>
-	<title>Coraline e o Mundo Secreto (2009)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/8GHxjXlI5rqyTBuVNekGTPjG5T6.jpg</fanart>
-	<genre>Animação, Família, Fantasia</genre>
-	<date>13.02.2009</date>
-	<info>[I]Cuidado com o que deseja...[/I]
-	
-Entediada em sua nova casa, a pequena Coraline descobre uma porta secreta que contém um mundo parecido com o dela, porém melhor em muitas maneiras. Coraline se encanta com a descoberta, mas logo descobre que há algo de errado quando seus pais alternativos tentam mantê-la eternamente nesse mundo paralelo.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ece235c37e2b2cb008da69be6fb778bb812b079b</link>
+		<title>Queen & Slim (2019)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qfIJOmsiBcum6EGosiy5gTF6ihk.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/q5Ngt34p29jgFD1LvD4cLf2TBEW.jpg</fanart>
+		<genre>Drama, Romance, Crime</genre> <date>27.11.2019</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3d5bc3a49ac27ed34d0bacdd4203da684610231</link>
+		<info>O primeiro encontro de um casal de negros dá errado após serem abordados por um policial. Em legítima defesa, eles matam o policial e, em vez de se entregarem, tornam-se fugitivos.</info>
 	</item>
-	-------
 	<item>
-	<title>Os Irmãos Willoughby</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e3N7kbDSzwOVxfbrB0DeT9UzQKY.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/9foQsz7j1o2pGCKFGkzlxJteE5W.jpg</fanart>
-	<genre>Animação, Comédia, Família</genre>
-	<date>22.04.2020</date>
-	<info>[I]Uma história de família para quem sempre quis se afastar dela.[/I]
-	
-Quatro irmãos com pais egoístas fazem um plano para se livrar deles de uma vez por todas e formar a família que desejam.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8896112ca56020f3a93d56a059fe9bac3cd3eb84</link>
+		<title>A Noiva Cadáver (2005)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/89B6W9mlTfSxeMEFMSyRBViXy83.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/v23fWgJUEt8EMmvn19btIacxP8E.jpg</fanart>
+		<genre>Romance, Fantasia, Animação</genre> <date>12.09.2005</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d2448ef3d10a2f536cefac6cb7bcc199ef86453</link>
+		<info>As famílias de Victor e Victoria estão arranjando seu casamento. Nervoso com a cerimônia, Victor vai sozinho à floresta para ensaiar seus votos. No entanto, o que ele pensava ser um tronco de árvore na verdade é o braço esquelético de Emily, uma noiva que foi assassinada depois de fugir com seu amor. Convencida que Victor acabara de lhe pedir a mão em casamento, Emily o leva para o mundo dos mortos, mas ele precisa retornar rapidamente antes que Victoria se case com o malvado Lorde Barkis.</info>
 	</item>
-	-------
 	<item>
-	<title>Klaus (2019)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/guyZW9AQdTMp2F4esttjyIMMK1k.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/2u1YG0pgm5bIOXO2OVWLNdMl23f.jpg</fanart>
-	<genre>Animação, Família, Aventura, Comédia, Fantasia</genre>
-	<date>15.11.2019</date>
-	<info>[I]Toda história tem um começo[/I]
-	
-Em Smeerensburg, remota ilha localizada acima do Círculo Ártico, Jesper é um estudante da Academia Postal que enfrenta um sério problema: os habitantes da cidade brigam o tempo todo, sem demonstrar o menor interesse por cartas. Prestes a desistir da profissão, ele encontra apoio na professora Alva e no misterioso carpinteiro Klaus, que vive sozinho em sua casa repleta de brinquedos feitos a mão.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f64cc09e1e440a14341a90b4f245b8c82d211d64</link>
+		<title>Dois Irmãos: Uma Jornada Fantástica (2020)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg</fanart>
+		<genre>Família, Animação, Aventura, Comédia, Fantasia</genre> <date>29.02.2020</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdd5becad0db99991b5c9020a57ad60293fdc6ea</link>
+		<info>Em um mundo transformado, no qual as criaturas não dependiam mais da magia para viver, dois irmãos elfos recebem um cajado de bruxo de seu falecido pai, capaz de trazê-lo de volta à vida. Inexperientes com qualquer tipo de magia, Ian e Barley não conseguem executar o feitiço e acabam gerando uma criatura sem cabeça. Para passar mais um dia com seu pai, eles embarcam em uma jornada fantástica. Ao perceber a ausência dos filhos, sua mãe se une à uma lendária manticora para encontrá-los.</info>
 	</item>
-	-------
-	<item>
-	<title>Soul (2020)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg</fanart>
-	<genre>Animação, Família, Comédia, Fantasia, Drama</genre>
-	<date>25.12.2020</date>
-	<info>[I]Todos temos uma alma. Joe Gardner está prestes a descobrir a sua.[/I]
-	
-Joe Gardner é um professor de música de ensino fundamental desanimado por não conseguir alcançar seu sonho de tocar no lendário clube de jazz The Blue Note, em Nova York. Quando um acidente o transporta para fora do seu corpo, fazendo com que ele exista em outra realidade na forma de sua alma, ele se vê forçado a embarcar em uma aventura ao lado da alma de uma criança que ainda está aprendendo sobre si, para aprender o que é necessário para retomar sua vida.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7666ae5568ac6eb440842d673d6b333243dce47e</link>
-	</item>
-	-------
-	<item>
-	<title>A Lenda de Beowulf (2007)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1gLjjiNrSfblI3Vopvuyd266LF8.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/rg95KykzGaiFqAonoHLmXzjlW4q.jpg</fanart>
-	<genre>Aventura, Ação, Animação</genre>
-	<date>05.11.2007</date>
-	<info>[I]Eu matarei seu monstro.[/I]
-	
-Em uma época de heróis, um cavaleiro chamado Beowulf chega à corte do Rei Hrothgar e oferece para combater um demônio chamado Grendel. Ele combate a fera com sucesso, mas terá que enfrentar também a ira da mãe de Grendel, uma criatura má e vingativa, porém sedutora.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0e19c8b2b948c327ff3372f4088abc9fd4fc4a1</link>
-	</item>
-	-------
-	20
-	<item>
-	<title>História de um Casamento (2019)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg</fanart>
-	<genre>Drama</genre>
-	<date>06.12.2019</date>
-	<info>[I]Onde há amor, há um caminho.[/I]
-	
-Nicole (Scarlett Johansson) e seu marido Charlie (Adam Driver) estão passando por muitos problemas e decidem se divorciar. Os dois concordam em não contratar advogados para tratar do divórcio, mas Nicole muda de ideia após receber a indicação de Nora Fanshaw (Laura Dern), especialista no assunto. Surpreso com a decisão da agora ex-esposa, Charlie precisa encontrar um advogado para tratar da custódia do filho deles, o pequeno Henry (Azhy Robertson).</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63f516218b86b7bcfa548a47eeb37ae1170aab47</link>
-	</item>
-	-------
-	<item>
-	<title>Escondidos (2015)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tj6T8Y4JvVIsF7W6kXvBOSvEOXr.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/iXRxlRsBr0mGr9Wx3OPbVdbUJzl.jpg</fanart>
-	<genre>Suspense, Terror</genre>
-	<date>15.09.2015</date>
-	<info>Uma família se esconde em um abrigo contra bombas depois de escapar de uma misteriosa epidemia pós apocalyptica, agora eles terão que lutar para sobreviver nessa misteriosa e angustiante história.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65cd784c0287e38a31739294f65f655c1eb4bbaf</link>
-	</item>
-	-------
-	<item>
-	<title>No Limite do Amanhã (2014)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ibubeKZuo4ZI2Zu2Dm2s0gmMvuk.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg</fanart>
-	<genre>Ação, Ficção científica</genre>
-	<date>29.05.2014</date>
-	<info>[I]Viva. Morra. Repita.[/I]
-	
-A Terra está dominada por alienígenas e o major Bill Cage, um relações públicas das Forças Armadas dos Estados Unidos, é obrigado a ir para a linha de frente. Inexplicavelmente, ele acaba preso em um ciclo do tempo, revivendo repetidamente sua última batalha. No entanto, quanto mais vezes ele luta, suas habilidades de guerreiro melhoram e ele fica mais perto de descobrir como derrotar o inimigo.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:822bb22c420c12701ba0573890cbef451cd0ac16</link>
-	</item>
-	-------
-	<item>
-	<title>Três Anúncios Para Um Crime (2018)</title>
-	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg</thumbnail>
-	<fanart>https://www.themoviedb.org/t/p/original/5g0W5MUP75zyfluLhhVet15F71z.jpg</fanart>
-	<genre>Crime, Drama</genre>
-	<date>15.02.2018</date>
-	<info>Inconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby, responsável pela investigação.</info>
-	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a107987662bfe35cb071ab101022689969bca82b</link>
-	</item>
-	-------
 
 </items>
