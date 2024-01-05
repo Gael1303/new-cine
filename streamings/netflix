@@ -2,6 +2,62 @@
 <channels>
 
 <channel>
+	<name>Irmãos Sun</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/420OaFiz3PtHBdrAqYZquVDYcsA.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/9h15FWJFZstTGLTUVbToCEFdH9F.jpg</fanart>
+	<date>04.01.2024</date>
+	<genre>Drama, Action & Adventure, Crime</genre>
+	<info>Depois que um inimigo misterioso ataca sua família, um membro de uma tríade de Taipé vai até Los Angeles para proteger a mãe obstinada e o irmão mais novo.</info>
+	<studio>NETFLIX</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/irmaos-sun</externallink>
+</channel>
+		-
+		<channel>
+	<name>The Chosen: Os Escolhidos</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/osVr2KDItynDQLuuP2ljQ8hLbq7.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/74CaT8etPTtBPtuMbrqpNBDXBXA.jpg</fanart>
+	<date>21.04.2019</date>
+	<genre>Drama, Família, Sci-Fi & Fantasy</genre>
+	<info>Aprofundando-se nas histórias de fundo e no contexto das pessoas e eventos dos evangelhos, a Primeira Temporada do projeto de mídia de maior financiamento coletivo pelo público de todos os tempos apresenta pessoas como Simão Pedro, Nicodemos, Maria Madalena, Mateus e, claro, Jesus de uma forma nunca antes vista em filme.</info>
+	<studio>NETFLIX</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/the-chosen</externallink>
+</channel>
+		-
+		<channel>
+	<name>Orange Is the New Black</name>
+	<studio>NETFLIX</studio>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/kGlUQxpvHmrBK8mq6o38k7u99Ds.jpg</fanart>
+	<date>11.07.2013</date>
+	<genre>Comédia, Drama</genre>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20orange%20is%20the%20new%20black</externallink>
+	<info>Um crime cometido no passado coloca uma privilegiada nova-iorquina na prisão, onde ela faz várias amigas. E inimigas.</info>
+</channel>
+        -
+<channel>
+	<name>O Eleito</name>
+	<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/o-eleito</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9P1fJjhwKxRpAw8Q9pqdPT44afF.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/uvRH0ZPz9iy3Bg5JpPsjLlCx7oW.jpg</fanart>
+	<genre>Drama, Sci-Fi & Fantasy</genre>
+	<date>16.08.2023</date>
+	<studio>NETFLIX</studio>
+	<info>Jodie, um garoto de doze anos que mora no México, descobre que tem poderes parecidos com os de Jesus. Agora, cabe a ele aceitar ou não esse chamado.</info>
+</channel>
+         -
+<channel>
+	<name>Hanma Baki: Son of Ogre</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/baki-hanma</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x145FSI9xJ6UbkxfabUsY2SFbu3.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/wFOKJucNqGSFh77KlV9fwxZNf6n.jpg</fanart>
+	<genre>Animação, Action & Adventure</genre>
+	<date>30.11.2021</date>
+	<studio>NETFLIX</studio>
+	<info>Baki Hanma continua sua busca para se tornar um grande lutador e se prepara para enfrentar a criatura mais forte do mundo: seu pai.</info>
+</channel>
+		
+		-
+<channel>
 	<name>A Concierge Pokémon</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ySSivX1z5n7ALFF0082sbsCasK2.jpg</thumbnail>
 	<fanart>https://www.themoviedb.org/t/p/original/hgM7T4zkkrvLPB6RDMEYeSMJSPO.jpg</fanart>
