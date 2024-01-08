@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
+        <channel>
+	<name>Orphan Black</name>
+	<studio>PARAMOUNT+</studio>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tjFYkWMafg71sihs1aa7IDx17aS.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/cBmVnbc9KKhsdHCDJU2pibU5Pjs.jpg</fanart>
+	<date>30.03.2013</date>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20orphan%20black</externallink>
+	<info>Depois de presenciar o suicídio de uma mulher (que é exatamente como ela) em uma estação de trem, Sarah Manning (Tatiana Maslany) faz o que qualquer um faria: assume a identidade da suicida para tentar resolver os próprios problemas financeiros. Mas logo ela descobre que está no centro de um mistério que vai mudar sua vida, quando se vê cara a cara com mais três mulheres idênticas a ela. Todas são clones, e precisam salvar as próprias peles enquanto tentam descobrir quem são os responsáveis pelos experimentos genéticos.</info>
+</channel>
 	
 	<channel>
 		<name>Twin Peaks</name>
