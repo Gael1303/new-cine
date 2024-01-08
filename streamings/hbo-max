@@ -2,6 +2,17 @@
 <channels>
 
 <channel>
+	<name>Diários de um Vampiro</name>
+	<studio>HBO/studio>
+	<genre>Drama, Sci-Fi & Fantasy</genre>
+	<date>10.09.2009</date>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lcGQaSrWkkxGuh0JJqyN2TkuNqb.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/k7T9xRyzP41wBVNyNeLmh8Ch7gD.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20the%20vampire%20diarie</externallink>
+	<info>Elena tenta sobreviver entre os seres sobrenaturais que vivem em segredo. Ela se apaixona pelo misterioso Stefan, mas o retorno do seu irmão, Damon, ameaça essa paixão</info>
+</channel>
+        -
+<channel>
 	<name>Apenas um Show</name>
 	<studio>HBO</studio>
 	<date>06.09.2010</date>
