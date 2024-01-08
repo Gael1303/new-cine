@@ -2,6 +2,145 @@
 <channels>
 
 <channel>
+	<name>O Mundo Sombrio de Sabrina</name>
+	<studio>NETFLIX</studio>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bawsegq9g2fkMYDH6blHypzM9tn.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/8AqPuvo0r89khk01yEFT321jiDn.jpg</fanart>
+	<date>26.10.2018</date>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20o%20mundo%20som%20de%20sabrina</externallink>
+	<info>Bruxa e também mortal, a jovem Sabrina Spellman fica dividida entre a vida normal de adolescente e o legado de sua família feiticeira.</info>
+</channel>
+		-
+		<channel>
+	<name>Black Summer</name>
+	<studio>NETFLIX</studio>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d27fZpY8jSZDOs1k0JCL0RY0b94.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/rBFEE11zW2mmnZ4T9jAiSozKR9y.jpg</fanart>
+	<date>11.04.2019</date>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20blacks%20ummer</externallink>
+	<info>Nos primeiros dias de um sombrio apocalipse zumbi, estranhos se unem para sobreviver e voltar para aqueles que amam.</info>
+</channel>
+		-
+		<channel>
+	<name>A Maldição da Mansão Bly</name>
+	<studio>NETFLIX</studio>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/V6Zy46oHLDSvL3ITh94NbL4OEo.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iDYiSNqZlPNvYA4qL6gUs4Okkrh.jpg</fanart>
+	<date>09.10.2020</date>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20resedencia%20bly</externallink>
+	<info>Uma babá adentra um mundo de segredos sinistros neste romance gótico do criador de “A Maldição da Residência Hill”.</info>
+</channel>
+        -
+<channel>
+	<name>Como Defender um Assassino</name>
+	<studio>NETFLIX</studio>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sohKB3pnzq6iWOgLVxk8mpCFgTO.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/rNlYsPO8oqZrxedntqqzfyPJNzq.jpg</fanart>
+	<date>25.09.2014</date>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20como%20defender%20um%20assassino</externallink>
+	<info>A história conta sobre um grupo de ambiciosos estudantes de Direito e sua brilhante e misteriosa professora de defesa criminal, que se vê envolvida em uma trama de assassinato que vai agitar toda a universidade e mudar o curso de suas vidas.</info>
+</channel>
+		-
+		<channel>
+	<name>The Last Kingdom</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMNJjzZUdc8pBVIQ85olSNaBKix.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/uCqXSfHymdbDMsFx8t0u0OPSuve.jpg</fanart>
+	<date>10.10.2015</date>
+	<genre>Ação, Aventura, Guerra, Drama</genre>
+	<info>Enquanto Alfredo, o Grande, defende seu reino de invasões nórdicas, Uhtred - um saxão criado por vikings - planeja reivindicar o que é seu por direito.</info>
+	<studio>NETFLIX</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20o%20reino</externallink>
+</channel>
+		-
+		<channel>
+	<name>Marianne</name>
+	<studio>NETFLIX</studio>
+	<genre>Misterio</genre>
+	<date>13.09.2019</date>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hpeaMzflHMEepUGiCjXld7lrnC2.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/yD01qWyOqc6J2lRutzOt3Wu8Wnz.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20marianne</externallink>
+	<info>De volta à cidade natal, uma famosa escritora de livros de terror descobre que o espírito que atormenta seus sonhos está provocando o caos no mundo real.</info>
+</channel>
+		-
+		<channel>
+	<name>Flash</name>
+	<studio>NETFLIX</studio>
+	<genre>Drama, Sci-Fi & Fantasy</genre>
+	<date>07.10.2014</date>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lFxIoMKqkgTuxpghTPHBjoVstMV.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20flash</externallink>
+	<info>Barry enfrenta diversos assassinos que invadem a premiação onde ele acompanha Iris, mas os efeitos colaterais de seus novos superpoderes representam uma ameaça.</info>
+</channel>
+         -
+        <channel>
+	<name>Vis a Vis</name>
+	<studio>NETFLIX</studio>
+	<genre>Drama, Crime</genre>
+	<date>20.04.2015</date>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7mfPWKrNInkTbjVwp0EkaFYRHqD.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/iukGFUQQWUdgwTGGDLb1Pw3GoZP.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20vis%20a%20vis</externallink>
+	<info>Manipulada pelo homem por quem se apaixonou, essa moça cometeu um crime. Condenada à prisão, ela agora deve aprender a viver num ambiente hostil e impiedoso.</info>
+</channel>
+		-
+		<channel>
+	<name>Cidade Invisível</name>
+	<studio>NETFLIX</studio>
+	<date>05.02.20221</date>
+	<genre>Mistério, Drama, Sci-Fi & Fantasy</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u9bQPxILScuQCZPV1clEYxqFTL8.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/lXzu1IZmzDulGeqqrknoE7c5hak.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20cidade%20invisivel</externallink>
+	<info>Ao investigar um assassinato, um detetive se envolve em uma batalha entre o mundo visível e um reino subterrâneo habitado por criaturas folclóricas.</info>
+</channel>
+		-
+		<channel>
+	<name>Você</name>
+	<studio>NETFLIX</studio>
+	<genre>Drama</genre>
+	<date>09.09.2018</date>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv1dRCYqJahexIMkR1iaVG5JAqW.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/bg7tqaFmX6VvfGkXGFCHjoGRir5.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20you</externallink>
+	<info>Obcecado por uma aspirante a escritora, um charmoso gerente de livraria lança mão de medidas extremas para entrar na vida dela.</info>
+</channel>
+		-
+		<channel>
+	<name>O Mecanismo</name>
+	<studio>NETFLIX</studio>
+	<genre>Crime, Drama</genre>
+	<date>23.03.2018</date>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y0ZfBvOG99xqlPUDWqAdGfcdj1R.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/8tv3QAZrR94nfLkhsezPcc3bza5.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20o%20mecanismo</externallink>
+	<info>Uma investigação sobre suspeitas de corrupção envolvendo estatais e empreiteiras se torna um dos maiores escândalos políticos do Brasil. Inspirada em fatos reais.</info>
+</channel>
+        -
+<channel>
+	<name>The OA</name>
+	<studio>NETFLIX</studio>
+	<genre>Sci-Fi & Fantasy, Mistério, Drama</genre>
+	<date>16.12.2016</date>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQii7U6d3m6pRyX9UxWFdMviRW9.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/xEB88SxhzquRQuyq6H4asKw9tZK.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20the%20oa</externallink>
+	<info>Sete anos depois de desaparecer, uma garota volta para casa, mas com novos sentidos. Ela só tem um desejo: voltar ao mundo onde estava.</info>
+</channel>
+        -
+<channel>
+	<name>Kingdom</name>
+	<studio>NETFLIX</studio>
+	<genre>Drama, Mistério</genre>
+	<date>25.01.2019</date>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/6y8sE6s1sAbARztCuEbGOk6Qcz7.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20the%20kingdon</externallink>
+	<info>Estranhos rumores sobre a doença do rei deixam todos aterrorizados. Agora, o príncipe herdeiro é a única esperança contra a misteriosa epidemia.</info>
+</channel>
+		-
+<channel>
 	<name>Irmãos Sun</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/420OaFiz3PtHBdrAqYZquVDYcsA.jpg</thumbnail>
 	<fanart>https://www.themoviedb.org/t/p/original/9h15FWJFZstTGLTUVbToCEFdH9F.jpg</fanart>
