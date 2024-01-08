@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+<channel>
+	<name>Apenas um Show</name>
+	<studio>HBO</studio>
+	<date>06.09.2010</date>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b56jpir0S12bxD6WyjMZg92c9Zr.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/seriado%20apenas%20um%20show</externallink>
+	<genre>Animação, Comedia</genre>
+	<info>Dois jardineiros em curso de golfe, e melhores amigos, Mordecai (a gralha azul) e Rigby (um guaxinim) passam seus dias tentando distrair-se, por qualquer meio, para a ira de Benson (uma máquina de chicletes), Saltitão (o Yeti), e Pairulito (um homem com cabeça de pirulito).</info>
+</channel>
+         -
+<channel>
+	<name>Irmão do Jorel</name>
+	<studio>HBO</studio>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rH8SxdJrNRrdHGIvavZys6OrfrG.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/6pWsbAOuLx07CzpYyXTOnHLDNJt.jpg</fanart>
+	<date>22.09.2014</date>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20jorel</externallink>
+	<genre>Animação, Comedia</genre>
+	<info>A série mostra o cotidiano de uma família excêntrica e extravagante. O filho mais novo conhecido apenas pelo nome de “Irmão do Jorel” é ofuscado pela fama e popularidade de seu irmão mais velho Jorel. Junto de sua família composta por seus dois irmãos mais velhos, seu pai, sua mãe, suas duas avós e seu cachorro eles vivem situações típicas de uma família brasileira no final da década de 80.</info>
+</channel>
+         -
+<channel>
+	<name>Clarêncio, O Otimista</name>
+	<studio>HBO</studio>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6CcaOPC5qSJ7BOO1orFsw0NxdKc.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/rQeow546hb8vS9T5EcoipqJnoD8.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20clarencio</externallink>
+	<genre>Animação, Comedia</genre>
+	<info>Clarêncio é um menino espirituoso que vê coisas boas em tudo, e por isso é um pouco bobo. Seus melhores amigos são Jeff, um menino que têm fobias e não consegue aguentar coisas sujas, e Sumo, um menino com um jeito maluco que sempre está ao lado de Clarêncio. As perspectivas únicas da vida de Clarêncio podem ser divertidas.</info>
+</channel>
+
          <channel>
 	<name>Bookie</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lIefkOAbeoDPLsmiMpACrg5N6Ov.jpg</thumbnail>
