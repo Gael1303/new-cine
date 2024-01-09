@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
+
+<channel>
+	<name>Reinado</name>
+	<studio>PARAMOUNT+</studio>
+	<date>17.10.2013</date>
+	<genre>Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qyv9pTDMIaaY13Vc7hfm7wuPG1r.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/ombM2Yd0UORA7AlxXnIQ6ZFd8yE.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20reinado</externallink>
+	<info>Este drama histórico retrata a vida de Mary, Rainha da Escócia, em meio a um turbilhão de intrigas políticas e escândalos sexuais.</info>
+</channel>
         <channel>
 	<name>Orphan Black</name>
 	<studio>PARAMOUNT+</studio>
