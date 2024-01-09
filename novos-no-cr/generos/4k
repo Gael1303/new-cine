@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-   <items>
-	<SetViewMode>500</SetViewMode>   
+   <items> 
 
+
+        <item>
+		<title>Napoleão [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg</fanart>
+		<genre>Drama, História, Guerra</genre>
+		<date>22.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PXG7YUTJVDOMA2J2SLB733KNVBTWRCYN&dn=Napole%C3%A3o%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+	</item>
         <item>
 		<title>Resistência [4K]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5MPdNRHzd0NbOJbrrXO77DVHP4n.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/kjQBrc00fB2RjHZB3PGR4w9ibpz.jpg</fanart>
