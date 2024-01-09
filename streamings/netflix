@@ -2,6 +2,94 @@
 <channels>
 
 <channel>
+	<name>The Rain</name>
+	<studio>NETFLIX</studio>
+	<date>04.05.2018</date>
+	<genre>Sci-Fi & Fantasy, Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eBXiP5QsAlWmg74I3XhJIbIqQ0P.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/npLiH8akEMwkBaB7NLGmwnQAoMJ.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20the%20rain</externallink>
+	<info>Seis anos após um vírus exterminar quase toda a população da Escandinávia, dois irmãos e um grupo de jovens sobreviventes partem em busca de segurança e de respostas.</info>
+</channel>
+        -
+<channel>
+	<name>Vikings</name>
+	<studio>NETFLIX</studio>
+	<date>03.03.2013</date>
+	<genre>Ação & Aventura, Drama, Guerra e Política, Documentário</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/sxL9crJblYTVuEyOpqboGzlSEaT.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20vikings</externallink>
+	<info>Ragnar Lothbrok (Travis Fimmel) é o maior guerreiro da sua era. Lider de seu bando, com seus irmãos e sua família, ele ascende ao poder e torna-se Rei da tribo dos vikings. Além de guerreiro implacável, Ragnar segue as tradições nórdicas e é devoto dos deuses. As lendas contam que ele descende diretamente de Odin, o deus da guerra.[/I]</info>
+</channel>
+        -
+<channel>
+	<name>Billions</name>
+	<studio>NETFLIX</studio>
+	<date>17.02.2016</date>
+	<genre>Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bD8I9H67IOOLojcG2INUbhL7vRZ.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/51Hw58fMwJQKYJ6XYJIRQBP9EPA.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20Billion</externallink>
+	<info>Ambientada no mundo das finanças, a trama apresenta Robert Axelrod como um ambicioso executivo da bolsa de valores, que bate de frente com o promotor público Charles Rhoades Jr.[/I]</info>
+</channel>
+		-
+		<channel>
+	<name>Love Alarm</name>
+	<studio>NETFLIX</studio>
+	<date>22.08.2019</date>
+	<genre>Drama, Sci-Fi & Fantasy</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3z2ZL5ZKLrobmzhLRDOb8WbdZM0.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/mXouvrZbn8YpZMURGvw30QK8qfo.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20love%20alarm</externallink>
+	<info>Em um mundo em que um aplicativo avisa seus usuários se alguém por perto gosta deles, Kim Jojo descobre o amor e encara as adversidades da vida.</info>
+</channel>
+        -
+<channel>
+	<name>Sweet Tooth</name>
+	<studio>NETFLIX</studio>
+	<date>04.06.2021</date>
+	<genre>Drama, Sci-Fi & Fantasy</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBxxtfhC4vYrxB2fLsSxOTY2dQc.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/xpba0Dxz3sxV3QgYLR8UIe1LAAX.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20sweet%20tooth</externallink>
+	<info>Em uma perigosa aventura em um mundo pós-apocalíptico, um adorável menino-cervo sai em busca de um novo começo na companhia de um protetor rabugento.</info>
+</channel>
+        -
+<channel>
+	<name>Como Vender Drogas Online (Rápido)</name>
+	<studio>NETFLIX</studio>
+	<date>31.05.2019</date>
+	<genre>Comédia, Crime, Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nweYS5aI1qdeaGBEMx4dMWSbl9X.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/t6mukQI9vmCOTf70BcyvijqOFA1.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20como%20vender%20drogas</externallink>
+	<info>Para recuperar a ex-namorada, um adolescente nerd começa a vender ecstasy online. Em pouco tempo, ele se torna um dos maiores traficantes da Europa.</info>
+</channel> 
+        -
+<channel>
+	<name>Eu Nunca…</name>
+	<studio>NETFLIX</studio>
+	<date>27.04.2020</date>
+	<genre>Comédia, Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3aWbTDZnfjuCE26epqd8zUr1AVM.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/umVYLVZ7T85TkIHudxK799lPnLQ.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20eu%20nunca</externallink>
+	<info>Devi teve um ano complicado. Agora, tudo o que ela quer é ser popular. Será que os amigos, a família e seus sentimentos vão ajudar?</info>
+</channel> 
+        -
+<channel>
+	<name>Atypical</name>
+	<studio>NETFLIX</studio>
+	<date>11.08.2017</date>
+	<genre>Drama, Comédia</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kNif3eZAjQ7qU3Ol9E7zo0kjPMo.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/1VSwy48zZE5EchorC3ra1entcj6.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20atypical</externallink>
+	<info>Quando um adolescente com traços de autismo resolve arrumar uma namorada, sua busca por independência coloca a família toda em uma aventura de autodescoberta.</info>
+</channel> 
+		-
+<channel>
 	<name>O Mundo Sombrio de Sabrina</name>
 	<studio>NETFLIX</studio>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bawsegq9g2fkMYDH6blHypzM9tn.jpg</thumbnail>
