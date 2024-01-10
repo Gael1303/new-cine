@@ -3,6 +3,24 @@
 <channels>
 
 <channel>
+	<name>Eco</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vFyJH630cF68LohVYjQW49074Sy.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/u3ySnWqSjM3jedYgJZTR7RWRDDm.jpg</fanart>
+	<date>10.01.2024</date>
+	<genre>Drama, Crime, Action & Adventure</genre>
+	<studio>DISNEY+</studio>
+	<info>Perseguida pelo criminoso Fisk, Maya volta para casa, onde confrontará sua família e seu legado.</info>
+	<items>
+		<item>
+			<title>Eco Minissérie - Completa</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2KWBQ53SYYUQY5IG7FWMS6CVZT3JFQLV&dn=Eco%20S01%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vFyJH630cF68LohVYjQW49074Sy.jpg</thumbnail>
+			<genre>Drama, Crime, Action & Adventure</genre>
+		</item>
+	</items>
+</channel>
+-
+<channel>
 	<name>Assassinato no Fim do Mundo</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wfbJwh9o41VnGPlpSDTbIDPmekw.jpg</thumbnail>
 	<fanart>https://www.themoviedb.org/t/p/original/5caSC8v35IwURAByAh7WmXXEDSF.jpg</fanart>
