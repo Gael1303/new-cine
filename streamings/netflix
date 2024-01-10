@@ -2,6 +2,39 @@
 <channels>
 
 <channel>
+	<name>Expresso do Amanhã</name>
+	<studio>NETFLIX</studio>
+	<date>17.05.2020</date>
+	<genre>Sci-Fi & Fantasia</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mt7mmif11QXf8hsfgDAlOGJwJcV.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/h8dzXytAPFkAHv1kZAN1SshXI68.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20snowpiercer</externallink>
+	<info>Um grupo de pesquisadores cria um experimento capaz de pôr fim à ameaça do aquecimento global, mas seus planos não saem como o planejado e eles acabam eliminando quase toda a vida da Terra, que, por sua vez, transforma-se em um deserto de gelo. Os únicos sobreviventes vagam pelo planeta a bordo de um trem chamado Snowpiercer, mas nem todos estão conformados com a situação. Com isso, uma revolução está prestes a eclodir.</info>
+</channel>
+        -
+<channel>
+	<name>Desejo Sombrio</name>
+	<studio>NETFLIX</studio>
+	<date>15.07.2020</date>
+	<genre>Misterio, Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7nBrKoiH3vXFQtxJmM3v5cRMdpj.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/fQBFpDJo6huIs1sYfUQrBCH7T9x.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20desejo%20sombrio</externallink>
+	<info>Casada, Alma passa um fim de semana fora de casa. A experiência desperta uma paixão, mas acaba em tragédia e a faz questionar a verdade sobre as pessoas próximas.</info>
+</channel>
+        -
+<channel>
+	<name>Elize Matsunaga: Era uma Vez um Crime</name>
+	<studio>NETFLIX</studio>
+	<date>08.07.2021</date>
+	<genre>Documentário, Crime</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/30bzZ1exfrPXi5UkpfNIIMGYVzp.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/7gBJFLXh8PBZD1cFavGuHc08z7O.jpg</fanart>
+	<genre>Documentário, Crime</genre>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20elize%20matsunaga</externallink>
+	<info> Em um crime que chocou o Brasil, Elize Matsunaga mata e esquarteja o marido. Agora, ela dá sua primeira entrevista nesta série documental que explora o caso.</info>
+</channel>
+<channel>
 	<name>A Grande Ilusão</name>
 	<thumbnail>https://www.themoviedb.org/t/p/original/Ertv4WLEyHgi8zN4ldOKgPcGAZ.jpg</thumbnail>
 	<fanart>https://www.themoviedb.org/t/p/original/5QlPMpggN5pLAZWpae0doDgRNZi.jpg</fanart>
