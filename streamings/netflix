@@ -2,6 +2,72 @@
 <channels>
 
 <channel>
+	<name>The End of the F***ing World</name>
+	<studio>NETFLIX</studio>
+	<date>24.10.2017</date>
+	<genre>Comédia, Drama, Crime</genre>
+    <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/end-of-f-world</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zQ5fG5NAQ5K8cMm58bxQNwUEbMj.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/vbWfxIva1jabZeZ4v8jVS6Cmab7.jpg</fanart>
+	<info>Nesta comédia de humor negro, um adolescente psicopata e uma rebelde louca por aventuras caem na estrada em uma malfadada viagem.</info>
+</channel>
+        -
+<channel>
+	<name>Big Mouth</name>
+	<studio>NETFLIX</studio>
+	<date>29.09.2017</date>
+    <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20big%20mouth</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wK4wmV6ruhShWcbFzp59JETAjaz.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg</fanart>
+	<genre>Animação, Comédia</genre>
+	<info>Uma turma de amigos vive ao sabor das maravilhas e horrores da puberdade nesta comédia dos amigos Nick Kroll e Andrew Goldberg.</info>
+</channel>
+		-
+		<channel>
+	<name>Sobrevivi A R. Kelly</name>
+	<studio>NETFLIX</studio>
+	<date>03.01.2019</date>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20r.kelly</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/original/q1kgmGNET8EjWWX61zYwYdIrEe4.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/gjjmMzp5JyiUkJ4Vz5b1xve1xFR.jpg</fanart>
+	<genre>Documentário, Policial, Music</genre>
+	<info>O documentário traz novas informações sobre as acusações de abuso sexual e pedofilia das quais o cantor e produtor norte-americano R. Kelly é alvo.</info>
+</channel>
+         -
+<channel>
+	<name>Sweet Home</name>
+	<studio>NETFLIX</studio>
+	<date>18.12.2020</date>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20sweet%20home</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tB3N2GfA5krC53vQCChLZaCRT6n.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/mceCXNTny6a5F3rQgShLoyARw4l.jpg</fanart>
+	<genre>Drama, Fantasia, Suspense, Terror</genre>
+	<info> Após perder sua família em um acidente, o solitário Cha Hyun-soo se muda para um novo apartamento. Sua vida pacata logo é perturbada por estranhos acontecimentos em seu edifício. Enquanto pessoas se tornam monstros, Hyun-soo e outros residentes tentam sobreviver.</info>
+</channel>
+         -
+<channel>
+	<name>Extracurricular</name>
+	<studio>NETFLIX</studio>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20extracurricular</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgzV6RNvc3e7LyRdht11NTS6tVv.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/nQAyoR7kmyiQCC9EAJLb12ZDS2.jpg</fanart>
+	<genre>Drama, Policial</genre>
+	<date>29.04.2020</date>
+	<info>Extracurricular é uma história de estudantes do ensino médio que se metem em uma série de conflitos e eventos que desafiam os valores humanos e a moralidade. Oh Jisoo acaba cometendo um crime grave por causa de sua determinação em fazer dinheiro para estudar na faculdade sozinho. - Série original Netflix de 10 episódios.</info>
+</channel>
+         -
+<channel>
+	<name>Alice in Borderlands</name>
+	<studio>NETFLIX</studio>
+	<date>10.12.2020</date>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20alice%20in%20borderlands</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/20mOwAAPwZ1vLQkw0fvuQHiG7bO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/bKxiLRPVWe2nZXCzt6JPr5HNWYm.jpg</fanart>
+	<genre>Fantasia, Ficção, Suspense</genre>
+	<info>Um grupo de delinquentes entediados é transportado para um deserto paralelo como parte de um jogo de sobrevivência.</info>
+</channel>
+		-
+<channel>
 	<name>Expresso do Amanhã</name>
 	<studio>NETFLIX</studio>
 	<date>17.05.2020</date>
