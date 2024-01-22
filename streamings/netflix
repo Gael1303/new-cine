@@ -1,7 +1,177 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+<channel>
+	<name>O Rei Eterno</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/o-rei-eterno</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/exaULmbkxBflopHFNm7nJKwRISL.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/d3JURIRyAWELT1JELe56ia7gams.jpg</fanart>
+	<genre>Sci-Fi & Fantasy, Drama</genre>
+	<date>17.04.2020</date>
+	<studio>NETFLIX</studio>
+	<info>Na trama, Lee Gon (Lee Minho) é um imperador coreano que assistiu ao assassinato de seu próprio pai quando era criança. Hoje, na vida adulta, atravessa um portal aberto por demônios que o leva para outra realidade, na qual conhece a detetive Jung Taeeul (Kim Goeun), que tenta proteger a todo custo as pessoas que ama.</info>
+</channel>
+-
+<channel>
+	<name>Império da Dor</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/imperio-da-dor</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eYw5XHXS4rPgZOSGGjRM5wJ8U8t.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/lHkFnMnwk8CwSusbB2Et9i9roXo.jpg</fanart>
+	<genre>Drama</genre>
+	<date>10.08.2023</date>
+	<studio>NETFLIX</studio>
+	<info>Este drama sobre as causas e consequências da epidemia de opioides nos Estados Unidos, acompanha culpados, vítimas e uma investigadora em busca da verdade.</info>
+</channel>
+-
+	<channel>
+	<name>100 Coisas para Fazer Antes de Virar Zumbi</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Animes_raw/Animes-raw2/100-Coisas-para-Fazer</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/XzOeAppGpnsSAiK82idkg0BoCt.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/u0ijYWX50bvbaUOWr3mpqZ9OcUK.jpg</fanart>
+	<genre>Animação, Action & Adventure, Comédia, Sci-Fi & Fantasy</genre>
+	<date>18.06.2023</date>
+	<studio>NETFLIX</studio>
+	<rated>16</rated>
+	<info>Em um apartamento cheio de lixo, Akira Tendo, de 24 anos, assiste a um filme de zumbi com olhos invejosos e sem vida. Depois de passar três anos difíceis em uma fábrica no Japão, seu espírito está quebrado. Ele não tem coragem nem de confessar seus sentimentos para Ohtori, sua linda colega de trabalho. Então, uma manhã, ele encontra o caseiro almoçando – que acaba sendo um zumbi! A cidade inteira está infestada de zumbis e, mesmo correndo para salvar sua vida, Akira nunca se sentiu tão vivo.</info>
+</channel>
+-
+	<channel>
+	<name>Arnold</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/arnold</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/A5ITI2kmvcMpQYEPpToTSdtWZzX.jpg</fanart>
+	<genre>Documentario</genre>
+	<date>07.06.2023</date>
+	<studio>NETFLIX</studio>
+	<info>"[I]Um homem. Três vidas.[/I]"
 
+Esta série documental intimista retrata a vida e a carreira multifacetada de Arnold Schwarzenegger, campeão de fisiculturismo, astro de Hollywood e político.</info>
+</channel>
+-
+	<channel>
+	<name>Mar Branco</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/mar-branco</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qVctWsGgjvp22khSEM6UpSS3gNx.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/4U8G8eGVaAYGyKvr2uVKAg2Sqdf.jpg</fanart>
+	<genre>Drama</genre>
+	<date>26.05.2023</date>
+	<studio>NETFLIX</studio>
+	<info>"[I]Eram sonhos que estão em jogo.[/I]"
+
+Um barco repleto de cocaína afunda na ilha onde Eduardo nasceu, e ele vê ali uma oportunidade arriscada de ganhar dinheiro e realizar sonhos impossíveis.</info>
+</channel>
+-
+<channel>
+	<name>Enfermeira</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/enfermeira</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/biNFx4Q3Hbbq8F1ntt9opQJWpsy.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/gKXerFqhoo1YzD4GfLY7j5AswQf.jpg</fanart>
+	<genre>Crime, Drama</genre>
+	<date>27.04.2023</date>
+	<studio>NETFLIX</studio>
+	<info>Recém-chegada ao hospital, uma enfermeira desconfia que o desejo da colega por atenção pode estar ligado a várias mortes de pacientes.</info>
+</channel>
+-
+<channel>
+	<name>Com Carinho, Kitty</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/com-carinho-kitty</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s69Nln7q9mT2K9SulLWKUIWzuIe.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/cGkodZgRgQAD5vLsHHQpy9axzcr.jpg</fanart>
+	<genre>Comédia, Drama</genre>
+	<date>18.05.2023</date>
+	<studio>NETFLIX</studio>
+	<info>Depois de dar um empurrãozinho na vida amorosa da irmã Lara Jean, Kitty quer viver sua própria história épica, mas logo descobre que o amor é bem mais complicado quando é o seu coração que está em jogo.</info>
+</channel>
+-
+<channel>
+	<name>Black Knight</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/black-knight</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/48SpcKvilzTdcyuPmzr93TsVxCJ.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/sNwFx6MAHnna1Go0QsSYoZ1rVTJ.jpg</fanart>
+	<genre>Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
+	<date>12.05.2023</date>
+	<studio>NETFLIX</studio>
+	<info>"[I]Um mundo sem ar.[/I]"
+
+Em um 2071 distópico, quando o mundo está devastado pela poluição, um refugiado luta para ser entregador, conseguir comida e sobreviver.</info>
+</channel>
+-
+<channel>
+	<name>Cães de Caça</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/caes-de-ca%C3%A7a</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uFNHrunRIlyzRlRS7c9InUVgFDa.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/b2iWqSFpuy9CS5XWiAmnLzNv9eP.jpg</fanart>
+	<genre>Action & Adventure, Drama, Crime</genre>
+	<date>09.06.2023</date>
+	<studio>NETFLIX</studio>
+	<info>Dois jovens boxeadores se juntam a um agiota bonzinho para derrotar um concorrente que se aproveita das pessoas mais vulneráveis.</info>
+</channel>
+		-
+		<channel>
+	<name>O Cangaceiro do Futuro</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/o-cangaceiro-do-futuro</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j0TdeK3G8FIsZ6rtY1G22UN5mKi.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/7yvLgEgMwcinj0t5LD2ufuxqkAY.jpg</fanart>
+	<genre>Comédia</genre>
+	<date>25.12.2022</date>
+	<studio>NETFLIX</studio>
+	<info>Na história, um cabra frouxo que mora em São Paulo sonha em voltar rico pro Nordeste... até que leva um tabefe no pé do ouvido e vai parar em 1927.</info>
+</channel>
+-
+<channel>
+	<name>Recruta</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/recruta</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kaFkswPMDoTDQ7Xt4gHMc8CDsVq.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/vi3SdnmbQXsLONYsCZk3mCqOp5B.jpg</fanart>
+	<genre>Drama, Crime</genre>
+	<date>16.12.2022</date>
+	<studio>NETFLIX</studio>
+	<info>Recém-contratado pela CIA, um advogado se envolve em um mundo de espionagem internacional quando uma ex-colaboradora ameaça expor os segredos da agência.</info>
+</channel>
+-
+<channel>
+	<name>Só Se For Por Amor</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/so-se-for-por-amor</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2MxYaviOwMZOOCP38vJx2C0y33V.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/6Gzi7lwR9utLe1HuHFMnejblJZN.jpg</fanart>
+	<genre>Drama</genre>
+	<date>21.09.2022</date>
+	<studio>NETFLIX</studio>
+	<info>A trama acompanha Deusa e Tadeu, um casal apaixonado que cria uma banda. Porém, quando começam a fazer sucesso, Deusa recebe uma proposta de carreira solo.</info>
+</channel>
+-
+<channel>
+	<name>Sonic Prime</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/sonic-prime</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/519QSZPxFKxAPESNr6sOFM7lQdB.jpg</fanart>
+	<genre>Animação, Aventura</genre>
+	<date>15.12.2022</date>
+	<studio>NETFLIX</studio>
+	<info>Uma batalha explosiva contra o Dr. Eggman abala o universo. Agora, Sonic precisa viajar por dimensões paralelas para reencontrar os amigos e salvar o mundo.</info>
+</channel>
+		-
+		<channel>
+	<name>O Gabinete de Curiosidades de Guillermo Del Toro</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/guilhermo-del-toro</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sxMMOIuV99LOwcJICx1Wy4O8fgi.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/rpTpgiwj63N2f6HnB5SKhei5N80.jpg</fanart>
+	<genre>Drama, Mistério</genre>
+	<date>25.10.2022</date>
+	<studio>NETFLIX</studio>
+	<info>As histórias macabras desta coleção de terror são selecionadas pelo aclamado diretor Guillermo del Toro.</info>
+</channel>
+-
+<channel>
+	<name>O Clube da Meia-Noite</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/o-clube-da-meia-noite</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9j67wXS4uhPueFBwhAIoD4GxOP3.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/jGcACEQ684x0C6jRlBrkEJyVm9m.jpg</fanart>
+	<genre>Drama, Mistério</genre>
+	<date>07.10.2022</date>
+	<studio>NETFLIX</studio>
+	<info>Em uma clínica para adolescentes em estado terminal, integrantes de um clube secreto fazem um pacto sinistro: quem morrer primeiro terá que mandar um sinal do além.</info>
+</channel>
 <channel>
 	<name>Ponto Final</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fJPJrBCGxYxqWh7AfStkuXVKMwo.jpg</thumbnail>
