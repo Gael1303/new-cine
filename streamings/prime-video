@@ -3,6 +3,39 @@
 <channels>
 
 <channel>
+	<name>Power Book IV: Force</name>
+	<studio>AMAZON</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20Power%20Book%20IV%20Force</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cR0ursLXoT0zfX9XDGAzQRAnK0W.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/9lwYGM97dBfu3lpCdt6VpohgjvV.jpg</fanart>
+	<genre>Crime, Drama</genre>
+	<date>06.02.2022</date>
+	<info>Tommy Egan corta todos os laços e coloca Nova York em seu espelho retrovisor definitivamente quando chega a Chicago e se concentra em se tornar o maior traficante de drogas que a cidade de Chicago já viu</info>
+</channel>
+	-
+	<channel>
+	<name>Power Book II: Ghost</name>
+	<studio>AMAZON</studio>
+	<date>06.09.2020</date>
+	<genre>Crime, Drama</genre>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20Power%20Book%20II%20Ghost</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rbxvwGpPd9MWjdhAoSBj016cns.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/wEWHx6ybjGihzx7e9pammt0BUXW.jpg</fanart>
+	<info>“Ghost” segue a vida de Tariq tentando balancear sua operação de tráfico, notas, vida amorosa e família. Para evitar ter o mesmo destino que seu pai, a solução é ser uma versão melhor dele.</info>
+</channel>
+		-
+		<channel>
+	<name>Power Book III: Raising Kanan</name>
+	<studio>AMAZON</studio>
+	<genre>Crime, Drama</genre>
+	<date>18.07.2021</date>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cZwgcJMptOdlsOTWgkFaGfwZuVi.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/qiDq1iCK0Ie9uwxJu2gDeVxDvI1.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20power%20book%203</externallink>
+	<info> Power Book III: Raising Kanan é uma história anterior a franquia Power. A série acompanha um drama familiar que gira em torno da maioridade de Kanan Stark (Mekai Curtis), o filho adolescente de Raquel Thomas (Patina Miller), uma emergente distribuidora de cocaína com uma influente rede de traficantes por todo o bairro de South Jamaica, no Queens, em Nova York. Através de temas como identidade, violência e relações familiares, a produção mergulha no âmbito dos problemas familiares, descobrindo que a verdadeira dor da traição é aquela vinda dos mais próximos de nós.</info>
+</channel>
+		-
+<channel>
 	<name>Diários de um Vampiro</name>
 	<studio>NETFLIX</studio>
 	<genre>Drama, Sci-Fi & Fantasy</genre>
