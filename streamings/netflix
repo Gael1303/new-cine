@@ -1,6 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+
+<channel>
+	<name>(Des)encanto</name>
+	<studio>NETFLIX</studio>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Desenhos_raw/serie%20Desencanto</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7yEoQq7w8cxaHFBAff5d6NaVxJH.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/o5gpmFNNTPGTfgrvxWjTnps3ysj.jpg</fanart>
+	<genre> Ação, Animação, Aventura, Comédia, Fantasia</genre>
+	<date>17.08.2018</date>
+	<info>A princesa Tiabeanie, Bean, está irritada com seu casamento arranjado iminente com o príncipe Merkimer. Bean (Abbi Jacobson) é uma princesa alcoólatra que mora no reino mágico de Dreamland ao lado de Luci (Eric Andre), seu demônio pessoal, e de Elfo (Nat Faxon), seu melhor amigo. Além dos problemas com a bebida, a jovem nobre está disposta, juntamente com sua turminha, a viver as mais inusitadas aventuras – nem que, para isso, precise encarar terríveis ogros ou tolos humanos.</info>
+</channel>
+-
+<channel>
+	<name>Operação Ecstasy</name>
+	<studio>NETFLIX</studio>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20Opera%C3%A7%C3%A3o%20Ecstasy</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xdeBcuCSjnuyvbR7eJLjmqk1WNW.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/7NyIsI5mWHqE9XzcshjUjoNEYwR.jpg</fanart>
+	<genre>Drama, Policial, Suspense</genre>
+	<date>24.02.2019</date>
+	<info>Um dos maiores produtores de ecstasy do mundo, Ferry Bouman (Frank Lammers), vive uma vida encantada em sua villa na fronteira entre a Bélgica e a Holanda. Mas as coisas começam a mudar quando dois agentes disfarçados entram em seu território, tentam se infiltrar na vida de Bouman e encerrar sua rede. - cover é uma série policial fictícia inspirada em uma série de eventos da vida real. - Primeira produção belga/ holandesa da Netflix conta com 10 episódios.</info>
+</channel>
+-
+<channel>
+	<name>All Of Us Are Dead</name>
+	<studio>NETFLIX</studio>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20All%20Of%20Us%20Are%20Dead</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTEFqAjLd5YTsMD6NSUxV6Dq7A6.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/rKsd2InqKFH4NMPCTBFDo6m4tnm.jpg</fanart>
+	<genre>Action , Drama , Fantasy , Horror , Sci-Fi , Thriller</genre>
+	<date>28.01.2022</date>
+	<info>Uma epidemia mortal surge em uma escola. Encurralados, os alunos só tem uma opção: lutar com todas as forças para não virarem zumbis. Assista o quanto quiser.</info>
+</channel>
+-
+<channel>
+	<name>Neymar: O Caos Perfeito</name>
+	<studio>NETFLIX</studio>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20neymar</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/icX0fw1wfRx6mSRLTEQovXThWK2.jpg</fanart>
+	<genre>Biografia, Documentário, Esporte</genre>
+	<date>25.01.2022</date>
+	<info>Um dos atletas mais famosos e bem pagos da história como você nunca viu antes. Neymar é um herói em campo e uma figura polêmica fora. Esta série documental em três partes, mostra o lado pessoal do astro do futebol, acompanha sua ascensão à fama no Santos, seus dias de glória no FC Barcelona e a montanha-russa com a Seleção Brasileira e o Paris Saint Germain. O documentário também revela a máquina de marketing por trás do jogador, comandada pelo seu pai. Repleta de estrelas, a série traz ainda entrevistas com muitas outras lendas, que avaliam o lugar de Neymar na história do esporte.</info>
+</channel>
+		-
+		<channel>
+	<name>O Rei de Porcelana</name>
+	<studio>NETFLIX</studio>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/s%C3%A9rie%20o%20rei%20da%20porcelana</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xiwbHmrFqC2UJejuHsKGYoYegbi.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/3dxLPZyBzdB46tltAEp5qQWl0Fe.jpg</fanart>
+	<genre>Drama</genre>
+	<date>11.10.2021</date>
+	<info>Com o assassinato do príncipe herdeiro, sua irmã gêmea assume o trono. Só que ela deve esconder sua identidade e seu amor por um jovem se quiser sobreviver.</info>
+</channel>
+-
+<channel>
+	<name>D.P Dog Day</name>
+	<studio>NETFLIX</studio>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20d.p%20dog%20day</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3LqTNjibg3XySzP2iUHyKinEyw7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/yFNGc3OR81NGdJL3yZCBrjDIluf.jpg</fanart>
+	<genre>Drama</genre>
+	<date>27.08.2021</date>
+	<info>A missão de um jovem soldado é capturar desertores militares e revela a dolorosa realidade sofrida por cada alistado durante sua convocação obrigatória do dever.</info>
+</channel>
+-
 <channel>
 	<name>O Rei Eterno</name>
 ---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/o-rei-eterno</externallink>
