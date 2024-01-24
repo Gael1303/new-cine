@@ -3,6 +3,38 @@
 <channels>
 
 <channel>
+	<name>Spartacus</name>
+	<studio>STARZ</studio>
+	<genre>Drama</genre>
+	<date>22.01.2010</date>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/xyHrlFr8W9bGysDsYQRRfD3cdoR.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20spartacus</externallink>
+	<info>Traído pelos romanos, forçado à escravidão e renascido como gladiador. A clássica história do mais famoso rebelde da república volta à vida, nessa nova série de ação e visual impactante, Spartacus: Blood and Sand (Sangue e Areia). Tirado de sua terra natal e arrancado do convívio da mulher que ama, Spartacus é condenado a viver no mundo brutal da arena, onde o sangue e a morte são os principais entretenimento do povo. Mas nem todas as batalhas são lutadas sobre a areia. Traições, corrupção e a abundância de prazeres sensuais vão constantemente testar Spartacus. Para sobreviver, ele deve ser mais do que um homem; mais do que gladiador; ele deve ser uma lenda.</info>
+</channel>
+		-
+		<channel>
+	<name>Eles</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aI5067AphKpSvg72O1JDwHi3eYz.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/nRifrfdncHTRKUbk0MrAcuQmDFN.jpg</fanart>
+	<date>09.04.2021</date>
+	<genre>Drama, Mistério</genre>
+	<info>Série antológica que explora o terror nos Estados Unidos.</info>
+	<studio>AMAZON</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/eles</externallink>
+</channel>
+		-
+		<channel>
+	<name>Paper Girls</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6eaySyOW29li0CgXHqy7pgb0IUT.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/otyDmwl75oagrC01LpVeegUknuP.jpg</fanart>
+	<date>28.07.2022</date>
+	<genre>Drama, Mistério, Sci-Fi & Fantasy</genre>
+	<info>É o dia depois do Halloween de 1988. Quatro jovens amigas acidentalmente se veem em uma batalha intergaláctica e são inexplicavelmente transportadas para o ano de 2019. Quando elas se encontram cara a cara com suas versões adultas, cada garota descobre sua própria força e, juntas, tentam encontrar uma forma de voltar ao passado e, ao mesmo tempo, salvar o mundo do futuro.</info>
+	<studio>AMAZON</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/paper-girls</externallink>
+</channel>
+<channel>
 	<name>Power Book IV: Force</name>
 	<studio>AMAZON</studio>
 	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20Power%20Book%20IV%20Force</externallink>
