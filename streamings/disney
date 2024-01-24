@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <channels>
 
+<channel>
+	<name>Marvel - Homem-Aranha</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ouka0JpyCsFcYi9pijGR47nVfRK.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/9zIFxEiurX1zVuBffHjwFRJTXDT.jpg</fanart>
+	<date>19.08.2017</date>
+	<genre>Animação, Sci-Fi & Fantasy</genre>
+	<info>Um adolescente inseguro mas corajoso e inteligente chamado Peter Parker, é picado por uma aranha radioativa e recebe poderes. Ele se torna um herói chamado Homem-Aranha.</info>
+	<studio>DISNEY+</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/marvel-homem-aranha-2017</externallink>
+</channel>
+		-
+		<channel>
+	<name>O Paciente</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/ioUbRvVdl8utMHEHknFhiJuqc1G.jpg</fanart>
+	<date>30.08.2022</date>
+	<genre>Drama, Crime</genre>
+	<info>Alan Strauss é um terapeuta feito prisioneiro por um paciente que se revela como serial killer. Com o tempo se esgotando, Alan luta desesperadamente para impedir Sam antes que ele se torne cúmplice de seus assassinatos ou pior, se torne uma vítima.</info>
+	<studio>DISNEY+</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/o-paciente</externallink>
+</channel>
+		-
+		<channel>
+	<name>Devs</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uv63iNWOh69bSJYJQZjiX6n8B3m.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/5yf5yfogIxhHhDU7F2Nuk1BsTYQ.jpg</fanart>
+	<date>05.03.2020</date>
+	<genre>Sci-Fi & Fantasy, Drama, Mistério</genre>
+	<info>A jovem engenheira de software Lily Chan investiga a divisão secreta de desenvolvimento de seu empregador, uma empresa de tecnologia de ponta com sede no Vale do Silício, que ela acredita estar por trás do assassinato de seu namorado.</info>
+	<studio>DISNEY+</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/devs</externallink>
+</channel>
+		-
 <channel>
 	<name>Eco</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vFyJH630cF68LohVYjQW49074Sy.jpg</thumbnail>
