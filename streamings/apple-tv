@@ -2,6 +2,23 @@
 
 <channels>
 
+<channel>
+	<name>Mestres do Ar</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2LbDCJHciI3pqcy83twtmvrJfk2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/menEyCOdkjXqwpJy3cwOH8kfZrj.jpg</fanart>
+	<date>25.01.2024</date>
+	<genre>Guerra, drama</genre>
+	<studio>APPLE TV+</studio>
+	<info>Durante a Segunda Guerra Mundial, os aviadores arriscam suas vidas com o 100º Grupo de Bombardeiros, uma irmandade forjada pela coragem, perda e triunfo.</info>
+	<items>
+		<item>
+			<title>Mestres do Ar - Minissérie T01 E01-2</title>
+			<link>plugin://plugin.video.elementum/play?uri=https://torrentdosfilmes.site/mestres-do-ar-minisserie-torrent-2024-25-01-2024/XZQALHC5BZNOGNHKTMG6JZE6SJRIZYEI&dn=Mestres%20do%20Ar%20S01E01-02%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+			<thumbnail>https://image.tmdb.org/t/p/original/menEyCOdkjXqwpJy3cwOH8kfZrj.jpg</thumbnail>
+			<genre>Guerra, drama</genre>
+		</item>
+	</items>
+</channel>
 
             <channel>
 		<name>Monarch: Legado de Monstros</name>
