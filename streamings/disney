@@ -2,6 +2,17 @@
 <channels>
 
 <channel>
+	<name>Marvel – Luke Cage</name>
+	<studio>DISNEY</studio>
+	<date>30.09.2016</date>
+	<genre>Drama, Sci-Fi e Fantasia, Ação e Aventura, Crime</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/quTfV803fGaSADzTeEqCbIZnt9d.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/p4YxnvdMWsC5Kx8UIs5DwVy7u2F.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20luke%20cage</externallink>
+	<info>Um ex-presidiário com pele indestrutível luta para limpar seu nome e salvar o bairro onde vive. Ele não queria confusão, mas a população precisava muito de um herói.</info>
+</channel>
+-
+<channel>
 	<name>Marvel - Homem-Aranha</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ouka0JpyCsFcYi9pijGR47nVfRK.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/9zIFxEiurX1zVuBffHjwFRJTXDT.jpg</fanart>
