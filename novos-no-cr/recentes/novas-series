@@ -2,6 +2,61 @@
 <channels>
 
 <channel>
+	<name>Mestres do Ar</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2LbDCJHciI3pqcy83twtmvrJfk2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/menEyCOdkjXqwpJy3cwOH8kfZrj.jpg</fanart>
+	<date>25.01.2024</date>
+	<genre>Guerra, drama</genre>
+	<studio>APPLE TV+</studio>
+	<info>Durante a Segunda Guerra Mundial, os aviadores arriscam suas vidas com o 100º Grupo de Bombardeiros, uma irmandade forjada pela coragem, perda e triunfo.</info>
+	<items>
+		<item>
+			<title>Mestres do Ar - Minissérie T01 E01-2</title>
+			<link>plugin://plugin.video.elementum/play?uri=https://torrentdosfilmes.site/mestres-do-ar-minisserie-torrent-2024-25-01-2024/XZQALHC5BZNOGNHKTMG6JZE6SJRIZYEI&dn=Mestres%20do%20Ar%20S01E01-02%20WEB-DL%201080p%20x264%20FULLHD%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+			<thumbnail>https://image.tmdb.org/t/p/original/menEyCOdkjXqwpJy3cwOH8kfZrj.jpg</thumbnail>
+			<genre>Guerra, drama</genre>
+		</item>
+	</items>
+</channel>
+		
+		<channel>
+	<name>Griselda</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/yfP0P1H1WVvBEfnRFPB50s7YGJ9.jpg</fanart>
+	<date>25.01.2024</date>
+	<genre>Drama, Crime</genre>
+	<studio>NETFLIX</studio>
+	<info>Narra a vida de Griselda Blanco, que criou um dos cartéis mais lucrativos da história. Mãe dedicada, a mistura letal de charme e selvageria insuspeita de Blanco ajudou-a a navegar habilmente entre a família e os negócios, levando-a a tornar-se amplamente conhecida como a “Viúva Negra”.</info>
+	<items>
+		<item>
+			<title>Griselda - Minissérie</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2TNL3SEYF3UPLGQOP4D4P3V6742W4BRR&dn=Griselda%20S01%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg</thumbnail>
+			<genre>Drama, Crime</genre>
+		</item>
+	</items>
+</channel>
+
+		-
+	<channel>
+	<name>Mestres do Universo: A Revolução</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/4e2l9cMDe9U0QvzITnU2KxGvZzf.jpg</fanart>
+	<date>25.01.2024</date>
+	<genre>Animação, Action & Adventure, Sci-Fi & Fantasy</genre>
+	<studio>NETFLIX</studio>
+	<info>He-Man e seus amigos enfrentam as forças sombrias de Esqueleto em uma batalha épica pelo coração de Eternia.</info>
+	<items>
+		<item>
+			<title>Mestres do Universo: A Revolução - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6VSNYURJPRIOD6OTEQ3Z4WJ7JCNWH5RA&dn=Mestres%20do%20Universo%20-%20A%20Revolu%C3%A7%C3%A3o%20S01%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg</thumbnail>
+			<genre>Animação, Action & Adventure, Sci-Fi & Fantasy</genre>
+		</item>
+	</items>
+</channel>
+		-
+<channel>
 	<name>Ponto Final</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fJPJrBCGxYxqWh7AfStkuXVKMwo.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/lnyqdta8IpCfSA6SwxlqaqBfCcU.jpg</fanart>
