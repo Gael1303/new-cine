@@ -3,6 +3,17 @@
 <channels>
 
 <channel>
+	<name>All American</name>
+	<studio>AMAZON</studio>
+	<date>10.10.2018</date>
+	<genre>Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/thCj6VEVQlFlup4aJ74kdRhfujB.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20all%20american</externallink>
+	<info>Dois mundos colidem quando um jogador de futebol de Compton é recrutado para um colégio em Beverly Hills.</info>
+</channel>
+-
+<channel>
 	<name>Spartacus</name>
 	<studio>STARZ</studio>
 	<genre>Drama</genre>
