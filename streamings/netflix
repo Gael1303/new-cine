@@ -2,7 +2,84 @@
 <channels>
 
 
-		
+		<channel>
+	<name>The Sinner</name>
+	<studio>NETFLIX</studio>
+	<date>02.08.2017</date>
+	<genre>Crime, Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rmibFGdqOe0kKKhPls0jVOdZCWw.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/tMGgwCyRV0qpoFPiTPu7TfUhRgU.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20the%20sinner</externallink>
+	<info>Quando um assassinato terrível apavora uma cidadezinha, a busca por respostas de um detetive revela uma teia de segredos sinistros.</info>
+</channel>
+-
+
+<channel>
+	<name>Fate: A Saga Winx</name>
+	<studio>NETFLIX</studio>
+	<date>22.01.2021</date>
+	<genre>Sci-Fi & Fantasy, Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dEZK7wb5VQsflOXHoEMYwv4aV1g.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/1DmAeDIAN6nvVpgTqiurDPUwuj7.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20wix</externallink>
+	<info>[COLOR cyan] Sinopse:[/COLOR] Decididas a controlar seus poderes mágicos, cinco adolescentes encaram rivalidades, romances e estudos do mundo sobrenatural em uma escola para fadas.</info>
+</channel>
+-
+<channel>
+	<name>Master Of None</name>
+	<studio>NETFLIX</studio>
+	<date>06.11.2015</date>
+	<genre>Comédia, Drama</genre>
+    <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AcJM86PhgHAfbrF4dMKBaqO3cHV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/yYnxld9hgTLCOFORequmOK6paj2.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/master-of-none</externallink>
+	<info>A série de TV Master of None vai a companhar a história da vida pessoal e profissional do personagem Dev (Interpretado pelo ator Aziz Ansari), Na série de TV Master of None Online, Dev é um ator com 30 anos de idade que mora na cidade de Nova York e tem muito problemas para poder se decidir o que vai comer no dia a dia, mais não para poder decidir em qual caminho deve seguir para a sua vida. Em Master of None Online, com uma vida divertida, Ambiciosa, intensamente pessoal e cinematográfica, a historia do personagem Dev vai leva-lo a mergulhar em vários temas, como direitos dos idosos e a sofrida rotina de imigrantes de algum país estrangeiro procurando uma vida melhor e digna.</info>
+</channel>
+		-
+		<channel>
+	<name>Retaliação</name>
+	<studio>NETFLIX</studio>
+	<date>20.09.2019</date>
+	<genre>Drama, Mistério, Action & Adventure</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9bGsWyHVVqo0hAfk8VlAGOHLPin.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/h3OFv395pydjcA8WzZ9s0J9zVLM.jpg</fanart>
+	<info>O dublê Cha Dal-geon decide investigar a morte do sobrinho em um acidente de avião com a ajuda da agente secreta Go Hae-ri.</info>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/retaliacao</externallink>
+</channel>
+		-
+		<channel>
+	<name>O Inocente</name>
+	<studio>NETFLIX</studio>
+	<date>30.04.2021</date>
+	<genre>Crime, Mistério, Drama</genre>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1u6MAHNAgheFMxTt9YF9bz9KHQH.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/gB9l7epUG4lZKe68bTdL6u6eZCK.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20the%20innocent</externallink>
+	<info>Uma morte acidental lança um homem em uma espiral de intrigas e assassinato. Ele encontra o amor e recupera a liberdade, mas um telefonema traz de volta o seu passado.</info>
+</channel>
+-
+<channel>
+	<name>Uma Família Exemplar</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20uma-familia-exemplar</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gBS6hg7nbsFxB7GpEAwYjkOuZqG.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/rWqQBND7zbo0y4OtRZgXSsq57Xj.jpg</fanart>
+	<genre>Drama, Crime</genre>
+	<date>12.08.2022</date>
+	<studio>NETFLIX</studio>
+	<info>Depois de roubar dinheiro de um cartel acidentalmente, um professor descobre que a única chance de salvar a família é trabalhar como entregador de drogas.</info>
+</channel>
+-
+<channel>
+	<name>A Escola Amaldiçoada</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20escola%20amaldi%C3%A7oada</externallink>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQhR6dkZ5iFr6c8uIwd3cp8oJr1.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/hQy17gNxquqRYlAEdSeTqSTcvLs.jpg</fanart>
+	<genre>Drama, Misterio</genre>
+	<date>10.08.2022</date>
+	<studio>NETFLIX</studio>
+	<info>Horrores indescritíveis vagam pelos corredores das escolas nesta coleção de histórias fantasmagóricas, dirigida por diretores tailandeses.</info>
+</channel>
+-
 		<channel>
 	<name>Griselda</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg</thumbnail>
