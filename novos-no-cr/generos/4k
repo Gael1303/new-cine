@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
    <items> 
 
+
+<item>
+		<title>Beekeeper: Rede de Vingança [4K] [Leg]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cCGFvoxzaBbYM3I68s6F939fybN.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg</fanart>
+		<genre>Ação, Thriller, Drama</genre>
+		<date>10.01.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LS6PRTRBR6KGZQT32VAXG3UKYMROOXBB&dn=The.Beekeeper.2024.2160p.WEB.H265-LilKim%5BTGx%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce</link>
+	</item>
 <item>
 		<title>Aquaman 2: O Reino Perdido [4K]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/84ispMxgLDRvQaA6zlM9i7sdAAI.jpg</thumbnail>
