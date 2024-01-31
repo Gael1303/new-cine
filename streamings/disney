@@ -94,57 +94,10 @@
 <date>09.06.2021</date>
 <studio>DISNEY+</studio>
 <info>Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.</info>
-<items>
-	<item>
-		<title>Loki: 1ª Temporada - Completo</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1752b07558746e4bd734f14432cd716f0ccebd2c</link>
-		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
-	</item>
-	<item>
-		<title>[COLOR yellow][B]2ª TEMPORADA[/B][/COLOR]</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
-		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
-	</item>
-	<item>
-		<title>Loki: T02 E01</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16bda628a4dd9cf2524197be42c373937160776f$nome=Loki: T02 E01 (1080P)</link>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40e3e39d7a89c8c8838e6efbcf4fdf3fa0a50ce7$nome=Loki: T02 E01 (4K)</link>
-		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
-	</item>
-	<item>
-		<title>Loki: T02 E02</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa44edabf9d326f400eb2456d2b2a2d2e348cd12$nome=Loki: T02 E02 (1080P)</link>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db1fe13c656f6593ca5572b09e6f7b11067ecc20$nome=Loki: T02 E02 (4K)</link>
-		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
-	</item>
-	<item>
-		<title>Loki: T02 E03</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a65336c70c51b398d0154242f52315c6dbbd008$nome=Loki: T02 E03 (1080P)</link>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09b9fb23caea2e257bc29053809f1297a8d5c231$nome=Loki: T02 E03 (4K)</link>
-		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
-	</item>
-	<item>
-		<title>Loki: T02 E04</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c666f06e62bc592de4086df2a7e7f02993dc799b$nome=Loki: T02 E04 (1080P)</link>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcd3d7a8c90abc2cff821c05d905d33643a05484$nome=Loki: T02 E04 (4K)</link>
-		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
-	</item>
-	<item>
-		<title>Loki: T02 E05</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90b9cc8381accb7da99d3bc4fe769bf13b7e976c$nome=Loki: T02 E05 (1080P)</link>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ebe862711d68b65d56b701532bf13efee46dbef$nome=Loki: T02 E05 (4K)</link>
-		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
-	</item>
-	<item>
-		<title>Loki: T02 E06</title>LOKI
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3eb0b3ba280cfbe744f175bd30cd68bdd68fc173$nome=Loki: T02 E06 (1080P)</link>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc5a680d75eac1fc8d16f0cb88f2b0f39f33713b$nome=Loki: T02 E06 (4K)</link>
-		<thumbnail>https://image.tmdb.org/t/p/w342/8uVqe9ThcuYVNdh4O0kuijIWMLL.jpg</thumbnail>
-	</item>
-</items>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/loki</externallink>
 </channel>
 
- <channel>
+<channel>
 	<name>Prison Break: Em Busca da Verdade</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJiJ4sEYQPIwjX6jLfT10dMBZ6p.jpg</thumbnail>
 	<fanart>https://www.themoviedb.org/t/p/original/hIRS6oON0rCxtJeO8oVdl1X2f0b.jpg</fanart>
@@ -152,38 +105,7 @@
 	<genre>Ação & Aventura, Crime, Drama</genre>
 	<info>Lincoln Burrows é condenado injustamente à pena de morte. Só lhe resta confiar no irmão Michael Scofield, que executa um plano de fuga e se vê no meio de uma perigosa conspiração.</info>
 	<studio>DISNEY</studio>
-	<items>
-		<item>
-			<title>prision Break - 1ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a24137297570633d5e0dbb0fd3b8aac6ae2d2a2</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/3RfQVAsQjWjDCx6cBD1EeqfdUwD.jpg</thumbnail>
-			<genre>Ação & Aventura, Crime, Drama</genre>
-		</item>
-		<item>
-			<title>prision Break - 2ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2d1bbb9417327572bf8ddd2e7225c691330d18c</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/pex2FJyRPPwHeBHQ7lbdnCWuW7f.jpg</thumbnail>
-			<genre>Ação & Aventura, Crime, Drama</genre>
-		</item>
-		<item>
-			<title>prision Break - 3ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4066580fe267a127d4190f9a5c6dcdcfb8c28dc8</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/vmvyZhPHtvIiKuWBykj4K9Ua9WC.jpg</thumbnail>
-			<genre>Ação & Aventura, Crime, Drama</genre>
-		</item>
-		<item>
-			<title>prision Break - 4ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd147f1518862960c71014c0604ec12e4ae6af0c</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/ihtOTwDfRgAeoKYzPtk2Ok8VvIV.jpg</thumbnail>
-			<genre>Ação & Aventura, Crime, Drama</genre>
-		</item>
-		<item>
-			<title>prision Break - 5ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cb47c3e5480800e6788f44ea41242e47d59c8c7</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/wPqfY5WfRZ4igTWPz0j04BSkk2N.jpg</thumbnail>
-			<genre>Ação & Aventura, Crime, Drama</genre>
-		</item>
-	</items>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/prision-break</externallink>
 </channel>
 		-----------------------------------------------
 		<channel>
@@ -194,53 +116,7 @@
 	<genre>Drama, Sci-Fi & Fantasy</genre>
 	<info>Emma visita uma pequena cidade distante e descobre que o local é habitado por personagens dos contos de fadas com problemas do mundo real.</info>
 	<studio>DISNEY</studio>
-	<items>
-		<item>
-			<title>Era Uma Vez - 1ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:725bdb7bd093beb0186ce55825b1fb586e15eebf</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/p7GkWHSsz5UpC8BmvpEpk9YDCKg.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Era Uma Vez - 2ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:385d4dcc05312abc6d0c378c9df82bc5eac30e65</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/752ySNlJUX9lNltdcXnqoq8EMQB.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Era Uma Vez - 3ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28fbec4546342aeb9e2fa3c2885d7855374eb482</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/rB2zj4jx3CD1gZCPOBgv1Nxkq3o.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Era Uma Vez - 4ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07822727e90df4c6ebe89ed39cfc510650f4ba33</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/s7TzsPKKJjbjiIVId3gAE3Z1YH8.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Era Uma Vez - 5ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d500c19a83dda088e592ded133e6bdd186bdbe2</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/1KaNLzyDyifwvIEQih2CzoTE7xc.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Era Uma Vez - 6ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3a505f239b861370022f40ae3c5f9d0e124ed1c</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/nVSTkbY6JNtJ3dCS8uOn5HqQCQ8.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Era Uma Vez - 7ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93372a86757faf31d02bde430569cf62edc6c0ec$nome=Era Uma Vez T07 E1</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58abdd03227139f817d8cb459e6236e99132c735$nome=Era Uma Vez T07 E2-5</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dded08856b0ff82f4500c0d290930ad8e59ef2$nome=Era Uma Vez T07 E6-12</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bffed763e014206b8c6d79d2119a2aef7277352$nome=Era Uma Vez T07 E13</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431e4dae0e15a2fe52aa79b43d9a22cf2a934347$nome=Era Uma Vez T07 E14</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6fb4162d60ce9c829b543b2bfb1e4387f306409$nome=Era Uma Vez T07 E15-18</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a992d4c60ba04313fc56565c5871507cba9115a$nome=Era Uma Vez T07 E19</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b98e359409a6c6576994a1a4c7ea99f9a02968e$nome=Era Uma Vez T07 E20</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ed07d8fc9fa3176797a4f2eeb59b716bc2b4830$nome=Era Uma Vez T07 E21</link>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5127806038fba198a6b51fecf29915df038b7288$nome=Era Uma Vez T07 E22</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/9HZf7qJGgyzrik8b5BKq7Jyn3OX.jpg</thumbnail>
-			<genre>Drama, Ficção Científica, Fantasia</genre>
-		</item>
-	</items>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/era-uma-vez</externallink>
 </channel>
 		-----------------------------------------------
 		<channel>
@@ -286,6 +162,17 @@
 </channel>
 		-----------------------------------------------
 		<channel>
+	<name>Era uma Vez</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wbsG9jUs9FkYwggrJLGquuYMihF.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/4043WFrLsGnZa3RL4Po9buc1EtF.jpg</fanart>
+	<date>23.10.2011</date>
+	<genre>Drama, Sci-Fi & Fantasy</genre>
+	<info>Emma visita uma pequena cidade distante e descobre que o local é habitado por personagens dos contos de fadas com problemas do mundo real.</info>
+	<studio>DISNEY</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/era-uma-vez</externallink>
+</channel>
+
+<channel>
 	<name>Star Wars: The Bad Batch</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cR9tEVdi17YKwFnsF46i8xie6oo.jpg</thumbnail>
 	<fanart>https://www.themoviedb.org/t/p/original/sjxtIUCWR74yPPcZFfTsToepfWm.jpg</fanart>
@@ -293,143 +180,7 @@
 	<genre>Animação, Action & Adventure, Sci-Fi & Fantasia</genre>
 	<info>Meses depois dos acontecimentos em Kamino, os Mal Feitos continuam sua jornada, navegando pelo Império após a queda da República. Eles encontrarão amigos e inimigos, alguns novos, outros conhecidos, em diferentes missões mercenárias e eletrizantes que os levarão a lugares novos e perigosos.</info>
 	<studio>DISNEY</studio>
-	<items>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E01</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08380999e9882519c30ec796b155db934cb1378e</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E02</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a81214d104ed951ed889fda3ad8e44e8a015aee0</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E03</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11ce75097dab88150d860723741fc16f3fb5c791</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E04</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52f39380d9603d056350070599dfee7cd58d4107</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E05</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a073dd14986d429f083e9c3a73259ccdb34d702e</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E06</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09c2261d565a011ac6431b14c89e41990c96280b</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E07</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63b756178bd362bee0d783b6cb6cdcd194c95549</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E08</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2b8806e2b226207a3742146bab39c1448c9c5f3</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E09</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7149771946e93757234d0ded491811807f443a7b</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E010</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee51b1085927b939b30883af48ea6a4628d595cc</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E011</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ba00015d7b8ebe01a1246e9e88e223885f7e0bb</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E012</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee346e01c0cfe3aa7525bc6a7a02d5209546f27b</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T01 E013</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7242d33468e844295b775ff88b3ffb1c4409663</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>[COLOR yellow][B]2ª Temporada[/B][/COLOR] </title>bad batch
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E01-2</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73fdd120d29a1ba1f341ac80053bf7c636529a38</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E03</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f6af4974a58f2e2ea13cc93dc43463fb760ad48</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E04</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:030588e6c2de1dc30af3daa8469e31e4f50b3217</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E05</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf460e3a1d15f889199864f56db0f9d085b47f25</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E06</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa59b94f14a8b3626eaf42d1fbae56655250fcb3</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E07-8</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7490d9f97b332efa7f0cc9978a61a238e44d9fb</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E09</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcb1e07bcf8fa2d6e3cc1ca3e1dc38ef69e70dad</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E10</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc846041f052d1bc2facabe26c704579088c8cba</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E11</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d372783c0b039962694100e624976e1e63ed2efd</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E12</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bce6c5f45881bff6dd1c56a8e84a02901da548d</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E13</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79be1cb0e66e210a80ab5bcd530d1abcd74096c7</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E14</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:193ba6436eb3bfd8e50e85c1dc3bba3951a72dd4</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: The Bad Batch T02 E15-16</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a78d2e66539c2fd9846dbbbc5034645efde2d1e</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
-		</item>
-	</items>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/bad-batch</externallink>
 </channel>
 		-----------------------------------------------
 		<channel>
@@ -497,78 +248,7 @@
 	<genre>Action & Adventure, Animação, Sci-Fi & Fantasy</genre>
 	<info>Enquanto a guerra dos clones varre a galáxia, os heroicos Cavaleiros Jedi lutam desesperadamente a fim de manter a ordem e restaurar a paz. Mais e mais sistemas sucumbem diante das forças do lado negro e a República Galáctica está cada vez mais sob a pressão dos Separatistas e do seu infinito exército de dróides.</info>
 	<studio>DISNEY</studio>
-	<items>
-		<item>
-			<title>Star Wars: A Guerra dos Clones - 1ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dc5f80fbcea019cc650e919192e6e135c16a4e0</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/jTOQJSKs3oR5B7wfvTXoa0xvPad.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones - 2ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc087fd146ee0bcd6b751a83f45b59b1ec24791</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/wfoPyE5Z40ORvT0Cmtrh70mljxT.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones - 3ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8777941a56ac10e566936174c7df6b96a4cc577a</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/fg9GG6Uk9dbg4OGK4DIpEmMM8Xa.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones - 4ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e154ce5c4c17efa3a33b0f5e2b7b8d36db7e939</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/sagN52UunvEtTkQUG6qEMimi1lo.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones - 5ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:305b82d01460855ac1c23251971d588bb8c75984</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/pXzzoF0bUWaR5Rqw9QHO6tEjLG0.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones - 6ª Temporada</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c723240ea74b5a6aa0abbf863838fd5b732aac8</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/7bDmi4Kd4CBZjffwmAB7nTDIdz7.jpg</thumbnail>
-		</item>
-		<item>
-			<title>[COLOR yellow][B]7ª Temporada[/B][/COLOR] </title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/oEi61vyd3B6Jrx1i9KPJFNCatRn.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones T07 E01 ao 05</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:320f0435c965f58cd69156dfe9cfd49d8a48c475</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/oEi61vyd3B6Jrx1i9KPJFNCatRn.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones T07 E06</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82472ec46185c45f8636ac7a5806ee43e9b015e4</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/oEi61vyd3B6Jrx1i9KPJFNCatRn.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones T07 E07 e 08</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27ed3539f27439e3e28823fc02d456a50411b329</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/oEi61vyd3B6Jrx1i9KPJFNCatRn.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones T07 E09</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7456deb05e22907ea11ca0d4c412165e5da40ec1</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/oEi61vyd3B6Jrx1i9KPJFNCatRn.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones T07 E010</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74ab0c77d36406cd01d82b0098f757225f600bda</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/oEi61vyd3B6Jrx1i9KPJFNCatRn.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones T07 E011</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:734c790d045ea55602a71ba74a2bd7d822b1dc3e</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/oEi61vyd3B6Jrx1i9KPJFNCatRn.jpg</thumbnail>
-		</item>
-		<item>
-			<title>Star Wars: A Guerra dos Clones T07 E012</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15ebfa030901150df7da449315894d1ca394c032</link>
-			<thumbnail>https://image.tmdb.org/t/p/w342/oEi61vyd3B6Jrx1i9KPJFNCatRn.jpg</thumbnail>
-		</item>
-	</items>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/guerra-dos-clones</externallink>
 </channel>
 		-----------------------------------------------
 		<channel>
