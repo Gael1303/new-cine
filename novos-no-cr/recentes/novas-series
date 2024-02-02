@@ -2,6 +2,27 @@
 <channels>
 
 <channel>
+	<name>Sr. & Sra. Smith</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jYsfWIfHLKo3SLHRjVQUbqQprSu.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/rlCdBGIFIkFmkzs5h2PNgQOo1GQ.jpg</fanart>
+	<date>02.02.2024</date>
+	<genre>Ação, Aventura</genre>
+	<info>Conheçam os Smiths: dois desconhecidos solitários, John e Jane, que abriram mão de suas vidas e identidades para se tornarem parceiros – tanto na espionagem quanto no casamento.</info>
+	<studio>AMAZON</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/smith</externallink>
+</channel>
+		-
+		<channel>
+	<name>Hotel Hazbin</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg</thumbnail>
+	<fanart></fanart>
+	<date>18.01.2024</date>
+	<genre>Comédia, Animação, Sci-Fi & Fantasy</genre>
+	<info>Charlie Morningstar, a Princesa do Inferno, tem dificuldades para convencer anjos e demônios de que toda alma pode ser redimida. Cante e xingue junto nessa comédia animada e musical para maiores sobre segundas chances.</info>
+	<studio>AMAZON</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/hotel-hazbin</externallink>
+</channel>
+<channel>
 	<name>Mestres do Ar</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2LbDCJHciI3pqcy83twtmvrJfk2.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/menEyCOdkjXqwpJy3cwOH8kfZrj.jpg</fanart>
