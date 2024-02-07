@@ -3,6 +3,14 @@
 
 
 <item>
+		<title>As Marvels [4K]</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sPmmgdmApfjX9x2mg02bo0aUOU9.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg</fanart>
+		<genre>Ficção científica, Aventura, Ação</genre>
+		<date>09.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z5T7FUI5FWN5LK7V5L43UDQG6NCABEQE&dn=As%20Marvels%202023%20WEB-DL%202160p%20IMAX%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+	</item>
+<item>
 		<title>Beekeeper: Rede de Vingança [4K] [Leg]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cCGFvoxzaBbYM3I68s6F939fybN.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg</fanart>
@@ -35,14 +43,7 @@
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F5A2QORKHNJYP4QTESJJHET47K2ZSTRB&dn=Wonka%202023%20WEB-DL%202160p%20x265%20DV%20HDR%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 	</item>
 		-
-		<item>
-		<title>As Marvels [4K] [Leg]</title>
-		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sPmmgdmApfjX9x2mg02bo0aUOU9.jpg</thumbnail>
-		<fanart>https://image.tmdb.org/t/p/original/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg</fanart>
-		<genre>Ficção científica, Aventura, Ação</genre>
-		<date>09.11.2023</date>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QM74PYHLGGXJFPOV7HTIVGYYMIZ27Z3O&dn=The.Marvels.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX%5BTGx%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce</link>
-	</item>
+		
         <item>
 		<title>Napoleão [4K]</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg</thumbnail>
