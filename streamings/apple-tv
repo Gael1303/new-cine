@@ -2,6 +2,18 @@
 
 <channels>
 
+
+		<channel>
+	<name>Histórico Criminal</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fY6yBzy4ea7yCWW57G5q1EKxnU4.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/UnsztqJYaIptKVXDm6pRddzFLw.jpg</fanart>
+	<date>10.01.2024</date>
+	<genre>Crime, Drama</genre>
+	<info>No coração de Londres, uma ligação anônima faz dois detetives brilhantes – uma jovem no início da carreira e um homem muito bem relacionado e determinado a proteger seu legado – entrarem numa luta para que um antigo erro da justiça seja corrigido.</info>
+	<studio>APPLE TV+</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/historico-criminal</externallink>
+</channel>
+		-
 <channel>
 	<name>Mestres do Ar</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2LbDCJHciI3pqcy83twtmvrJfk2.jpg</thumbnail>
