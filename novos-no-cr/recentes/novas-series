@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
-
+<channel>
+	<name>Zorro</name>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/x7gDizyLjPZi5DdZ6jSbSM2MgMU.jpg</fanart>
+	<date>25.01.2024</date>
+	<genre>Action & Adventure, Drama</genre>
+	<info>Diego de la Vega volta à Califórnia para vingar o assassinato de seu pai. Após ser eleito como o Zorro, começa uma luta contra Nah-lin, uma indígena convencida de que ele roubou seu legado. Além disso, Diego enfrentará o Governador, o perverso líder da comunidade chinesa e uma sociedade secreta enquanto aprende a colocar o bem comum acima do seu, ainda que tenha que sacrificar seu amor por Lolita.</info>
+	<items>
+		<item>
+			<title>Zorro - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da3676f83f36d1919e4f1dc22a53275f3a70d096&dn=Zorro.S01.1080p.WEB-DL.DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+			<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg</thumbnail>
+			<genre>Action & Adventure, Drama</genre>
+		</item>
+		-
+		<channel>
+	<name>Histórico Criminal</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fY6yBzy4ea7yCWW57G5q1EKxnU4.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/UnsztqJYaIptKVXDm6pRddzFLw.jpg</fanart>
+	<date>10.01.2024</date>
+	<genre>Crime, Drama</genre>
+	<info>No coração de Londres, uma ligação anônima faz dois detetives brilhantes – uma jovem no início da carreira e um homem muito bem relacionado e determinado a proteger seu legado – entrarem numa luta para que um antigo erro da justiça seja corrigido.</info>
+	<studio>APPLE TV+</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/historico-criminal</externallink>
+</channel>
+		-
 <channel>
 	<name>Sr. & Sra. Smith</name>
 	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jYsfWIfHLKo3SLHRjVQUbqQprSu.jpg</thumbnail>
