@@ -1,0 +1,22 @@
+<channel>
+        <name>[COLOR green]•[/COLOR]Top IMDb</name>
+        <thumbnail>https://ia600501.us.archive.org/2/items/1700740365761/1700740365517.png</thumbnail>
+        <fanart>https://assets.b9.com.br/wp-content/uploads/2019/05/netflix-library-1280x720.jpg</fanart>
+		<info>Animes mais bem avaliadas</info>
+		<externallink>https://</externallink>
+   </channel>
+<channel>
+        <name>[COLOR yellow]•[/COLOR]Streamings</name>
+        <thumbnail>https://ia600501.us.archive.org/2/items/1700740365761/1700740365699.png</thumbnail>
+        <fanart>https://assets.b9.com.br/wp-content/uploads/2019/05/netflix-library-1280x720.jpg</fanart>
+		<info>Animes separadas por streamigs</info>
+		<externallink>https://raw.githubusercontent.com/Gael1303/new-cine/main/animes-pasta</externallink>
+   </channel>
+
+	<channel>
+        <name>[COLOR green]•[/COLOR]Populares</name>
+        <thumbnail>https://ia600501.us.archive.org/2/items/1700740365761/1700740365590.png</thumbnail>
+        <fanart>https://assets.b9.com.br/wp-content/uploads/2019/05/netflix-library-1280x720.jpg</fanart>
+		<info>Animes Populares</info>
+		<externallink>https://</externallink>
+    </channel>
