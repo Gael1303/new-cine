@@ -3,6 +3,87 @@
 <items>
 
 <item>
+		<title>Fazendo Meu Filme (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x57IrM7mxk8iAmvDYWUqhZCkEFm.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/vWyXzPHbIwWFO8cE5xVpgoDRPwn.jpg</fanart>
+		<genre>Romance, Comédia</genre>
+		<date>14.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a7debed539a5266ad4066aacc7a6c2ba25efbdf</link>
+		<info>Tudo muda na vida de Estefânia (ou melhor, Fani!) quando ela é aprovada em 1º lugar para um intercâmbio internacional. Agora ela precisa decidir se fica no Brasil e continua com sua rotina ou se aventura em outro país e fica longe do seu crush Léo.</info>
+	</item>
+	<item>
+		<title>Amor em Soweto (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1XYiQqxCPzYTomOUg0otKYKAo8b.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/2T2NU30YsXwk0Ir4Vi0IDTaGYGC.jpg</fanart>
+		<genre>Comédia, Romance</genre>
+		<date>14.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a772dfba44f5d989c9e7d83496deb9848b4aee</link>
+		<info>Para conseguir que seus três filhos se casem logo, uma mãe promete a própria casa para quem for o primeiro da fila, dando início a uma corrida rumo ao altar.</info>
+	</item>
+	<item>
+		<title>Agência do Amor (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3GsgIMVv9pnp3hUayihXEgCSEog.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/nhhsKLA46CUa7kXwXgamaDYZ1mA.jpg</fanart>
+		<genre>Romance, Drama</genre>
+		<date>13.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8547b3bb921909230896437a8e22c88e7ff1cb29</link>
+		<info>Um jornalista cético aceita participar de uma terapia para corações partidos em prol de uma reportagem, mas acaba abrindo o coração para a terapeuta.</info>
+	</item>
+	<item>
+		<title>Me Mate, Querido (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2bHicVzkma4q022cxQeNq2zTwbo.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/wQotaner8FU5SBnYvyFJADPGlzS.jpg</fanart>
+		<genre>Comédia, Romance</genre>
+		<date>13.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59df9861bbfaac31bc09a7c739cdc4790696d8e8</link>
+		<info>Sorte ou azar? Um bilhete de loteria premiado abala a relação de um casal, que planeja eliminar um ao outro para ficar com o dinheiro.</info>
+	</item>
+	<item>
+		<title>The Space Race (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k92rpuDXYxdy4c4LHMNNhU12lov.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/kF5EH3994LpDPWMAHgJJDyv6k2y.jpg</fanart>
+		<genre>Documentário</genre>
+		<date>13.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:593c6f79a3b2df9664ecf78b9d02d2d6b6175b2b</link>
+		<info>A história pouco conhecida por trás da corrida para levar o primeiro homem negro ao espaço. O evento tem uma história repleta de propaganda política da Guerra Fria e questões relacionadas ao Movimento dos Direitos Civis nos Estados Unidos.</info>
+	</item>
+	<item>
+		<title>Cinco Chances Para Ser Feliz (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jqTzXGckFUrqbAyQdzlG59HpuZH.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/fHP8mbkT4bGDsn2en5TzHg54Fqa.jpg</fanart>
+		<genre>Comédia, Romance</genre>
+		<date>12.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab8d24da90a6d1065c0d3c1301cbc25c2e11e652</link>
+		<info>Mais preocupada com os negócios do que com o amor, Lia precisa participar de cinco encontros às cegas que sua família e seu melhor amigo arrumaram depois de uma vidente dizer a ela que sua vida amorosa e o sucesso de sua casa de chás estão interligados.</info>
+	</item>
+	<item>
+		<title>O Aprendiz do Tigre (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dJOIVQoyjoK0hPlmh0nDFsFROvW.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/gcnc7ABoQ0aE752fpGxDzwRjmJ0.jpg</fanart>
+		<genre>Animação, Ação, Aventura, Família, Fantasia</genre>
+		<date>02.04.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aaf5cc0cbb0a4a20552005b3fa59de6f9777d6d7</link>
+		<info>Conta a história de Tom, um menino que se torna aprendiz de feiticeiro ao conhecer o tigre falante Mr. Hu. O animal muda de forma e leva o garoto a um mundo mágico com outros seres mitológicos, como a fênix e o dragão.</info>
+	</item>
+	<item>
+		<title>Patos! (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/apAIqBHMqjKlId60cj7V32bZIS3.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/meyhnvssZOPPjud4F1CjOb4snET.jpg</fanart>
+		<genre>Animação, Ação, Aventura, Comédia, Família</genre>
+		<date>06.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:288262465fd5fc663b7e5dcf2393e89a9dbc8a65</link>
+		<info>A família Mallard está um pouco refém da rotina. Enquanto Mack, o pai, se contenta em manter sua família segura nos arredores de um lago da Nova Inglaterra para sempre, Pam, a mãe, está ansiosa para agitar as coisas e mostrar a seus filhos – o adolescente Dax e a patinha Gwen – o mundo inteiro. Quando uma família de patos migratórios aterrissa em seu lago com histórias emocionantes de lugares distantes, Pam convence Mack a embarcar em uma viagem em família, via Nova York, para a Jamaica tropical.</info>
+	</item>
+	<item>
+		<title>Good Burger 2 (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pcwOHNTIy6pVOLj6Tjp8tSL9bwF.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/kKxwzAbrA2mY7ixsO3f9uLF7S6v.jpg</fanart>
+		<genre>Comédia, Família</genre>
+		<date>22.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78ad363f5bb69c7b3b1fd484753678d054996d10</link>
+		<info>Dexter Reed está sem sorte depois que outra de suas invenções falha. Ed dá as boas-vindas a Dex de volta ao Good Burger de braços abertos e lhe devolve seu antigo emprego. Dexter irá colocar o destino do Good Burger em risco mais uma vez.</info>
+	</item>
+<item>
 		<title>Cinzas (2024)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/44BquVRWlRN3B3Xh6yZxNxFdTER.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/fTsDaTNpWwbFIm4bVnLVHu9HNsm.jpg</fanart>
