@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+
+<item>
+		<title>Desencaixados (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQo7PrvRRGSnNYJqFX0cd5LGiy3.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/h4Q2nvluJLQrSSIFRzwktIit7rJ.jpg</fanart>
+		<genre>Drama</genre>
+		<date>26.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCGVPS67RYQ56BFVGVXLPSZF7XDUOX7S&dn=Desencaixados%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Três amigos vivem seus 20 e poucos anos em Mumbai, encarando romances, sonhos e decepções na era das redes sociais.</info>
+	</item>
+	<item>
+		<title>Agradecimento e Desculpas (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/24WSZJyiQbLuH1esYnVhJOvQXNx.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/kbxWL3hsZVmNZ1v7FVqpPWaWOZA.jpg</fanart>
+		<genre>Comédia, Drama</genre>
+		<date>26.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AWNX4AZRXBTVK3XSFGVD7PYQOCMVK2QM&dn=Agradecimento%20e%20Desculpas%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Solitária no final da gestação, Sara recebe uma ajuda inesperada com a chegada de Linda, sua irmã distante.</info>
+	</item>
  <item>
 		<title>A Sociedade da Neve</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4lrZJAvbE4UUUsvHavA0HEAjM5H.jpg</thumbnail>
