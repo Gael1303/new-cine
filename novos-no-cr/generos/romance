@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+ <item>
+		<title>Cinzas (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/44BquVRWlRN3B3Xh6yZxNxFdTER.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/fTsDaTNpWwbFIm4bVnLVHu9HNsm.jpg</fanart>
+		<genre>Romance, Drama, Fantasia</genre>
+		<date>09.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EGCPRCSD46IM7B7ASETVOW4FLM3JZP4L&dn=Cinzas%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>De uma fantasia empolgante a um caso perigoso, uma mulher casada e rica vê sua vida desmoronar após começar a ler um livro não publicado.</info>
+	</item>
+	<item>
+		<title>Upgrade: As Cores do Amor (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rqfqLTNpueBtdtMO0QZ8XzQaDi1.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/pRmF6VBsRnvWCbLB9P80UvZFMyK.jpg</fanart>
+		<genre>Romance, Comédia</genre>
+		<date>07.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QLWIQBW4FESNMR4WYLVLPZ4UFAUMYM57&dn=Upgrade%20-%20As%20Cores%20do%20Amor%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Ana, aspirante a curadora de arte, é inesperadamente promovida para a primeira classe em um voo para uma viagem de trabalho de última hora para Londres. Ao se acomodar neste estilo de vida mais confortável na cabine da primeira classe, ela conhece o bonito e rico William e decide viver a fantasia um pouco mais do que deveria.</info>
+	</item>
+	<item>
+		<title>Fazendo Meu Filme (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x57IrM7mxk8iAmvDYWUqhZCkEFm.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/vWyXzPHbIwWFO8cE5xVpgoDRPwn.jpg</fanart>
+		<genre>Romance, Comédia</genre>
+		<date>14.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a7debed539a5266ad4066aacc7a6c2ba25efbdf</link>
+		<info>Tudo muda na vida de Estefânia (ou melhor, Fani!) quando ela é aprovada em 1º lugar para um intercâmbio internacional. Agora ela precisa decidir se fica no Brasil e continua com sua rotina ou se aventura em outro país e fica longe do seu crush Léo.</info>
+	</item>
+	<item>
+		<title>Amor em Soweto (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1XYiQqxCPzYTomOUg0otKYKAo8b.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/2T2NU30YsXwk0Ir4Vi0IDTaGYGC.jpg</fanart>
+		<genre>Comédia, Romance</genre>
+		<date>14.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a772dfba44f5d989c9e7d83496deb9848b4aee</link>
+		<info>Para conseguir que seus três filhos se casem logo, uma mãe promete a própria casa para quem for o primeiro da fila, dando início a uma corrida rumo ao altar.</info>
+	</item>
+	<item>
+		<title>Agência do Amor (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3GsgIMVv9pnp3hUayihXEgCSEog.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/nhhsKLA46CUa7kXwXgamaDYZ1mA.jpg</fanart>
+		<genre>Romance, Drama</genre>
+		<date>13.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8547b3bb921909230896437a8e22c88e7ff1cb29</link>
+		<info>Um jornalista cético aceita participar de uma terapia para corações partidos em prol de uma reportagem, mas acaba abrindo o coração para a terapeuta.</info>
+	</item>
+	<item>
+		<title>Me Mate, Querido (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2bHicVzkma4q022cxQeNq2zTwbo.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/wQotaner8FU5SBnYvyFJADPGlzS.jpg</fanart>
+		<genre>Comédia, Romance</genre>
+		<date>13.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59df9861bbfaac31bc09a7c739cdc4790696d8e8</link>
+		<info>Sorte ou azar? Um bilhete de loteria premiado abala a relação de um casal, que planeja eliminar um ao outro para ficar com o dinheiro.</info>
+	</item>
 <item>
 		<title>Última Chamada para Istambul</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2SUs5rHpId4bxiO0r8fXFZlDvUq.jpg</thumbnail>
