@@ -1,8 +1,133 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-
-<SetViewMode>500</SetViewMode>
-      
+ <item>
+		<title>A Sociedade da Neve</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4lrZJAvbE4UUUsvHavA0HEAjM5H.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vdpE5pjJVql5aD6pnzRqlFmgxXf.jpg</fanart>
+		<genre>Drama, História</genre>
+		<date>04.01.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CREWZLS3UTAXYUHCKTU5B3BPN2GY4H3Z&dn=A%20Sociedade%20da%20Neve%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>"Baseado em uma impressionante história real"
+		
+Em 13 de outubro de 1972, o voo 571 da Força Aérea Uruguaia, fretado para levar um time de rúgbi ao Chile, cai em uma geleira no coração da Cordilheira dos Andes.</info>
+	</item>
+	<item>
+		<title>Tia Virgínia</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wUQtp6qollGxwZoWKoWWe4bHpzS.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9DZBQqBf5NoFrhqi4wRORY2a20Y.jpg</fanart>
+		<genre>Drama</genre>
+		<date>09.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:283BC18630C65A74C15711B503776794E5E5B589&dn=Tia.Virginia.2023.1080p.WEB-DL.x264.NAC&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
+		<info>Tia Virgínia tem como protagonista uma mulher de 70 anos que nunca se casou nem teve filhos e, convencida pelas irmãs, mudou-se de cidade para cuidar dos pais. O filme se passa em um único dia, o dia em que Virgínia se prepara para receber as irmãs Vanda e Valquíria que viajam para celebrar o Natal.</info>
+	</item>
+	<item>
+		<title>Napoleão</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oaUS0YJN3cHpvin1BMNmmnv0gRX.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/f1AQhx6ZfGhPZFTVKgxG91PhEYc.jpg</fanart>
+		<genre>Drama, História, Guerra</genre>
+		<date>22.11.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MNQYM2PE7XFJJOGD65JYR2CVIQQ2UNEI&dn=Napole%C3%A3o%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Um olhar pessoal sobre as origens do líder militar francês e sua rápida e implacável ascensão a imperador. A história é vista através do prisma do relacionamento dependente e volátil de Napoleão com sua esposa e amor verdadeiro, Josefina.</info>
+	</item>
+	<item>
+		<title>Maboroshi (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q1aMDPWXrSncpIjV2pe3FeExfup.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/9yOe8oOyLw5iTiOUhm0F8I17aw9.jpg</fanart>
+		<genre>Animação, Drama, Romance, Fantasia</genre>
+		<date>15.01.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HIUKBOPKIEBT35BKSYXXDF3OKDVJ77EX&dn=Maboroshi%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>A explosão de uma fábrica deixa uma cidadezinha congelada no tempo. Agora, o adolescente Masamune e seus amigos precisam se adaptar a essa realidade.</info>
+	</item>
+	<item>
+		<title>60 Minutos (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n5wjsuYh954HLagCnqrLpPT8xi7.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/adNMDatnEnIEo4LUo1KyhouP6VA.jpg</fanart>
+		<genre>Ação, Drama</genre>
+		<date>19.01.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XXU5KVS3HRXUBQK4DIVX3YLQGOVJBNSS&dn=60%20Minutos%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Desesperado para não perder a guarda da filha, um lutador de MMA abandona uma luta importante e corre por Berlim para chegar à festa de aniversário da menina.</info>
+	</item>
+	<item>
+		<title>Alarme de Incêndio (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qXB0yZbECic73jLrqvCgcpL9dhU.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/A1R15lvG8Cdyo6q3dLAleDovn9G.jpg</fanart>
+		<genre>Thriller, Drama</genre>
+		<date>18.01.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EKSTNEZMQONXM3U77RRVOV2CULD66XN3&dn=Alarme%20de%20Inc%C3%AAndio%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Uma jovem estudante descobre pistas sobre um incêndio na escola e precisa desvendar se foi acidente ou intencional</info>
+	</item>
+	<item>
+		<title>Minha Solidão Tem Asas (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6v1U61XbrCXVF7CVAjRBTslUmaA.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/poKmqgB2ADLmP4fadBiiHakiZ03.jpg</fanart>
+		<genre>Drama</genre>
+		<date>28.08.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26791429A06BE4F668636058B7B5D6397249D9C9&dn=Minha.Solidao.Tem.Asas.2024.1080p.WEB-DL.x264.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
+		<info>Dan, um artista de rua em ascensão, garante seu sustento praticando roubos. Mas a saída de seu pai da prisão ressuscita seus demônios, forçando-o a fugir.</info>
+	</item>
+	<item>
+		<title>Operação Ilegal (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/njq4gvZefe4eiKSUMO2oewbJSXL.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/3eXpccwCNs1ZMfyEUOGyxN6VfCt.jpg</fanart>
+		<genre>Drama, Thriller</genre>
+		<date>05.05.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35D581DC0E36D6CC4845136F1AEC41EC1809F480&dn=Operacao.Ilegal.2023.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
+		<info>Madri, Espanha. Durante um procedimento de despejo, Dani, um policial, faz uma descoberta chocante.</info>
+	</item>
+	<item>
+		<title>Segredos de Família (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nWJHW31wMWIOCThIv0RdDIWkX9m.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/sDBsp5KWgSbQYHeDbvPu8N10Cob.jpg</fanart>
+		<genre>Drama, Faroeste</genre>
+		<date>13.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1836E1E8B912B4E81C37F1DB52E631A790C12DF&dn=Segredos.de.Fam%c3%adlia.2023.1080p.WEB-DL.x264.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
+		<info>Uma filha sequestrada, um passado oculto revelado e uma chance aparentemente fútil de resgate. Agora, o Reverendo Jeremiah Jacobs e sua esposa Martha devem superar as mentiras do passado para encontrar sua esperança para o futuro.</info>
+	</item>
+	<item>
+		<title>Cinzas (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/44BquVRWlRN3B3Xh6yZxNxFdTER.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/fTsDaTNpWwbFIm4bVnLVHu9HNsm.jpg</fanart>
+		<genre>Romance, Drama, Fantasia</genre>
+		<date>09.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EGCPRCSD46IM7B7ASETVOW4FLM3JZP4L&dn=Cinzas%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>De uma fantasia empolgante a um caso perigoso, uma mulher casada e rica vê sua vida desmoronar após começar a ler um livro não publicado.</info>
+	</item>
+	<item>
+		<title>Indiferença (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ufFrD3NgeFZdNlORyOgXkjCyeJA.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/yrO8MHXReLdvKhf1qtSjSrpm7gE.jpg</fanart>
+		<genre>Drama, Crime</genre>
+		<date>09.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KHDOCMBX6MROAVAAI3DBUCLNEGRTWGTC&dn=Indiferen%C3%A7a%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Uma jornalista local começa uma investigação sobre casos de abuso encobertos em um abrigo para meninas.</info>
+	</item>
+	<item>
+		<title>Suncoast (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/cJOYsYSz3b3u0JpIWLBEfRam1eR.jpg</fanart>
+		<genre>Drama</genre>
+		<date>02.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BCZFU3JFR2RO4TW6BV6RSZPMB3LKVFZI&dn=Suncoast%202024%20WEB-DL%201080p%20x264%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+		<info>Uma história semiautobiográfica sobre a passagem para a vida adulta de uma jovem que lida com a doença grave do irmão.</info>
+	</item>
+	<item>
+		<title>O Sequestro do Voo 375 (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nY5v3pTXZjms3m1ZrUMlt3teL7X.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/dcFnkZ6Cnm60PKgroKqljrthgI8.jpg</fanart>
+		<genre>Thriller, Drama</genre>
+		<date>07.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9DE0AFE80BA1DD5D7DB922944B37ACD4D509BBE&dn=O.Sequestro.do.Voo.375.2023.1080p.WEB-DL.x264.NACiONAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2fwstracker.online</link>
+		<info>Plano Sarney. Brasil em dificuldades econômicas, como sempre acontece. Sem emprego, Nonato resolve protestar de medida dramática: sequestrar o voo 375, da Vasp, com mais de cem passageiros - e ordena ao comandante Murilo que jogue o avião em cima do Palácio do Planalto. Para evitar a tragédia, o piloto acaba sendo obrigado a executar manobras que jamais haviam sido tentadas com um avião daquele tamanho.</info>
+	</item>
+	<item>
+		<title>Agência do Amor (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3GsgIMVv9pnp3hUayihXEgCSEog.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/nhhsKLA46CUa7kXwXgamaDYZ1mA.jpg</fanart>
+		<genre>Romance, Drama</genre>
+		<date>13.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8547b3bb921909230896437a8e22c88e7ff1cb29</link>
+		<info>Um jornalista cético aceita participar de uma terapia para corações partidos em prol de uma reportagem, mas acaba abrindo o coração para a terapeuta.</info>
+	</item>
        <item>
 		<title>Última Chamada para Istambul</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2SUs5rHpId4bxiO0r8fXFZlDvUq.jpg</thumbnail>
