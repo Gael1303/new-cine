@@ -1,7 +1,105 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <items>
-
+<item>
+		<title>Lights Out (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/usDIBB0hOqLM8wMSGistfqxjukZ.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg</fanart>
+		<genre>Ação, Thriller</genre>
+		<date>16.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:486dbee85e846c12a30720484fd7d3288d46af61</link>
+		<info>Um ex-soldado à deriva se torna um lutador clandestino com a ajuda de um ex-presidiário recém-libertado, colocando os dois contra policiais corruptos e assassinos de aluguel que estão atrás deles e de todos aqueles com quem se importam.</info>
+	</item>
+	<item>
+		<title>Einstein e a Bomba (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGEB1qR73d8XNhnHCXqnkuMokIk.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/bHquThyAoGConfO8qrhUMAfHT9W.jpg</fanart>
+		<genre>Documentário, Drama</genre>
+		<date>14.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e22720d317e0335d43529759853a1f8b3c6eb98</link>
+		<info>O que aconteceu depois que Einstein fugiu da Alemanha nazista? Com imagens de arquivo e as palavras dele, este documentário mergulha na mente do gênio torturado.</info>
+	</item>
+	<item>
+		<title>A Torre do Inferno (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xzy7iE2swljhMDSqmkROyBEQCmK.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/23ODTNCy0SC70p4ItuMIih3UemB.jpg</fanart>
+		<genre>Terror, Fantasia, Drama</genre>
+		<date>08.02.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c63788db7aa32a7e8f7b3efb46846e1de5994a51</link>
+		<info>Quando os habitantes de uma torre acordam, descobrem que seu prédio está envolto em uma névoa opaca que obstrui portas e janelas, enquanto uma estranha matéria escura devora tudo o que tenta passar por ela.</info>
+	</item>
+	<item>
+		<title>Plano de Aposentadoria (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/svRPl0vKtvtIAV1baUTcTiRlzsZ.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/436mzGC6sSM1YsHxdtHD6jVtGxX.jpg</fanart>
+		<genre>Comédia, Ação</genre>
+		<date>24.08.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc6792b895e29e3b74f9a42678ca2ada1e3feea3</link>
+		<info>Quando Ashley e sua filha Sarah se envolvem em um empreendimento criminoso que coloca suas vidas em risco, ela recorre ao pai afastado Matt, atualmente vivendo a vida de um vagabundo de praia aposentado nas Ilhas Cayman.</info>
+	</item>
+	<item>
+		<title>A Cor Púrpura (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cbm0FPGhukTfqIJOZkbu2gdCZK8.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/iP3fL9jwcYeGMyfZKAT6KqW1qc.jpg</fanart>
+		<genre>Música, Drama</genre>
+		<date>25.12.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2680564848917279908d503610e3a751f77810de</link>
+		<info>A Cor Púrpura é o filme musical baseado no romance homônimo de Alice Walker. A história é contada a partir das cartas escirtas por uma jovem à Deus. Celie (Fantasia Barrino) é uma mulher afro-americana que vive no sul dos Estados Unidos no começo do século XX. Ela tenta superar os traumas deixados pelo abusos do pai e do marido ao longo dos anos e, para isso, contará com o apoio e a força de um grupo de mulheres que constrói uma irmandade.</info>
+	</item>
+	<item>
+		<title>Tripped Up (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k0TjTcPfifQXjpTbE7cueD4XFas.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/7HvYBEvfUByYowhnPK27NOUjJNF.jpg</fanart>
+		<genre>Comédia</genre>
+		<date>20.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd0d1a3236becf0f076ac366f4c548b5dbfc10a3</link>
+		<info>Nessa comédia jovem, quatro meninas que são amigas desde criança e agora que estão em seus vinte e poucos anos decidem botar o pé na estrada em direção ao ‘Saucy Food Festival’ no norte do estado de Nova York. Unidas pela diversão e pela aventura, elas dão de cara com surpresas e dificuldades pela viagem, pondo sua amizade à prova e aproximando ainda mais as 4 amigas.</info>
+	</item>
+	<item>
+		<title>Bobi Wine: The People’s President (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j0CxiYRhjDn1jwL6OTzdrLUPLBM.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/eBWByfYdAY4Gcch07TIJ0WjpTbB.jpg</fanart>
+		<genre>Documentário</genre>
+		<date>28.07.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a4298ba73d4402b790abb84f33947b26cd4cb84</link>
+		<info>O líder da oposição, ativista e estrela musical de Uganda, Bobi Wine, usa sua música para combater o regime liderado por Yoweri Museveni, que liderou o país por 35 anos. O documentário acompanha sua corrida às eleições presidenciais de 2021.</info>
+	</item>
+	<item>
+		<title>Um Pouco de Mim, Um Pouco de Nós (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1800CbGziGtISRgmYCr62sFTSOf.jpg</thumbnail>
+		<fanart></fanart>
+		<genre></genre>
+		<date>07.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+		<info>O diretor André Bushatsky revisita a Segunda Guerra Mundial pelos depoimentos de sobreviventes do Holocausto que conseguiram escapar do pesadelo nazista e reconstruíram suas vidas no Brasil. E com a ajuda de jornalistas e estudiosos, procura esclarecer porque a História tem o pendor para a repetição e o que podemos fazer em sociedade para garantir que os mesmos erros não se repitam.</info>
+	</item>
+	<item>
+		<title>O Abismo (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nAZn5jNqEUpBY9oUSQ9I2tekUVj.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/hYmqZt9LYNLxQvlDqOBnYAfV2Oq.jpg</fanart>
+		<genre>Thriller, Drama, Ação</genre>
+		<date>15.09.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc48f86d64e4614387bf4d29134d7e5047a8e4c5</link>
+		<info>Com o afundamento da cidade sueca de Kiruna, Frigga se vê dividida entre a família e o trabalho como chefe de segurança da maior mina do mundo.</info>
+	</item>
+	<item>
+		<title>Eu Voltarei (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTUmZO6ApTUaHLY75WKkR2bSx69.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/cOF7iIvtW4FxHACDvrU4HUvLTwD.jpg</fanart>
+		<genre>Drama</genre>
+		<date>10.03.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:090c32741e05404802e957387cb569f8f5d493bf</link>
+		<info>Alejandra, uma frívola mãe divorciada de dois filhos, precisa enfrentar o súbito desaparecimento de seu irmão Salvador. O misterioso sumiço parece estar relacionado com o documentário e a investigação realizados por Salvador sobre os desastres ecológicos cometidos por uma grande mineradora canadense. Para completar, sua cunhada morre, deixando Alejandra responsável por cuidar de todos, lutar pela verdade e proteger seus entes queridos. Maya, a cadela da família, é tanto testemunha de todos os altos e baixos da família como demonstração de quanto o amor é poderoso..</info>
+	</item>
+	<item>
+		<title>The Royal Hotel (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e4obRUZWfQjAygC7FiDqSO1iBBm.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/cofs7Y72FkRjALbOOOz8q7Uty6h.jpg</fanart>
+		<genre>Thriller, Drama</genre>
+		<date>18.10.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e7f9834ee5d0ecf4b2b39aecea0fe66e6580e27</link>
+		<info>As mochileiras canadenses Hanna e Liv aceitam um emprego em um remoto pub australiano para ganhar um dinheiro extra e se deparam com um grupo de moradores locais indisciplinados e uma situação que foge rapidamente do controle.</info>
+	</item>
 <item>
 		<title>Fazendo Meu Filme (2024)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x57IrM7mxk8iAmvDYWUqhZCkEFm.jpg</thumbnail>
