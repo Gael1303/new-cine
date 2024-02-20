@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
-
+<channel>
+	<name>Bom Dia, Verônica</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kbyZ84DuLJGgxdMnC7bjHlcjJ3e.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/v1I0MO1uSplZiF9hxUv6UXjMSjj.jpg</fanart>
+	<date>01.10.2020</date>
+	<genre>Drama, Crime</genre>
+	<info>Uma policial investiga um predador sexual e acaba descobrindo um casal com um segredo horrível e um esquema de corrupção sinistro.</info>
+	<studio>NETFLIX</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/bom-dia-veronica</externallink>
+</channel>
+		-
+		<channel>
+	<name>House of Ninjas</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4NMrJcJvXdy9FDlOshNGWOA4AEj.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/nOI4Pv6LGpxEdvwRAHJR8aIcbgf.jpg</fanart>
+	<date>15.02.2024</date>
+	<genre>Drama, Action & Adventure</genre>
+	<info>Anos depois de se aposentar da incrível vida ninja, uma família problemática precisa voltar à ativa para combater uma série de ameaças.</info>
+	<studio>NETFLIX</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/house-of-ninjas</externallink>
+</channel>
+		-
+		<channel>
+	<name>A Killer Paradox</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yMx1rTwsP9Q6S1sFKZrXMYwJEdM.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/4pq6lVVIQlCOkIVvxigFnZSMXLA.jpg</fanart>
+	<date>09.02.2024</date>
+	<genre>Crime, Comédia, Mistério</genre>
+	<info>Quando uma morte acidental leva a outra, um homem comum se envolve em um jogo de gato e rato com um detetive obstinado.</info>
+	<studio>NETFLIX</studio>
+	<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/raw_2/killer-paradox</externallink>
+</channel>
+		-
 		<channel>
 	<name>The Sinner</name>
 	<studio>NETFLIX</studio>
@@ -13,7 +45,6 @@
 	<info>Quando um assassinato terrível apavora uma cidadezinha, a busca por respostas de um detetive revela uma teia de segredos sinistros.</info>
 </channel>
 -
-
 <channel>
 	<name>Fate: A Saga Winx</name>
 	<studio>NETFLIX</studio>
