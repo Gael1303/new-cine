@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 <channel>
+	<name>Avatar: O Último Mestre do Ar</name>
+	<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k0D3HOcEJmVFJXZHVPu8y36tNE4.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/u62XtaV8Iski2CgAUM8Yp0ZgKxD.jpg</fanart>
+	<date>22.02.2024</date>
+	<genre>Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
+	<info>Um garoto conhecido como o Avatar precisa dominar os quatro poderes elementares para salvar um mundo em guerra e enfrentar um inimigo implacável.</info>
+	<items>
+		<item>
+			<title>Avatar: O Último Mestre do Ar - 1ª Temporada</title>
+			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:145e795248b5206137a654e8462e99eb83fb32fc</link>
+			<thumbnail>https://image.tmdb.org/t/p/original/u62XtaV8Iski2CgAUM8Yp0ZgKxD.jpg</thumbnail>
+			<genre>Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
+		</item>
+	</items>
+</channel>
+<channel>
 	<name>Zorro</name>
 	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/x7gDizyLjPZi5DdZ6jSbSM2MgMU.jpg</fanart>
