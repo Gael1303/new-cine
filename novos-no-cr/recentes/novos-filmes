@@ -2,6 +2,33 @@
 
 <items>
 <item>
+		<title>Mea Culpa (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/jzqjUnKG2liHb1I8LwkduBiMaLW.jpg</fanart>
+		<genre>Crime, Suspense</genre>
+		<date>22.02.20224</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6d2d68756bc9e4925a51b71bf3266e145c51293</link>
+		<info>Uma advogada criminalista aceita o caso de um artista acusado de assassinato, mas agora ela precisa escolher entre família, dever e seus próprios desejos.</info>
+	</item>
+	<item>
+		<title>Através da Minha Janela 3: Olhos nos Olhos (2024)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nxCPqvBGeiBU1IOK7LbReAyVQQ7.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/iWzu3dVJGNfQUkLfK9xpTWoi5mh.jpg</fanart>
+		<genre>Romance, Drama, Comédia</genre>
+		<date>23.02.2024</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:671622e2a47c6fe553fea7c65d1de17f27445729</link>
+		<info>Raquel e Ares não se esquecem um do outro, mesmo estando com pessoas novas. Será que eles vão superar a pressão familiar e ficar juntos no capítulo final da trilogia?</info>
+	</item>
+	<item>
+		<title>Quem Chamou o Charlie? (2023)</title>
+		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4c6jDBA2SVoPkfIjqzOOPpi348G.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/q6K5STh7XeV2CSKcKMMWJsuLeOR.jpg</fanart>
+		<genre>Comedia</genre>
+		<date>03.03.2023</date>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16772814ea1388df80fe80f69cab9efe5fa69775</link>
+		<info>Phil e sua família buscam nos Hamptons um refúgio para escapar da pandemia, mas sua paz logo termina com a chegada do espalhafatoso Charlie, um ex-colega de faculdade que conhece um lado de Phil que pode ser revelador e sanador para todos.</info>
+	</item>
+<item>
 		<title>Lights Out (2024)</title>
 		<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/usDIBB0hOqLM8wMSGistfqxjukZ.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg</fanart>
