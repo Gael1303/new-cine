@@ -12,13 +12,13 @@
         <items>
             <item>
                 <title>A Freira</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0500fbcb24d1ba01838d3f54815f4b4d6286998</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=e0500fbcb24d1ba01838d3f54815f4b4d6286998</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d998jmbM0AQ9Ad138Mz0N9CdnOU.jpg</thumbnail>
                 <genre>Terror, Mistério, Thriller</genre>
             </item>
             <item>
                 <title>A Freira 2</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39db6bb3bada15e9958228a6f6a8fd924a6d2856</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=39db6bb3bada15e9958228a6f6a8fd924a6d2856</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg</thumbnail>
                 <genre>Terror, Mistério, Thriller</genre>
             </item>
@@ -35,31 +35,31 @@
         <items>
             <item>
                 <title>Sobrenatural (2011) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed27821ba0d3929ce67f8ff2a6ae2e6e22c1b981</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=ed27821ba0d3929ce67f8ff2a6ae2e6e22c1b981</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2L8fErMpGD4s81VtWwspeyHYdiI.jpg</thumbnail>
                 <genre>Terror, Suspense, Mistério</genre>
             </item>
             <item>
                 <title>Sobrenatural: Capítulo 2 (2013) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e07e512572fc912984a6d8039c4c08b2c090ef1d</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=e07e512572fc912984a6d8039c4c08b2c090ef1d</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9L8Ar7ayazSXPNLNxiaVWOCjzrf.jpg</thumbnail>
                 <genre>Terror, Suspense, Mistério</genre>
             </item>
 			<item>
                 <title>Sobrenatural: A Origem (2015) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab9ade1d7df6a0aa670ef89071b3a4c9444e7ba1</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=ab9ade1d7df6a0aa670ef89071b3a4c9444e7ba1</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yZXbaDPmc8qT4vLQSnf4LAPv1J.jpg</thumbnail>
                 <genre>Terror, Suspense, Mistério</genre>
             </item>
             <item>
                 <title>Sobrenatural: A Última Chave (2018) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64532d503a58d6d871fd8f5792daf6d722349284</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=64532d503a58d6d871fd8f5792daf6d722349284</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3RYZGwImjBUF18RV57J5QuOa31.jpg</thumbnail>
                 <genre>Terror, Suspense, Mistério</genre>
             </item>
 			<item>
                 <title>Sobrenatural: A Porta Vermelha (2023) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d26e49e3e9a46b6ace6f949ac7f5c38cfaf9cdc</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=2d26e49e3e9a46b6ace6f949ac7f5c38cfaf9cdc</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg</thumbnail>
                 <genre>Terror, Suspense, Mistério</genre>
             </item>
@@ -76,37 +76,37 @@
         <items>
             <item>
                 <title>Pânico (1996) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5293c765929fdf7301d23be43faa5cca65ab054b</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=5293c765929fdf7301d23be43faa5cca65ab054b</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/29We1MLNidfXrwkZe390frjnOns.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime, Mistério</genre>
             </item>
             <item>
                 <title>Pânico 2 (1997) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f2bcbaae7582cd51534bb4d2578a18e7044e007</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=3f2bcbaae7582cd51534bb4d2578a18e7044e007</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/eVRtAUUefZ7YmDxlre7Oew3s8gs.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime, Mistério</genre>
             </item>
 			<item>
                 <title>Pânico 3 (2000) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d480725206d9de9a7bfd42b94ed45a8f342068f</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=5d480725206d9de9a7bfd42b94ed45a8f342068f</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/dCp1c7hf16kJtVJ0BLoyDhLqRVG.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime, Mistério</genre>
             </item>
             <item>
                 <title>Pânico 4 (2011) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4b4711e1be20b157ec5635e1ca56353a30e2ba7</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=d4b4711e1be20b157ec5635e1ca56353a30e2ba7</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/qqqE8jR2bzZldtW5lJwKhHMxkx0.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime, Mistério</genre>
             </item>
 			<item>
                 <title>Pânico V (2022) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d40ee8e9c947ae804289ca1b81d51f425bdacd2</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=4d40ee8e9c947ae804289ca1b81d51f425bdacd2</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oadFpqhJ26yxqIlYcGioZ2W3EHN.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime, Mistério</genre>
             </item>
             <item>
                 <title>Pânico VI (2023) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb7b5f4f18023bf37978ed030476b2afc81fd892</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=bb7b5f4f18023bf37978ed030476b2afc81fd892</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime, Mistério</genre>
             </item>
@@ -123,19 +123,19 @@
         <items>
             <item>
                 <title>Invocação do Mal (2013) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0032160ab449f818890de403d61f29fa495e27d4</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=0032160ab449f818890de403d61f29fa495e27d4</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg</thumbnail>
                 <genre>Terror, Thriller</genre>
             </item>
             <item>
                 <title>Invocação do Mal 2 (2016) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c09482bc85b6615b3c8bc3ec3d8fd56fa5360392</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=c09482bc85b6615b3c8bc3ec3d8fd56fa5360392</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o94LZsIKt0priAca7hoN4yz7a1d.jpg</thumbnail>
                 <genre>Terror, Thriller</genre>
             </item>
 			<item>
                 <title>Invocação do Mal 3: A Ordem do Demônio (2021) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7757081feb5f801552d2048fcb1f81b83d5d08a4</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=7757081feb5f801552d2048fcb1f81b83d5d08a4</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg</thumbnail>
                 <genre>Terror, Thriller</genre>
             </item>
@@ -152,13 +152,13 @@
         <items>
             <item>
                 <title>Um Lugar Silencioso (2018) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3248a7c86c4f501dc8ac12126ceee8249dd4240b</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=3248a7c86c4f501dc8ac12126ceee8249dd4240b</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tH0YRWQciL1pkwnLR7cZ7xSh7oA.jpg</thumbnail>
                 <genre>Terror, Drama, Ficção científica</genre>
             </item>
             <item>
                 <title>Um Lugar Silencioso - Parte II (2021) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55bed34cd84e9f6b6a14ad3964fa0744dbfbb79a</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=55bed34cd84e9f6b6a14ad3964fa0744dbfbb79a</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wYqmuxd9jNFLf3gtQY5vbAUgiGk.jpg</thumbnail>
                 <genre>Terror, Drama, Ficção científica</genre>
             </item>
@@ -175,49 +175,49 @@
         <items>
             <item>
                 <title>Jogos Mortais (2004) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:146459d816a158ed09a227fc4a650e6fdb8f1361</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=146459d816a158ed09a227fc4a650e6fdb8f1361</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/7EPDYnjcy4cP4Ldy3qFApySOdNh.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime</genre>
             </item>
             <item>
                 <title>Jogos Mortais 2 (2005) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38b463f89156a539aab42d7ea9865d637eaadebc</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=38b463f89156a539aab42d7ea9865d637eaadebc</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/kkQWU1hjgkqbWqFo6Vfu2V4Qm9f.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime</genre>
             </item>
 			<item>
                 <title>Jogos Mortais III (2006) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:664be3625e7a82abae23186129355b9c623e34dd</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=664be3625e7a82abae23186129355b9c623e34dd</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/xRTqYZ9X3NaziNFZhFB5GLK5van.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime</genre>
             </item>
             <item>
                 <title>Jogos Mortais IV (2007) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d8278ed2a595f42eba6d91c34f777baed6c3fff</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=6d8278ed2a595f42eba6d91c34f777baed6c3fff</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/tTkGTdQlXDYcavpdlaG3SqFcWJv.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime</genre>
             </item>
 			<item>
                 <title>Jogos Mortais 5 (2009) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d99dc195c7183378baeaf6e3bc9ac2591ba9cd4b</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=d99dc195c7183378baeaf6e3bc9ac2591ba9cd4b</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/8gm3biZ9S1VYN87nyfVzJinnMyG.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime</genre>
             </item>
             <item>
                 <title>Jogos Mortais 6 (2009) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32acbc1285854684336ce30cc1c51a87fff9a92b</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=32acbc1285854684336ce30cc1c51a87fff9a92b</link>
                 <thumbnail>https://brutotorrent.com/capas/jogos-mortais-6-download-torrent-2009-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime</genre>
             </item>
 			<item>
                 <title>Jogos Mortais - O Final (2010) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:928f2e5937f39159c2dbc8d15f605c3ef6974838</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=928f2e5937f39159c2dbc8d15f605c3ef6974838</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/xCdUTCowPiVmBrX4ygh3tbNtpGB.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime</genre>
             </item>
             <item>
                 <title>Jogos Mortais Jigsaw (2017) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33685fd371a1d99d750fc35a348dd0011888dd09</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=33685fd371a1d99d750fc35a348dd0011888dd09</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/vVgUwFPKHlNpChH0mOruuohuifr.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime</genre>
             </item>
@@ -229,7 +229,7 @@
             </item>
             <item>
                 <title>Jogos Mortais X (2023) (Legendado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2644e954d1c4d53341908db57dfb625d41c75c0</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=e2644e954d1c4d53341908db57dfb625d41c75c0</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg</thumbnail>
                 <genre>Terror, Suspense, Crime</genre>
             </item>
@@ -245,13 +245,13 @@
         <items>
 		<item>
                 <title>Cemitério Maldito (2019) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:765351abe3664f7baa2fafcc030d0ae74157fcac</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=765351abe3664f7baa2fafcc030d0ae74157fcac</link>
                 <thumbnail>https://3.bp.blogspot.com/-t4IiUI50SaU/XNMUhotO77I/AAAAAAAAXGA/BHheD_yE_vEKNw0CC-K31AM6CJxaUi0tgCLcBGAs/s1600/Cemiterio%2BMaldito%2B2019.jpg</thumbnail>
                 <genre>Terror</genre>
             </item>
             <item>  
 			<title>Cemitério Maldito: A Origem (2023) (Dublado)</title>  
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e17b4d2dee6afc74d3fd476085eda05a40c6226</link>
+        <link>plugin://plugin.video.jacktorr/play_magnet?magnet=8e17b4d2dee6afc74d3fd476085eda05a40c6226</link>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg</thumbnail>  
 		<genre>Terror</genre> 
         </item>
@@ -268,13 +268,13 @@
         <items>
             <item>
                 <title>It: A Coisa (2017) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:846c3072fd4beadccde38d03bc1f9e410c5e20f6</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=846c3072fd4beadccde38d03bc1f9e410c5e20f6</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg</thumbnail>
                 <genre>Fantasia, Terror</genre>
             </item>
             <item>
                 <title>IT: Capítulo Dois (2019) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b3bd9532897ec9df6b9dd22bcc23403cc826192</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=9b3bd9532897ec9df6b9dd22bcc23403cc826192</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zuWsC0Ds9Dd4za5dvJrwK6Rrvgn.jpg</thumbnail>
                 <genre>Fantasia, Terror</genre>
             </item>
@@ -290,19 +290,19 @@
         <items>
             <item>
                 <title>Rua do Medo: 1994 - Parte 1 (2021) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f374e3b2ce287bc1673ed53bac29b23effd338af</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=f374e3b2ce287bc1673ed53bac29b23effd338af</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIABUqs2kfFBDa10l2tFxTIKZMH.jpg</thumbnail>
                 <genre>Terror, Misterio</genre>
             </item>
             <item>
                 <title>Rua do Medo: 1978 - Parte 2 (2021) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b3994624541a96451cca123cae5d7c94373f01b</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=8b3994624541a96451cca123cae5d7c94373f01b</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uicSprflqrrhWykOuJjHQ9lSLJ1.jpg</thumbnail>
                 <genre>Terror, Misterio</genre>
             </item>
 			<item>
                 <title>Rua do Medo: 1666 – Parte 3 (2021) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b25928e3964c92a4969f59226256ac87cb368301</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=b25928e3964c92a4969f59226256ac87cb368301</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hsX1vt168fNSMSYwTVi8M9O0hLu.jpg</thumbnail>
                 <genre>Terror, Misterio</genre>
             </item>
@@ -318,43 +318,43 @@
         <items>
             <item>
                 <title>Atividade Paranormal (2009) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65c89b1812934103e538c5702666d9bcb484f0bc</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=65c89b1812934103e538c5702666d9bcb484f0bc</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jV5eAsOTf7zsL4glY51gTW6Vb05.jpg</thumbnail>
                 <genre>Terror, Suspense, Misterio</genre>
             </item>
 			<item>
                 <title>Atividade Paranormal 2 (2010) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0318972cc8a4db13e394ac00bc03979ec6d51664</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=0318972cc8a4db13e394ac00bc03979ec6d51664</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f5HB4qTAXaJChd17gatZjx7RgzH.jpg</thumbnail>
                 <genre>Terror, Suspense, Misterio</genre>
             </item>
 			<item>
                 <title>Atividade Paranormal 3 (2011) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:956160af6b41d4a25f4f54106bde14ffc0e384bd</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=956160af6b41d4a25f4f54106bde14ffc0e384bd</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iwscDaCliM8SbLNJYogjRbuzdCB.jpg</thumbnail>
                 <genre>Terror, Suspense, Misterio</genre>
             </item>
 			<item>
                 <title>Atividade Paranormal 4 (2012) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:865ff6d1e6f5fea244572a07b1ad8c7575e23d07</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=865ff6d1e6f5fea244572a07b1ad8c7575e23d07</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gwsUPIYTHYZ3fv20Py7TkdMSCxQ.jpg</thumbnail>
                 <genre>Terror, Suspense, Misterio</genre>
             </item>
 			<item>
                 <title>Atividade Paranormal: Marcados Pelo Mal (2014) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74accb180fbc1f7f6e5c43d70063eb2bb20670d5</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=74accb180fbc1f7f6e5c43d70063eb2bb20670d5</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r8IqmVSFxk5NSDToMDr6lP2UyrO.jpg</thumbnail>
                 <genre>Terror, Suspense, Misterio</genre>
             </item>
 			<item>
                 <title>Atividade Paranormal: Dimensão Fantasma (2015) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:246bd4325ad72658d92fc50673897e8f8c58ee37</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=246bd4325ad72658d92fc50673897e8f8c58ee37</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUV4um31NFMyZwwpm6dEmd3RVON.jpg</thumbnail>
                 <genre>Terror, Suspense, Misterio</genre>
             </item>
 			<item>
                 <title>Atividade Paranormal: Ente Próximo (2021) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40016024f729874f85fa90c5a20fbbb638b14f98</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=40016024f729874f85fa90c5a20fbbb638b14f98</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iFj811q3NMMlvvuuyILegttemJQ.jpg</thumbnail>
                 <genre>Terror, Suspense, Misterio</genre>
             </item>            
@@ -370,13 +370,13 @@
         <items>
             <item>
                 <title>A Entidade (2012) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2312748de8eff5f648d0d01a2aca8b95f132288</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=d2312748de8eff5f648d0d01a2aca8b95f132288</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9FPx4MdIPsmbkXM0W1f23u1aoIC.jpg</thumbnail>
                 <genre>Terror, Suspense, Misterio</genre>
             </item>
             <item>
                 <title>A Entidade 2 (2015) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:045f9f93079b3ec864432d0dcd196601015181e9</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=045f9f93079b3ec864432d0dcd196601015181e9</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1nKrDcCzDG5LLamYb3dWWenE92L.jpg</thumbnail>
                 <genre>Terror, Suspense, Misterio</genre>
             </item>
@@ -394,25 +394,25 @@
         <items>
             <item>
                 <title>O Chamado (2003) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d459e5bf2dec478c1c8a804e3853d20ea998d513</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=d459e5bf2dec478c1c8a804e3853d20ea998d513</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/rHTUfJE1y7XGU3hk6l3W5rQnku1.jpg</thumbnail>
                 <genre>Terror, Mistério</genre>
             </item>
             <item>
                 <title>O Chamado 2 (2005) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69e356624b30f7bf27cfac86545a60f5e442d440</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=69e356624b30f7bf27cfac86545a60f5e442d440</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tRAMi4baz87h6k4o9EgAmi3dOw9.jpg</thumbnail>
                 <genre>Terror, Mistério</genre>
             </item>
 			<item>
                 <title>O Chamado 3 (2017) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76ac5fe4a60f2d25f965c76ea4a19f4bc6537381</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=76ac5fe4a60f2d25f965c76ea4a19f4bc6537381</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvsh3qYE2TVhjlQFYV7o13jTAvr.jpg</thumbnail>
                 <genre>Terror, Mistério</genre>
             </item>
 			<item>
                 <title>O Chamado 4: Samara Ressurge (2022) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e7aa80dd9c8c05498cdf90a81f223cba7a4ed21</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=0e7aa80dd9c8c05498cdf90a81f223cba7a4ed21</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7IlDfL40rIe1bVERCxXUJJfx2en.jpg</thumbnail>
                 <genre>Terror, Mistério</genre>
             </item>
@@ -429,25 +429,25 @@
         <items>
             <item>
                 <title>John Wick: De Volta ao Jogo (2014) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=29dec5ec6302c8521a394a193bfdc3f68d2d8459</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
                 <genre>Ação, Suspense, Crime</genre>
             </item>
             <item>
                 <title>John Wick 2: Um Novo Dia para Matar (2017) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b0501ccf9162ef8095d6da69133e63028924641</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=9b0501ccf9162ef8095d6da69133e63028924641</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kRAHy9CQnNT16vTvtJtu9pRgjEG.jpg</thumbnail>
                 <genre>Ação, Suspense, Crime</genre>
             </item>
 			<item>
                 <title>John Wick 3: Parabellum (2019) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f564d1711f5817589a5c7e8ced467f65b9a1d93f</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=f564d1711f5817589a5c7e8ced467f65b9a1d93f</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mTzREVpVUvVCiVU1znu8dbbb4MB.jpg</thumbnail>
                 <genre>Ação, Suspense, Crime</genre>
             </item>
 			<item>
                 <title>John Wick 4: Baba Yaga (2023) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:655e12bc64229f2345be2258a8080142ba460d68</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=655e12bc64229f2345be2258a8080142ba460d68</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg</thumbnail>
                 <genre>Ação, Suspense, Crime</genre>
             </item>
@@ -465,49 +465,49 @@
 	<items>
 		<item>
 			<title>Harry Potter e a Pedra Filosofal (2001) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35e3e1b9172d374e7a63a0f2efdc9002a4a090c9</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=35e3e1b9172d374e7a63a0f2efdc9002a4a090c9</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/qnw9610ojLT0jU3lMSZOAFttt1e.jpg</thumbnail>
 			<genre>Aventura, Fantasia</genre>
 		</item>
 		<item>
 			<title>Harry Potter e a Camara secreta (2002) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba794413620f255a6848e0d4c160cde11f61a66c</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=ba794413620f255a6848e0d4c160cde11f61a66c</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg</thumbnail>
 			<genre>Aventura, Fantasia</genre>
 		</item>
 		<item>
 			<title>Harry Potter e o Prisioneiro de Azkaban (2004) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a82abdd7f9305db077205845147af9bfcd7f3c2</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9a82abdd7f9305db077205845147af9bfcd7f3c2</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg</thumbnail>
 			<genre>Aventura, Fantasia</genre>
 		</item>
 		<item>
 			<title>Harry Potter e o Calice de fogo (2005) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecfc8bcc9db3842414670d22e8295da6c1de734d</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=ecfc8bcc9db3842414670d22e8295da6c1de734d</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg</thumbnail>
 			<genre>Aventura, Fantasia</genre>
 		</item>
 		<item>
 			<title>Harry Potter e a Ordem da Fenix (2007) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd3d6f1825a2df0ea7ee3f47e49dcd4c4c270e85</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=fd3d6f1825a2df0ea7ee3f47e49dcd4c4c270e85</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg</thumbnail>
 			<genre>Aventura, Fantasia</genre>
 		</item>
 		<item>
 			<title>Harry Potter e o Enigma do Principe (2009) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce90fa26268ee182297d57ad89a363311c5b9390</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=ce90fa26268ee182297d57ad89a363311c5b9390</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg</thumbnail>
 			<genre>Aventura, Fantasia</genre>
 		</item>
 		<item>
 			<title>Harry Potter e as Reliquias da Morte: Parte I (2010) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab7f93b6fac7e050bd4e5799e1a332cdc88b3cbc</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=ab7f93b6fac7e050bd4e5799e1a332cdc88b3cbc</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/67FVFOTaeBUQnimhCWpUkDawDct.jpg</thumbnail>
 			<genre>Aventura, Fantasia</genre>
 		</item>
 		<item>
 			<title>Harry Potter e as Reliquias da Morte: Parte II (2011) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b9e85562e7ee53834da11117e49d36b91ed916d</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=5b9e85562e7ee53834da11117e49d36b91ed916d</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg</thumbnail>
 			<genre>Aventura, Fantasia</genre>
 		</item>
@@ -524,25 +524,25 @@
         <items>
             <item>
                 <title>Jogos Vorazes (2012) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:015380b6afa40fde80c73e58591dbcf6804cadc1</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=015380b6afa40fde80c73e58591dbcf6804cadc1</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l6jn53LMu07uPt8A42JWIKi1Beb.jpg</thumbnail>
                 <genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
             </item>
             <item>
                 <title>Jogos Vorazes: Em Chamas (2013) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a00db3ae122ce1ca081c43881a271ab66cbe9512</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=a00db3ae122ce1ca081c43881a271ab66cbe9512</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m1lky5ftnhLRpkoYWKssH8qvlRU.jpg</thumbnail>
                 <genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
             </item>
 			<item>
                 <title>Jogos Vorazes: A Esperança - Parte 1 (2014) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:baa1a76ca1eae1227410381083c66145ae141fc3</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=baa1a76ca1eae1227410381083c66145ae141fc3</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hekpVNWOROZm57RS4OLW0ySkxx9.jpg</thumbnail>
                 <genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
             </item>
 			<item>
                 <title>Jogos Vorazes: A Esperança - O Final (2015) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8796d6e9ba595c7ca9ae0634bd5c2400eae803c</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=d8796d6e9ba595c7ca9ae0634bd5c2400eae803c</link>
                 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5KSQkozSelQj6bq8NCKtINvsSSj.jpg</thumbnail>
                 <genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
             </item>
@@ -558,25 +558,25 @@
         <items>
             <item>
                 <title>Shrek (2001) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05968ec30ded898b9a843975df9a192418a16ecf</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=05968ec30ded898b9a843975df9a192418a16ecf</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/o04jZs5SXhbvhqO4981W7KJXOWZ.jpg</thumbnail>
                 <genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
             </item>
 			<item>
                 <title>Shrek 2 (2004) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b551f0c2eb11e1e20ec73ea821a027d67171a3cd</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=b551f0c2eb11e1e20ec73ea821a027d67171a3cd</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/2SwrbqS8Tv40bHx4AGYpNJX1xDW.jpg</thumbnail>
                 <genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
             </item>
 			<item>
                 <title>Shrek Terceiro (2007) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9abaa66e56a6de58dd969c6d822d3c62dfc03b4d</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=9abaa66e56a6de58dd969c6d822d3c62dfc03b4d</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg</thumbnail>
                 <genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
             </item>
 			<item>
                 <title>Shrek Para Sempre: O Capítulo Final (2010) (Dublado)</title>
-                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ca626440a21f3b5400e24b6bf3a50330692e4e6</link>
+                <link>plugin://plugin.video.jacktorr/play_magnet?magnet=7ca626440a21f3b5400e24b6bf3a50330692e4e6</link>
                 <thumbnail>https://image.tmdb.org/t/p/w342/wQ1vzJuKui9btHYqzn4ZEFwth2w.jpg</thumbnail>
                 <genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
             </item>
@@ -595,25 +595,25 @@
 	<items>
 		<item>
 			<title>Toy Story: Um Mundo de Aventuras (1995) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54cc2900a3b0d6893068cbe61e57a01dc8054e00</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=54cc2900a3b0d6893068cbe61e57a01dc8054e00</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/8j4Hrbm0wpBLXZTvsWf83pk4moV.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
 		</item>
 		<item>
 			<title>Toy Story 2 (1999) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4aaaf212fe98a0aac932f71c390baea8a8fcaf7</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=e4aaaf212fe98a0aac932f71c390baea8a8fcaf7</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/wxvFpBEBJkvZS9EHLpaLsc1tDKs.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
 		</item>
 		<item>
 			<title>Toy Story 3 (2010) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a4fd8fa80f0925d73891ccfe7e4bcf6be438200</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9a4fd8fa80f0925d73891ccfe7e4bcf6be438200</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/amY0NH1ksd9xJ9boXAMmods6U0D.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
 		</item>
 		<item>
 			<title>Toy Story 4 (2019) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:014df1aba3b3ebe683ac80c4b39636c038b7e8a6</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=014df1aba3b3ebe683ac80c4b39636c038b7e8a6</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/AkrRD3Lnwb82Stu2SpDKAerK6O2.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Animação, Comédia, Família</genre>
 		</item>
@@ -631,19 +631,19 @@
 	<items>
 		<item>
 			<title>Kung Fu Panda (2008) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45b01488ee1500450d673a3610ca1f69ac8eca1a</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=45b01488ee1500450d673a3610ca1f69ac8eca1a</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg</thumbnail>
 			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
 		</item>
 		<item>
 			<title>Kung Fu Panda 2 (2011) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78c40f183a0d579c359742f2f86721e5c208ab07</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=78c40f183a0d579c359742f2f86721e5c208ab07</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/oDoxqekgain7WEHjoBN8BZIY6dY.jpg</thumbnail>
 			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
 		</item>
 		<item>
 			<title>Kung Fu Panda 3 (2016) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8c780bc1a747724badbaab385ad43c51fa6db10</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c8c780bc1a747724badbaab385ad43c51fa6db10</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/pXYJjUNtnLfXVKGmqi1nfGornri.jpg</thumbnail>
 			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
 		</item>
@@ -660,7 +660,7 @@
 	<items>
 		<item>
 			<title>007 James Bond: Coleção - Completa (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dTxLAJftBBCI28QfS7aN23hhyex.jpg</thumbnail>
 			<genre>Adventure, Drama, Action, Thriller, Crime, Science Fiction</genre>
 		</item>
@@ -677,25 +677,25 @@
 	<items>
 		<item>
 			<title>MIB - Homens de Preto (1997) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf7ce7ce589b29ac82432881e38f89b9b2e48e39</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=cf7ce7ce589b29ac82432881e38f89b9b2e48e39</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/jNailYxoCT6L2DDBFNz7kNCULhG.jpg</thumbnail>
 			<genre>Adventure, Action, Comedy, Science Fiction</genre>
 		</item>
 		<item>
 			<title>MIB - Homens de Preto II (2002) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:719e2f826cfb53199d0a790a40b3465d7cf0acc9</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=719e2f826cfb53199d0a790a40b3465d7cf0acc9</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/1zoknLsDO3M3aYLzfs3wIvXDTfC.jpg</thumbnail>
 			<genre>Adventure, Action, Comedy, Science Fiction</genre>
 		</item>
 		<item>
 			<title>MIB - Homens de Preto III (2012) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a14ebe5a73ad46e43ada78e6716096074827838</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=0a14ebe5a73ad46e43ada78e6716096074827838</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/g3DyE2sU4Xr14XR1ZXirCn2lt7e.jpg</thumbnail>
 			<genre>Adventure, Action, Comedy, Science Fiction</genre>
 		</item>
 		<item>
 			<title>MIB Homens de Preto: Internacional (2019) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba2eec627a88642c1f05218af02b92c8b1de35ef</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=ba2eec627a88642c1f05218af02b92c8b1de35ef</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg</thumbnail>
 			<genre>Adventure, Action, Comedy, Science Fiction</genre>
 		</item>
@@ -712,19 +712,19 @@
 	<items>
 		<item>
 			<title>Batman Begins (2005) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdb6c2756149a63ed357382f07aa1148eeebbe89</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=bdb6c2756149a63ed357382f07aa1148eeebbe89</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg</thumbnail>
 			<genre>Drama, Action, Thriller, Crime</genre>
 		</item>
 		<item>
 			<title>Batman: O Cavaleiro das Trevas (2008) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9afedf42bef3dd8d990309ea84d3a7c583bbda1</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=e9afedf42bef3dd8d990309ea84d3a7c583bbda1</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pGq8oYx466sSukN3LUv0httsxQa.jpg</thumbnail>
 			<genre>Drama, Action, Thriller, Crime</genre>
 		</item>
 		<item>
 			<title>Batman: O Cavaleiro das Trevas Ressurge (2012) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ad8e85fd5b276f142614c696492901ac38450bf</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7ad8e85fd5b276f142614c696492901ac38450bf</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zRwO5BPPgkTNo1PoomZPE7wkKvQ.jpg</thumbnail>
 			<genre>Drama, Action, Thriller, Crime</genre>
 		</item>
@@ -744,37 +744,37 @@
 	<items>
 		<item>
 			<title>O Exterminador do Futuro (1985) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:337a7c112702669ce506cd1856c60426ffeb4696</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=337a7c112702669ce506cd1856c60426ffeb4696</link>
             <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iHVDy91mpqUbUDdG6hfyniFQPx4.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>>O Exterminador do Futuro 2: O Julgamento Final (1991) (Dublado)</title>
 			<thumbnail>https://image.tmdb.org/t/p/w342/3TozsOOvgppyDQPVPQntmJhviRF.jpg</thumbnail>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a74d828b27cd365e4a80bae1cf8fde591f4ffcde</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=a74d828b27cd365e4a80bae1cf8fde591f4ffcde</link>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>O Exterminador do Futuro 3: A Rebeliao das Maquinas (2003) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d972c709ca21ee18731f354493af921cf7a938c</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9d972c709ca21ee18731f354493af921cf7a938c</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lzzuKhx8Ly6SZa8LxkT5Fvouc5z.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>O Exterminador do Futuro: A Salvaçao (2009) (Dublado)</title>
 			<thumbnail>https://image.tmdb.org/t/p/w342/tNKoEs9ovTLpJURT9WKJASUDktM.jpg</thumbnail>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55d006e6efa123c1f1759672027d2c601cf7f8e0</link> 
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=55d006e6efa123c1f1759672027d2c601cf7f8e0</link> 
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>O Exterminador do Futuro: Genesis (2015) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1dc9eba5842d9878d10f7ca7d86d63bc8ec008e</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f1dc9eba5842d9878d10f7ca7d86d63bc8ec008e</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/utLd6J4Gn38YynSS0kB0ZXRDFWK.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>O Exterminador do Futuro: Destino Sombrio (2019) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a3e0a6f4bf91d2c9386f330760748fc63d2ef94</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=0a3e0a6f4bf91d2c9386f330760748fc63d2ef94</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/14595EXiEksBAJzhqwJCGacRc2S.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
@@ -792,37 +792,37 @@
 	<items>
 		<item>
 			<title>Jurassic Park: O Parque dos Dinossauros (1993) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45c9ac5e84b31935930b1ad869e5d750d01f4daa</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=45c9ac5e84b31935930b1ad869e5d750d01f4daa</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/9VykXSE6qpRE7DD3LKOmG4oitc7.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>O Mundo Perdido: Jurassic Park (1997) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70b1ac0fd408735b2895ad378b7d5b991b66654c</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=70b1ac0fd408735b2895ad378b7d5b991b66654c</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/bgxdK2eFyXpFBhUYDXrJKvQFZkB.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Jurassic Park 3 (2001) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8404921557797d3115af79f3d6808c9a13092c1</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=d8404921557797d3115af79f3d6808c9a13092c1</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/xpS4DbBVfu9WsQqzoSa81hOt4mu.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Jurassic World: O Mundo dos Dinossauros (2015) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4609bf989c539b06541014acca912943b8b5c05</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=b4609bf989c539b06541014acca912943b8b5c05</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/stg9saQsfZdyrhXJRmwmZmcooNS.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Jurassic World: Reino Ameaçado (2018) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7941ad862eb6c7d296292c2fcb63585f21de382d</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7941ad862eb6c7d296292c2fcb63585f21de382d</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/b3CuByY3v7qz9aq4rayIMeAMemy.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Jurassic World: Domínio (2022) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d301ccb078b82ca01ec35ce1388cd1f41ed9821</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6d301ccb078b82ca01ec35ce1388cd1f41ed9821</link>
 			<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje93wUvBE4c6DpRrcbE3l3OZUFJPI3tnOTnN4WWOrGb1v2HfncS0vhcMaBYtzPaVYNG-NIxvOxaps7Jx-2NOLv-XBpID85EWb4nRVwP5SGmTxjHNQ4M7V73lnKCBrYygL2eNapzh5f5tpzyb-1X23dbxHsH7ic4c3LcfAgnBfiMg901eWJ7MyQoXcZsw/s350/Jurassic%20World%20-%20Dom%C3%ADnio.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
@@ -839,25 +839,25 @@
 	<items>
 		<item>
 			<title>Matrix (1999) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26fa43a4ccca61d8f7cf96a106d7fe1801aed9c2</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=26fa43a4ccca61d8f7cf96a106d7fe1801aed9c2</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Matrix Reloaded (2003) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e20368c163a5b597da05d68d63b16c519e8b97b</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=2e20368c163a5b597da05d68d63b16c519e8b97b</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTGg4gT6yBAxm6bskTkOjdRsbit.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Matrix Revolutions (2003) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:172863ab4080c8c2538da526b2e1d37c4f4d129f</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=172863ab4080c8c2538da526b2e1d37c4f4d129f</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xPsnWYgtHPghlF2p8maWWuXoMQN.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Matrix Resurrections (2021) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0edfffb8ec007792fef641143e44c9e129a74c2</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=a0edfffb8ec007792fef641143e44c9e129a74c2</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8c4a8kE7PizaGQQnditMmI1xbRp.jpg</thumbnail>
 			<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
 		</item>
@@ -874,19 +874,19 @@
 	<items>
 		<item>
 			<title>Maze Runner: Correr ou Morrer (2014) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5abc2a0b84d3c19b7e0a9f296fa9525f29ed672e</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=5abc2a0b84d3c19b7e0a9f296fa9525f29ed672e</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHnRw9Kccevck2KdmzJ8Xf7zczM.jpg</thumbnail>
 			<genre>Ação, Mistério, Ficção científica, Thriller</genre>
 		</item>
 		<item>
 			<title>Maze Runner: Prova de Fogo (2015) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cef6ce36bf354620ba0ee84d74b587dc770c52c5</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=cef6ce36bf354620ba0ee84d74b587dc770c52c5</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zpdGT57Rn3mAZsNOkeDeINB6L9v.jpg</thumbnail>
 			<genre>Ação, Mistério, Ficção científica, Thriller</genre>
 		</item>
 		<item>
 			<title>Maze Runner: A Cura Mortal (2018) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cae0f8aa154bfaaf95ff4464b6914920ff14543</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=0cae0f8aa154bfaaf95ff4464b6914920ff14543</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uBEpWurzTOiz520d1tRNhBXN7h9.jpg</thumbnail>
 			<genre>Ação, Mistério, Ficção científica, Thriller</genre>
 		</item>
@@ -903,19 +903,19 @@
 	<items>
 		<item>
 			<title>Meu Malvado Favorito (2010) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f18d6a111fdac2a79d049a8375f7a141aaba8ac7</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f18d6a111fdac2a79d049a8375f7a141aaba8ac7</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/t9lOz6ixGp61Or6hPPorc0dyDaX.jpg</thumbnail>
 			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
 		</item>
 		<item>
 			<title>Meu Malvado Favorito 2 (2013) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2a3ddb6f7b1ee5aa4b2ea56a3e9f30bec4abf95</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=b2a3ddb6f7b1ee5aa4b2ea56a3e9f30bec4abf95</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/7mYMq6OQyum1wAiUI7i6w78YKEO.jpg</thumbnail>
 			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
 		</item>
 		<item>
 			<title>Meu Malvado Favorito 3 (2017) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:658efefceb068182c13fa2f78bdd43efc32a85cd</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=658efefceb068182c13fa2f78bdd43efc32a85cd</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/InJSedsAjy5VUYkanrBFGZngI8.jpg</thumbnail>
 			<genre>Aventura, Animação, Ação, Comédia, Família</genre>
 		</item>
@@ -932,19 +932,19 @@
 	<items>
 		<item>
 			<title>Minha Mãe é uma Peça: O Filme (2013) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b9aec8735a5ab408f83a2c7d109be9d010c8491</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=2b9aec8735a5ab408f83a2c7d109be9d010c8491</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/5cF5v8N0wMALMcgEHpBZHyYQZDl.jpg</thumbnail>
 			<genre>Comédia</genre>
 		</item>
 		<item>
 			<title>Minha Mãe é uma Peça 2: O Filme (2016) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc0794e9d6aad4016d2252be80095d99f1fcff91</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=fc0794e9d6aad4016d2252be80095d99f1fcff91</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/eDApDWU6r9zxk9MZLc6rfnBb3vu.jpg</thumbnail>
 			<genre>Comédia</genre>
 		</item>
 		<item>
 			<title>Minha Mãe é uma Peça 3: O Filme (2019) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c82fc7488427544a434c6ce05487f3de43dc8ad</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=2c82fc7488427544a434c6ce05487f3de43dc8ad</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg</thumbnail>
 			<genre>Comédia</genre>
 		</item>
@@ -961,43 +961,43 @@
 	<items>
 		<item>
 			<title>Missão: Impossível (1996) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:182301e9ef59e96a84a32ad67fee3394870543b6</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=182301e9ef59e96a84a32ad67fee3394870543b6</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/70MV8TU1Lxc6vyj8BaEU3HLuU7W.jpg</thumbnail>
 			<genre>Ação, Aventura, Suspense</genre>
 		</item>
 		<item>
 			<title>Missão: Impossível 2 (2000) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e926fbfe072a57477569b86ab8632b03400ed85</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=3e926fbfe072a57477569b86ab8632b03400ed85</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/sT5hbs7rmMk2Edup7Pw9MB02x9G.jpg</thumbnail>
 			<genre>Ação, Aventura, Suspense</genre>
 		</item>
 		<item>
 			<title>Missão: Impossível 3 (2006) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1be1b74dd8b188c3fc201722bf4925ff2e8e45c</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f1be1b74dd8b188c3fc201722bf4925ff2e8e45c</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/ui7TCk3IzsjLcDRkZi08nLFvwRO.jpg</thumbnail>
 			<genre>Ação, Aventura, Suspense</genre>
 		</item>
 		<item>
 			<title>Missão: Impossível - Protocolo Fantasma (2011) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ca8b4380436bff1c82d8c5f284e5d35843414af</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=4ca8b4380436bff1c82d8c5f284e5d35843414af</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/9Odva4vcrL6D7NRhIMlYf8Dg5nC.jpg</thumbnail>
 			<genre>Ação, Aventura, Suspense</genre>
 		</item>
 		<item>
 			<title>Missão: Impossível - Nação Secreta (2015) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b39e8edfb78e0ac0e3ee616b9b4631b961c88a8</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=3b39e8edfb78e0ac0e3ee616b9b4631b961c88a8</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/fxL6ktSUDejDq9Ni6UsoY73DC2I.jpg</thumbnail>
 			<genre>Ação, Aventura, Suspense</genre>
 		</item>
 		<item>
 			<title>Missão: Impossível - Efeito Fallout (2018) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b5c9e8fb4b7cafb9ef15c8a888a4c934449ae27</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=8b5c9e8fb4b7cafb9ef15c8a888a4c934449ae27</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/i273qQubszItr11lQNMFWnYP4J1.jpg</thumbnail>
 			<genre>Ação, Aventura, Suspense</genre>
 		</item>
 		<item>
 			<title>Missão: Impossível - Acerto de Contas Parte 1 (2023) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a6ddf53745d7c105491ae85214a1dd3716b8532</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=9a6ddf53745d7c105491ae85214a1dd3716b8532</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hjno4uE19pm0qlfUDcM8e5WK13.jpg</thumbnail>
 			<genre>Ação, Aventura, Suspense</genre>
 		</item>
@@ -1014,79 +1014,79 @@
 	<items>
 		<item>
 			<title>X-Men: O Filme (2000) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7570ecd328d58f9fe0e978a155a0f18855cea119</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7570ecd328d58f9fe0e978a155a0f18855cea119</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>X-Men 2 (2003) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76783fc30e84c9ac429d10a75a513c643f9579bf</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=76783fc30e84c9ac429d10a75a513c643f9579bf</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>X-Men: O Confronto Final (2006) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68447d96b8a23b57484cb86672f6fdc12167e241</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=68447d96b8a23b57484cb86672f6fdc12167e241</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/fqwe4Asmlg1s3ZFN7fP2xVwlYNP.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>X-Men Origens: Wolverine (2009) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3xjVVXVXWU8qt1umkeTJd8sImBC.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>X-Men: Primeira Classe (2011) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c440557c5a70f72721926cdd692c30026450f635</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c440557c5a70f72721926cdd692c30026450f635</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/4cZWMQUCAYaQk5CzUI6zRLhcWI2.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Wolverine: Imortal (2013) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6609ceb6277733579c7a37b64d143f9c6d27ee85</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=6609ceb6277733579c7a37b64d143f9c6d27ee85</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>X-Men: Dias de um Futuro Esquecido (2104) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56862b42244be962692862b88ee8a9bbde6c7614</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=56862b42244be962692862b88ee8a9bbde6c7614</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Deadpool (2016) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aa5f34b8e73a7bdf34aefde9a4f24559fab8a29</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=2aa5f34b8e73a7bdf34aefde9a4f24559fab8a29</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>X-Men: Apocalipse (2016) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7da5276c2d4a3a19b718541f8f3a4e8de3907e80</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=7da5276c2d4a3a19b718541f8f3a4e8de3907e80</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zt9qpBHGbep96b9oMBG9XWBnEwU.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Logan (2017) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/LocZYoXbAv0sxu2GUnMtdmzf6w.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Deadpool 2 (2018) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dded34cf7cb0ab2a1692c1a6940dbe1333f31f3e</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=dded34cf7cb0ab2a1692c1a6940dbe1333f31f3e</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>X-Men: Fênix Negra (2019) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77f7cc19da0658cf557d38e64c50cdd9e88cbe5d</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=77f7cc19da0658cf557d38e64c50cdd9e88cbe5d</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
 		<item>
 			<title>Os Novos Mutantes (2020) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8038e6b2e9165e9679611830eb93d1a400e44efb</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=8038e6b2e9165e9679611830eb93d1a400e44efb</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6RcWaW43UWIJzhIp6bcmui2efd.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação, Suspense, Ficção Científica</genre>
 		</item>
@@ -1103,19 +1103,19 @@
 	<items>
 		<item>
 			<title>Planeta dos Macacos: A Origem (2011) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44e2c73f1fa53573d175f750308c993d690c7472</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=44e2c73f1fa53573d175f750308c993d690c7472</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qxe4ONZAgtC0mfsIuOyqVU9JREj.jpg</thumbnail>
 			<genre>Drama, Ação, Suspense, Ficção Científica, Guerra</genre>
 		</item>
 		<item>
 			<title>Planeta dos Macacos: O Confronto (2014) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c58004fb19ab3662db748bacad6edf644f5e3b8f</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=c58004fb19ab3662db748bacad6edf644f5e3b8f</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bXgq79IIGE0chngyz0xsK3hWE63.jpg</thumbnail>
 			<genre>Drama, Ação, Suspense, Ficção Científica, Guerra</genre>
 		</item>
 		<item>
 			<title>Planeta dos Macacos: A Guerra (2017) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4abb8e837b1478e3edf94328d66fa72cef46078f</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=4abb8e837b1478e3edf94328d66fa72cef46078f</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n336SuXSxpQkrzWJbSAeWFcKWy4.jpg</thumbnail>
 			<genre>Drama, Ação, Suspense, Ficção Científica, Guerra</genre>
 		</item>		
@@ -1132,19 +1132,19 @@
 	<items>
 		<item>
 			<title>O Senhor dos Anéis: A Sociedade do Anel (2002) (Dublado)</title>
-            <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:938af741966196946865479b6e9dce947edbeeb4</link>
+            <link>plugin://plugin.video.jacktorr/play_magnet?magnet=938af741966196946865479b6e9dce947edbeeb4</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tlvsNCwWEIgwAM23aNzTmMIcPEZ.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação</genre>
 		</item>
 		<item>
 			<title>O Senhor dos Anéis: As Duas Torres (2002) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87b3e89eec36a5d4f19a7acd3991d9c26ec31f06</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=87b3e89eec36a5d4f19a7acd3991d9c26ec31f06</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/20eUL6eN89SM0U7KPDw8iR82mOT.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação</genre>
 		</item>
 		<item>
 			<title>O Senhor dos Anéis: O Retorno do Rei (2003) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26f7e4106b72a0a9a746b313935648a2231fe608</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=26f7e4106b72a0a9a746b313935648a2231fe608</link>
 			<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aMWf3Dir359JzCzxvs7PkWj6ubn.jpg</thumbnail>
 			<genre>Aventura, Fantasia, Ação</genre>
 		</item>
@@ -1161,19 +1161,19 @@
 	<items>
 		<item>
 			<title>Se Beber, Não Case! (2009) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f86bc6ebeb6eb3741a2e3f2fab86a53020cbaa2e</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=f86bc6ebeb6eb3741a2e3f2fab86a53020cbaa2e</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/n4hicUkNOVG8PsuRMhkTs9I4r1J.jpg</thumbnail>
 			<genre>Comédia</genre>
 		</item>
 		<item>
 			<title>Se Beber, Não Case! - Parte II (2011) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4185bced2a43c5a108ba5e24749bb6a454ead442</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=4185bced2a43c5a108ba5e24749bb6a454ead442</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/vdAixXTNFbjUa2nBuHiSUXCaSko.jpg</thumbnail>
 			<genre>Comédia</genre>
 		</item>
 		<item>
 			<title>Se Beber, Não Case! - Parte III (2013) (Dublado)</title>
-			<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:856d530ef275a45e0735ae47169d0d252490df39</link>
+			<link>plugin://plugin.video.jacktorr/play_magnet?magnet=856d530ef275a45e0735ae47169d0d252490df39</link>
 			<thumbnail>https://image.tmdb.org/t/p/w342/lGnOZqws0R2qcDUDp2lOEMxwEYw.jpg</thumbnail>
 			<genre>Comédia</genre>
 		</item>
