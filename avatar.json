@@ -1,0 +1,38 @@
+{
+  "result": {
+    "files": [
+      {
+        "file": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:145e795248b5206137a654e8462e99eb83fb32fc",
+        "label": "Avatar: O Último Mestre do Ar - 1ª Temporada",
+        "thumbnail": "https://image.tmdb.org/t/p/original/u62XtaV8Iski2CgAUM8Yp0ZgKxD.jpg",
+        "fanart": "https://image.tmdb.org/t/p/original/u62XtaV8Iski2CgAUM8Yp0ZgKxD.jpg",
+        "genre": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+        "duration": 22,
+        "plot": "Um garoto conhecido como o Avatar precisa dominar os quatro poderes elementares para salvar um mundo em guerra e enfrentar um inimigo implacável.",
+        "rating": 8.5,
+        "year": 2024,
+        "season": 1,
+        "episode": 1,
+        "dateadded": "22.02.2024",
+        "studio": "Nickelodeon",
+        "mpaa": "PG"
+      },
+      {
+        "file": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:145e795248b5206137a654e8462e99eb83fb32fc",
+        "label": "Avatar: O Último Mestre do Ar - 2ª Temporada",
+        "thumbnail": "https://image.tmdb.org/t/p/original/u62XtaV8Iski2CgAUM8Yp0ZgKxD.jpg",
+        "fanart": "https://image.tmdb.org/t/p/original/u62XtaV8Iski2CgAUM8Yp0ZgKxD.jpg",
+        "genre": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+        "duration": 22,
+        "plot": "O Avatar deve lutar contra os elementos e derrotar o inimigo que ameaça a paz do mundo.",
+        "rating": 9.0,
+        "year": 2024,
+        "season": 2,
+        "episode": 1,
+        "dateadded": "22.02.2024",
+        "studio": "Nickelodeon",
+        "mpaa": "PG"
+      }
+    ]
+  }
+}
